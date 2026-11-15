@@ -1299,11 +1299,14 @@
  },
  {
   "name": "Spring Health",
-  "slug": "springhealth66",
+  "slug": [
+   "springhealth66",
+   "springhealth"
+  ],
   "tags": [
    "healthtech"
   ],
-  "ats": "greenhouse"
+  "note": "corporate jobs not on a public board as of 2026-11-15; covered by LinkedIn alerts"
  },
  {
   "name": "Omada Health",
@@ -1314,10 +1317,11 @@
  },
  {
   "name": "Hinge Health",
-  "slug": "hingehealth",
+  "slug": "hinge-health",
   "tags": [
    "healthtech"
-  ]
+  ],
+  "ats": "ashby"
  },
  {
   "name": "Headway",
