@@ -1,0 +1,26 @@
+name: Fetch jobs
+on:
+  schedule:
+    - cron: "17 11 * * *"   # 4:17am Denver (MST) / 5:17am MDT, before the 6:13am email
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency: fetch-jobs
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python fetch_jobs.py
+      - name: Commit results
+        run: |
+          git config user.name "job-feed-bot"
+          git config user.email "job-feed-bot@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "Job feed $(date -u +%F)"
+          git pull --rebase --autostash || true
+          git push

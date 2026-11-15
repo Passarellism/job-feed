@@ -1,0 +1,1997 @@
+[
+ {
+  "name": "monday.com",
+  "slug": [
+   "mondaycom",
+   "monday"
+  ],
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Vercel",
+  "slug": "vercel",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Stripe",
+  "slug": "stripe",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Plaid",
+  "slug": "plaid",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Ramp",
+  "slug": "ramp",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Brex",
+  "slug": "brex",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Mercury",
+  "slug": "mercury",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Modern Treasury",
+  "slug": "moderntreasury",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Increase",
+  "slug": "increase",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Lithic",
+  "slug": "lithic",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Marqeta",
+  "slug": "marqeta",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Alloy",
+  "slug": "alloy",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Persona",
+  "slug": "persona",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Unit",
+  "slug": "unit",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Treasury Prime",
+  "slug": "treasuryprime",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Synctera",
+  "slug": "synctera",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Column",
+  "slug": "column",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Highnote",
+  "slug": "highnote",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Paddle",
+  "slug": "paddle",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Chargebee",
+  "slug": "chargebee",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Maxio",
+  "slug": "maxio",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Recurly",
+  "slug": "recurly",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Orb",
+  "slug": [
+   "withorb",
+   "orb"
+  ],
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Metronome",
+  "slug": "metronome",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Stax",
+  "slug": [
+   "staxpayments",
+   "stax"
+  ],
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Finix",
+  "slug": "finix",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Rainforest",
+  "slug": [
+   "rainforest",
+   "rainforestpay"
+  ],
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Payabli",
+  "slug": "payabli",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Tilled",
+  "slug": "tilled",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Justifi",
+  "slug": "justifi",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Check",
+  "slug": "check",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Gusto",
+  "slug": "gusto",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Deel",
+  "slug": "deel",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Remote",
+  "slug": [
+   "remote",
+   "remotecom"
+  ],
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Oyster",
+  "slug": [
+   "oyster",
+   "oysterhr"
+  ],
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Pilot",
+  "slug": "pilot",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Rho",
+  "slug": "rho",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Navan",
+  "slug": [
+   "navan",
+   "tripactions"
+  ],
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Bill.com",
+  "slug": "billcom",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Tipalti",
+  "slug": "tipalti",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Airwallex",
+  "slug": "airwallex",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Routable",
+  "slug": "routable",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Melio",
+  "slug": "melio",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Nium",
+  "slug": "nium",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Bolt",
+  "slug": "bolt",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Affirm",
+  "slug": "affirm",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Chime",
+  "slug": "chime",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Mesh",
+  "slug": [
+   "mesh",
+   "meshpayments"
+  ],
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Sardine",
+  "slug": "sardine",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Socure",
+  "slug": "socure",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Middesk",
+  "slug": "middesk",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Moov",
+  "slug": [
+   "moov",
+   "moovfinancial"
+  ],
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Dwolla",
+  "slug": "dwolla",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Forage",
+  "slug": [
+   "forage",
+   "joinforage"
+  ],
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Pinwheel",
+  "slug": "pinwheel",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Argyle",
+  "slug": "argyle",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Atomic",
+  "slug": [
+   "atomic",
+   "atomicfi"
+  ],
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Vanta",
+  "slug": "vanta",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Drata",
+  "slug": "drata",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Secureframe",
+  "slug": "secureframe",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Thoropass",
+  "slug": "thoropass",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Retool",
+  "slug": "retool",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Hex",
+  "slug": "hex",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Census",
+  "slug": "census",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Hightouch",
+  "slug": "hightouch",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "dbt Labs",
+  "slug": [
+   "dbtlabsinc",
+   "dbtlabs"
+  ],
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Fivetran",
+  "slug": "fivetran",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Airbyte",
+  "slug": "airbyte",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "PostHog",
+  "slug": "posthog",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Clay",
+  "slug": [
+   "claylabs",
+   "clay"
+  ],
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Apollo.io",
+  "slug": [
+   "apolloio",
+   "apollo"
+  ],
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Outreach",
+  "slug": "outreach",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Salesloft",
+  "slug": "salesloft",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Attio",
+  "slug": "attio",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Common Room",
+  "slug": "commonroom",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Pocus",
+  "slug": "pocus",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Mutiny",
+  "slug": "mutiny",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Chili Piper",
+  "slug": "chilipiper",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Navattic",
+  "slug": "navattic",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Walnut",
+  "slug": "walnut",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Consensus",
+  "slug": [
+   "consensus",
+   "goconsensus"
+  ],
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Vitally",
+  "slug": "vitally",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "ChurnZero",
+  "slug": "churnzero",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Planhat",
+  "slug": "planhat",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Totango",
+  "slug": "totango",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Catalyst",
+  "slug": "catalyst",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Rocketlane",
+  "slug": "rocketlane",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "GUIDEcx",
+  "slug": "guidecx",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Arrows",
+  "slug": "arrows",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Userpilot",
+  "slug": "userpilot",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Pendo",
+  "slug": "pendo",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Appcues",
+  "slug": "appcues",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Chameleon",
+  "slug": "chameleon",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Loom",
+  "slug": "loom",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Front",
+  "slug": "front",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Intercom",
+  "slug": "intercom",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Gorgias",
+  "slug": "gorgias",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Kustomer",
+  "slug": "kustomer",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Ada",
+  "slug": [
+   "ada",
+   "adasupport"
+  ],
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Decagon",
+  "slug": "decagon",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Sierra",
+  "slug": "sierra",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Glean",
+  "slug": [
+   "gleanwork",
+   "glean"
+  ],
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Writer",
+  "slug": "writer",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Jasper",
+  "slug": "jasper",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Hebbia",
+  "slug": "hebbia",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Harvey",
+  "slug": "harvey",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "EvenUp",
+  "slug": "evenup",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Ironclad",
+  "slug": [
+   "ironcladhq",
+   "ironclad"
+  ],
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Spellbook",
+  "slug": "spellbook",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Lattice",
+  "slug": "lattice",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Culture Amp",
+  "slug": "cultureamp",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "15Five",
+  "slug": "15five",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Leapsome",
+  "slug": "leapsome",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Ashby",
+  "slug": "ashby",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Gem",
+  "slug": "gem",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Checkr",
+  "slug": "checkr",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Notion",
+  "slug": "notion",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Linear",
+  "slug": "linear",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Figma",
+  "slug": "figma",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Airtable",
+  "slug": "airtable",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Webflow",
+  "slug": "webflow",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Zapier",
+  "slug": "zapier",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Asana",
+  "slug": "asana",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Miro",
+  "slug": [
+   "miro",
+   "realtimeboardglobal"
+  ],
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Canva",
+  "slug": "canva",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Calendly",
+  "slug": "calendly",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Docusign",
+  "slug": "docusign",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "PandaDoc",
+  "slug": "pandadoc",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Postman",
+  "slug": "postman",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Twilio",
+  "slug": "twilio",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Segment",
+  "slug": "segment",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Amplitude",
+  "slug": "amplitude",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Mixpanel",
+  "slug": "mixpanel",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Heap",
+  "slug": "heap",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "FullStory",
+  "slug": "fullstory",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "LaunchDarkly",
+  "slug": "launchdarkly",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Statsig",
+  "slug": "statsig",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Sentry",
+  "slug": "sentry",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Datadog",
+  "slug": "datadog",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Grafana Labs",
+  "slug": "grafanalabs",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Honeycomb",
+  "slug": "honeycomb",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Cribl",
+  "slug": "cribl",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Temporal",
+  "slug": [
+   "temporal",
+   "temporaltechnologies"
+  ],
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Supabase",
+  "slug": "supabase",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Neon",
+  "slug": [
+   "neon",
+   "neondatabase"
+  ],
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "PlanetScale",
+  "slug": "planetscale",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Render",
+  "slug": "render",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Netlify",
+  "slug": "netlify",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Replit",
+  "slug": "replit",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Cursor",
+  "slug": [
+   "cursor",
+   "anysphere"
+  ],
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Modal",
+  "slug": "modal",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Pinecone",
+  "slug": "pinecone",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Weights & Biases",
+  "slug": "wandb",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Scale AI",
+  "slug": "scaleai",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Lovable",
+  "slug": "lovable",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "ElevenLabs",
+  "slug": "elevenlabs",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Cohere",
+  "slug": "cohere",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Mistral",
+  "slug": "mistral",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Anthropic",
+  "slug": "anthropic",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "OpenAI",
+  "slug": "openai",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Samsara",
+  "slug": "samsara",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Toast",
+  "slug": "toast",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "ServiceTitan",
+  "slug": "servicetitan",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Procore",
+  "slug": "procore",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Rippling",
+  "slug": "rippling",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "BambooHR",
+  "slug": "bamboohr",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Paylocity",
+  "slug": "paylocity",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Justworks",
+  "slug": "justworks",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Papaya Global",
+  "slug": "papayaglobal",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Okta",
+  "slug": "okta",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "1Password",
+  "slug": "1password",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Tines",
+  "slug": "tines",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Abnormal Security",
+  "slug": "abnormalsecurity",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Huntress",
+  "slug": "huntress",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Arctic Wolf",
+  "slug": "arcticwolf",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Coalition",
+  "slug": "coalition",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Spring Health",
+  "slug": [
+   "springhealth66",
+   "springhealth"
+  ],
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Omada Health",
+  "slug": "omadahealth",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Hinge Health",
+  "slug": "hingehealth",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Headway",
+  "slug": "headway",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Alma",
+  "slug": [
+   "alma",
+   "helloalma"
+  ],
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Rula",
+  "slug": [
+   "rula",
+   "rulahealth"
+  ],
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Nomi Health",
+  "slug": "nomihealth",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Cedar",
+  "slug": "cedar",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Commure",
+  "slug": "commure",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Athelas",
+  "slug": "athelas",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Abridge",
+  "slug": "abridge",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Nabla",
+  "slug": "nabla",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Suki",
+  "slug": [
+   "suki",
+   "sukiai"
+  ],
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Ambience Healthcare",
+  "slug": [
+   "ambiencehealthcare",
+   "ambience"
+  ],
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Elation Health",
+  "slug": "elationhealth",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Canvas Medical",
+  "slug": "canvasmedical",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Healthie",
+  "slug": "healthie",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Akido Labs",
+  "slug": "akidolabs",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Zus Health",
+  "slug": "zushealth",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Medplum",
+  "slug": "medplum",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Particle Health",
+  "slug": "particlehealth",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Redox",
+  "slug": "redox",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Health Gorilla",
+  "slug": "healthgorilla",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "1upHealth",
+  "slug": "1uphealth",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Innovaccer",
+  "slug": "innovaccer",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Zocdoc",
+  "slug": "zocdoc",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Oscar Health",
+  "slug": "oscar",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Devoted Health",
+  "slug": "devoted",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Cityblock Health",
+  "slug": "cityblockhealth",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Carbon Health",
+  "slug": "carbonhealth",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Ro",
+  "slug": "ro",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Hims & Hers",
+  "slug": "himshers",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Talkiatry",
+  "slug": "talkiatry",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Lyra Health",
+  "slug": "lyrahealth",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Garner Health",
+  "slug": "garnerhealth",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Included Health",
+  "slug": "includedhealth",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Transcarent",
+  "slug": "transcarent",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Sword Health",
+  "slug": "swordhealth",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Virta Health",
+  "slug": "virtahealth",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Color Health",
+  "slug": "color",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Tempus",
+  "slug": "tempus",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Flatiron Health",
+  "slug": "flatironhealth",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Komodo Health",
+  "slug": "komodohealth",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Notable",
+  "slug": [
+   "notable",
+   "notablehealth"
+  ],
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Infinitus",
+  "slug": [
+   "infinitus",
+   "infinitussystems"
+  ],
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "SmarterDx",
+  "slug": "smarterdx",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Thyme Care",
+  "slug": "thymecare",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Tebra",
+  "slug": "tebra",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Jane App",
+  "slug": [
+   "janeapp",
+   "jane"
+  ],
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "SimplePractice",
+  "slug": "simplepractice",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "WebPT",
+  "slug": "webpt",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Luma Health",
+  "slug": "lumahealth",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Phreesia",
+  "slug": "phreesia",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Artera",
+  "slug": "artera",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Viz.ai",
+  "slug": "vizai",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Qualified Health",
+  "slug": "qualifiedhealth",
+  "tags": [
+   "healthtech"
+  ]
+ },
+ {
+  "name": "Guild",
+  "slug": [
+   "guild",
+   "guildeducation"
+  ],
+  "tags": [
+   "saas",
+   "colorado"
+  ]
+ },
+ {
+  "name": "Ibotta",
+  "slug": "ibotta",
+  "tags": [
+   "saas",
+   "colorado"
+  ]
+ },
+ {
+  "name": "Pax8",
+  "slug": "pax8",
+  "tags": [
+   "saas",
+   "colorado"
+  ]
+ },
+ {
+  "name": "Ping Identity",
+  "slug": "pingidentity",
+  "tags": [
+   "saas",
+   "colorado"
+  ]
+ },
+ {
+  "name": "Conga",
+  "slug": "conga",
+  "tags": [
+   "saas",
+   "colorado"
+  ]
+ },
+ {
+  "name": "Healthgrades",
+  "slug": "healthgrades",
+  "tags": [
+   "healthtech",
+   "colorado"
+  ]
+ },
+ {
+  "name": "SonderMind",
+  "slug": "sondermind",
+  "tags": [
+   "healthtech",
+   "colorado"
+  ]
+ },
+ {
+  "name": "Strava",
+  "slug": "strava",
+  "tags": [
+   "saas",
+   "colorado"
+  ]
+ },
+ {
+  "name": "Bluebeam",
+  "slug": "bluebeam",
+  "tags": [
+   "saas",
+   "colorado"
+  ]
+ },
+ {
+  "name": "Apartment List",
+  "slug": "apartmentlist",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Homebot",
+  "slug": "homebot",
+  "tags": [
+   "saas",
+   "colorado"
+  ]
+ },
+ {
+  "name": "FullContact",
+  "slug": "fullcontact",
+  "tags": [
+   "saas",
+   "colorado"
+  ]
+ },
+ {
+  "name": "Inspirato",
+  "slug": "inspirato",
+  "tags": [
+   "saas",
+   "colorado"
+  ]
+ },
+ {
+  "name": "Welltok",
+  "slug": "welltok",
+  "tags": [
+   "healthtech",
+   "colorado"
+  ]
+ },
+ {
+  "name": "Ampersand",
+  "slug": "ampersand",
+  "tags": [
+   "saas",
+   "colorado"
+  ]
+ },
+ {
+  "name": "Brightwheel",
+  "slug": "brightwheel",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Sezzle",
+  "slug": "sezzle",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Velocity Global",
+  "slug": "velocityglobal",
+  "tags": [
+   "saas",
+   "colorado"
+  ]
+ },
+ {
+  "name": "Prodigal",
+  "slug": [
+   "prodigal",
+   "prodigaltech"
+  ],
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "JumpCloud",
+  "slug": "jumpcloud",
+  "tags": [
+   "saas",
+   "colorado"
+  ]
+ },
+ {
+  "name": "LogRhythm",
+  "slug": "logrhythm",
+  "tags": [
+   "saas",
+   "colorado"
+  ]
+ },
+ {
+  "name": "Zayo",
+  "slug": "zayo",
+  "tags": [
+   "saas",
+   "colorado"
+  ]
+ },
+ {
+  "name": "Particle",
+  "slug": "particle",
+  "tags": [
+   "saas",
+   "colorado"
+  ]
+ },
+ {
+  "name": "SpotHero",
+  "slug": "spothero",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Ascent",
+  "slug": [
+   "ascent",
+   "ascentfunding"
+  ],
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Ripple",
+  "slug": "ripple",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "Sonder",
+  "slug": "sonder",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Craft",
+  "slug": [
+   "craft",
+   "craftco"
+  ],
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Uplight",
+  "slug": "uplight",
+  "tags": [
+   "saas",
+   "colorado"
+  ]
+ },
+ {
+  "name": "Gloo",
+  "slug": "gloo",
+  "tags": [
+   "saas",
+   "colorado"
+  ]
+ },
+ {
+  "name": "DispatchHealth",
+  "slug": "dispatchhealth",
+  "tags": [
+   "healthtech",
+   "colorado"
+  ]
+ },
+ {
+  "name": "Ever.Ag",
+  "slug": "everag",
+  "tags": [
+   "saas",
+   "colorado"
+  ]
+ },
+ {
+  "name": "Cologix",
+  "slug": "cologix",
+  "tags": [
+   "saas",
+   "colorado"
+  ]
+ },
+ {
+  "name": "Imagine Learning",
+  "slug": "imaginelearning",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Frontline Education",
+  "slug": "frontlineeducation",
+  "tags": [
+   "saas"
+  ]
+ }
+]
