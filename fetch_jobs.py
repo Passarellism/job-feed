@@ -418,6 +418,7 @@ def main():
                 continue
             j["location_tag"] = tag
             j["company_tags"] = c.get("tags", [])
+            j["connections"] = c.get("connections", 0)  # 1st-degree LinkedIn connections at the company
             matched.append(j)
 
     merged = {}

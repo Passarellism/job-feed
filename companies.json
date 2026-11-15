@@ -7,49 +7,59 @@
   ],
   "tags": [
    "saas"
-  ]
+  ],
+  "connections": 2
  },
  {
   "name": "Vercel",
   "slug": "vercel",
   "tags": [
    "saas"
-  ]
+  ],
+  "connections": 2
  },
  {
   "name": "Stripe",
   "slug": "stripe",
   "tags": [
-   "fintech"
-  ]
+   "fintech",
+   "linkedin-follow"
+  ],
+  "connections": 2
  },
  {
   "name": "Plaid",
   "slug": "plaid",
   "tags": [
-   "fintech"
+   "fintech",
+   "linkedin-follow"
   ]
  },
  {
   "name": "Ramp",
   "slug": "ramp",
   "tags": [
-   "fintech"
-  ]
+   "fintech",
+   "linkedin-follow"
+  ],
+  "connections": 6
  },
  {
   "name": "Brex",
   "slug": "brex",
   "tags": [
-   "fintech"
+   "fintech",
+   "linkedin-follow"
   ]
  },
  {
   "name": "Mercury",
   "slug": "mercury",
   "tags": [
-   "fintech"
-  ]
+   "fintech",
+   "linkedin-follow"
+  ],
+  "connections": 2
  },
  {
   "name": "Modern Treasury",
@@ -90,7 +100,8 @@
   "name": "Persona",
   "slug": "persona",
   "tags": [
-   "fintech"
+   "fintech",
+   "linkedin-follow"
   ]
  },
  {
@@ -105,7 +116,8 @@
   "slug": "treasuryprime",
   "tags": [
    "fintech"
-  ]
+  ],
+  "connections": 1
  },
  {
   "name": "Synctera",
@@ -133,7 +145,8 @@
   "slug": "paddle",
   "tags": [
    "fintech"
-  ]
+  ],
+  "connections": 1
  },
  {
   "name": "Chargebee",
@@ -232,14 +245,17 @@
   "name": "Gusto",
   "slug": "gusto",
   "tags": [
-   "saas"
-  ]
+   "saas",
+   "linkedin-follow"
+  ],
+  "connections": 1
  },
  {
   "name": "Deel",
   "slug": "deel",
   "tags": [
-   "saas"
+   "saas",
+   "linkedin-follow"
   ]
  },
  {
@@ -284,7 +300,8 @@
   ],
   "tags": [
    "saas"
-  ]
+  ],
+  "connections": 1
  },
  {
   "name": "Bill.com",
@@ -377,7 +394,8 @@
   "name": "Middesk",
   "slug": "middesk",
   "tags": [
-   "fintech"
+   "fintech",
+   "linkedin-follow"
   ]
  },
  {
@@ -436,7 +454,8 @@
   "slug": "vanta",
   "tags": [
    "saas"
-  ]
+  ],
+  "connections": 1
  },
  {
   "name": "Drata",
@@ -463,8 +482,10 @@
   "name": "Retool",
   "slug": "retool",
   "tags": [
-   "saas"
-  ]
+   "saas",
+   "linkedin-follow"
+  ],
+  "connections": 1
  },
  {
   "name": "Hex",
@@ -484,7 +505,8 @@
   "name": "Hightouch",
   "slug": "hightouch",
   "tags": [
-   "saas"
+   "saas",
+   "linkedin-follow"
   ]
  },
  {
@@ -525,7 +547,8 @@
    "clay"
   ],
   "tags": [
-   "saas"
+   "saas",
+   "linkedin-follow"
   ]
  },
  {
@@ -542,7 +565,8 @@
   "name": "Outreach",
   "slug": "outreach",
   "tags": [
-   "saas"
+   "saas",
+   "linkedin-follow"
   ]
  },
  {
@@ -745,13 +769,15 @@
   "slug": "decagon",
   "tags": [
    "saas"
-  ]
+  ],
+  "connections": 1
  },
  {
   "name": "Sierra",
   "slug": "sierra",
   "tags": [
-   "saas"
+   "saas",
+   "linkedin-follow"
   ]
  },
  {
@@ -762,7 +788,8 @@
   ],
   "tags": [
    "saas"
-  ]
+  ],
+  "connections": 1
  },
  {
   "name": "Writer",
@@ -797,7 +824,8 @@
   "slug": "evenup",
   "tags": [
    "saas"
-  ]
+  ],
+  "connections": 1
  },
  {
   "name": "Ironclad",
@@ -806,8 +834,10 @@
    "ironclad"
   ],
   "tags": [
-   "saas"
-  ]
+   "saas",
+   "linkedin-follow"
+  ],
+  "connections": 1
  },
  {
   "name": "Spellbook",
@@ -848,8 +878,10 @@
   "name": "Ashby",
   "slug": "ashby",
   "tags": [
-   "saas"
-  ]
+   "saas",
+   "linkedin-follow"
+  ],
+  "connections": 1
  },
  {
   "name": "Gem",
@@ -870,7 +902,8 @@
   "slug": "notion",
   "tags": [
    "saas"
-  ]
+  ],
+  "connections": 1
  },
  {
   "name": "Linear",
@@ -883,7 +916,8 @@
   "name": "Figma",
   "slug": "figma",
   "tags": [
-   "saas"
+   "saas",
+   "linkedin-follow"
   ]
  },
  {
@@ -897,14 +931,16 @@
   "name": "Webflow",
   "slug": "webflow",
   "tags": [
-   "saas"
+   "saas",
+   "linkedin-follow"
   ]
  },
  {
   "name": "Zapier",
   "slug": "zapier",
   "tags": [
-   "saas"
+   "saas",
+   "linkedin-follow"
   ]
  },
  {
@@ -977,7 +1013,8 @@
   "name": "Amplitude",
   "slug": "amplitude",
   "tags": [
-   "saas"
+   "saas",
+   "linkedin-follow"
   ]
  },
  {
@@ -985,7 +1022,8 @@
   "slug": "mixpanel",
   "tags": [
    "saas"
-  ]
+  ],
+  "connections": 1
  },
  {
   "name": "Heap",
@@ -999,13 +1037,15 @@
   "slug": "fullstory",
   "tags": [
    "saas"
-  ]
+  ],
+  "connections": 1
  },
  {
   "name": "LaunchDarkly",
   "slug": "launchdarkly",
   "tags": [
-   "saas"
+   "saas",
+   "linkedin-follow"
   ]
  },
  {
@@ -1027,7 +1067,8 @@
   "slug": "datadog",
   "tags": [
    "saas"
-  ]
+  ],
+  "connections": 2
  },
  {
   "name": "Grafana Labs",
@@ -1047,8 +1088,10 @@
   "name": "Cribl",
   "slug": "cribl",
   "tags": [
-   "saas"
-  ]
+   "saas",
+   "linkedin-follow"
+  ],
+  "connections": 2
  },
  {
   "name": "Temporal",
@@ -1126,7 +1169,8 @@
   "name": "Pinecone",
   "slug": "pinecone",
   "tags": [
-   "saas"
+   "saas",
+   "linkedin-follow"
   ]
  },
  {
@@ -1147,7 +1191,8 @@
   "name": "Lovable",
   "slug": "lovable",
   "tags": [
-   "saas"
+   "saas",
+   "linkedin-follow"
   ]
  },
  {
@@ -1182,22 +1227,27 @@
   "name": "OpenAI",
   "slug": "openai",
   "tags": [
-   "saas"
+   "saas",
+   "linkedin-follow"
   ]
  },
  {
   "name": "Samsara",
   "slug": "samsara",
   "tags": [
-   "saas"
-  ]
+   "saas",
+   "linkedin-follow"
+  ],
+  "connections": 1
  },
  {
   "name": "Toast",
   "slug": "toast",
   "tags": [
-   "saas"
-  ]
+   "saas",
+   "linkedin-follow"
+  ],
+  "connections": 2
  },
  {
   "name": "ServiceTitan",
@@ -1217,8 +1267,10 @@
   "name": "Rippling",
   "slug": "rippling",
   "tags": [
-   "saas"
-  ]
+   "saas",
+   "linkedin-follow"
+  ],
+  "connections": 3
  },
  {
   "name": "BambooHR",
@@ -1232,14 +1284,16 @@
   "slug": "paylocity",
   "tags": [
    "saas"
-  ]
+  ],
+  "connections": 1
  },
  {
   "name": "Justworks",
   "slug": "justworks",
   "tags": [
    "saas"
-  ]
+  ],
+  "connections": 1
  },
  {
   "name": "Papaya Global",
@@ -1252,7 +1306,8 @@
   "name": "Okta",
   "slug": "okta",
   "tags": [
-   "saas"
+   "saas",
+   "linkedin-follow"
   ]
  },
  {
@@ -1266,7 +1321,8 @@
   "name": "Tines",
   "slug": "tines",
   "tags": [
-   "saas"
+   "saas",
+   "linkedin-follow"
   ]
  },
  {
@@ -1304,22 +1360,26 @@
    "springhealth"
   ],
   "tags": [
-   "healthtech"
+   "healthtech",
+   "linkedin-follow"
   ],
-  "note": "corporate jobs not on a public board as of 2026-11-15; covered by LinkedIn alerts"
+  "note": "corporate jobs not on a public board as of 2026-11-15; covered by LinkedIn alerts",
+  "connections": 3
  },
  {
   "name": "Omada Health",
   "slug": "omadahealth",
   "tags": [
-   "healthtech"
+   "healthtech",
+   "linkedin-follow"
   ]
  },
  {
   "name": "Hinge Health",
   "slug": "hinge-health",
   "tags": [
-   "healthtech"
+   "healthtech",
+   "linkedin-follow"
   ],
   "ats": "ashby"
  },
@@ -1327,7 +1387,8 @@
   "name": "Headway",
   "slug": "headway",
   "tags": [
-   "healthtech"
+   "healthtech",
+   "linkedin-follow"
   ]
  },
  {
@@ -1337,7 +1398,8 @@
    "helloalma"
   ],
   "tags": [
-   "healthtech"
+   "healthtech",
+   "linkedin-follow"
   ]
  },
  {
@@ -1347,7 +1409,8 @@
    "rulahealth"
   ],
   "tags": [
-   "healthtech"
+   "healthtech",
+   "linkedin-follow"
   ]
  },
  {
@@ -1361,7 +1424,8 @@
   "name": "Cedar",
   "slug": "cedar",
   "tags": [
-   "healthtech"
+   "healthtech",
+   "linkedin-follow"
   ]
  },
  {
@@ -1549,14 +1613,16 @@
   "name": "Lyra Health",
   "slug": "lyrahealth",
   "tags": [
-   "healthtech"
+   "healthtech",
+   "linkedin-follow"
   ]
  },
  {
   "name": "Garner Health",
   "slug": "garnerhealth",
   "tags": [
-   "healthtech"
+   "healthtech",
+   "linkedin-follow"
   ]
  },
  {
@@ -1577,7 +1643,8 @@
   "name": "Sword Health",
   "slug": "swordhealth",
   "tags": [
-   "healthtech"
+   "healthtech",
+   "linkedin-follow"
   ]
  },
  {
@@ -1647,7 +1714,8 @@
   "slug": "thymecare",
   "tags": [
    "healthtech"
-  ]
+  ],
+  "connections": 1
  },
  {
   "name": "Tebra",
@@ -1698,7 +1766,8 @@
   "name": "Artera",
   "slug": "artera",
   "tags": [
-   "healthtech"
+   "healthtech",
+   "linkedin-follow"
   ]
  },
  {
@@ -1779,8 +1848,10 @@
   "slug": "strava",
   "tags": [
    "saas",
-   "colorado"
-  ]
+   "colorado",
+   "linkedin-follow"
+  ],
+  "connections": 1
  },
  {
   "name": "Bluebeam",
@@ -1995,5 +2066,904 @@
   "tags": [
    "saas"
   ]
+ },
+ {
+  "name": "Mercor",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Cognition",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Baseten",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Rox",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "OpenEvidence",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Fractile",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Exa",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Brain Co.",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "fal",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Infisical",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Hone",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Crusoe",
+  "tags": [
+   "linkedin-follow"
+  ],
+  "connections": 1
+ },
+ {
+  "name": "QualityAI",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Pylon",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Hipcamp",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "AllTrails",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Popfly",
+  "tags": [
+   "linkedin-follow",
+   "connection"
+  ],
+  "connections": 1
+ },
+ {
+  "name": "Hone Health",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Pomelo Care",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Formation Bio",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Pelago",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Assort Health",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Proscia",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Sully.ai",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Navina",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Coasts.dev",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Insight Health AI",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Neura Health",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Hello Patient",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Meditopia",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Pearl Health",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "AcuityMD",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Turquoise",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Merge",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Charlie Health",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Optro",
+  "tags": [
+   "linkedin-follow",
+   "connection"
+  ],
+  "connections": 2
+ },
+ {
+  "name": "Perplexity",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "GoodRx",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Kouper",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Thatch",
+  "tags": [
+   "linkedin-follow",
+   "connection"
+  ],
+  "connections": 1
+ },
+ {
+  "name": "Customer.io",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "AuditBoard",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Unmind",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Calm",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Meru Health",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Bicycle Health",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Modern Health",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Talkspace",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Headspace",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Grow Therapy",
+  "tags": [
+   "linkedin-follow"
+  ],
+  "connections": 1
+ },
+ {
+  "name": "Propensity",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Sanity",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Rillet",
+  "tags": [
+   "linkedin-follow",
+   "connection"
+  ],
+  "connections": 2
+ },
+ {
+  "name": "Campfire",
+  "tags": [
+   "linkedin-follow",
+   "connection"
+  ],
+  "connections": 1
+ },
+ {
+  "name": "Moveworks",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "CloudNine",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Digioh",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Hack The Box",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Wiz",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Itemize",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Cengage",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "ModMed",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Numerated",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Impilo",
+  "tags": [
+   "linkedin-follow"
+  ],
+  "connections": 1
+ },
+ {
+  "name": "Dynatrace",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "SmartAsset",
+  "tags": [
+   "linkedin-follow"
+  ],
+  "connections": 1
+ },
+ {
+  "name": "Dremio",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Starburst",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Denodo",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Alteryx",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "AtScale",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Upstart",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Braintrust",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Virsec",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Fundraise Up",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Medallion",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Nayya",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Birdeye",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Inscribe AI",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "DailyPay",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Rattle",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Stack Overflow",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "GitLab",
+  "tags": [
+   "linkedin-follow"
+  ],
+  "connections": 1
+ },
+ {
+  "name": "GitHub",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Docker",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Databricks",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Zip",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Placer.ai",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Synthesia",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "AgentSync",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Virtuous",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "LogRocket",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Aha!",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "CrowdStrike",
+  "tags": [
+   "linkedin-follow"
+  ],
+  "connections": 1
+ },
+ {
+  "name": "KnowBe4",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "The Swarm",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Egnyte",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Paperplane",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Triple Whale",
+  "tags": [
+   "linkedin-follow"
+  ],
+  "connections": 1
+ },
+ {
+  "name": "Crossbeam",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "CHEQ",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Gainsight",
+  "tags": [
+   "linkedin-follow"
+  ],
+  "connections": 1
+ },
+ {
+  "name": "Solve",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Trumpet",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Payscale",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Avature",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Sumo Logic",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "SurveyMonkey",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "athenahealth",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Gong",
+  "tags": [
+   "linkedin-follow"
+  ],
+  "connections": 1
+ },
+ {
+  "name": "Catalyst Software",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Pair Team",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Backcountry",
+  "tags": [
+   "linkedin-follow"
+  ],
+  "connections": 1
+ },
+ {
+  "name": "Patagonia",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "prAna",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Clif Bar",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Black Diamond Equipment",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Rossignol Group",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Salomon",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Columbia Sportswear Company",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Arcteryx",
+  "tags": [
+   "linkedin-follow"
+  ]
+ },
+ {
+  "name": "Klaviyo",
+  "tags": [
+   "connection"
+  ],
+  "connections": 3
+ },
+ {
+  "name": "Polimorphic",
+  "tags": [
+   "connection"
+  ],
+  "connections": 3
+ },
+ {
+  "name": "Zscaler",
+  "tags": [
+   "connection"
+  ],
+  "connections": 2
+ },
+ {
+  "name": "New Relic",
+  "tags": [
+   "connection"
+  ],
+  "connections": 2
+ },
+ {
+  "name": "Chainguard",
+  "tags": [
+   "connection"
+  ],
+  "connections": 1
+ },
+ {
+  "name": "AuthZed",
+  "tags": [
+   "connection"
+  ],
+  "connections": 1
+ },
+ {
+  "name": "Clerk",
+  "tags": [
+   "connection"
+  ]
+ },
+ {
+  "name": "Miter",
+  "tags": [
+   "connection"
+  ],
+  "connections": 1
+ },
+ {
+  "name": "Hippocratic AI",
+  "tags": [
+   "connection"
+  ],
+  "connections": 1
+ },
+ {
+  "name": "Taxbit",
+  "tags": [
+   "connection"
+  ],
+  "connections": 1
+ },
+ {
+  "name": "env0",
+  "tags": [
+   "connection"
+  ],
+  "connections": 1
+ },
+ {
+  "name": "Swoogo",
+  "tags": [
+   "connection"
+  ],
+  "connections": 1
+ },
+ {
+  "name": "DAT Freight & Analytics",
+  "tags": [
+   "connection"
+  ],
+  "connections": 1
+ },
+ {
+  "name": "N-able",
+  "tags": [
+   "connection"
+  ],
+  "connections": 1
+ },
+ {
+  "name": "AssetWatch",
+  "tags": [
+   "connection"
+  ],
+  "connections": 1
+ },
+ {
+  "name": "ZoomInfo",
+  "tags": [
+   "connection"
+  ],
+  "connections": 2
+ },
+ {
+  "name": "Shopify",
+  "tags": [
+   "connection"
+  ],
+  "connections": 2
+ },
+ {
+  "name": "Cision",
+  "tags": [
+   "connection"
+  ],
+  "connections": 1
+ },
+ {
+  "name": "ExpertVoice",
+  "tags": [
+   "connection"
+  ],
+  "connections": 1
+ },
+ {
+  "name": "Quantinuum",
+  "tags": [
+   "connection"
+  ],
+  "connections": 1
+ },
+ {
+  "name": "Dexory",
+  "tags": [
+   "connection"
+  ],
+  "connections": 1
+ },
+ {
+  "name": "Cherry",
+  "tags": [
+   "connection"
+  ],
+  "connections": 1
  }
 ]
