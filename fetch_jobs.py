@@ -75,6 +75,7 @@ US_TERMS = re.compile(
     r"\bamericas\b|anywhere|nationwide",
     re.I,
 )
+COUNTRY_ONLY = re.compile(r"(united\s+states(\s+of\s+america)?|usa|us|u\.s\.(a\.)?|north\s+america|americas)", re.I)
 REMOTE_TERMS = re.compile(r"remote|work\s+from\s+home|distributed|anywhere", re.I)
 
 MAX_AGE_DAYS = 21          # drop postings older than this (when a date exists)
@@ -100,8 +101,9 @@ def location_verdict(loc_text, remote_flag):
         return True, "remote-US" if has_us else "remote-unclear"
     if not t:
         return True, "unknown"
-    if has_us and not has_non_us and not re.search(r",\s*[A-Z]{2}\b", t):
-        return True, "US"  # e.g. "United States" with no city: often remote
+    parts = [x.strip() for x in re.split(r"[|;,/]", t) if x.strip()]
+    if parts and all(COUNTRY_ONLY.fullmatch(x) for x in parts):
+        return True, "US"  # country only, no city: often remote
     return False, "onsite-elsewhere"
 
 
@@ -138,9 +140,8 @@ def strip_html(s):
     return re.sub(r"\n\s*\n+", "\n", s).strip()
 
 
-COMP_RE = re.compile(
-    r"\$\s?\d{2,3}(?:,\d{3}|\.\d+)?\s?[kK]?(?:\s*(?:-|–|—|to)\s*\$?\s?\d{2,3}(?:,\d{3}|\.\d+)?\s?[kK]?)?"
-)
+_AMT = r"\$\s?(?:\d{2,3}(?:,\d{3})+|\d{2,3}(?:\.\d)?\s?[kK])"
+COMP_RE = re.compile(_AMT + r"(?:\s*(?:-|–|—|to)\s*" + _AMT + r")?")
 
 
 def find_comp(text):
@@ -184,7 +185,25 @@ def job(company, ats, slug, jid, title, location, remote, url, posted, desc, com
 # ---------------------------------------------------------------- ATS adapters
 # Each returns a list of normalized jobs, or raises on 404 / bad response.
 
+GENERIC = {"inc", "llc", "ltd", "corp", "corporation", "co", "hq", "the", "com", "io", "ai",
+           "app", "group", "health", "technologies", "technology", "software", "hr", "pbc"}
+
+
+def norm_name(x):
+    words = re.findall(r"[a-z0-9]+", (x or "").lower())
+    kept = [w for w in words if w not in GENERIC] or words
+    return "".join(kept)
+
+
+def same_company(a, b):
+    a, b = norm_name(a), norm_name(b)
+    return bool(a and b) and a == b
+
+
 def greenhouse(company, slug):
+    meta = get_json(f"https://boards-api.greenhouse.io/v1/boards/{slug}")
+    if not same_company(company, meta.get("name")):
+        raise ValueError(f"board belongs to {meta.get('name')!r}")
     d = get_json(f"https://boards-api.greenhouse.io/v1/boards/{slug}/jobs?content=true")
     out = []
     for j in d.get("jobs", []):
@@ -243,6 +262,8 @@ def workable(company, slug):
     d = get_json(f"https://apply.workable.com/api/v1/widget/accounts/{slug}?details=true")
     if "jobs" not in d:
         raise ValueError("not a workable board")
+    if not same_company(company, d.get("name")):
+        raise ValueError(f"board belongs to {d.get('name')!r}")
     out = []
     for j in d["jobs"]:
         locs = [", ".join(x for x in [j.get("city"), j.get("state"), j.get("country")] if x)]
@@ -388,6 +409,17 @@ def main():
             j["location_tag"] = tag
             j["company_tags"] = c.get("tags", [])
             matched.append(j)
+
+    merged = {}
+    for j in matched:
+        key = (j["company"].lower(), j["title"].lower())
+        if key in merged:
+            m = merged[key]
+            if j["location"] and j["location"] not in m["location"]:
+                m["location"] += " | " + j["location"]
+        else:
+            merged[key] = j
+    matched = list(merged.values())
 
     seen = state["first_seen"]
     new = []
