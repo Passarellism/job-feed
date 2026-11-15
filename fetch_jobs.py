@@ -58,6 +58,12 @@ CO_TERMS = re.compile(
     r"golden,?\s*co|lakewood|aurora,?\s*co|englewood|westminster,?\s*co|fort\s+collins|front\s+range|,\s*co\b",
     re.I,
 )
+RELO_TERMS = re.compile(
+    r"new\s+york|\bnyc\b|brooklyn|manhattan|queens|bronx|staten\s+island|san\s+francisco|"
+    r"\bsf\b|bay\s+area|oakland|south\s+san\s+francisco|san\s+mateo|redwood\s+city|menlo\s+park|"
+    r"palo\s+alto|mountain\s+view|sunnyvale|san\s+jose",
+    re.I,
+)
 NON_US = re.compile(
     r"\b(canada|toronto|vancouver|montreal|ontario|uk|united\s+kingdom|england|london|"
     r"ireland|dublin|germany|berlin|munich|france|paris|spain|madrid|barcelona|portugal|"
@@ -101,6 +107,8 @@ def location_verdict(loc_text, remote_flag):
         return True, "remote-US" if has_us else "remote-unclear"
     if not t:
         return True, "unknown"
+    if RELO_TERMS.search(t):
+        return True, "relocation-NYC/SF"
     parts = [x.strip() for x in re.split(r"[|;,/]", t) if x.strip()]
     if parts and all(COUNTRY_ONLY.fullmatch(x) for x in parts):
         return True, "US"  # country only, no city: often remote
