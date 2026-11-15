@@ -1,0 +1,15 @@
+name: Probe URLs
+on:
+  workflow_dispatch:
+    inputs:
+      urls:
+        description: "Space-separated URLs to check"
+        required: true
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          for u in ${{ github.event.inputs.urls }}; do
+            code=$(curl -s -o /tmp/b -w '%{http_code}' -m 20 "$u"); echo "== $code $u"; head -c 300 /tmp/b; echo
+          done
