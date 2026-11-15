@@ -1,26 +1,203 @@
 {
- "companies": 267,
- "boards_found": 207,
- "jobs_scanned": 11376,
+ "companies": 410,
+ "boards_found": 306,
+ "jobs_scanned": 15796,
  "by_ats": {
-  "workable": 35,
-  "greenhouse": 70,
-  "ashby": 85,
-  "lever": 17
+  "workable": 55,
+  "greenhouse": 107,
+  "ashby": 125,
+  "lever": 18,
+  "smartrecruiters": 1
  },
  "failures": [
   {
-   "company": "Spring Health",
-   "error": "no board found (all 404)"
+   "company": "Rox",
+   "error": "smartrecruiters/rox: empty smartrecruiters board"
+  },
+  {
+   "company": "fal",
+   "error": "smartrecruiters/fal: empty smartrecruiters board"
+  },
+  {
+   "company": "Hipcamp",
+   "error": "smartrecruiters/hipcamp: empty smartrecruiters board"
+  },
+  {
+   "company": "Popfly",
+   "error": "smartrecruiters/popfly: empty smartrecruiters board"
+  },
+  {
+   "company": "Proscia",
+   "error": "smartrecruiters/proscia: empty smartrecruiters board"
+  },
+  {
+   "company": "Sully.ai",
+   "error": "smartrecruiters/sullyai: empty smartrecruiters board"
+  },
+  {
+   "company": "Navina",
+   "error": "smartrecruiters/navina: empty smartrecruiters board"
+  },
+  {
+   "company": "Coasts.dev",
+   "error": "smartrecruiters/coastsdev: empty smartrecruiters board"
+  },
+  {
+   "company": "Insight Health AI",
+   "error": "smartrecruiters/insighthealthai: empty smartrecruiters board; smartrecruiters/insight-health-ai: empty smartrecruiters board"
+  },
+  {
+   "company": "Meditopia",
+   "error": "smartrecruiters/meditopia: empty smartrecruiters board"
+  },
+  {
+   "company": "Turquoise",
+   "error": "smartrecruiters/turquoise: empty smartrecruiters board"
+  },
+  {
+   "company": "Kouper",
+   "error": "smartrecruiters/kouper: empty smartrecruiters board"
+  },
+  {
+   "company": "Propensity",
+   "error": "smartrecruiters/propensity: empty smartrecruiters board"
+  },
+  {
+   "company": "CloudNine",
+   "error": "smartrecruiters/cloudnine: empty smartrecruiters board"
+  },
+  {
+   "company": "Digioh",
+   "error": "smartrecruiters/digioh: empty smartrecruiters board"
+  },
+  {
+   "company": "Itemize",
+   "error": "smartrecruiters/itemize: empty smartrecruiters board"
+  },
+  {
+   "company": "Cengage",
+   "error": "smartrecruiters/cengage: empty smartrecruiters board"
+  },
+  {
+   "company": "ModMed",
+   "error": "smartrecruiters/modmed: empty smartrecruiters board"
+  },
+  {
+   "company": "Numerated",
+   "error": "smartrecruiters/numerated: empty smartrecruiters board"
+  },
+  {
+   "company": "Impilo",
+   "error": "smartrecruiters/impilo: empty smartrecruiters board"
+  },
+  {
+   "company": "Denodo",
+   "error": "smartrecruiters/denodo: empty smartrecruiters board"
+  },
+  {
+   "company": "Virsec",
+   "error": "smartrecruiters/virsec: empty smartrecruiters board"
+  },
+  {
+   "company": "Fundraise Up",
+   "error": "smartrecruiters/fundraiseup: empty smartrecruiters board; smartrecruiters/fundraise-up: empty smartrecruiters board"
+  },
+  {
+   "company": "Placer.ai",
+   "error": "smartrecruiters/placerai: empty smartrecruiters board"
+  },
+  {
+   "company": "AgentSync",
+   "error": "smartrecruiters/agentsync: empty smartrecruiters board"
+  },
+  {
+   "company": "CrowdStrike",
+   "error": "smartrecruiters/crowdstrike: empty smartrecruiters board"
+  },
+  {
+   "company": "The Swarm",
+   "error": "smartrecruiters/theswarm: empty smartrecruiters board; smartrecruiters/the-swarm: empty smartrecruiters board"
+  },
+  {
+   "company": "Egnyte",
+   "error": "smartrecruiters/egnyte: empty smartrecruiters board"
+  },
+  {
+   "company": "Paperplane",
+   "error": "smartrecruiters/paperplane: empty smartrecruiters board"
+  },
+  {
+   "company": "Crossbeam",
+   "error": "smartrecruiters/crossbeam: empty smartrecruiters board"
+  },
+  {
+   "company": "CHEQ",
+   "error": "smartrecruiters/cheq: empty smartrecruiters board"
+  },
+  {
+   "company": "Catalyst Software",
+   "error": "smartrecruiters/catalystsoftware: empty smartrecruiters board; workable/catalyst-software: HTTP Error 429: Too Many Requests; smartrecruiters/catalyst-software: empty smartrecruiters board"
+  },
+  {
+   "company": "Backcountry",
+   "error": "smartrecruiters/backcountry: empty smartrecruiters board"
+  },
+  {
+   "company": "Patagonia",
+   "error": "smartrecruiters/patagonia: empty smartrecruiters board"
+  },
+  {
+   "company": "Clif Bar",
+   "error": "smartrecruiters/clifbar: empty smartrecruiters board; workable/clif-bar: HTTP Error 429: Too Many Requests; smartrecruiters/clif-bar: empty smartrecruiters board"
+  },
+  {
+   "company": "Black Diamond Equipment",
+   "error": "smartrecruiters/blackdiamondequipment: empty smartrecruiters board; workable/black-diamond-equipment: HTTP Error 429: Too Many Requests; smartrecruiters/black-diamond-equipment: empty smartrecruiters board"
+  },
+  {
+   "company": "Rossignol Group",
+   "error": "smartrecruiters/rossignolgroup: empty smartrecruiters board; workable/rossignol-group: HTTP Error 429: Too Many Requests; smartrecruiters/rossignol-group: empty smartrecruiters board"
+  },
+  {
+   "company": "Columbia Sportswear Company",
+   "error": "smartrecruiters/columbiasportswearcompany: empty smartrecruiters board; workable/columbia-sportswear-company: HTTP Error 429: Too Many Requests; smartrecruiters/columbia-sportswear-company: empty smartrecruiters board"
+  },
+  {
+   "company": "Hippocratic AI",
+   "error": "workable/hippocraticai: HTTP Error 429: Too Many Requests; smartrecruiters/hippocraticai: empty smartrecruiters board; smartrecruiters/hippocratic-ai: empty smartrecruiters board"
+  },
+  {
+   "company": "env0",
+   "error": "workable/env0: HTTP Error 429: Too Many Requests; smartrecruiters/env0: empty smartrecruiters board"
+  },
+  {
+   "company": "DAT Freight & Analytics",
+   "error": "workable/datfreightanalytics: HTTP Error 429: Too Many Requests; smartrecruiters/datfreightanalytics: empty smartrecruiters board; workable/dat-freight--analytics: HTTP Error 429: Too Many Requests; smartrecruiters/dat-freight--analytics: empty smartrecruiters board"
+  },
+  {
+   "company": "N-able",
+   "error": "workable/nable: HTTP Error 429: Too Many Requests; smartrecruiters/nable: empty smartrecruiters board"
+  },
+  {
+   "company": "Shopify",
+   "error": "workable/shopify: HTTP Error 429: Too Many Requests; smartrecruiters/shopify: empty smartrecruiters board"
+  },
+  {
+   "company": "ExpertVoice",
+   "error": "workable/expertvoice: HTTP Error 429: Too Many Requests; smartrecruiters/expertvoice: empty smartrecruiters board"
+  },
+  {
+   "company": "Quantinuum",
+   "error": "workable/quantinuum: HTTP Error 429: Too Many Requests; smartrecruiters/quantinuum: empty smartrecruiters board"
   }
  ],
  "dropped": {
-  "title": 10124,
-  "location": 812,
-  "age": 300
+  "title": 13854,
+  "location": 994,
+  "age": 697
  },
- "run_at": "2026-11-15T20:26:44.933146+00:00",
+ "run_at": "2026-11-15T20:41:38.452073+00:00",
  "first_run": false,
- "matched_open": 132,
- "new": 132
+ "matched_open": 235,
+ "new": 235
 }
