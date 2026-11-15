@@ -1,0 +1,1028 @@
+{
+ "detected": {
+  "15Five": {
+   "ats": "lever",
+   "slug": "15five"
+  },
+  "1Password": {
+   "ats": "ashby",
+   "slug": "1password"
+  },
+  "1upHealth": {
+   "ats": "ashby",
+   "slug": "1uphealth"
+  },
+  "Abridge": {
+   "ats": "ashby",
+   "slug": "abridge"
+  },
+  "Ada": {
+   "ats": "workable",
+   "slug": "ada"
+  },
+  "Affirm": {
+   "ats": "greenhouse",
+   "slug": "affirm"
+  },
+  "Airbyte": {
+   "ats": "ashby",
+   "slug": "airbyte"
+  },
+  "Airtable": {
+   "ats": "greenhouse",
+   "slug": "airtable"
+  },
+  "Airwallex": {
+   "ats": "ashby",
+   "slug": "airwallex"
+  },
+  "Alloy": {
+   "ats": "greenhouse",
+   "slug": "alloy"
+  },
+  "Alma": {
+   "ats": "ashby",
+   "slug": "alma"
+  },
+  "Ambience Healthcare": {
+   "ats": "ashby",
+   "slug": "ambiencehealthcare"
+  },
+  "Ampersand": {
+   "ats": "ashby",
+   "slug": "ampersand"
+  },
+  "Amplitude": {
+   "ats": "ashby",
+   "slug": "amplitude"
+  },
+  "Anthropic": {
+   "ats": "greenhouse",
+   "slug": "anthropic"
+  },
+  "Apollo.io": {
+   "ats": "greenhouse",
+   "slug": "apolloio"
+  },
+  "Appcues": {
+   "ats": "ashby",
+   "slug": "appcues"
+  },
+  "Argyle": {
+   "ats": "workable",
+   "slug": "argyle"
+  },
+  "Artera": {
+   "ats": "lever",
+   "slug": "artera"
+  },
+  "Asana": {
+   "ats": "greenhouse",
+   "slug": "asana"
+  },
+  "Ashby": {
+   "ats": "ashby",
+   "slug": "ashby"
+  },
+  "Atomic": {
+   "ats": "ashby",
+   "slug": "atomic"
+  },
+  "Attio": {
+   "ats": "ashby",
+   "slug": "attio"
+  },
+  "BambooHR": {
+   "ats": "workable",
+   "slug": "bamboohr"
+  },
+  "Bill.com": {
+   "ats": "greenhouse",
+   "slug": "billcom"
+  },
+  "Bolt": {
+   "ats": "ashby",
+   "slug": "bolt"
+  },
+  "Brex": {
+   "ats": "greenhouse",
+   "slug": "brex"
+  },
+  "Brightwheel": {
+   "ats": "ashby",
+   "slug": "brightwheel"
+  },
+  "Calendly": {
+   "ats": "greenhouse",
+   "slug": "calendly"
+  },
+  "Canva": {
+   "ats": "workable",
+   "slug": "canva"
+  },
+  "Canvas Medical": {
+   "ats": "lever",
+   "slug": "canvasmedical"
+  },
+  "Carbon Health": {
+   "ats": "ashby",
+   "slug": "carbonhealth"
+  },
+  "Catalyst": {
+   "ats": "ashby",
+   "slug": "catalyst"
+  },
+  "Cedar": {
+   "ats": "ashby",
+   "slug": "cedar"
+  },
+  "Census": {
+   "ats": "workable",
+   "slug": "census"
+  },
+  "Chargebee": {
+   "ats": "workable",
+   "slug": "chargebee"
+  },
+  "Check": {
+   "ats": "workable",
+   "slug": "check"
+  },
+  "Checkr": {
+   "ats": "greenhouse",
+   "slug": "checkr"
+  },
+  "Chili Piper": {
+   "ats": "ashby",
+   "slug": "chilipiper"
+  },
+  "Clay": {
+   "ats": "ashby",
+   "slug": "claylabs"
+  },
+  "Coalition": {
+   "ats": "greenhouse",
+   "slug": "coalition"
+  },
+  "Cohere": {
+   "ats": "ashby",
+   "slug": "cohere"
+  },
+  "Cologix": {
+   "ats": "lever",
+   "slug": "cologix"
+  },
+  "Color Health": {
+   "ats": "workable",
+   "slug": "color"
+  },
+  "Column": {
+   "ats": "ashby",
+   "slug": "column"
+  },
+  "Commure": {
+   "ats": "ashby",
+   "slug": "commure"
+  },
+  "Conga": {
+   "ats": "greenhouse",
+   "slug": "conga"
+  },
+  "Consensus": {
+   "ats": "workable",
+   "slug": "consensus"
+  },
+  "Cribl": {
+   "ats": "greenhouse",
+   "slug": "cribl"
+  },
+  "Culture Amp": {
+   "ats": "greenhouse",
+   "slug": "cultureamp"
+  },
+  "Cursor": {
+   "ats": "ashby",
+   "slug": "cursor"
+  },
+  "Datadog": {
+   "ats": "greenhouse",
+   "slug": "datadog"
+  },
+  "Decagon": {
+   "ats": "ashby",
+   "slug": "decagon"
+  },
+  "Deel": {
+   "ats": "ashby",
+   "slug": "deel"
+  },
+  "Docusign": {
+   "ats": "lever",
+   "slug": "docusign"
+  },
+  "Drata": {
+   "ats": "ashby",
+   "slug": "drata"
+  },
+  "Dwolla": {
+   "ats": "lever",
+   "slug": "dwolla"
+  },
+  "Elation Health": {
+   "ats": "greenhouse",
+   "slug": "elationhealth"
+  },
+  "ElevenLabs": {
+   "ats": "ashby",
+   "slug": "elevenlabs"
+  },
+  "Figma": {
+   "ats": "greenhouse",
+   "slug": "figma"
+  },
+  "Finix": {
+   "ats": "lever",
+   "slug": "finix"
+  },
+  "Fivetran": {
+   "ats": "greenhouse",
+   "slug": "fivetran"
+  },
+  "Flatiron Health": {
+   "ats": "greenhouse",
+   "slug": "flatironhealth"
+  },
+  "Front": {
+   "ats": "workable",
+   "slug": "front"
+  },
+  "FullStory": {
+   "ats": "ashby",
+   "slug": "fullstory"
+  },
+  "Garner Health": {
+   "ats": "greenhouse",
+   "slug": "garnerhealth"
+  },
+  "Gem": {
+   "ats": "workable",
+   "slug": "gem"
+  },
+  "Glean": {
+   "ats": "greenhouse",
+   "slug": "gleanwork"
+  },
+  "Gorgias": {
+   "ats": "ashby",
+   "slug": "gorgias"
+  },
+  "Grafana Labs": {
+   "ats": "greenhouse",
+   "slug": "grafanalabs"
+  },
+  "Guild": {
+   "ats": "greenhouse",
+   "slug": "guild"
+  },
+  "Gusto": {
+   "ats": "greenhouse",
+   "slug": "gusto"
+  },
+  "Harvey": {
+   "ats": "ashby",
+   "slug": "harvey"
+  },
+  "Headway": {
+   "ats": "ashby",
+   "slug": "headway"
+  },
+  "Health Gorilla": {
+   "ats": "ashby",
+   "slug": "healthgorilla"
+  },
+  "Healthie": {
+   "ats": "greenhouse",
+   "slug": "healthie"
+  },
+  "Heap": {
+   "ats": "workable",
+   "slug": "heap"
+  },
+  "Hex": {
+   "ats": "ashby",
+   "slug": "hex"
+  },
+  "Highnote": {
+   "ats": "greenhouse",
+   "slug": "highnote"
+  },
+  "Hightouch": {
+   "ats": "ashby",
+   "slug": "hightouch"
+  },
+  "Homebot": {
+   "ats": "ashby",
+   "slug": "homebot"
+  },
+  "Honeycomb": {
+   "ats": "greenhouse",
+   "slug": "honeycomb"
+  },
+  "Huntress": {
+   "ats": "workable",
+   "slug": "huntress"
+  },
+  "Ibotta": {
+   "ats": "ashby",
+   "slug": "ibotta"
+  },
+  "Included Health": {
+   "ats": "lever",
+   "slug": "includedhealth"
+  },
+  "Increase": {
+   "ats": "lever",
+   "slug": "increase"
+  },
+  "Infinitus": {
+   "ats": "ashby",
+   "slug": "infinitus"
+  },
+  "Innovaccer": {
+   "ats": "workable",
+   "slug": "innovaccer"
+  },
+  "Intercom": {
+   "ats": "workable",
+   "slug": "intercom"
+  },
+  "Ironclad": {
+   "ats": "ashby",
+   "slug": "ironcladhq"
+  },
+  "Jane App": {
+   "ats": "ashby",
+   "slug": "jane"
+  },
+  "Jasper": {
+   "ats": "workable",
+   "slug": "jasper"
+  },
+  "JumpCloud": {
+   "ats": "lever",
+   "slug": "jumpcloud"
+  },
+  "Justifi": {
+   "ats": "workable",
+   "slug": "justifi"
+  },
+  "Justworks": {
+   "ats": "greenhouse",
+   "slug": "justworks"
+  },
+  "Komodo Health": {
+   "ats": "greenhouse",
+   "slug": "komodohealth"
+  },
+  "Kustomer": {
+   "ats": "ashby",
+   "slug": "kustomer"
+  },
+  "Lattice": {
+   "ats": "greenhouse",
+   "slug": "lattice"
+  },
+  "LaunchDarkly": {
+   "ats": "greenhouse",
+   "slug": "launchdarkly"
+  },
+  "Linear": {
+   "ats": "ashby",
+   "slug": "linear"
+  },
+  "Lithic": {
+   "ats": "greenhouse",
+   "slug": "lithic"
+  },
+  "Loom": {
+   "ats": "ashby",
+   "slug": "loom"
+  },
+  "Lovable": {
+   "ats": "greenhouse",
+   "slug": "lovable"
+  },
+  "Luma Health": {
+   "ats": "greenhouse",
+   "slug": "lumahealth"
+  },
+  "Lyra Health": {
+   "ats": "ashby",
+   "slug": "lyrahealth"
+  },
+  "Melio": {
+   "ats": "greenhouse",
+   "slug": "melio"
+  },
+  "Mercury": {
+   "ats": "greenhouse",
+   "slug": "mercury"
+  },
+  "Mesh": {
+   "ats": "greenhouse",
+   "slug": "mesh"
+  },
+  "Metronome": {
+   "ats": "greenhouse",
+   "slug": "metronome"
+  },
+  "Middesk": {
+   "ats": "ashby",
+   "slug": "middesk"
+  },
+  "Miro": {
+   "ats": "ashby",
+   "slug": "miro"
+  },
+  "Mixpanel": {
+   "ats": "greenhouse",
+   "slug": "mixpanel"
+  },
+  "Modal": {
+   "ats": "ashby",
+   "slug": "modal"
+  },
+  "Modern Treasury": {
+   "ats": "ashby",
+   "slug": "moderntreasury"
+  },
+  "Moov": {
+   "ats": "workable",
+   "slug": "moov"
+  },
+  "Mutiny": {
+   "ats": "ashby",
+   "slug": "mutiny"
+  },
+  "Nabla": {
+   "ats": "ashby",
+   "slug": "nabla"
+  },
+  "Navan": {
+   "ats": "workable",
+   "slug": "navan"
+  },
+  "Navattic": {
+   "ats": "ashby",
+   "slug": "navattic"
+  },
+  "Neon": {
+   "ats": "ashby",
+   "slug": "neon"
+  },
+  "Netlify": {
+   "ats": "greenhouse",
+   "slug": "netlify"
+  },
+  "Nium": {
+   "ats": "lever",
+   "slug": "nium"
+  },
+  "Nomi Health": {
+   "ats": "lever",
+   "slug": "nomihealth"
+  },
+  "Notable": {
+   "ats": "ashby",
+   "slug": "notable"
+  },
+  "Notion": {
+   "ats": "ashby",
+   "slug": "notion"
+  },
+  "Okta": {
+   "ats": "greenhouse",
+   "slug": "okta"
+  },
+  "Omada Health": {
+   "ats": "greenhouse",
+   "slug": "omadahealth"
+  },
+  "OpenAI": {
+   "ats": "ashby",
+   "slug": "openai"
+  },
+  "Orb": {
+   "ats": "greenhouse",
+   "slug": "withorb"
+  },
+  "Oscar Health": {
+   "ats": "greenhouse",
+   "slug": "oscar"
+  },
+  "Outreach": {
+   "ats": "lever",
+   "slug": "outreach"
+  },
+  "Oyster": {
+   "ats": "ashby",
+   "slug": "oyster"
+  },
+  "Paddle": {
+   "ats": "ashby",
+   "slug": "paddle"
+  },
+  "PandaDoc": {
+   "ats": "greenhouse",
+   "slug": "pandadoc"
+  },
+  "Payabli": {
+   "ats": "ashby",
+   "slug": "payabli"
+  },
+  "Paylocity": {
+   "ats": "workable",
+   "slug": "paylocity"
+  },
+  "Pendo": {
+   "ats": "greenhouse",
+   "slug": "pendo"
+  },
+  "Persona": {
+   "ats": "ashby",
+   "slug": "persona"
+  },
+  "Pilot": {
+   "ats": "workable",
+   "slug": "pilot"
+  },
+  "Pinecone": {
+   "ats": "ashby",
+   "slug": "pinecone"
+  },
+  "Ping Identity": {
+   "ats": "greenhouse",
+   "slug": "pingidentity"
+  },
+  "Plaid": {
+   "ats": "ashby",
+   "slug": "plaid"
+  },
+  "PlanetScale": {
+   "ats": "greenhouse",
+   "slug": "planetscale"
+  },
+  "Planhat": {
+   "ats": "ashby",
+   "slug": "planhat"
+  },
+  "PostHog": {
+   "ats": "ashby",
+   "slug": "posthog"
+  },
+  "Postman": {
+   "ats": "workable",
+   "slug": "postman"
+  },
+  "Procore": {
+   "ats": "workable",
+   "slug": "procore"
+  },
+  "Prodigal": {
+   "ats": "greenhouse",
+   "slug": "prodigal"
+  },
+  "Rainforest": {
+   "ats": "workable",
+   "slug": "rainforest"
+  },
+  "Ramp": {
+   "ats": "greenhouse",
+   "slug": "ramp"
+  },
+  "Recurly": {
+   "ats": "workable",
+   "slug": "recurly"
+  },
+  "Redox": {
+   "ats": "workable",
+   "slug": "redox"
+  },
+  "Remote": {
+   "ats": "workable",
+   "slug": "remote"
+  },
+  "Render": {
+   "ats": "ashby",
+   "slug": "render"
+  },
+  "Replit": {
+   "ats": "ashby",
+   "slug": "replit"
+  },
+  "Rho": {
+   "ats": "ashby",
+   "slug": "rho"
+  },
+  "Ripple": {
+   "ats": "greenhouse",
+   "slug": "ripple"
+  },
+  "Rippling": {
+   "ats": "workable",
+   "slug": "rippling"
+  },
+  "Ro": {
+   "ats": "lever",
+   "slug": "ro"
+  },
+  "Rocketlane": {
+   "ats": "workable",
+   "slug": "rocketlane"
+  },
+  "Routable": {
+   "ats": "workable",
+   "slug": "routable"
+  },
+  "Rula": {
+   "ats": "ashby",
+   "slug": "rula"
+  },
+  "Salesloft": {
+   "ats": "greenhouse",
+   "slug": "salesloft"
+  },
+  "Samsara": {
+   "ats": "greenhouse",
+   "slug": "samsara"
+  },
+  "Sardine": {
+   "ats": "ashby",
+   "slug": "sardine"
+  },
+  "Scale AI": {
+   "ats": "greenhouse",
+   "slug": "scaleai"
+  },
+  "Secureframe": {
+   "ats": "ashby",
+   "slug": "secureframe"
+  },
+  "Segment": {
+   "ats": "workable",
+   "slug": "segment"
+  },
+  "Sentry": {
+   "ats": "ashby",
+   "slug": "sentry"
+  },
+  "ServiceTitan": {
+   "ats": "workable",
+   "slug": "servicetitan"
+  },
+  "Sezzle": {
+   "ats": "greenhouse",
+   "slug": "sezzle"
+  },
+  "Sierra": {
+   "ats": "ashby",
+   "slug": "sierra"
+  },
+  "SmarterDx": {
+   "ats": "greenhouse",
+   "slug": "smarterdx"
+  },
+  "Socure": {
+   "ats": "ashby",
+   "slug": "socure"
+  },
+  "Sonder": {
+   "ats": "ashby",
+   "slug": "sonder"
+  },
+  "SonderMind": {
+   "ats": "ashby",
+   "slug": "sondermind"
+  },
+  "SpotHero": {
+   "ats": "greenhouse",
+   "slug": "spothero"
+  },
+  "Stax": {
+   "ats": "workable",
+   "slug": "staxpayments"
+  },
+  "Strava": {
+   "ats": "ashby",
+   "slug": "strava"
+  },
+  "Stripe": {
+   "ats": "greenhouse",
+   "slug": "stripe"
+  },
+  "Suki": {
+   "ats": "greenhouse",
+   "slug": "suki"
+  },
+  "Supabase": {
+   "ats": "ashby",
+   "slug": "supabase"
+  },
+  "Sword Health": {
+   "ats": "greenhouse",
+   "slug": "swordhealth"
+  },
+  "Synctera": {
+   "ats": "ashby",
+   "slug": "synctera"
+  },
+  "Talkiatry": {
+   "ats": "ashby",
+   "slug": "talkiatry"
+  },
+  "Tebra": {
+   "ats": "greenhouse",
+   "slug": "tebra"
+  },
+  "Temporal": {
+   "ats": "ashby",
+   "slug": "temporal"
+  },
+  "Tempus": {
+   "ats": "workable",
+   "slug": "tempus"
+  },
+  "Thoropass": {
+   "ats": "greenhouse",
+   "slug": "thoropass"
+  },
+  "Tines": {
+   "ats": "greenhouse",
+   "slug": "tines"
+  },
+  "Toast": {
+   "ats": "greenhouse",
+   "slug": "toast"
+  },
+  "Transcarent": {
+   "ats": "lever",
+   "slug": "transcarent"
+  },
+  "Treasury Prime": {
+   "ats": "greenhouse",
+   "slug": "treasuryprime"
+  },
+  "Twilio": {
+   "ats": "greenhouse",
+   "slug": "twilio"
+  },
+  "Unit": {
+   "ats": "ashby",
+   "slug": "unit"
+  },
+  "Vanta": {
+   "ats": "ashby",
+   "slug": "vanta"
+  },
+  "Velocity Global": {
+   "ats": "lever",
+   "slug": "velocityglobal"
+  },
+  "Vercel": {
+   "ats": "greenhouse",
+   "slug": "vercel"
+  },
+  "Virta Health": {
+   "ats": "ashby",
+   "slug": "virtahealth"
+  },
+  "Vitally": {
+   "ats": "ashby",
+   "slug": "vitally"
+  },
+  "Walnut": {
+   "ats": "greenhouse",
+   "slug": "walnut"
+  },
+  "Webflow": {
+   "ats": "greenhouse",
+   "slug": "webflow"
+  },
+  "Writer": {
+   "ats": "ashby",
+   "slug": "writer"
+  },
+  "Zapier": {
+   "ats": "ashby",
+   "slug": "zapier"
+  },
+  "Zocdoc": {
+   "ats": "greenhouse",
+   "slug": "zocdoc"
+  },
+  "Zus Health": {
+   "ats": "lever",
+   "slug": "zushealth"
+  },
+  "monday.com": {
+   "ats": "workable",
+   "slug": "monday"
+  }
+ },
+ "first_seen": {
+  "ashby:1password:3b1dd358-261b-440e-9277-6dc786a5a9d0": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:1password:63059a05-03d1-4a4f-908c-8daa721cce90": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:amplitude:fcd83232-aaa4-4d50-b67c-2b7921f99c6a": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:ashby:2b401986-a491-4f9b-9c22-63079bcd64c2": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:ashby:d46e79d4-43fd-477f-aa06-25b604715223": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:ashby:dd3601fc-3a21-467b-aaff-43fceb65864b": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:chilipiper:9caf9cb4-b51d-4f20-b269-dadca1c1f2a9": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:claylabs:7111f7da-3405-433a-8814-f2504c32210b": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:claylabs:7d362dfe-02b5-48a6-bce3-67f9de9724d0": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:claylabs:a8584148-6546-4ffa-991c-6f4976376201": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:cursor:053a8b5a-32bc-4a08-8dad-b4fc20f2883c": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:cursor:236b6232-a98b-43c0-a0ed-d2b475b8e579": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:cursor:8d4e9639-3e65-46d1-a1e7-e5facaefcb00": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:elevenlabs:7758cdc5-b5c9-4a5c-8c80-11678f7cba9d": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:elevenlabs:8c068ebf-c79f-4f12-97ef-b4c9a4f7ae5f": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:elevenlabs:a605e308-0d28-42b6-8cbb-03cc7799cecc": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:fullstory:740cc466-d9f7-4ebc-a355-3376ad4355fe": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:harvey:1b468ce7-37a6-4fd4-89a0-d706cc051190": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:harvey:5a22d5da-6be0-4f97-87d2-bb6a52aba554": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:harvey:86e675fd-51af-42f9-9e1f-e61f1dcdbe2d": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:harvey:905454df-38a7-44bb-8ea0-b93b1d85b04c": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:harvey:993e43fa-a9a1-45be-9d74-3a96c7c303ef": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:harvey:9f47cf57-4297-4f55-ae26-4196dced1b7a": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:harvey:cb89e7ec-6643-4cfa-b4d6-ce34b345f46a": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:headway:561b5c8b-89f0-4a0f-8c4c-205d0b088db1": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:headway:6b45d60c-8458-49a3-ab36-f25b70ad407f": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:headway:9ee51a07-c54d-49cc-a5bb-97870188fd4b": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:headway:c36c74bf-5e65-466e-997b-3adb451daa1d": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:hex:0a23df90-2eea-44f6-862b-666e0431077f": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:ibotta:c363616d-a2c4-4c66-9194-324879723e8b": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:ironcladhq:11a49de7-4a92-482e-8788-bd1dfd72aace": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:middesk:6f90b4b1-c122-4f56-bb16-1773802bf148": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:middesk:d52261cb-260c-414a-af1e-9d055748b557": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:middesk:da406960-d70c-4a53-88bf-01879f55fe9b": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:openai:1790fe9e-2ac3-45df-894e-f731d243395f": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:openai:5d66a54f-ad89-4155-ac37-9dcd7d52db34": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:openai:7472e486-0aa6-4f9d-86da-2105a42b2dce": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:openai:83ac3381-99c0-46a0-897c-abcd8699b466": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:openai:8e7ba2dd-d632-4a8b-b95b-e2592f77a679": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:openai:9471b38b-f65c-4a01-9626-bd33fca90f1d": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:openai:9c1aa1f3-b4d0-48fa-814b-37d36ad0ad2e": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:openai:a12c3c93-51df-437d-862f-4892367fea32": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:openai:bc80a3ae-1e69-4a8d-8366-77fcdd56ff61": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:openai:c90cfa58-7513-4998-a1ce-f6168dd8fc95": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:oyster:69966551-1bb6-4675-869e-ba85f13178a6": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:pinecone:a50c376a-0216-40b2-9525-da89d47ef190": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:plaid:62ae216d-86c8-42ea-8590-0c0b7e68c464": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:rula:ab97133b-3d3d-4802-8202-e3c37f48c09e": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:sardine:9f34cfd0-7db2-454f-b94a-4468d204eb21": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:sardine:b03b9dc7-9655-4eda-b918-7acd3da2ffb0": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:sardine:f0b10b18-91a7-4348-bbb9-0c2ef697611f": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:secureframe:ee36ed6c-60cb-470e-a859-b2d3569924a9": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:sentry:2cdc2ba7-8406-452a-b84f-d94d8e7a09bb": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:sentry:9b759583-60d2-4673-9da6-026731956300": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:sierra:19d700ac-5624-42fc-ab2b-868c9a23c4ea": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:sierra:2b511f15-831c-4c6b-86f4-b5a8d38d8019": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:socure:4aba09cb-32f2-4a45-8815-88515f9711af": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:socure:6a039ad5-cb1e-45b9-bbe6-2384fd327c9f": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:socure:7a5e6026-eb48-4b5b-937e-3319259cd023": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:socure:a38e3c7f-314a-4dd4-8d83-b12d0c7d07e0": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:socure:b6999a41-7e41-4aaa-b954-fac98ed41f33": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:socure:f2330d9e-1c1d-493e-adb7-e7602efc789f": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:supabase:282d1dfb-b162-4ce4-a938-c4b2173230e0": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:temporal:1aa528e5-5076-4d98-8b07-92444c692ade": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:temporal:41c539a1-6ba5-41ad-925d-f2f2579b2acf": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:vanta:29e92503-fecf-4ac4-9de7-683390fb74c6": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:vanta:383e20b0-b2c5-4c4f-9406-46f0a671a7bc": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:vanta:9bafb795-a5bb-4a68-97c6-d914b64b2e7b": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:vanta:b64b6e72-7c71-446f-b6ce-662330b910e8": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:writer:2111a9b4-8dab-4562-9692-ad7cb2c7b968": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:writer:36f26077-4b85-4702-bf39-2f5d6c0ada78": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:writer:38376afc-7424-40c8-964f-8815d60d8dbf": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:writer:6ac02771-059b-490b-960b-f5616f255b65": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:writer:dcf1819e-6890-434f-8b72-8493bc35a7d2": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:affirm:8040794003": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:affirm:8044928003": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:airtable:8936208002": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:alloy:8927882002": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:alloy:8927887002": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:asana:8282422": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:asana:8311197": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:asana:8349347": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:billcom:6238926004": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:conga:5280608007": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:cribl:6224815004": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:cribl:6229859004": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:cribl:6240800004": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:datadog:8125958": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:datadog:8284995": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:datadog:8285486": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:datadog:8350824": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:fivetran:8034211003": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:fivetran:8042380003": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:fivetran:8047327003": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:fivetran:8196171003": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:grafanalabs:6231148004": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:grafanalabs:6236201004": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:grafanalabs:6236204004": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:grafanalabs:6239535004": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:grafanalabs:6239632004": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:grafanalabs:6239639004": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:grafanalabs:6239644004": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:gusto:8248374": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:gusto:8346975": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:gusto:8346979": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:gusto:8347750": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:gusto:8353774": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:komodohealth:8933245002": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:mercury:6249882004": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:pendo:8933351002": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:pingidentity:8912619002": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:pingidentity:8912626002": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:pingidentity:8919623002": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:pingidentity:8937011002": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:samsara:8282629": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:samsara:8353150": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:samsara:8355866": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:samsara:8359386": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:samsara:8359531": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:samsara:8359847": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:samsara:8359855": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:samsara:8359860": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:samsara:8372624": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:stripe:8326098": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:stripe:8368260": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:suki:8202889003": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:toast:8334826": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:toast:8363046": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:toast:8374878": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:toast:8374880": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:twilio:8347887": "2026-11-15T20:19:26.903438+00:00",
+  "lever:outreach:752b3b1a-dcee-4c74-844d-c17705f46f37": "2026-11-15T20:19:26.903438+00:00"
+ },
+ "missing": {
+  "Abnormal Security": "2026-11-15T20:19:26.903438+00:00",
+  "Akido Labs": "2026-11-15T20:19:26.903438+00:00",
+  "Apartment List": "2026-11-15T20:19:26.903438+00:00",
+  "Arctic Wolf": "2026-11-15T20:19:26.903438+00:00",
+  "Arrows": "2026-11-15T20:19:26.903438+00:00",
+  "Ascent": "2026-11-15T20:19:26.903438+00:00",
+  "Athelas": "2026-11-15T20:19:26.903438+00:00",
+  "Bluebeam": "2026-11-15T20:19:26.903438+00:00",
+  "Chameleon": "2026-11-15T20:19:26.903438+00:00",
+  "Chime": "2026-11-15T20:19:26.903438+00:00",
+  "ChurnZero": "2026-11-15T20:19:26.903438+00:00",
+  "Cityblock Health": "2026-11-15T20:19:26.903438+00:00",
+  "Common Room": "2026-11-15T20:19:26.903438+00:00",
+  "Craft": "2026-11-15T20:19:26.903438+00:00",
+  "Devoted Health": "2026-11-15T20:19:26.903438+00:00",
+  "DispatchHealth": "2026-11-15T20:19:26.903438+00:00",
+  "EvenUp": "2026-11-15T20:19:26.903438+00:00",
+  "Ever.Ag": "2026-11-15T20:19:26.903438+00:00",
+  "Forage": "2026-11-15T20:19:26.903438+00:00",
+  "Frontline Education": "2026-11-15T20:19:26.903438+00:00",
+  "FullContact": "2026-11-15T20:19:26.903438+00:00",
+  "GUIDEcx": "2026-11-15T20:19:26.903438+00:00",
+  "Gloo": "2026-11-15T20:19:26.903438+00:00",
+  "Healthgrades": "2026-11-15T20:19:26.903438+00:00",
+  "Hebbia": "2026-11-15T20:19:26.903438+00:00",
+  "Hims & Hers": "2026-11-15T20:19:26.903438+00:00",
+  "Hinge Health": "2026-11-15T20:19:26.903438+00:00",
+  "Imagine Learning": "2026-11-15T20:19:26.903438+00:00",
+  "Inspirato": "2026-11-15T20:19:26.903438+00:00",
+  "Leapsome": "2026-11-15T20:19:26.903438+00:00",
+  "LogRhythm": "2026-11-15T20:19:26.903438+00:00",
+  "Marqeta": "2026-11-15T20:19:26.903438+00:00",
+  "Maxio": "2026-11-15T20:19:26.903438+00:00",
+  "Medplum": "2026-11-15T20:19:26.903438+00:00",
+  "Mistral": "2026-11-15T20:19:26.903438+00:00",
+  "Papaya Global": "2026-11-15T20:19:26.903438+00:00",
+  "Particle": "2026-11-15T20:19:26.903438+00:00",
+  "Particle Health": "2026-11-15T20:19:26.903438+00:00",
+  "Pax8": "2026-11-15T20:19:26.903438+00:00",
+  "Phreesia": "2026-11-15T20:19:26.903438+00:00",
+  "Pinwheel": "2026-11-15T20:19:26.903438+00:00",
+  "Pocus": "2026-11-15T20:19:26.903438+00:00",
+  "Qualified Health": "2026-11-15T20:19:26.903438+00:00",
+  "Retool": "2026-11-15T20:19:26.903438+00:00",
+  "SimplePractice": "2026-11-15T20:19:26.903438+00:00",
+  "Spellbook": "2026-11-15T20:19:26.903438+00:00",
+  "Spring Health": "2026-11-15T20:19:26.903438+00:00",
+  "Statsig": "2026-11-15T20:19:26.903438+00:00",
+  "Thyme Care": "2026-11-15T20:19:26.903438+00:00",
+  "Tilled": "2026-11-15T20:19:26.903438+00:00",
+  "Tipalti": "2026-11-15T20:19:26.903438+00:00",
+  "Totango": "2026-11-15T20:19:26.903438+00:00",
+  "Uplight": "2026-11-15T20:19:26.903438+00:00",
+  "Userpilot": "2026-11-15T20:19:26.903438+00:00",
+  "Viz.ai": "2026-11-15T20:19:26.903438+00:00",
+  "WebPT": "2026-11-15T20:19:26.903438+00:00",
+  "Weights & Biases": "2026-11-15T20:19:26.903438+00:00",
+  "Welltok": "2026-11-15T20:19:26.903438+00:00",
+  "Zayo": "2026-11-15T20:19:26.903438+00:00",
+  "dbt Labs": "2026-11-15T20:19:26.903438+00:00"
+ }
+}
