@@ -348,16 +348,18 @@ def fetch_company(c, state):
         if miss and (NOW - datetime.fromisoformat(miss)).days < 7:
             return [], None, None, "not found (rechecks weekly)"
         tries = [(a, s) for s in slug_candidates(c) for a in DETECT_ORDER]
-    last_err = None
+    errs = []
     for ats, slug in tries:
         try:
             jobs = ADAPTERS[ats](name, slug)
             return jobs, ats, slug, None
         except Exception as e:  # noqa: BLE001
-            last_err = f"{ats}/{slug}: {type(e).__name__}: {str(e)[:80]}"
+            msg = str(e)[:80]
+            if "404" not in msg:  # 404s are expected while detecting; keep the informative ones
+                errs.append(f"{ats}/{slug}: {msg}")
     if known:  # board moved or broke: forget it so next run re-detects
         state["detected"].pop(name, None)
-    return [], None, None, last_err or "no board found"
+    return [], None, None, "; ".join(errs[:4]) or "no board found (all 404)"
 
 
 # ---------------------------------------------------------------- main

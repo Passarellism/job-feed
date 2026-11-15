@@ -1299,13 +1299,11 @@
  },
  {
   "name": "Spring Health",
-  "slug": [
-   "springhealth66",
-   "springhealth"
-  ],
+  "slug": "springhealth66",
   "tags": [
    "healthtech"
-  ]
+  ],
+  "ats": "greenhouse"
  },
  {
   "name": "Omada Health",
