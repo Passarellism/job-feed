@@ -42,7 +42,7 @@
  "ashby:cursor:053a8b5a-32bc-4a08-8dad-b4fc20f2883c": {
   "company": "Cursor",
   "first_seen": "2026-11-15T12:00:00+00:00",
-  "outcome": "Worth a look (5)",
+  "outcome": "Closed (posting removed, reported by Steve 2026-11-16)",
   "role": "AI Deployment Manager, Scale",
   "source": "Company board",
   "url": "https://jobs.ashbyhq.com/cursor/053a8b5a-32bc-4a08-8dad-b4fc20f2883c"
@@ -50,7 +50,7 @@
  "ashby:cursor:53dcb040-7a27-4164-b380-9bb0a0a8c5f1": {
   "company": "Cursor",
   "first_seen": "2026-11-15T12:00:00+00:00",
-  "outcome": "Shown (fit 7)",
+  "outcome": "Closed (posting removed, reported by Steve 2026-11-16)",
   "role": "Sales Development Representative - SF / NY",
   "source": "Company board",
   "url": "https://jobs.ashbyhq.com/cursor/53dcb040-7a27-4164-b380-9bb0a0a8c5f1"
@@ -58,7 +58,7 @@
  "ashby:cursor:7178c350-7570-4b61-9a74-b190ab4d4a9a": {
   "company": "Cursor",
   "first_seen": "2026-11-15T12:00:00+00:00",
-  "outcome": "Shown (fit 7)",
+  "outcome": "Closed (posting removed, reported by Steve 2026-11-16)",
   "role": "Sales Development Representative - SF / NY",
   "source": "Company board",
   "url": "https://jobs.ashbyhq.com/cursor/7178c350-7570-4b61-9a74-b190ab4d4a9a"
@@ -66,7 +66,7 @@
  "ashby:cursor:8d4e9639-3e65-46d1-a1e7-e5facaefcb00": {
   "company": "Cursor",
   "first_seen": "2026-11-16T12:00:00+00:00",
-  "outcome": "Shown (fit 6)",
+  "outcome": "Closed (posting removed, reported by Steve 2026-11-16)",
   "role": "AI Deployment Manager",
   "source": "Company board",
   "url": "https://jobs.ashbyhq.com/cursor/8d4e9639-3e65-46d1-a1e7-e5facaefcb00"
@@ -408,7 +408,7 @@
  "builtin:11711488": {
   "company": "UpCodes",
   "first_seen": "2026-11-15T12:00:00+00:00",
-  "outcome": "Drafted - Built In apply (fit 7)",
+  "outcome": "Closed (posting removed, reported by Steve 2026-11-16)",
   "role": "Senior Sales Development Representative",
   "source": "Built In Colorado",
   "url": "https://www.builtinaustin.com/job/senior-sales-development-representative/9343485",
@@ -417,7 +417,7 @@
  "builtin:11711495": {
   "company": "UpCodes",
   "first_seen": "2026-11-15T12:00:00+00:00",
-  "outcome": "Low fit (5, junior version of the Senior SDR role drafted)",
+  "outcome": "Closed (posting removed, reported by Steve 2026-11-16)",
   "role": "Sales Development Representative",
   "source": "Built In Colorado"
  },
@@ -564,7 +564,7 @@
  "builtin:12157847": {
   "company": "Worth AI",
   "first_seen": "2026-11-15T12:00:00+00:00",
-  "outcome": "Shown (fit 7, no range)",
+  "outcome": "Closed (posting removed, reported by Steve 2026-11-16)",
   "role": "Customer Success Manager",
   "source": "Built In",
   "url_note": "no employer link found - search Built In by company"
@@ -602,7 +602,7 @@
  "builtin:12216285": {
   "company": "Forager",
   "first_seen": "2026-11-16T12:00:00+00:00",
-  "outcome": "Shown (fit 6, date unclear, no range)",
+  "outcome": "Closed (posting removed, reported by Steve 2026-11-16)",
   "role": "Sales Development Representative (Phone-First)",
   "source": "Built In SF",
   "url": "https://apply.workable.com/forager/jobs/view/0146BFF08A",
@@ -611,7 +611,7 @@
  "builtin:12228276": {
   "company": "Wavelynx Technologies",
   "first_seen": "2026-11-15T12:00:00+00:00",
-  "outcome": "Shown (fit 7)",
+  "outcome": "Closed (posting removed, reported by Steve 2026-11-16)",
   "role": "Sales Engineer",
   "source": "Built In Colorado",
   "url": "https://startup.jobs/sales-engineer-wavelynx-8216239",
@@ -628,7 +628,7 @@
  "builtin:12247224": {
   "company": "OpenGov",
   "first_seen": "2026-11-16T12:00:00+00:00",
-  "outcome": "Worth a look (5, date unclear)",
+  "outcome": "Closed (posting removed, reported by Steve 2026-11-16)",
   "role": "Sales Development Representative",
   "source": "Built In SF",
   "url": "https://jobs.lever.co/opengov",
@@ -646,7 +646,7 @@
  "builtin:12250717": {
   "company": "Criteria Corp",
   "first_seen": "2026-11-16T12:00:00+00:00",
-  "outcome": "Shown (fit 6, date unclear)",
+  "outcome": "Closed (posting removed, reported by Steve 2026-11-16)",
   "role": "Sales Development Rep (Remote in US)",
   "source": "Built In",
   "url": "https://www.builtincolorado.com/job/sales-development-rep-remote-us/9526379",
@@ -704,7 +704,7 @@
  "google:80691079921181382": {
   "company": "Google",
   "first_seen": "2026-11-15T12:00:00+00:00",
-  "outcome": "Referral - apply via referral (fit 5, details unverified)",
+  "outcome": "Passed (requires JD/MBA/MS; Steve has no advanced degree)",
   "role": "Technical Deal Consultant, gTech (Boulder)",
   "source": "Google careers",
   "url": "https://www.google.com/about/careers/applications/jobs/results/80691079921181382",
@@ -738,7 +738,7 @@
  "greenhouse:boulevard:4726990006": {
   "company": "Boulevard",
   "first_seen": "2026-11-16T17:48:10.002267+00:00",
-  "outcome": "Low fit (4; Senior SE, 5 yrs)",
+  "outcome": "Passed (Senior SE, not qualified)",
   "role": "Senior Solutions Engineer",
   "source": "Company board",
   "url": "https://job-boards.greenhouse.io/boulevard/jobs/4726990006"
@@ -801,7 +801,7 @@
  "greenhouse:contentful:8383550": {
   "company": "Contentful",
   "first_seen": "2026-11-16T17:48:10.002267+00:00",
-  "outcome": "Low fit (4; Senior SE, 5 yrs)",
+  "outcome": "Passed (Senior SE, not qualified)",
   "role": "Senior Solution Engineer",
   "source": "Company board",
   "url": "https://job-boards.greenhouse.io/contentful/jobs/8383550"
@@ -1140,7 +1140,7 @@
   "alias": "lv:aircall:07a9b353-a638-4876-b6fa-15cebc208fa3",
   "company": "Aircall",
   "first_seen": "2026-11-15T12:00:00+00:00",
-  "outcome": "Worth a look (5)",
+  "outcome": "Closed (posting removed, reported by Steve 2026-11-16)",
   "role": "Senior Sales Development Representative / Inbound SDR",
   "source": "Web search",
   "url": "https://jobs.lever.co/aircall/07a9b353-a638-4876-b6fa-15cebc208fa3"
@@ -1149,7 +1149,7 @@
   "alias": "lv:aircall:fa1fbed2-58e8-46b1-bd41-b0d37040e94f",
   "company": "Aircall",
   "first_seen": "2026-11-15T12:00:00+00:00",
-  "outcome": "Worth a look (5)",
+  "outcome": "Closed (posting removed, reported by Steve 2026-11-16)",
   "role": "Senior Solutions Engineer, Post Sales",
   "source": "Web search",
   "url": "https://jobs.lever.co/aircall/fa1fbed2-58e8-46b1-bd41-b0d37040e94f"
@@ -1404,7 +1404,7 @@
  "li:4491002361": {
   "company": "Ramp",
   "first_seen": "2026-11-15T12:00:00+00:00",
-  "outcome": "Referral - apply via referral (fit 5, LinkedIn only)",
+  "outcome": "Superseded (see ashby:ramp:e45a8b6a - Ramp posts on Ashby)",
   "role": "Technical Consultant, Strategic",
   "source": "LinkedIn",
   "url": "https://www.linkedin.com/jobs/view/4491002361"
@@ -1500,7 +1500,7 @@
  "url:jobs.workable.com/view/1f2ba3a5-8395-414b-8f1d-001a68a3a494": {
   "company": "Worth AI",
   "first_seen": "2026-11-15T12:00:00+00:00",
-  "outcome": "Shown (fit 7, no range)",
+  "outcome": "Closed (posting removed, reported by Steve 2026-11-16)",
   "role": "Customer Success Manager",
   "source": "Built In",
   "url": "https://jobs.workable.com/view/1f2ba3a5-8395-414b-8f1d-001a68a3a494"
@@ -1508,7 +1508,7 @@
  "wellfound:4824733": {
   "company": "FlexPoint",
   "first_seen": "2026-11-15T12:00:00+00:00",
-  "outcome": "Referral - apply via referral (fit 7)",
+  "outcome": "Closed (posting removed, reported by Steve 2026-11-16)",
   "role": "Implementation Specialist",
   "source": "Wellfound",
   "url": "https://wellfound.com/jobs/4824733",
@@ -1520,5 +1520,77 @@
   "outcome": "Closed (Greenhouse posting closed 2026-10-08)",
   "role": "Solution Engineer",
   "source": "Wellfound"
+ },
+ "ashby:ramp:e45a8b6a-5029-4ca5-ac6f-5af940843c72": {
+  "company": "Ramp",
+  "role": "Technical Consultant, Strategic",
+  "source": "Company board (Ashby)",
+  "outcome": "Referral - apply via referral (fit 5; 4+ yrs, NYC relocation)",
+  "first_seen": "2026-11-16T12:00:00+00:00",
+  "url": "https://jobs.ashbyhq.com/ramp/e45a8b6a-5029-4ca5-ac6f-5af940843c72",
+  "posted": "2026-11-13"
+ },
+ "ashby:ramp:8ca5c32b-e6c7-47e3-af23-291f122fa0f8": {
+  "company": "Ramp",
+  "role": "Solutions Consultant, Post Sales, Commercial",
+  "source": "Company board (Ashby)",
+  "outcome": "Referral - apply via referral (fit 7; 3+ yrs, remote US, $119-181K)",
+  "first_seen": "2026-11-16T12:00:00+00:00",
+  "url": "https://jobs.ashbyhq.com/ramp/8ca5c32b-e6c7-47e3-af23-291f122fa0f8",
+  "posted": "2026-11-10"
+ },
+ "ashby:ramp:492823d8-9651-46cf-9d33-a632ef706879": {
+  "company": "Ramp",
+  "role": "Solutions Consultant, Post Sales, Mid-Market",
+  "source": "Company board (Ashby)",
+  "outcome": "Referral - apply via referral (fit 6; 3+ yrs, remote US, $151-231K)",
+  "first_seen": "2026-11-16T12:00:00+00:00",
+  "url": "https://jobs.ashbyhq.com/ramp/492823d8-9651-46cf-9d33-a632ef706879",
+  "posted": "2026-11-10"
+ },
+ "ashby:ramp:971abc99-f20b-43f0-91d6-90bcbfa2c8d9": {
+  "company": "Ramp",
+  "role": "Solutions Consultant, Post Sales, Enterprise",
+  "source": "Company board (Ashby)",
+  "outcome": "Referral - apply via referral (fit 5; 4+ yrs, remote US)",
+  "first_seen": "2026-11-16T12:00:00+00:00",
+  "url": "https://jobs.ashbyhq.com/ramp/971abc99-f20b-43f0-91d6-90bcbfa2c8d9",
+  "posted": "2026-11-10"
+ },
+ "ashby:ramp:574f46a4-42b2-46be-ba5c-de07c5e173c5": {
+  "company": "Ramp",
+  "role": "Customer Activation Manager, Public Sector",
+  "source": "Company board (Ashby)",
+  "outcome": "Referral - apply via referral (fit 5; 4+ yrs, SF relocation)",
+  "first_seen": "2026-11-16T12:00:00+00:00",
+  "url": "https://jobs.ashbyhq.com/ramp/574f46a4-42b2-46be-ba5c-de07c5e173c5",
+  "posted": "2026-11-12"
+ },
+ "ashby:ramp:b599c5a9-9c9d-4826-b67a-ca5e012faaad": {
+  "company": "Ramp",
+  "role": "Partner Development Representative, Reseller",
+  "source": "Company board (Ashby)",
+  "outcome": "Referral - apply via referral (fit 6; NYC relocation, $110-120K OTE)",
+  "first_seen": "2026-11-16T12:00:00+00:00",
+  "url": "https://jobs.ashbyhq.com/ramp/b599c5a9-9c9d-4826-b67a-ca5e012faaad",
+  "posted": "2026-11-12"
+ },
+ "ashby:ramp:498d0fa0-d6e2-4755-9004-736dcae47d81": {
+  "company": "Ramp",
+  "role": "Customer Success Manager, Mid-Market",
+  "source": "Company board (Ashby)",
+  "outcome": "Low fit (4; Referral; 5+ yrs, NYC)",
+  "first_seen": "2026-11-16T12:00:00+00:00",
+  "url": "https://jobs.ashbyhq.com/ramp/498d0fa0-d6e2-4755-9004-736dcae47d81",
+  "posted": "2026-11-13"
+ },
+ "ashby:ramp:4727e0b5-eafa-41ab-89ce-f6a1d19d3f0e": {
+  "company": "Ramp",
+  "role": "Customer Success Manager, Enterprise",
+  "source": "Company board (Ashby)",
+  "outcome": "Low fit (3; Referral; 7+ yrs, NYC)",
+  "first_seen": "2026-11-16T12:00:00+00:00",
+  "url": "https://jobs.ashbyhq.com/ramp/4727e0b5-eafa-41ab-89ce-f6a1d19d3f0e",
+  "posted": "2026-11-13"
  }
 }
