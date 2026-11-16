@@ -217,6 +217,14 @@
   "role": "Partnerships Manager, Strategic Accounts",
   "source": "Web search"
  },
+ "ashby:teleskope:0afb1aa8-27b0-4ed9-820b-046d73fc2e4f": {
+  "company": "Teleskope",
+  "first_seen": "2026-11-16T17:48:10.002267+00:00",
+  "outcome": "Low fit (4; 5+ yrs, data security domain)",
+  "role": "Sales Engineer - West",
+  "source": "Company board",
+  "url": "https://jobs.ashbyhq.com/teleskope/0afb1aa8-27b0-4ed9-820b-046d73fc2e4f"
+ },
  "ashby:teleskope:8a9c07ca-94ee-47c2-ae3d-b5f9f8cd1788": {
   "alias": "ab:teleskope:8a9c07ca-94ee-47c2-ae3d-b5f9f8cd1788",
   "company": "Teleskope",
@@ -682,6 +690,14 @@
   "role": "Implementation Specialist; SDR (Denver)",
   "source": "Web search"
  },
+ "greenhouse:boulevard:4726990006": {
+  "company": "Boulevard",
+  "first_seen": "2026-11-16T17:48:10.002267+00:00",
+  "outcome": "Low fit (4; Senior SE, 5 yrs)",
+  "role": "Senior Solutions Engineer",
+  "source": "Company board",
+  "url": "https://job-boards.greenhouse.io/boulevard/jobs/4726990006"
+ },
  "greenhouse:chainguard:4723231006": {
   "alias": "gh:chainguard:4723231006",
   "company": "Chainguard",
@@ -734,6 +750,22 @@
   "role": "Solution Engineer",
   "source": "Wellfound"
  },
+ "greenhouse:contentful:8383550": {
+  "company": "Contentful",
+  "first_seen": "2026-11-16T17:48:10.002267+00:00",
+  "outcome": "Low fit (4; Senior SE, 5 yrs)",
+  "role": "Senior Solution Engineer",
+  "source": "Company board",
+  "url": "https://job-boards.greenhouse.io/contentful/jobs/8383550"
+ },
+ "greenhouse:contentful:8383603": {
+  "company": "Contentful",
+  "first_seen": "2026-11-16T17:48:10.002267+00:00",
+  "outcome": "Shown (fit 7, size exception)",
+  "role": "Solution Engineer",
+  "source": "Company board",
+  "url": "https://job-boards.greenhouse.io/contentful/jobs/8383603"
+ },
  "greenhouse:contentful:8385473": {
   "alias": "gh:contentful:8385473",
   "company": "Contentful",
@@ -741,6 +773,14 @@
   "outcome": "Shown (fit 7, size exception)",
   "role": "Customer Success Manager",
   "source": "Wellfound"
+ },
+ "greenhouse:contentful:8386901": {
+  "company": "Contentful",
+  "first_seen": "2026-11-16T17:48:10.002267+00:00",
+  "outcome": "Worth a look (5, size exception needs 7, 5 yrs)",
+  "role": "Customer Success Manager",
+  "source": "Company board",
+  "url": "https://job-boards.greenhouse.io/contentful/jobs/8386901"
  },
  "greenhouse:cribl:6229859004": {
   "company": "Cribl",
@@ -866,6 +906,14 @@
   "outcome": "Low fit (4; 4+ yrs SE, MSP security)",
   "role": "Sales Engineer II, Reseller & VARs",
   "source": "Built In"
+ },
+ "greenhouse:justworks:8356649": {
+  "company": "Justworks",
+  "first_seen": "2026-11-16T17:48:10.002267+00:00",
+  "outcome": "Excluded (not a target track)",
+  "role": "Senior Product Manager, Activation",
+  "source": "Company board",
+  "url": "https://boards.greenhouse.io/justworks/jobs/8356649"
  },
  "greenhouse:justworks:8383270": {
   "company": "Justworks",
