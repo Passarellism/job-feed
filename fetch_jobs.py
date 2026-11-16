@@ -5,10 +5,13 @@ Pulls every open job from public ATS job-board APIs (Greenhouse, Lever, Ashby,
 Workable, SmartRecruiters, Recruitee, Rippling) for the companies in
 companies.json, keeps loosely matching titles in allowed locations, and writes:
 
-  data/new.json   jobs first seen in the last ~30 hours (what the daily email uses)
+  data/new.json   open matching jobs posted <=7 days ago not yet in data/seen.json
+                  (requirements excerpt instead of full description)
   data/jobs.json  every currently open matching job (no descriptions)
   data/run.json   run stats, ATS detection results and failures
   data/state.json first-seen dates and detected ATS per company
+
+Reads data/seen.json (written by the daily Claude run via tools/seen.py).
 
 Recall over precision: when in doubt a job is kept. Standard library only.
 """
@@ -32,22 +35,20 @@ UA = {"User-Agent": "job-feed/1.0 (personal job search)", "Accept": "application
 # ---------------------------------------------------------------- filters
 
 TITLE_INCLUDE = re.compile(
-    r"solutions?\s+(engineer|consultant|architect|specialist|manager|analyst)"
-    r"|sales\s+engineer|pre-?\s?sales|presales"
-    r"|implementation|onboarding|customer\s+onboarding"
-    r"|customer\s+success|client\s+success|customer\s+experience\s+manager"
-    r"|technical\s+account\s+manager|\btam\b|account\s+manager"
-    r"|customer\s+(solutions|engineer)|solutions\s+consultant"
+    r"solutions?\s+(engineer|consultant)|sales\s+engineer|pre-?\s?sales|presales"
+    r"|implementation|onboarding|activation"
+    r"|customer\s+success|client\s+success"
+    r"|technical\s+account\s+manager|\btam\b|customer\s+engineer"
     r"|deployment\s+(engineer|strategist|specialist|manager|lead)|forward\s+deployed"
-    r"|professional\s+services|technical\s+consultant|product\s+specialist"
+    r"|professional\s+services\s+consultant"
     r"|integrations?\s+(engineer|specialist|manager|consultant)"
     r"|sales\s+development|business\s+development\s+rep|\bsdr\b|\bbdr\b"
-    r"|partner(ship)?s?\s+manager|channel\s+manager"
-    r"|gtm\s+engineer|go[-\s]to[-\s]market\s+engineer|revenue\s+engineer",
+    r"|partner(ship)?s?\s+manager"
+    r"|gtm\s+engineer|go[-\s]to[-\s]market\s+engineer",
     re.I,
 )
 TITLE_EXCLUDE = re.compile(
-    r"\b(director|vice\s+president|vp|head\s+of|chief|principal|staff|intern|internship)\b"
+    r"\b(director|vice\s+president|vp|head\s+of|chief|principal|staff|intern|internship|architect|account\s+executive)\b"
     r"|^(senior\s+|sr\.?\s+)?manager\s*,|\bmanager\s+of\b|\bteam\s+lead\b"
     r"|\b(french|german|spanish|japanese|portuguese|italian|dutch|korean|mandarin)[-\s]speaking\b",
     re.I,
@@ -84,9 +85,10 @@ US_TERMS = re.compile(
 COUNTRY_ONLY = re.compile(r"(united\s+states(\s+of\s+america)?|usa|us|u\.s\.(a\.)?|north\s+america|americas)", re.I)
 REMOTE_TERMS = re.compile(r"remote|work\s+from\s+home|distributed|anywhere", re.I)
 
-MAX_AGE_DAYS = 21          # drop postings older than this (when a date exists)
-NEW_WINDOW_HOURS = 30      # "new" = first seen within this window
-FIRST_RUN_NEW_DAYS = 7     # on first run, only postings this recent count as new
+MAX_AGE_DAYS = 10          # jobs.json: drop postings older than this (when a date exists)
+NEW_MAX_AGE_DAYS = 7       # new.json: only postings this recent (Steve's 7-day rule)
+COMP_FLOOR = 75000         # drop when the listed range tops out below this
+EXCERPT_CHARS = 1500       # requirements-focused excerpt per job in new.json
 
 
 def title_ok(title):
@@ -155,6 +157,35 @@ COMP_RE = re.compile(_AMT + r"(?:\s*(?:-|–|—|to)\s*" + _AMT + r")?")
 def find_comp(text):
     m = COMP_RE.search(text or "")
     return m.group(0).strip() if m else ""
+
+
+def comp_max(text):
+    """Highest dollar figure in a comp string, or None."""
+    vals = []
+    for m in re.finditer(r"\$\s?(\d{2,3}(?:,\d{3})+|\d{2,3}(?:\.\d)?)\s?([kK])?", text or ""):
+        n = float(m.group(1).replace(",", ""))
+        vals.append(n * 1000 if m.group(2) or n < 1000 else n)
+    return max(vals) if vals else None
+
+
+REQ_HEAD = re.compile(
+    r"(requirements|qualifications|what you.ll (bring|need)|who you are|about you|you have|"
+    r"you.ll have|must[-\s]haves?|what we.re looking for|skills|experience)\s*:?\s*\n", re.I)
+YEARS_RE = re.compile(r"(\d{1,2})\s*\+?\s*(?:-|–|to)?\s*(?:\d{1,2}\s*)?\+?\s*years?", re.I)
+
+
+def excerpt(desc):
+    """First lines (what the role is) + the requirements section, capped."""
+    d = desc or ""
+    m = REQ_HEAD.search(d)
+    if m and m.start() > 400:
+        return (d[:400] + "\n...\n" + d[m.start():])[:EXCERPT_CHARS]
+    return d[:EXCERPT_CHARS]
+
+
+def years_required(desc):
+    ys = [int(m.group(1)) for m in YEARS_RE.finditer(desc or "") if int(m.group(1)) <= 20]
+    return min(ys) if ys else None
 
 
 def iso(v):
@@ -383,13 +414,13 @@ def main():
     DATA.mkdir(exist_ok=True)
     companies = load(ROOT / "companies.json", [])
     state = load(DATA / "state.json", {"first_seen": {}, "detected": {}, "missing": {}})
-    first_run = not state["first_seen"]
+    reviewed = load(DATA / "seen.json", {})  # keys the daily Claude run already screened
 
     with ThreadPoolExecutor(max_workers=16) as pool:
         results = list(pool.map(lambda c: (c, fetch_company(c, state)), companies))
 
     stats = {"companies": len(companies), "boards_found": 0, "jobs_scanned": 0,
-             "by_ats": {}, "failures": [], "dropped": {"title": 0, "location": 0, "age": 0}}
+             "by_ats": {}, "failures": [], "dropped": {"title": 0, "location": 0, "age": 0, "pay": 0}}
     matched = []
     for c, (jobs, ats, slug, err) in results:
         name = c["name"]
@@ -416,6 +447,10 @@ def main():
             if j["posted"] and NOW - datetime.fromisoformat(j["posted"]) > timedelta(days=MAX_AGE_DAYS):
                 stats["dropped"]["age"] += 1
                 continue
+            cmax = comp_max(j["comp"])
+            if cmax and cmax < COMP_FLOOR:
+                stats["dropped"]["pay"] += 1
+                continue
             j["location_tag"] = tag
             j["company_tags"] = c.get("tags", [])
             j["connections"] = c.get("connections", 0)  # 1st-degree LinkedIn connections at the company
@@ -438,11 +473,11 @@ def main():
         if j["id"] not in seen:
             seen[j["id"]] = NOW.isoformat()
         j["first_seen"] = seen[j["id"]]
-        is_new = NOW - datetime.fromisoformat(j["first_seen"]) <= timedelta(hours=NEW_WINDOW_HOURS)
-        if is_new and first_run and j["posted"]:
-            is_new = NOW - datetime.fromisoformat(j["posted"]) <= timedelta(days=FIRST_RUN_NEW_DAYS)
-        if is_new:
-            new.append(j)
+        if j["id"] in reviewed:
+            continue
+        if j["posted"] and NOW - datetime.fromisoformat(j["posted"]) > timedelta(days=NEW_MAX_AGE_DAYS):
+            continue
+        new.append(j)
 
     # forget first-seen entries for jobs closed more than 60 days ago
     open_ids = {j["id"] for j in matched}
@@ -452,7 +487,10 @@ def main():
 
     new.sort(key=lambda j: j["posted"] or j["first_seen"], reverse=True)
     lite = [{k: v for k, v in j.items() if k != "description"} for j in matched]
-    stats.update({"run_at": NOW.isoformat(), "first_run": first_run,
+    new = [dict({k: v for k, v in j.items() if k not in ("description", "remote", "ats")},
+                location=j["location"][:200], years=years_required(j["description"]),
+                excerpt=excerpt(j["description"])) for j in new]
+    stats.update({"run_at": NOW.isoformat(),
                   "matched_open": len(matched), "new": len(new)})
 
     (DATA / "new.json").write_text(json.dumps(new, indent=1, ensure_ascii=False))

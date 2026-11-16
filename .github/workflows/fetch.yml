@@ -1,7 +1,7 @@
 name: Fetch jobs
 on:
   schedule:
-    - cron: "17 11 * * *"   # 4:17am Denver (MST) / 5:17am MDT, before the 6:13am email
+    - cron: "17 11 * * *"   # 4:17am Denver (MST) / 5:17am MDT, before the daily Claude run
   workflow_dispatch: {}
 permissions:
   contents: write
