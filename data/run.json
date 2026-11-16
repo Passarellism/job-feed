@@ -1,11 +1,11 @@
 {
  "companies": 422,
  "boards_found": 315,
- "jobs_scanned": 15903,
+ "jobs_scanned": 16040,
  "by_ats": {
   "workable": 55,
-  "greenhouse": 113,
-  "ashby": 127,
+  "greenhouse": 112,
+  "ashby": 128,
   "lever": 19,
   "smartrecruiters": 1
  },
@@ -24,12 +24,12 @@
   }
  ],
  "dropped": {
-  "title": 14411,
-  "location": 724,
-  "age": 673,
+  "title": 14507,
+  "location": 725,
+  "age": 709,
   "pay": 4
  },
- "run_at": "2026-11-16T17:42:26.914189+00:00",
- "matched_open": 74,
- "new": 6
+ "run_at": "2026-11-16T21:04:06.757118+00:00",
+ "matched_open": 79,
+ "new": 7
 }
