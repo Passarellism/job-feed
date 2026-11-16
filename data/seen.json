@@ -178,6 +178,14 @@
   "role": "Senior Solutions Engineer, Enterprise",
   "source": "Company board"
  },
+ "ashby:sentry:9b759583-60d2-4673-9da6-026731956300": {
+  "company": "Sentry",
+  "first_seen": "2026-11-16T17:18:17.617017+00:00",
+  "outcome": "Low fit (3; engineering role, not a target track)",
+  "role": "Forward Deployed Engineer",
+  "source": "Company board",
+  "url": "https://jobs.ashbyhq.com/sentry/9b759583-60d2-4673-9da6-026731956300"
+ },
  "ashby:snowflake:c9650a88-aeb8-4696-bc88-357d2bc7caaa": {
   "alias": "ab:snowflake:c9650a88-aeb8-4696-bc88-357d2bc7caaa",
   "company": "Snowflake",
@@ -744,7 +752,7 @@
  "greenhouse:customerio:8353711": {
   "company": "Customer.io",
   "first_seen": "2026-11-15T12:00:00+00:00",
-  "outcome": "Shown (fit 6)",
+  "outcome": "Closed",
   "role": "Account Manager, AMER (Remote)",
   "source": "Company board"
  },
@@ -760,6 +768,13 @@
   "first_seen": "2026-11-16T12:00:00+00:00",
   "outcome": "Low fit (3; data engineering)",
   "role": "Sr. Solutions Engineer",
+  "source": "Company board"
+ },
+ "greenhouse:databricks:8920618002": {
+  "company": "Databricks",
+  "first_seen": "2026-11-16T17:18:17.617017+00:00",
+  "outcome": "Excluded (not a target track; size)",
+  "role": "Delivery Partner Manager, FDE",
   "source": "Company board"
  },
  "greenhouse:datadog:8350824": {
@@ -879,9 +894,9 @@
   "alias": "gh:lumahealth:8827865002",
   "company": "Luma Health",
   "first_seen": "2026-11-15T12:00:00+00:00",
-  "outcome": "Worth a look (5, date unclear)",
+  "outcome": "Closed",
   "role": "Sales Development Representative",
-  "source": "Wellfound"
+  "source": "Company board"
  },
  "greenhouse:newrelic:5480591008": {
   "company": "New Relic",
@@ -915,9 +930,17 @@
  "greenhouse:ripple:8328916": {
   "company": "Ripple",
   "first_seen": "2026-11-15T12:00:00+00:00",
-  "outcome": "Shown (fit 6)",
+  "outcome": "Closed",
   "role": "Professional Services Consultant",
   "source": "Company board"
+ },
+ "greenhouse:ripple:8328928": {
+  "company": "Ripple",
+  "first_seen": "2026-11-16T17:18:17.617017+00:00",
+  "outcome": "Shown (fit 6)",
+  "role": "Professional Services Consultant",
+  "source": "Company board",
+  "url": "https://ripple.com/careers/all-jobs/job/8328928?gh_jid=8328928"
  },
  "greenhouse:samsara:8372624": {
   "company": "Samsara",
@@ -963,6 +986,14 @@
   "outcome": "Referral - apply via referral (fit 5)",
   "role": "Implementation Consultant III, Enterprise Restaurants",
   "source": "Company board"
+ },
+ "greenhouse:toast:8374880": {
+  "company": "Toast",
+  "first_seen": "2026-11-16T17:18:17.617017+00:00",
+  "outcome": "Low fit (4; Referral; 5+ yrs enterprise hospitality rollouts, matches earlier LinkedIn score)",
+  "role": "Implementation Consultant III, Enterprise Hotels and Sports + Entertainment",
+  "source": "Company board",
+  "url": "https://careers.toasttab.com/jobs?gh_jid=8374880"
  },
  "greenhouse:zscaler:5287748007": {
   "company": "Zscaler",
@@ -1102,6 +1133,22 @@
   "role": "Manager, Business Development Team",
   "source": "LinkedIn"
  },
+ "li:4478739608": {
+  "company": "Stripe",
+  "first_seen": "2026-11-16T17:18:17.617017+00:00",
+  "outcome": "Excluded (people manager)",
+  "role": "Manager, Technical Account Management",
+  "source": "LinkedIn",
+  "url": "https://www.linkedin.com/jobs/view/4478739608"
+ },
+ "li:4479263082": {
+  "company": "Stripe",
+  "first_seen": "2026-11-16T17:18:17.617017+00:00",
+  "outcome": "Excluded (architect title)",
+  "role": "Specialist Solutions Architecture, Link",
+  "source": "LinkedIn",
+  "url": "https://www.linkedin.com/jobs/view/4479263082"
+ },
  "li:4482714137": {
   "company": "Lovable",
   "first_seen": "2026-11-15T12:00:00+00:00",
@@ -1171,6 +1218,14 @@
   "outcome": "Closed (gone from Cofactr Lever board 2026-11-15)",
   "role": "Sr. Onboarding Project Specialist",
   "source": "LinkedIn"
+ },
+ "li:4490392688": {
+  "company": "Toast",
+  "first_seen": "2026-11-16T17:18:17.617017+00:00",
+  "outcome": "Excluded (Referral; not in Toast feed within 7 days, employer posting dates to May 2026 evergreen)",
+  "role": "Customer Success Manager II, SMB - Account Strategy",
+  "source": "LinkedIn",
+  "url": "https://www.linkedin.com/jobs/view/4490392688"
  },
  "li:4490506941": {
   "company": "Swooped",

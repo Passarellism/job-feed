@@ -2965,5 +2965,101 @@
    "connection"
   ],
   "connections": 1
+ },
+ {
+  "name": "Fleetio",
+  "slug": "fleetio",
+  "ats": "greenhouse",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Boulevard",
+  "slug": "boulevard",
+  "ats": "greenhouse",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Paytronix",
+  "slug": "paytronix",
+  "ats": "greenhouse",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Buyers Edge Platform",
+  "slug": "buyersedgeplatformrecruiting",
+  "ats": "greenhouse",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Cordance",
+  "slug": "cordance",
+  "ats": "greenhouse",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "LiveKit",
+  "slug": "livekit",
+  "ats": "ashby",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Teleskope",
+  "slug": "teleskope",
+  "ats": "ashby",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Legion Technologies",
+  "slug": "legion",
+  "ats": "greenhouse",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Aircall",
+  "slug": "aircall",
+  "ats": "lever",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Finch",
+  "slug": "finch",
+  "ats": "lever",
+  "tags": [
+   "fintech"
+  ]
+ },
+ {
+  "name": "GiveCampus",
+  "slug": "givecampus",
+  "ats": "greenhouse",
+  "tags": [
+   "saas"
+  ]
+ },
+ {
+  "name": "Contentful",
+  "slug": "contentful",
+  "ats": "greenhouse",
+  "tags": [
+   "saas"
+  ]
  }
 ]
