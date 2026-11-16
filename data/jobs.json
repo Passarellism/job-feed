@@ -36,24 +36,6 @@
   "first_seen": "2026-11-15T20:41:38.452073+00:00"
  },
  {
-  "id": "greenhouse:gusto:8347750",
-  "company": "Gusto",
-  "title": "Partner Manager, Franchise",
-  "location": "Denver, CO - Hybrid",
-  "remote": null,
-  "url": "https://job-boards.greenhouse.io/gusto/jobs/8347750",
-  "posted": "2026-11-06T17:10:51+00:00",
-  "comp": "$120,410 - $150,000",
-  "ats": "greenhouse",
-  "location_tag": "CO",
-  "company_tags": [
-   "saas",
-   "linkedin-follow"
-  ],
-  "connections": 1,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
   "id": "ashby:oyster:69966551-1bb6-4675-869e-ba85f13178a6",
   "company": "Oyster",
   "title": "Business Development Representative (Americas)",
@@ -114,23 +96,6 @@
   "posted": "2026-11-09T19:37:00.868000+00:00",
   "comp": "$100K – $140K",
   "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "greenhouse:fivetran:8034211003",
-  "company": "Fivetran",
-  "title": "Senior Sales Engineer, Enterprise",
-  "location": "Remote, California, United States, AMER | USA - Remote - CA",
-  "remote": null,
-  "url": "https://www.fivetran.com/careers/job?gh_jid=8034211003",
-  "posted": "2026-11-06T16:47:41+00:00",
-  "comp": "$218,491",
-  "ats": "greenhouse",
   "location_tag": "remote-US",
   "company_tags": [
    "saas"
@@ -589,22 +554,22 @@
   "first_seen": "2026-11-15T20:19:26.903438+00:00"
  },
  {
-  "id": "greenhouse:samsara:8372624",
+  "id": "greenhouse:samsara:8360093",
   "company": "Samsara",
   "title": "Enterprise Implementation Consultant - Public Sector",
-  "location": "Phoenix, Arizona, United States | Remote - GA",
+  "location": "Remote - GA | Phoenix, Arizona, United States | Remote - GA",
   "remote": null,
-  "url": "https://www.samsara.com/company/careers/roles/8372624?gh_jid=8372624",
-  "posted": "2026-11-10T16:56:36+00:00",
+  "url": "https://www.samsara.com/company/careers/roles/8360093?gh_jid=8360093",
+  "posted": "2026-11-06T19:46:35+00:00",
   "comp": "$88,979",
   "ats": "greenhouse",
-  "location_tag": "remote-US",
+  "location_tag": "remote-unclear",
   "company_tags": [
    "saas",
    "linkedin-follow"
   ],
   "connections": 1,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
+  "first_seen": "2026-11-16T17:42:26.914189+00:00"
  },
  {
   "id": "greenhouse:samsara:8353150",
@@ -625,24 +590,6 @@
   "first_seen": "2026-11-15T20:19:26.903438+00:00"
  },
  {
-  "id": "greenhouse:samsara:8359531",
-  "company": "Samsara",
-  "title": "Enterprise Select Implementation Consultant (West)",
-  "location": "Remote - US | Remote - Chicago",
-  "remote": null,
-  "url": "https://www.samsara.com/company/careers/roles/8359531?gh_jid=8359531",
-  "posted": "2026-11-06T17:16:18+00:00",
-  "comp": "$100,406 — $151,875",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas",
-   "linkedin-follow"
-  ],
-  "connections": 1,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
   "id": "greenhouse:samsara:8359855",
   "company": "Samsara",
   "title": "Senior Enterprise Implementation Consultant",
@@ -651,24 +598,6 @@
   "url": "https://www.samsara.com/company/careers/roles/8359855?gh_jid=8359855",
   "posted": "2026-11-06T18:31:03+00:00",
   "comp": "$100,406 — $165,600",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas",
-   "linkedin-follow"
-  ],
-  "connections": 1,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "greenhouse:samsara:8359386",
-  "company": "Samsara",
-  "title": "Senior Strategic Implementation Consultant",
-  "location": "Remote - US | Remote - Chicago",
-  "remote": null,
-  "url": "https://www.samsara.com/company/careers/roles/8359386?gh_jid=8359386",
-  "posted": "2026-11-06T16:44:31+00:00",
-  "comp": "$109,480 — $165,600",
   "ats": "greenhouse",
   "location_tag": "remote-US",
   "company_tags": [
@@ -768,6 +697,23 @@
   "first_seen": "2026-11-15T20:41:38.452073+00:00"
  },
  {
+  "id": "greenhouse:justworks:8356649",
+  "company": "Justworks",
+  "title": "Senior Product Manager, Activation",
+  "location": "New York, New York | New York, NY",
+  "remote": null,
+  "url": "https://boards.greenhouse.io/justworks/jobs/8356649?gh_jid=8356649",
+  "posted": "2026-11-16T17:42:19+00:00",
+  "comp": "$166,000 - $242,500",
+  "ats": "greenhouse",
+  "location_tag": "relocation-NYC/SF",
+  "company_tags": [
+   "saas"
+  ],
+  "connections": 1,
+  "first_seen": "2026-11-16T17:42:26.914189+00:00"
+ },
+ {
   "id": "ashby:1password:63059a05-03d1-4a4f-908c-8daa721cce90",
   "company": "1Password",
   "title": "Senior Implementation Project Manager",
@@ -817,23 +763,6 @@
   ],
   "connections": 0,
   "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "greenhouse:komodohealth:8933245002",
-  "company": "Komodo Health",
-  "title": "Web & GTM Engineer",
-  "location": "United States | Remote (United States)",
-  "remote": null,
-  "url": "https://job-boards.greenhouse.io/komodohealth/jobs/8933245002",
-  "posted": "2026-11-06T17:06:56+00:00",
-  "comp": "$166,000 — $210,000",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "healthtech"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
  },
  {
   "id": "greenhouse:pingidentity:8912619002",
@@ -1193,5 +1122,158 @@
   ],
   "connections": 1,
   "first_seen": "2026-11-15T20:41:38.452073+00:00"
+ },
+ {
+  "id": "greenhouse:boulevard:4726990006",
+  "company": "Boulevard",
+  "title": "Senior Solutions Engineer",
+  "location": "Remote - USA",
+  "remote": null,
+  "url": "https://job-boards.greenhouse.io/boulevard/jobs/4726990006",
+  "posted": "2026-11-10T21:54:54+00:00",
+  "comp": "$136,000",
+  "ats": "greenhouse",
+  "location_tag": "remote-US",
+  "company_tags": [
+   "saas"
+  ],
+  "connections": 0,
+  "first_seen": "2026-11-16T17:42:26.914189+00:00"
+ },
+ {
+  "id": "ashby:livekit:f4414ce0-5565-4f7f-9025-488bd6b4d19c",
+  "company": "LiveKit",
+  "title": "Sales Development Representative (East Coast)",
+  "location": "New York, NY (Remote) | New York, New York, United States of America",
+  "remote": true,
+  "url": "https://jobs.ashbyhq.com/livekit/f4414ce0-5565-4f7f-9025-488bd6b4d19c",
+  "posted": "2026-11-13T21:15:58.677000+00:00",
+  "comp": "$132K – $178K • Offers Equity • 70/30 Split",
+  "ats": "ashby",
+  "location_tag": "remote-US",
+  "company_tags": [
+   "saas"
+  ],
+  "connections": 0,
+  "first_seen": "2026-11-16T17:42:26.914189+00:00"
+ },
+ {
+  "id": "ashby:livekit:7161daf1-2928-43d4-b8fa-2f20f65dab4c",
+  "company": "LiveKit",
+  "title": "Sales Development Representative (West Coast)",
+  "location": "California (Remote) | United States",
+  "remote": true,
+  "url": "https://jobs.ashbyhq.com/livekit/7161daf1-2928-43d4-b8fa-2f20f65dab4c",
+  "posted": "2026-11-13T22:30:53.211000+00:00",
+  "comp": "$132K – $178K • Offers Equity • 70/30 Split",
+  "ats": "ashby",
+  "location_tag": "remote-US",
+  "company_tags": [
+   "saas"
+  ],
+  "connections": 0,
+  "first_seen": "2026-11-16T17:42:26.914189+00:00"
+ },
+ {
+  "id": "ashby:teleskope:8a9c07ca-94ee-47c2-ae3d-b5f9f8cd1788",
+  "company": "Teleskope",
+  "title": "Enterprise Technical Account Manager",
+  "location": "New York, New York | New York, New York, United States",
+  "remote": false,
+  "url": "https://jobs.ashbyhq.com/teleskope/8a9c07ca-94ee-47c2-ae3d-b5f9f8cd1788",
+  "posted": "2026-11-11T14:57:45.244000+00:00",
+  "comp": "$150K – $200K • Offers Equity • Offers Commission",
+  "ats": "ashby",
+  "location_tag": "relocation-NYC/SF",
+  "company_tags": [
+   "saas"
+  ],
+  "connections": 0,
+  "first_seen": "2026-11-16T17:42:26.914189+00:00"
+ },
+ {
+  "id": "ashby:teleskope:0afb1aa8-27b0-4ed9-820b-046d73fc2e4f",
+  "company": "Teleskope",
+  "title": "Sales Engineer - West",
+  "location": "Remote | California | Mountain West | San Francisco Bay Area | Pacific Northwest | Southwest | United States",
+  "remote": true,
+  "url": "https://jobs.ashbyhq.com/teleskope/0afb1aa8-27b0-4ed9-820b-046d73fc2e4f",
+  "posted": "2026-11-11T14:52:33.053000+00:00",
+  "comp": "$240K – $280K • Offers Equity • Offers Commission",
+  "ats": "ashby",
+  "location_tag": "remote-US",
+  "company_tags": [
+   "saas"
+  ],
+  "connections": 0,
+  "first_seen": "2026-11-16T17:42:26.914189+00:00"
+ },
+ {
+  "id": "greenhouse:givecampus:4484753009",
+  "company": "GiveCampus",
+  "title": "Onboarding Specialist",
+  "location": "United States | United States- Remote",
+  "remote": null,
+  "url": "https://job-boards.greenhouse.io/givecampus/jobs/4484753009",
+  "posted": "2026-11-06T19:14:46+00:00",
+  "comp": "",
+  "ats": "greenhouse",
+  "location_tag": "remote-US",
+  "company_tags": [
+   "saas"
+  ],
+  "connections": 0,
+  "first_seen": "2026-11-16T17:42:26.914189+00:00"
+ },
+ {
+  "id": "greenhouse:contentful:8386901",
+  "company": "Contentful",
+  "title": "Customer Success Manager",
+  "location": "Austin, Texas, United States | Denver, CO | New York, NY | Denver, Colorado, United States | Denver, CO | New York, NY | Mexico City, Cuidad de México, Mexico | Denver, CO | New York, NY | New York, New York, United States | Denver, CO | New York, NY",
+  "remote": null,
+  "url": "https://job-boards.greenhouse.io/contentful/jobs/8386901",
+  "posted": "2026-11-13T23:34:38+00:00",
+  "comp": "$99,400 - $136,600",
+  "ats": "greenhouse",
+  "location_tag": "CO",
+  "company_tags": [
+   "saas"
+  ],
+  "connections": 0,
+  "first_seen": "2026-11-16T17:42:26.914189+00:00"
+ },
+ {
+  "id": "greenhouse:contentful:8383550",
+  "company": "Contentful",
+  "title": "Senior Solution Engineer",
+  "location": "Denver, Colorado, United States | Denver, CO | San Francisco, California, United States | Denver, CO | New York, New York, United States | Denver, CO",
+  "remote": null,
+  "url": "https://job-boards.greenhouse.io/contentful/jobs/8383550",
+  "posted": "2026-11-12T18:31:25+00:00",
+  "comp": "$134,750 - $180,250",
+  "ats": "greenhouse",
+  "location_tag": "CO",
+  "company_tags": [
+   "saas"
+  ],
+  "connections": 0,
+  "first_seen": "2026-11-16T17:42:26.914189+00:00"
+ },
+ {
+  "id": "greenhouse:contentful:8383603",
+  "company": "Contentful",
+  "title": "Solution Engineer",
+  "location": "New York, New York, United States | Denver, CO | Dallas, Texas, United States | Denver, CO | Austin, Texas, United States | Denver, CO | Denver, Colorado, United States | Denver, CO | Atlanta, Georgia, United States | Denver, CO | San Francisco, California, United States | Denver, CO",
+  "remote": null,
+  "url": "https://job-boards.greenhouse.io/contentful/jobs/8383603",
+  "posted": "2026-11-12T18:01:27+00:00",
+  "comp": "$113,300 - $151,550",
+  "ats": "greenhouse",
+  "location_tag": "CO",
+  "company_tags": [
+   "saas"
+  ],
+  "connections": 0,
+  "first_seen": "2026-11-16T17:42:26.914189+00:00"
  }
 ]

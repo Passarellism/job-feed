@@ -160,6 +160,10 @@
    "ats": "ashby",
    "slug": "bolt"
   },
+  "Boulevard": {
+   "ats": "greenhouse",
+   "slug": "boulevard"
+  },
   "Brain Co.": {
    "ats": "ashby",
    "slug": "brainco"
@@ -288,6 +292,14 @@
    "ats": "workable",
    "slug": "consensus"
   },
+  "Contentful": {
+   "ats": "greenhouse",
+   "slug": "contentful"
+  },
+  "Cordance": {
+   "ats": "greenhouse",
+   "slug": "cordance"
+  },
   "Cribl": {
    "ats": "greenhouse",
    "slug": "cribl"
@@ -372,6 +384,10 @@
    "ats": "greenhouse",
    "slug": "figma"
   },
+  "Finch": {
+   "ats": "lever",
+   "slug": "finch"
+  },
   "Finix": {
    "ats": "lever",
    "slug": "finix"
@@ -383,6 +399,10 @@
   "Flatiron Health": {
    "ats": "greenhouse",
    "slug": "flatironhealth"
+  },
+  "Fleetio": {
+   "ats": "greenhouse",
+   "slug": "fleetio"
   },
   "Formation Bio": {
    "ats": "greenhouse",
@@ -419,6 +439,10 @@
   "GitLab": {
    "ats": "greenhouse",
    "slug": "gitlab"
+  },
+  "GiveCampus": {
+   "ats": "greenhouse",
+   "slug": "givecampus"
   },
   "Glean": {
    "ats": "greenhouse",
@@ -600,6 +624,10 @@
    "ats": "greenhouse",
    "slug": "launchdarkly"
   },
+  "Legion Technologies": {
+   "ats": "greenhouse",
+   "slug": "legion"
+  },
   "Linear": {
    "ats": "ashby",
    "slug": "linear"
@@ -607,6 +635,10 @@
   "Lithic": {
    "ats": "greenhouse",
    "slug": "lithic"
+  },
+  "LiveKit": {
+   "ats": "ashby",
+   "slug": "livekit"
   },
   "LogRocket": {
    "ats": "lever",
@@ -1092,6 +1124,10 @@
    "ats": "greenhouse",
    "slug": "tebra"
   },
+  "Teleskope": {
+   "ats": "ashby",
+   "slug": "teleskope"
+  },
   "Temporal": {
    "ats": "ashby",
    "slug": "temporal"
@@ -1278,6 +1314,8 @@
   "ashby:hinge-health:cf408381-241a-4e65-aa8a-3c6ca1da2d33": "2026-11-15T20:41:38.452073+00:00",
   "ashby:ibotta:c363616d-a2c4-4c66-9194-324879723e8b": "2026-11-15T20:19:26.903438+00:00",
   "ashby:ironcladhq:11a49de7-4a92-482e-8788-bd1dfd72aace": "2026-11-15T20:19:26.903438+00:00",
+  "ashby:livekit:7161daf1-2928-43d4-b8fa-2f20f65dab4c": "2026-11-16T17:42:26.914189+00:00",
+  "ashby:livekit:f4414ce0-5565-4f7f-9025-488bd6b4d19c": "2026-11-16T17:42:26.914189+00:00",
   "ashby:merge:3c437268-3c18-42bc-8720-0c1368320c32": "2026-11-15T20:41:38.452073+00:00",
   "ashby:middesk:6f90b4b1-c122-4f56-bb16-1773802bf148": "2026-11-15T20:19:26.903438+00:00",
   "ashby:middesk:d52261cb-260c-414a-af1e-9d055748b557": "2026-11-15T20:19:26.903438+00:00",
@@ -1328,6 +1366,8 @@
   "ashby:supabase:282d1dfb-b162-4ce4-a938-c4b2173230e0": "2026-11-15T20:19:26.903438+00:00",
   "ashby:synthesia:103ca468-012b-4882-b5ab-001e3d55f71b": "2026-11-15T20:41:38.452073+00:00",
   "ashby:synthesia:689f6008-d096-4a2e-90a6-82ca1eaf6d90": "2026-11-15T20:41:38.452073+00:00",
+  "ashby:teleskope:0afb1aa8-27b0-4ed9-820b-046d73fc2e4f": "2026-11-16T17:42:26.914189+00:00",
+  "ashby:teleskope:8a9c07ca-94ee-47c2-ae3d-b5f9f8cd1788": "2026-11-16T17:42:26.914189+00:00",
   "ashby:temporal:1aa528e5-5076-4d98-8b07-92444c692ade": "2026-11-15T20:19:26.903438+00:00",
   "ashby:temporal:41c539a1-6ba5-41ad-925d-f2f2579b2acf": "2026-11-15T20:19:26.903438+00:00",
   "ashby:vanta:29e92503-fecf-4ac4-9de7-683390fb74c6": "2026-11-15T20:19:26.903438+00:00",
@@ -1354,6 +1394,7 @@
   "greenhouse:asana:8311197": "2026-11-15T20:19:26.903438+00:00",
   "greenhouse:asana:8349347": "2026-11-15T20:19:26.903438+00:00",
   "greenhouse:billcom:6238926004": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:boulevard:4726990006": "2026-11-16T17:42:26.914189+00:00",
   "greenhouse:brex:8934022002": "2026-11-15T20:41:38.452073+00:00",
   "greenhouse:chainguard:4723252006": "2026-11-15T20:41:38.452073+00:00",
   "greenhouse:chainguard:4723359006": "2026-11-15T20:41:38.452073+00:00",
@@ -1365,6 +1406,9 @@
   "greenhouse:chainguard:4726575006": "2026-11-15T20:41:38.452073+00:00",
   "greenhouse:chainguard:4728389006": "2026-11-15T20:41:38.452073+00:00",
   "greenhouse:conga:5280608007": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:contentful:8383550": "2026-11-16T17:42:26.914189+00:00",
+  "greenhouse:contentful:8383603": "2026-11-16T17:42:26.914189+00:00",
+  "greenhouse:contentful:8386901": "2026-11-16T17:42:26.914189+00:00",
   "greenhouse:cribl:6224815004": "2026-11-15T20:19:26.903438+00:00",
   "greenhouse:cribl:6229859004": "2026-11-15T20:19:26.903438+00:00",
   "greenhouse:cribl:6240800004": "2026-11-15T20:19:26.903438+00:00",
@@ -1407,6 +1451,7 @@
   "greenhouse:gitlab:8932246002": "2026-11-15T20:41:38.452073+00:00",
   "greenhouse:gitlab:8932248002": "2026-11-15T20:41:38.452073+00:00",
   "greenhouse:gitlab:8932282002": "2026-11-15T20:41:38.452073+00:00",
+  "greenhouse:givecampus:4484753009": "2026-11-16T17:42:26.914189+00:00",
   "greenhouse:gleanwork:4751170005": "2026-11-15T20:41:38.452073+00:00",
   "greenhouse:grafanalabs:6231148004": "2026-11-15T20:19:26.903438+00:00",
   "greenhouse:grafanalabs:6236201004": "2026-11-15T20:19:26.903438+00:00",
@@ -1420,6 +1465,7 @@
   "greenhouse:gusto:8346979": "2026-11-15T20:19:26.903438+00:00",
   "greenhouse:gusto:8347750": "2026-11-15T20:19:26.903438+00:00",
   "greenhouse:gusto:8353774": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:justworks:8356649": "2026-11-16T17:42:26.914189+00:00",
   "greenhouse:justworks:8383270": "2026-11-15T20:41:38.452073+00:00",
   "greenhouse:klaviyo:8017124003": "2026-11-15T20:41:38.452073+00:00",
   "greenhouse:klaviyo:8182739003": "2026-11-15T20:41:38.452073+00:00",
@@ -1441,6 +1487,7 @@
   "greenhouse:samsara:8359847": "2026-11-15T20:19:26.903438+00:00",
   "greenhouse:samsara:8359855": "2026-11-15T20:19:26.903438+00:00",
   "greenhouse:samsara:8359860": "2026-11-15T20:19:26.903438+00:00",
+  "greenhouse:samsara:8360093": "2026-11-16T17:42:26.914189+00:00",
   "greenhouse:samsara:8372624": "2026-11-15T20:19:26.903438+00:00",
   "greenhouse:stripe:8326098": "2026-11-15T20:19:26.903438+00:00",
   "greenhouse:stripe:8329116": "2026-11-15T20:41:38.452073+00:00",
@@ -1467,6 +1514,7 @@
  "missing": {
   "Abnormal Security": "2026-11-15T20:19:26.903438+00:00",
   "AgentSync": "2026-11-15T20:41:38.452073+00:00",
+  "Aircall": "2026-11-16T17:42:26.914189+00:00",
   "Akido Labs": "2026-11-15T20:19:26.903438+00:00",
   "Apartment List": "2026-11-15T20:19:26.903438+00:00",
   "Arctic Wolf": "2026-11-15T20:19:26.903438+00:00",
@@ -1476,6 +1524,7 @@
   "Backcountry": "2026-11-15T20:41:38.452073+00:00",
   "Black Diamond Equipment": "2026-11-15T20:41:38.452073+00:00",
   "Bluebeam": "2026-11-15T20:19:26.903438+00:00",
+  "Buyers Edge Platform": "2026-11-16T17:42:26.914189+00:00",
   "CHEQ": "2026-11-15T20:41:38.452073+00:00",
   "Catalyst Software": "2026-11-15T20:41:38.452073+00:00",
   "Cengage": "2026-11-15T20:41:38.452073+00:00",
@@ -1534,6 +1583,7 @@
   "Particle Health": "2026-11-15T20:19:26.903438+00:00",
   "Patagonia": "2026-11-15T20:41:38.452073+00:00",
   "Pax8": "2026-11-15T20:19:26.903438+00:00",
+  "Paytronix": "2026-11-16T17:42:26.914189+00:00",
   "Phreesia": "2026-11-15T20:19:26.903438+00:00",
   "Pinwheel": "2026-11-15T20:19:26.903438+00:00",
   "Placer.ai": "2026-11-15T20:41:38.452073+00:00",

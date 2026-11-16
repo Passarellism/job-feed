@@ -1,22 +1,35 @@
 {
- "companies": 410,
- "boards_found": 306,
- "jobs_scanned": 15753,
+ "companies": 422,
+ "boards_found": 315,
+ "jobs_scanned": 15903,
  "by_ats": {
   "workable": 55,
-  "greenhouse": 107,
-  "ashby": 125,
-  "lever": 18,
+  "greenhouse": 113,
+  "ashby": 127,
+  "lever": 19,
   "smartrecruiters": 1
  },
- "failures": [],
+ "failures": [
+  {
+   "company": "Paytronix",
+   "error": "no board found (all 404)"
+  },
+  {
+   "company": "Buyers Edge Platform",
+   "error": "no board found (all 404)"
+  },
+  {
+   "company": "Aircall",
+   "error": "no board found (all 404)"
+  }
+ ],
  "dropped": {
-  "title": 14299,
-  "location": 713,
-  "age": 664,
-  "pay": 3
+  "title": 14411,
+  "location": 724,
+  "age": 673,
+  "pay": 4
  },
- "run_at": "2026-11-16T16:39:43.606241+00:00",
- "matched_open": 69,
- "new": 4
+ "run_at": "2026-11-16T17:42:26.914189+00:00",
+ "matched_open": 74,
+ "new": 6
 }
