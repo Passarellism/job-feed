@@ -1,22 +1,5 @@
 [
  {
-  "id": "greenhouse:vercel:6236991004",
-  "company": "Vercel",
-  "title": "Technical Business Development Representative",
-  "location": "Hybrid - San Francisco, New York City, Austin | Office - San Francisco",
-  "remote": null,
-  "url": "https://job-boards.greenhouse.io/vercel/jobs/6236991004",
-  "posted": "2026-10-30T17:20:44+00:00",
-  "comp": "",
-  "ats": "greenhouse",
-  "location_tag": "relocation-NYC/SF",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 2,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
   "id": "greenhouse:stripe:8326098",
   "company": "Stripe",
   "title": "Risk Partnerships Manager, Networks and Acquiring",
@@ -32,60 +15,6 @@
    "linkedin-follow"
   ],
   "connections": 2,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "greenhouse:stripe:8368260",
-  "company": "Stripe",
-  "title": "Solutions Architect, Metronome (AI Native)",
-  "location": "San Francisco, Seattle, US-Remote | US",
-  "remote": null,
-  "url": "https://stripe.com/jobs/search?gh_jid=8368260",
-  "posted": "2026-11-09T22:53:24+00:00",
-  "comp": "",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "fintech",
-   "linkedin-follow"
-  ],
-  "connections": 2,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "greenhouse:stripe:8329116",
-  "company": "Stripe",
-  "title": "Technical Account Manager, Crypto",
-  "location": "New York, San Francisco | US",
-  "remote": null,
-  "url": "https://stripe.com/jobs/search?gh_jid=8329116",
-  "posted": "2026-10-28T20:19:38+00:00",
-  "comp": "",
-  "ats": "greenhouse",
-  "location_tag": "relocation-NYC/SF",
-  "company_tags": [
-   "fintech",
-   "linkedin-follow"
-  ],
-  "connections": 2,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "ashby:plaid:62ae216d-86c8-42ea-8590-0c0b7e68c464",
-  "company": "Plaid",
-  "title": "Sales Engineer - Banking and Wealth",
-  "location": "New York City Office | Seattle Office | Raleigh Office | DC Office | San Francisco HQ | New York, New York, United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/plaid/62ae216d-86c8-42ea-8590-0c0b7e68c464",
-  "posted": "2026-11-05T16:35:27.921000+00:00",
-  "comp": "$176,640 – $276,000",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "fintech",
-   "linkedin-follow"
-  ],
-  "connections": 0,
   "first_seen": "2026-11-15T20:19:26.903438+00:00"
  },
  {
@@ -107,163 +36,6 @@
   "first_seen": "2026-11-15T20:41:38.452073+00:00"
  },
  {
-  "id": "greenhouse:mercury:6249882004",
-  "company": "Mercury",
-  "title": "Emerging Talent & Onboarding Program Manager",
-  "location": "San Francisco, CA | Any Office or Remote",
-  "remote": null,
-  "url": "https://job-boards.greenhouse.io/mercury/jobs/6249882004",
-  "posted": "2026-11-04T21:46:08+00:00",
-  "comp": "$121,700 — $152,100",
-  "ats": "greenhouse",
-  "location_tag": "remote-unclear",
-  "company_tags": [
-   "fintech",
-   "linkedin-follow"
-  ],
-  "connections": 2,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "greenhouse:alloy:8927887002",
-  "company": "Alloy",
-  "title": "Senior Solutions Architect - IAM",
-  "location": "Remote | Alloy New York",
-  "remote": null,
-  "url": "https://www.alloy.com/about/jobs/detail?gh_jid=8927887002&gh_jid=8927887002",
-  "posted": "2026-11-03T04:52:16+00:00",
-  "comp": "$145,000 - $175,000",
-  "ats": "greenhouse",
-  "location_tag": "remote-unclear",
-  "company_tags": [
-   "fintech"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "greenhouse:alloy:8927882002",
-  "company": "Alloy",
-  "title": "Senior Solutions Architect - Transaction Monitoring",
-  "location": "Remote | Alloy New York",
-  "remote": null,
-  "url": "https://www.alloy.com/about/jobs/detail?gh_jid=8927882002&gh_jid=8927882002",
-  "posted": "2026-11-03T04:45:23+00:00",
-  "comp": "$145,000 - $175,000",
-  "ats": "greenhouse",
-  "location_tag": "remote-unclear",
-  "company_tags": [
-   "fintech"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "greenhouse:withorb:8331388",
-  "company": "Orb",
-  "title": "Implementation Architect",
-  "location": "San Francisco",
-  "remote": null,
-  "url": "https://job-boards.greenhouse.io/withorb/jobs/8331388",
-  "posted": "2026-11-02T03:52:56+00:00",
-  "comp": "$140,000 — $220,000",
-  "ats": "greenhouse",
-  "location_tag": "relocation-NYC/SF",
-  "company_tags": [
-   "fintech"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "greenhouse:withorb:8355751",
-  "company": "Orb",
-  "title": "Solutions Architect",
-  "location": "San Francisco",
-  "remote": null,
-  "url": "https://job-boards.greenhouse.io/withorb/jobs/8355751",
-  "posted": "2026-11-06T17:38:56+00:00",
-  "comp": "$140,000 — $220,000",
-  "ats": "greenhouse",
-  "location_tag": "relocation-NYC/SF",
-  "company_tags": [
-   "fintech"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "greenhouse:withorb:8331392",
-  "company": "Orb",
-  "title": "Technical Account Manager",
-  "location": "San Francisco",
-  "remote": null,
-  "url": "https://job-boards.greenhouse.io/withorb/jobs/8331392",
-  "posted": "2026-11-02T03:40:02+00:00",
-  "comp": "$140,000 — $220,000",
-  "ats": "greenhouse",
-  "location_tag": "relocation-NYC/SF",
-  "company_tags": [
-   "fintech"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "greenhouse:gusto:8353774",
-  "company": "Gusto",
-  "title": "Channel Partnerships Manager, Investor Ecosystems (VC & PE)",
-  "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Toronto, Ontario - Remote | Denver, CO - Hybrid",
-  "remote": null,
-  "url": "https://job-boards.greenhouse.io/gusto/jobs/8353774",
-  "posted": "2026-11-04T19:37:40+00:00",
-  "comp": "$153,000 to $195,000",
-  "ats": "greenhouse",
-  "location_tag": "CO",
-  "company_tags": [
-   "saas",
-   "linkedin-follow"
-  ],
-  "connections": 1,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "greenhouse:gusto:8248374",
-  "company": "Gusto",
-  "title": "Forward Deployed Solutions Engineer",
-  "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid | Denver, CO - Hybrid",
-  "remote": null,
-  "url": "https://job-boards.greenhouse.io/gusto/jobs/8248374",
-  "posted": "2026-11-04T22:22:08+00:00",
-  "comp": "$88,000",
-  "ats": "greenhouse",
-  "location_tag": "CO",
-  "company_tags": [
-   "saas",
-   "linkedin-follow"
-  ],
-  "connections": 1,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "greenhouse:gusto:8346975",
-  "company": "Gusto",
-  "title": "Lead Sales Engineer",
-  "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid | Denver, CO - Hybrid",
-  "remote": null,
-  "url": "https://job-boards.greenhouse.io/gusto/jobs/8346975",
-  "posted": "2026-11-05T17:44:22+00:00",
-  "comp": "$150,000-$185,000",
-  "ats": "greenhouse",
-  "location_tag": "CO",
-  "company_tags": [
-   "saas",
-   "linkedin-follow"
-  ],
-  "connections": 1,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
   "id": "greenhouse:gusto:8347750",
   "company": "Gusto",
   "title": "Partner Manager, Franchise",
@@ -272,24 +44,6 @@
   "url": "https://job-boards.greenhouse.io/gusto/jobs/8347750",
   "posted": "2026-11-06T17:10:51+00:00",
   "comp": "$120,410 - $150,000",
-  "ats": "greenhouse",
-  "location_tag": "CO",
-  "company_tags": [
-   "saas",
-   "linkedin-follow"
-  ],
-  "connections": 1,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "greenhouse:gusto:8346979",
-  "company": "Gusto",
-  "title": "Sales Engineer",
-  "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid | Denver, CO - Hybrid",
-  "remote": null,
-  "url": "https://job-boards.greenhouse.io/gusto/jobs/8346979",
-  "posted": "2026-11-05T17:00:12+00:00",
-  "comp": "$120,000",
   "ats": "greenhouse",
   "location_tag": "CO",
   "company_tags": [
@@ -317,193 +71,6 @@
   "first_seen": "2026-11-15T20:19:26.903438+00:00"
  },
  {
-  "id": "ashby:rho:45fcffb0-418d-4746-a3c5-5d17e49ecbef",
-  "company": "Rho",
-  "title": "Account Manager",
-  "location": "San Francisco | San Francisco, California, United States",
-  "remote": false,
-  "url": "https://jobs.ashbyhq.com/rho/45fcffb0-418d-4746-a3c5-5d17e49ecbef",
-  "posted": "2026-11-06T17:55:35.381000+00:00",
-  "comp": "$107,500 to $125,000",
-  "ats": "ashby",
-  "location_tag": "relocation-NYC/SF",
-  "company_tags": [
-   "fintech"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "greenhouse:billcom:6238926004",
-  "company": "Bill.com",
-  "title": "Product Manager - Onboarding",
-  "location": "United States",
-  "remote": null,
-  "url": "https://www.bill.com/job?6238926004&gh_jid=6238926004",
-  "posted": "2026-11-05T03:06:34+00:00",
-  "comp": "$117,900 — $141,500",
-  "ats": "greenhouse",
-  "location_tag": "US",
-  "company_tags": [
-   "fintech"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "greenhouse:affirm:8040794003",
-  "company": "Affirm",
-  "title": "Implementation Specialist I",
-  "location": "Remote US",
-  "remote": null,
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/8040794003",
-  "posted": "2026-10-26T15:42:35+00:00",
-  "comp": "$70,000 - $90,000",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "fintech"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "greenhouse:affirm:8044928003",
-  "company": "Affirm",
-  "title": "Senior Technical Account Manager (Strategic Alliances)",
-  "location": "Remote US | Remote Canada",
-  "remote": null,
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/8044928003",
-  "posted": "2026-10-26T18:10:01+00:00",
-  "comp": "$165,000 - $225,000",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "fintech"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:sardine:f0b10b18-91a7-4348-bbb9-0c2ef697611f",
-  "company": "Sardine",
-  "title": "Partnerships Manager",
-  "location": "Berkeley, California | Berkeley, California, United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/sardine/f0b10b18-91a7-4348-bbb9-0c2ef697611f",
-  "posted": "2026-10-30T19:48:09.267000+00:00",
-  "comp": "$185K – $205K • Offers Equity • Offers Commission",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "fintech"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:sardine:b03b9dc7-9655-4eda-b918-7acd3da2ffb0",
-  "company": "Sardine",
-  "title": "Solutions Architect, Integrations - Public Sector (US)",
-  "location": "North America | United States | Canada",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/sardine/b03b9dc7-9655-4eda-b918-7acd3da2ffb0",
-  "posted": "2026-10-29T20:21:51.079000+00:00",
-  "comp": "$125K – $210K • Offers Equity • Offers Bonus • 10% bonus",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "fintech"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:sardine:9f34cfd0-7db2-454f-b94a-4468d204eb21",
-  "company": "Sardine",
-  "title": "Sales Engineer",
-  "location": "United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/sardine/9f34cfd0-7db2-454f-b94a-4468d204eb21",
-  "posted": "2026-11-03T20:38:53.488000+00:00",
-  "comp": "$160K – $200K • Offers Equity • Offers Commission • Multiple Ranges",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "fintech"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:socure:e9d0206e-69c5-4e4e-8176-453a3a8ee54e",
-  "company": "Socure",
-  "title": "Pre-Sales Solution Consultant, Big Tech/AI",
-  "location": "Hub - San Francisco | Hub - Seattle | San Francisco, California, United States",
-  "remote": false,
-  "url": "https://jobs.ashbyhq.com/socure/e9d0206e-69c5-4e4e-8176-453a3a8ee54e",
-  "posted": "2026-10-26T13:15:47.648000+00:00",
-  "comp": "$160K – $185K • Offers Equity • Offers Commission",
-  "ats": "ashby",
-  "location_tag": "relocation-NYC/SF",
-  "company_tags": [
-   "fintech"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "ashby:socure:4aba09cb-32f2-4a45-8815-88515f9711af",
-  "company": "Socure",
-  "title": "Senior Pre-Sales Solution Consulting, Gaming",
-  "location": "Hub - Seattle | Hub - San Francisco | Hub - Miami | Hub - Washington DC | Hub - New York | Seattle, Washington, United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/socure/4aba09cb-32f2-4a45-8815-88515f9711af",
-  "posted": "2026-10-26T13:13:12.969000+00:00",
-  "comp": "$160K – $180K • Offers Equity • Offers Commission",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "fintech"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:socure:a38e3c7f-314a-4dd4-8d83-b12d0c7d07e0",
-  "company": "Socure",
-  "title": "Senior Solution Consultant , Core",
-  "location": "Hub - New York | Hub - San Francisco | Hub - Miami | Hub - Washington DC | Hub - Seattle | New York, New York, United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/socure/a38e3c7f-314a-4dd4-8d83-b12d0c7d07e0",
-  "posted": "2026-10-26T13:11:29.818000+00:00",
-  "comp": "$165K – $185K • Offers Equity • Offers Commission",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "fintech"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:socure:b6999a41-7e41-4aaa-b954-fac98ed41f33",
-  "company": "Socure",
-  "title": "Platform Solution Consultant, Public Sector",
-  "location": "Hub - Washington DC | Tysons, Virginia, United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/socure/b6999a41-7e41-4aaa-b954-fac98ed41f33",
-  "posted": "2026-10-26T17:53:15.849000+00:00",
-  "comp": "$145K – $170K • Offers Equity • Offers Commission",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "fintech"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
   "id": "ashby:socure:f2330d9e-1c1d-493e-adb7-e7602efc789f",
   "company": "Socure",
   "title": "Associate Solution Consultant",
@@ -521,128 +88,6 @@
   "first_seen": "2026-11-15T20:19:26.903438+00:00"
  },
  {
-  "id": "ashby:socure:6a039ad5-cb1e-45b9-bbe6-2384fd327c9f",
-  "company": "Socure",
-  "title": "Senior Post-Sales Solution Consultant, Federal Public Sector",
-  "location": "Hub - Washington DC | Tysons, Virginia, United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/socure/6a039ad5-cb1e-45b9-bbe6-2384fd327c9f",
-  "posted": "2026-11-04T17:30:11.265000+00:00",
-  "comp": "$150K – $185K • Offers Equity • Offers Bonus",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "fintech"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:socure:7a5e6026-eb48-4b5b-937e-3319259cd023",
-  "company": "Socure",
-  "title": "Post-Sales Associate Solution Consultant, SLED (West)",
-  "location": "Hub - San Francisco | California - Remote | Colorado - Remote | Washington - Remote | San Francisco, California, United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/socure/7a5e6026-eb48-4b5b-937e-3319259cd023",
-  "posted": "2026-11-04T17:28:13.772000+00:00",
-  "comp": "$110K – $130K • Offers Equity • Offers Bonus",
-  "ats": "ashby",
-  "location_tag": "CO",
-  "company_tags": [
-   "fintech"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:middesk:da406960-d70c-4a53-88bf-01879f55fe9b",
-  "company": "Middesk",
-  "title": "Account Manager, Mid-Market",
-  "location": "New York | New York, New York, USA",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/middesk/da406960-d70c-4a53-88bf-01879f55fe9b",
-  "posted": "2026-10-29T00:00:06.819000+00:00",
-  "comp": "$135K – $180K • Offers Equity",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "fintech",
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:middesk:d52261cb-260c-414a-af1e-9d055748b557",
-  "company": "Middesk",
-  "title": "Partner Manager",
-  "location": "New York | San Francisco | New York, New York, USA",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/middesk/d52261cb-260c-414a-af1e-9d055748b557",
-  "posted": "2026-10-28T18:12:08.544000+00:00",
-  "comp": "$170K – $200K • Offers Equity",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "fintech",
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:middesk:6f90b4b1-c122-4f56-bb16-1773802bf148",
-  "company": "Middesk",
-  "title": "Solutions Engineer, Enterprise",
-  "location": "New York | San Francisco | New York, New York, USA",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/middesk/6f90b4b1-c122-4f56-bb16-1773802bf148",
-  "posted": "2026-10-27T22:40:13.928000+00:00",
-  "comp": "$180K – $220K • Offers Equity",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "fintech",
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:vanta:b64b6e72-7c71-446f-b6ce-662330b910e8",
-  "company": "Vanta",
-  "title": "GTM Program Manager, Revenue Onboarding",
-  "location": "San Francisco, CA | San Francisco, California , USA",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/vanta/b64b6e72-7c71-446f-b6ce-662330b910e8",
-  "posted": "2026-10-29T18:12:14.403000+00:00",
-  "comp": "$160K – $188K • Offers Equity • This role is also eligible for medical benefits, 401(k) plan, and other company perk programs.",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 1,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:vanta:29e92503-fecf-4ac4-9de7-683390fb74c6",
-  "company": "Vanta",
-  "title": "Program Manager, Digital Customer Success",
-  "location": "Remote U.S. | USA",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/vanta/29e92503-fecf-4ac4-9de7-683390fb74c6",
-  "posted": "2026-11-03T18:25:26.804000+00:00",
-  "comp": "$127K – $149K • Offers Equity • This role is also eligible for medical benefits, 401(k) plan, and other company perk programs.",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 1,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
   "id": "ashby:vanta:383e20b0-b2c5-4c4f-9406-46f0a671a7bc",
   "company": "Vanta",
   "title": "Solutions Engineer, Mid-Market",
@@ -651,23 +96,6 @@
   "url": "https://jobs.ashbyhq.com/vanta/383e20b0-b2c5-4c4f-9406-46f0a671a7bc",
   "posted": "2026-11-10T20:07:58.310000+00:00",
   "comp": "$190K – $224K • Offers Equity • This role is also eligible for medical benefits, 401(k) plan, and other company perk programs.",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 1,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:vanta:9bafb795-a5bb-4a68-97c6-d914b64b2e7b",
-  "company": "Vanta",
-  "title": "Senior Solutions Engineer, Enterprise",
-  "location": "Remote U.S. | USA",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/vanta/9bafb795-a5bb-4a68-97c6-d914b64b2e7b",
-  "posted": "2026-11-03T17:29:22.539000+00:00",
-  "comp": "$224K – $264K • Offers Equity • This role is also eligible for medical benefits, 401(k) plan, and other company perk programs.",
   "ats": "ashby",
   "location_tag": "remote-US",
   "company_tags": [
@@ -694,99 +122,14 @@
   "first_seen": "2026-11-15T20:19:26.903438+00:00"
  },
  {
-  "id": "ashby:hex:0a23df90-2eea-44f6-862b-666e0431077f",
-  "company": "Hex",
-  "title": "Founding Commercial Account Manager",
-  "location": "New York | San Francisco | New York, New York, United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/hex/0a23df90-2eea-44f6-862b-666e0431077f",
-  "posted": "2026-11-06T17:24:22.756000+00:00",
-  "comp": "$200K – $215K • Offers Equity • Offers Commission",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "greenhouse:fivetran:8047327003",
-  "company": "Fivetran",
-  "title": "Customer Solutions Architect (Denver)",
-  "location": "Denver, Colorado, United States, AMER | USA - Austin (dbt)",
-  "remote": null,
-  "url": "https://www.fivetran.com/careers/job?gh_jid=8047327003",
-  "posted": "2026-10-28T15:45:20+00:00",
-  "comp": "$155,000 — $175,000",
-  "ats": "greenhouse",
-  "location_tag": "CO",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "greenhouse:fivetran:8047340003",
-  "company": "Fivetran",
-  "title": "Customer Solutions Architect (NYC)",
-  "location": "USA - New York (dbt) | USA - Austin (dbt)",
-  "remote": null,
-  "url": "https://www.fivetran.com/careers/job?gh_jid=8047340003",
-  "posted": "2026-10-28T15:50:16+00:00",
-  "comp": "$165,000 — $190,000",
-  "ats": "greenhouse",
-  "location_tag": "relocation-NYC/SF",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "greenhouse:fivetran:8196171003",
-  "company": "Fivetran",
-  "title": "Resident Solution Architect",
-  "location": "USA - Philadelphia (dbt) | USA - Remote - CO",
-  "remote": null,
-  "url": "https://www.fivetran.com/careers/job?gh_jid=8196171003",
-  "posted": "2026-11-05T22:54:22+00:00",
-  "comp": "$167,983 — $190,000",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
   "id": "greenhouse:fivetran:8034211003",
   "company": "Fivetran",
   "title": "Senior Sales Engineer, Enterprise",
-  "location": "Remote, California, United States, AMER | USA - Remote - CA | Remote, Texas, United States, AMER | USA - Remote - TX",
+  "location": "Remote, California, United States, AMER | USA - Remote - CA",
   "remote": null,
   "url": "https://www.fivetran.com/careers/job?gh_jid=8034211003",
   "posted": "2026-11-06T16:47:41+00:00",
   "comp": "$218,491",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "greenhouse:fivetran:8042380003",
-  "company": "Fivetran",
-  "title": "Senior Solutions Architect",
-  "location": "Remote, New York, United States, AMER | USA - Remote - NY",
-  "remote": null,
-  "url": "https://www.fivetran.com/careers/job?gh_jid=8042380003",
-  "posted": "2026-10-26T19:10:26+00:00",
-  "comp": "$219,463",
   "ats": "greenhouse",
   "location_tag": "remote-US",
   "company_tags": [
@@ -831,42 +174,6 @@
   "first_seen": "2026-11-15T20:19:26.903438+00:00"
  },
  {
-  "id": "ashby:claylabs:a8584148-6546-4ffa-991c-6f4976376201",
-  "company": "Clay",
-  "title": "Growth Strategist, Strategic (Deployment Strategist) - NY",
-  "location": "New York | New York, NY, United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/claylabs/a8584148-6546-4ffa-991c-6f4976376201",
-  "posted": "2026-11-04T16:29:58.177000+00:00",
-  "comp": "$190K – $210K • Offers Equity",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas",
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:claylabs:7d362dfe-02b5-48a6-bce3-67f9de9724d0",
-  "company": "Clay",
-  "title": "GTM Engineer - CX",
-  "location": "New York | San Francisco | New York, NY, United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/claylabs/7d362dfe-02b5-48a6-bce3-67f9de9724d0",
-  "posted": "2026-11-03T23:35:06.372000+00:00",
-  "comp": "$140K – $200K • Offers Equity",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas",
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
   "id": "lever:outreach:752b3b1a-dcee-4c74-844d-c17705f46f37",
   "company": "Outreach",
   "title": "Forward Deployed Engineer, Onboarding Services",
@@ -880,74 +187,6 @@
   "company_tags": [
    "saas",
    "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:chilipiper:9caf9cb4-b51d-4f20-b269-dadca1c1f2a9",
-  "company": "Chili Piper",
-  "title": "Sr. Customer Success Manager - EMEA",
-  "location": "Remote",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/chilipiper/9caf9cb4-b51d-4f20-b269-dadca1c1f2a9",
-  "posted": "2026-10-26T16:30:48.313000+00:00",
-  "comp": "",
-  "ats": "ashby",
-  "location_tag": "remote-unclear",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:planhat:5005200d-5070-478f-871b-52bda7fbb246",
-  "company": "Planhat",
-  "title": "Technical Deployment Lead | Americas",
-  "location": "Los Angeles | New York | Pacific Palisades, California, USA",
-  "remote": false,
-  "url": "https://jobs.ashbyhq.com/planhat/5005200d-5070-478f-871b-52bda7fbb246",
-  "posted": "2026-11-03T21:17:57.019000+00:00",
-  "comp": "$145,000 - $160,000",
-  "ats": "ashby",
-  "location_tag": "relocation-NYC/SF",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "ashby:planhat:d95b5273-de70-40ea-b1bc-e4cda92c4e18",
-  "company": "Planhat",
-  "title": "Senior Customer Success Manager",
-  "location": "New York | New York, NY, United States",
-  "remote": false,
-  "url": "https://jobs.ashbyhq.com/planhat/d95b5273-de70-40ea-b1bc-e4cda92c4e18",
-  "posted": "2026-10-28T13:24:06.710000+00:00",
-  "comp": "$120,000 - $170,000",
-  "ats": "ashby",
-  "location_tag": "relocation-NYC/SF",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "greenhouse:pendo:8933351002",
-  "company": "Pendo",
-  "title": "Sr. Engagement Manager (Professional Services)",
-  "location": "Raleigh, NC | Remote",
-  "remote": null,
-  "url": "https://job-boards.greenhouse.io/pendo/jobs/8933351002",
-  "posted": "2026-11-13T21:54:02+00:00",
-  "comp": "$136,000 - $168,000",
-  "ats": "greenhouse",
-  "location_tag": "remote-unclear",
-  "company_tags": [
-   "saas"
   ],
   "connections": 0,
   "first_seen": "2026-11-15T20:19:26.903438+00:00"
@@ -970,212 +209,6 @@
   "first_seen": "2026-11-15T20:41:38.452073+00:00"
  },
  {
-  "id": "ashby:sierra:19d700ac-5624-42fc-ab2b-868c9a23c4ea",
-  "company": "Sierra",
-  "title": "Enterprise Sales Engineer - Majors, Healthcare",
-  "location": "San Francisco, CA | US - Remote | New York, NY | Atlanta, GA | San Francisco, CA, United States",
-  "remote": false,
-  "url": "https://jobs.ashbyhq.com/Sierra/19d700ac-5624-42fc-ab2b-868c9a23c4ea",
-  "posted": "2026-10-29T22:04:24.467000+00:00",
-  "comp": "$280K – $290K • Offers Equity • Offers Commission",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas",
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:sierra:2b511f15-831c-4c6b-86f4-b5a8d38d8019",
-  "company": "Sierra",
-  "title": "Enterprise Sales Engineer - Majors, Financial Services",
-  "location": "San Francisco, CA | US - Remote | New York, NY | Atlanta, GA | San Francisco, CA, United States",
-  "remote": false,
-  "url": "https://jobs.ashbyhq.com/Sierra/2b511f15-831c-4c6b-86f4-b5a8d38d8019",
-  "posted": "2026-10-29T22:04:19.120000+00:00",
-  "comp": "$280K – $290K • Offers Equity • Offers Commission",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas",
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "greenhouse:gleanwork:4751170005",
-  "company": "Glean",
-  "title": "Forward Deployed Recruiter",
-  "location": "Mountain View, CA",
-  "remote": null,
-  "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4751170005",
-  "posted": "2026-11-05T00:22:58+00:00",
-  "comp": "$140,000 - $185,000",
-  "ats": "greenhouse",
-  "location_tag": "relocation-NYC/SF",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 1,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "ashby:writer:36f26077-4b85-4702-bf39-2f5d6c0ada78",
-  "company": "Writer",
-  "title": "Senior solutions architect (Central)",
-  "location": "Chicago, IL | Chicago, Illinois , United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/WRITER/36f26077-4b85-4702-bf39-2f5d6c0ada78",
-  "posted": "2026-11-03T23:23:11.653000+00:00",
-  "comp": "$194K – $228K • Offers Equity • Offers Commission",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:writer:6ac02771-059b-490b-960b-f5616f255b65",
-  "company": "Writer",
-  "title": "AI deployment engineer (Central)",
-  "location": "Chicago, IL | Austin, TX | Chicago, Illinois , United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/WRITER/6ac02771-059b-490b-960b-f5616f255b65",
-  "posted": "2026-11-03T23:31:33.937000+00:00",
-  "comp": "$132K – $184K • Offers Equity",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:writer:38376afc-7424-40c8-964f-8815d60d8dbf",
-  "company": "Writer",
-  "title": "Sales development representative",
-  "location": "San Francisco, CA | Chicago, IL | New York City, NY | San Francisco, California, United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/WRITER/38376afc-7424-40c8-964f-8815d60d8dbf",
-  "posted": "2026-11-03T23:39:27.591000+00:00",
-  "comp": "$90K – $110K • Offers Equity • Offers Commission",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:writer:dcf1819e-6890-434f-8b72-8493bc35a7d2",
-  "company": "Writer",
-  "title": "AI deployment engineer (West)",
-  "location": "San Francisco, CA | Seattle, WA | San Francisco, California, United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/WRITER/dcf1819e-6890-434f-8b72-8493bc35a7d2",
-  "posted": "2026-11-03T23:52:46.131000+00:00",
-  "comp": "$146K – $204K • Offers Equity",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:writer:2111a9b4-8dab-4562-9692-ad7cb2c7b968",
-  "company": "Writer",
-  "title": "AI deployment engineer (East)",
-  "location": "New York City, NY | New York City, New York, United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/WRITER/2111a9b4-8dab-4562-9692-ad7cb2c7b968",
-  "posted": "2026-11-03T23:53:59.146000+00:00",
-  "comp": "$146K – $204K • Offers Equity",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:harvey:993e43fa-a9a1-45be-9d74-3a96c7c303ef",
-  "company": "Harvey",
-  "title": "Majors Customer Success Manager (Asset Management)",
-  "location": "New York | New York, New York, USA",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/harvey/993e43fa-a9a1-45be-9d74-3a96c7c303ef",
-  "posted": "2026-11-03T20:57:17.673000+00:00",
-  "comp": "$180K – $210K • OTE 80/20 Split",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:harvey:5a22d5da-6be0-4f97-87d2-bb6a52aba554",
-  "company": "Harvey",
-  "title": "Majors Customer Success Manager",
-  "location": "San Francisco | San Francisco, California, USA | New York | New York, New York, USA",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/harvey/5a22d5da-6be0-4f97-87d2-bb6a52aba554",
-  "posted": "2026-11-03T20:39:24.160000+00:00",
-  "comp": "$180K – $210K • Offers Equity",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:harvey:1b468ce7-37a6-4fd4-89a0-d706cc051190",
-  "company": "Harvey",
-  "title": "Legal Engineering Manager, Product Specialist",
-  "location": "Dallas | Dallas, Texas, United States | Chicago | Chicago, Illinois, United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/harvey/1b468ce7-37a6-4fd4-89a0-d706cc051190",
-  "posted": "2026-10-27T21:16:00.553000+00:00",
-  "comp": "$315K – $385K • Offers Equity • Offers Commission • OTE 75/25 Split",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:harvey:9f47cf57-4297-4f55-ae26-4196dced1b7a",
-  "company": "Harvey",
-  "title": "Enterprise Customer Success Manager",
-  "location": "Chicago | Chicago, Illinois, United States | Dallas | Dallas, Texas, United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/harvey/9f47cf57-4297-4f55-ae26-4196dced1b7a",
-  "posted": "2026-11-04T19:42:45.097000+00:00",
-  "comp": "$160K – $185K • Offers Equity • OTE 80/20",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
   "id": "ashby:harvey:cb89e7ec-6643-4cfa-b4d6-ce34b345f46a",
   "company": "Harvey",
   "title": "Scaled Customer Success Manager (SMB)",
@@ -1184,40 +217,6 @@
   "url": "https://jobs.ashbyhq.com/harvey/cb89e7ec-6643-4cfa-b4d6-ce34b345f46a",
   "posted": "2026-11-10T22:45:06.631000+00:00",
   "comp": "$115K – $130K • Offers Equity • OTE 80/20",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:harvey:905454df-38a7-44bb-8ea0-b93b1d85b04c",
-  "company": "Harvey",
-  "title": "Customer Success Leader, Majors",
-  "location": "New York | New York, New York, USA | San Francisco | San Francisco, California, USA",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/harvey/905454df-38a7-44bb-8ea0-b93b1d85b04c",
-  "posted": "2026-10-26T21:59:58.320000+00:00",
-  "comp": "$230K – $250K • Offers Equity • OTE 80/20",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:harvey:86e675fd-51af-42f9-9e1f-e61f1dcdbe2d",
-  "company": "Harvey",
-  "title": "Customer Success Leader, Majors - Asset Management",
-  "location": "New York | New York, New York, USA",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/harvey/86e675fd-51af-42f9-9e1f-e61f1dcdbe2d",
-  "posted": "2026-10-26T22:02:20.418000+00:00",
-  "comp": "$230K – $250K • Offers Equity • OTE 80/20",
   "ats": "ashby",
   "location_tag": "remote-US",
   "company_tags": [
@@ -1245,149 +244,6 @@
   "first_seen": "2026-11-15T20:19:26.903438+00:00"
  },
  {
-  "id": "greenhouse:cultureamp:8350886",
-  "company": "Culture Amp",
-  "title": "Senior Customer Success Manager",
-  "location": "San Francisco",
-  "remote": null,
-  "url": "https://job-boards.greenhouse.io/cultureamp/jobs/8350886",
-  "posted": "2026-11-06T20:56:43+00:00",
-  "comp": "$131,000 — $150,000",
-  "ats": "greenhouse",
-  "location_tag": "relocation-NYC/SF",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "ashby:ashby:d46e79d4-43fd-477f-aa06-25b604715223",
-  "company": "Ashby",
-  "title": "Strategy & Operations, Customer Success",
-  "location": "Remote - US | Remote - Canada | United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/Ashby/d46e79d4-43fd-477f-aa06-25b604715223",
-  "posted": "2026-11-02T18:22:27.542000+00:00",
-  "comp": "$168,500 – $221,875 • Offers Equity • Multiple Ranges",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas",
-   "linkedin-follow"
-  ],
-  "connections": 1,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:ashby:2b401986-a491-4f9b-9c22-63079bcd64c2",
-  "company": "Ashby",
-  "title": "Strategic Customer Success Manager - Americas",
-  "location": "Remote - US | Remote - Canada | United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/Ashby/2b401986-a491-4f9b-9c22-63079bcd64c2",
-  "posted": "2026-11-03T14:54:14.905000+00:00",
-  "comp": "$150,000 – $198,375 • Offers Equity • Multiple Ranges",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas",
-   "linkedin-follow"
-  ],
-  "connections": 1,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:ashby:dd3601fc-3a21-467b-aaff-43fceb65864b",
-  "company": "Ashby",
-  "title": "SMB Customer Success Manager - Americas",
-  "location": "Remote - US | Remote - Canada | United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/Ashby/dd3601fc-3a21-467b-aaff-43fceb65864b",
-  "posted": "2026-10-26T15:03:46.912000+00:00",
-  "comp": "$80K – $138K • Offers Equity • Multiple Ranges",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas",
-   "linkedin-follow"
-  ],
-  "connections": 1,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "greenhouse:figma:6232541004",
-  "company": "Figma",
-  "title": "Customer Success Manager - Figma Weave (New York, United States)",
-  "location": "New York, NY • United States | Canada | US",
-  "remote": null,
-  "url": "https://boards.greenhouse.io/figma/jobs/6232541004?gh_jid=6232541004",
-  "posted": "2026-10-27T20:24:36+00:00",
-  "comp": "$127,000 — $269,000",
-  "ats": "greenhouse",
-  "location_tag": "relocation-NYC/SF",
-  "company_tags": [
-   "saas",
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "greenhouse:figma:6233040004",
-  "company": "Figma",
-  "title": "Data & Integration Engineer, Business Systems",
-  "location": "San Francisco, CA • New York, NY • United States | Canada | US",
-  "remote": null,
-  "url": "https://boards.greenhouse.io/figma/jobs/6233040004?gh_jid=6233040004",
-  "posted": "2026-10-27T18:10:49+00:00",
-  "comp": "$153,000 — $296,000",
-  "ats": "greenhouse",
-  "location_tag": "relocation-NYC/SF",
-  "company_tags": [
-   "saas",
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "greenhouse:figma:6235005004",
-  "company": "Figma",
-  "title": "Product Partner Manager, Scaled",
-  "location": "San Francisco, CA • New York, NY • United States | Canada | US",
-  "remote": null,
-  "url": "https://boards.greenhouse.io/figma/jobs/6235005004?gh_jid=6235005004",
-  "posted": "2026-10-27T16:25:21+00:00",
-  "comp": "$115,000 — $245,000",
-  "ats": "greenhouse",
-  "location_tag": "relocation-NYC/SF",
-  "company_tags": [
-   "saas",
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "greenhouse:figma:6237654004",
-  "company": "Figma",
-  "title": "Solutions Consultant, Mid-Market",
-  "location": "San Francisco, CA • United States | US",
-  "remote": null,
-  "url": "https://boards.greenhouse.io/figma/jobs/6237654004?gh_jid=6237654004",
-  "posted": "2026-11-02T16:26:11+00:00",
-  "comp": "$115,200 — $221,600",
-  "ats": "greenhouse",
-  "location_tag": "relocation-NYC/SF",
-  "company_tags": [
-   "saas",
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
   "id": "greenhouse:airtable:8936208002",
   "company": "Airtable",
   "title": "Customer Success Manager",
@@ -1402,109 +258,6 @@
    "saas"
   ],
   "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "greenhouse:asana:8349347",
-  "company": "Asana",
-  "title": "Customer Success Manager (AI Success Architect)",
-  "location": "US - Remote | Chicago",
-  "remote": null,
-  "url": "https://www.asana.com/jobs/apply/8349347?gh_jid=8349347",
-  "posted": "2026-11-03T11:48:07+00:00",
-  "comp": "$116,800 - $148,800",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "greenhouse:asana:8282422",
-  "company": "Asana",
-  "title": "Sales Engineer",
-  "location": "Chicago | US IL Chicago - Remote",
-  "remote": null,
-  "url": "https://www.asana.com/jobs/apply/8282422?gh_jid=8282422",
-  "posted": "2026-10-26T14:34:16+00:00",
-  "comp": "$114,000",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "greenhouse:asana:8311197",
-  "company": "Asana",
-  "title": "Senior Implementation Manager",
-  "location": "US CA - Remote",
-  "remote": null,
-  "url": "https://www.asana.com/jobs/apply/8311197?gh_jid=8311197",
-  "posted": "2026-10-26T19:27:11+00:00",
-  "comp": "$147,000 -$167,000",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "greenhouse:twilio:8347887",
-  "company": "Twilio",
-  "title": "Sales Development Representative",
-  "location": "Remote - US",
-  "remote": null,
-  "url": "https://job-boards.greenhouse.io/twilio/jobs/8347887",
-  "posted": "2026-11-03T13:35:11+00:00",
-  "comp": "",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:amplitude:fcd83232-aaa4-4d50-b67c-2b7921f99c6a",
-  "company": "Amplitude",
-  "title": "Sales Development Representative",
-  "location": "San Francisco  | New York City | San Francisco, California, United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/amplitude/fcd83232-aaa4-4d50-b67c-2b7921f99c6a",
-  "posted": "2026-10-28T16:43:55.910000+00:00",
-  "comp": "$77K – $115K • Offers Commission • Target total cash compensation, including base salary and bonus or commission",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas",
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:fullstory:740cc466-d9f7-4ebc-a355-3376ad4355fe",
-  "company": "FullStory",
-  "title": "Customer Solutions Engineer, Strategic Accounts",
-  "location": "Atlanta | Atlanta, GA, USA",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/fullstory/740cc466-d9f7-4ebc-a355-3376ad4355fe",
-  "posted": "2026-11-05T21:46:17.982000+00:00",
-  "comp": "$300k",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 1,
   "first_seen": "2026-11-15T20:19:26.903438+00:00"
  },
  {
@@ -1542,57 +295,6 @@
   "first_seen": "2026-11-15T20:19:26.903438+00:00"
  },
  {
-  "id": "greenhouse:datadog:8125958",
-  "company": "Datadog",
-  "title": "Major Account Manager",
-  "location": "Michigan, USA, Remote; Ohio, USA, Remote; Texas, USA, Remote | Chicago | Michigan | Ohio | Texas",
-  "remote": null,
-  "url": "https://careers.datadoghq.com/detail/8125958/?gh_jid=8125958",
-  "posted": "2026-10-28T20:13:31+00:00",
-  "comp": "$128,000 — $170,000",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 2,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "greenhouse:datadog:8284995",
-  "company": "Datadog",
-  "title": "Regional Manager, Sales Engineering - Key Accounts (East)",
-  "location": "New York, USA, Remote | Remote - New York",
-  "remote": null,
-  "url": "https://careers.datadoghq.com/detail/8284995/?gh_jid=8284995",
-  "posted": "2026-10-29T21:21:08+00:00",
-  "comp": "$150,000 — $200,000",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 2,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "greenhouse:datadog:8285486",
-  "company": "Datadog",
-  "title": "Sales Development Representative - Summer 2027 Graduates (Denver)",
-  "location": "Denver, Colorado, USA | Denver",
-  "remote": null,
-  "url": "https://careers.datadoghq.com/detail/8285486/?gh_jid=8285486",
-  "posted": "2026-11-05T20:27:04+00:00",
-  "comp": "$50,000 — $50,000",
-  "ats": "greenhouse",
-  "location_tag": "CO",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 2,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
   "id": "greenhouse:datadog:8357178",
   "company": "Datadog",
   "title": "Technical Account Manager 2 - New York",
@@ -1600,23 +302,6 @@
   "remote": null,
   "url": "https://careers.datadoghq.com/detail/8357178/?gh_jid=8357178",
   "posted": "2026-11-10T09:35:54+00:00",
-  "comp": "$101,000 — $134,000",
-  "ats": "greenhouse",
-  "location_tag": "relocation-NYC/SF",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 2,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "greenhouse:datadog:8318034",
-  "company": "Datadog",
-  "title": "Technical Account Manager 2 - San Francisco",
-  "location": "San Francisco, California, USA | San Francisco",
-  "remote": null,
-  "url": "https://careers.datadoghq.com/detail/8318034/?gh_jid=8318034",
-  "posted": "2026-10-30T17:58:21+00:00",
   "comp": "$101,000 — $134,000",
   "ats": "greenhouse",
   "location_tag": "relocation-NYC/SF",
@@ -1644,57 +329,6 @@
   "first_seen": "2026-11-15T20:19:26.903438+00:00"
  },
  {
-  "id": "greenhouse:grafanalabs:6239644004",
-  "company": "Grafana Labs",
-  "title": "Senior Solutions Engineer, Acquisition | Central | Remote",
-  "location": "United States (Remote) | USA (Remote)",
-  "remote": null,
-  "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6239644004",
-  "posted": "2026-10-30T17:41:37+00:00",
-  "comp": "$204,000 - $254,000",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "greenhouse:grafanalabs:6239632004",
-  "company": "Grafana Labs",
-  "title": "Senior Solutions Engineer, Acquisition | East Coast | Remote",
-  "location": "United States (Remote) | USA (Remote)",
-  "remote": null,
-  "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6239632004",
-  "posted": "2026-10-30T17:35:58+00:00",
-  "comp": "$204,000 - $254,000",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "greenhouse:grafanalabs:6236201004",
-  "company": "Grafana Labs",
-  "title": "Senior Solutions Engineer, Acquisition | West Coast | Remote",
-  "location": "United States (Remote) | USA (Remote)",
-  "remote": null,
-  "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6236201004",
-  "posted": "2026-10-28T18:16:57+00:00",
-  "comp": "$204,000 - $254,000",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
   "id": "greenhouse:grafanalabs:6239639004",
   "company": "Grafana Labs",
   "title": "Senior Solutions Engineer, Growth | Mid Atlantic or Southeast | Remote",
@@ -1709,75 +343,6 @@
    "saas"
   ],
   "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "greenhouse:grafanalabs:6239535004",
-  "company": "Grafana Labs",
-  "title": "Solutions Engineer | East Coast | Remote",
-  "location": "United States (Remote) | USA (Remote)",
-  "remote": null,
-  "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6239535004",
-  "posted": "2026-10-30T17:36:23+00:00",
-  "comp": "$182,000 - $226,000",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "greenhouse:grafanalabs:6236204004",
-  "company": "Grafana Labs",
-  "title": "Solutions Engineer | West Coast | Remote",
-  "location": "United States (Remote) | USA (Remote)",
-  "remote": null,
-  "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6236204004",
-  "posted": "2026-10-27T15:10:07+00:00",
-  "comp": "$182,000 - $226,000",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "greenhouse:grafanalabs:6231148004",
-  "company": "Grafana Labs",
-  "title": "Strategic Channel Manager | Remote | West Coast US",
-  "location": "United States (Remote) | USA (Remote)",
-  "remote": null,
-  "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6231148004",
-  "posted": "2026-11-02T18:39:00+00:00",
-  "comp": "$265,000 - $290,000",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "greenhouse:cribl:6240800004",
-  "company": "Cribl",
-  "title": "Customer Success Engineer, West Region",
-  "location": "Remote - Denver, Colorado | US - Colorado",
-  "remote": null,
-  "url": "https://cribl.io/job-detail/?gh_jid=6240800004",
-  "posted": "2026-11-03T17:13:18+00:00",
-  "comp": "$110,000 — $150,000",
-  "ats": "greenhouse",
-  "location_tag": "CO",
-  "company_tags": [
-   "saas",
-   "linkedin-follow"
-  ],
-  "connections": 2,
   "first_seen": "2026-11-15T20:19:26.903438+00:00"
  },
  {
@@ -1799,41 +364,6 @@
   "first_seen": "2026-11-15T20:19:26.903438+00:00"
  },
  {
-  "id": "greenhouse:cribl:6224815004",
-  "company": "Cribl",
-  "title": "Sales Engineer, Seattle/Portland (Strategic)",
-  "location": "Remote - United States | US - Washington",
-  "remote": null,
-  "url": "https://cribl.io/job-detail/?gh_jid=6224815004",
-  "posted": "2026-10-28T14:12:41+00:00",
-  "comp": "$150,000 — $190,000",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas",
-   "linkedin-follow"
-  ],
-  "connections": 2,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:temporal:1aa528e5-5076-4d98-8b07-92444c692ade",
-  "company": "Temporal",
-  "title": "Business Development Representative",
-  "location": "Atlanta, Georgia | Atlanta, Georgia, United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/temporal/1aa528e5-5076-4d98-8b07-92444c692ade",
-  "posted": "2026-11-05T15:46:06.433000+00:00",
-  "comp": "$70K • Offers Equity • $30K Commission",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
   "id": "ashby:temporal:41c539a1-6ba5-41ad-925d-f2f2579b2acf",
   "company": "Temporal",
   "title": "Americas SI Partnerships Manager",
@@ -1851,57 +381,6 @@
   "first_seen": "2026-11-15T20:19:26.903438+00:00"
  },
  {
-  "id": "ashby:supabase:282d1dfb-b162-4ce4-a938-c4b2173230e0",
-  "company": "Supabase",
-  "title": "Partner Solutions Architect, AI Builder",
-  "location": "Remote, AMER",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/supabase/282d1dfb-b162-4ce4-a938-c4b2173230e0",
-  "posted": "2026-10-28T18:04:32.243000+00:00",
-  "comp": "",
-  "ats": "ashby",
-  "location_tag": "remote-unclear",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:cursor:236b6232-a98b-43c0-a0ed-d2b475b8e579",
-  "company": "Cursor",
-  "title": "Solutions Architect",
-  "location": "Remote | United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/cursor/236b6232-a98b-43c0-a0ed-d2b475b8e579",
-  "posted": "2026-11-09T22:06:43.451000+00:00",
-  "comp": "$164,500 - $210,000",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:cursor:1d3a2047-4739-479b-914d-377046f0fd1a",
-  "company": "Cursor",
-  "title": "ISV / Technology Marketplace Partner Manager",
-  "location": "San Francisco, CA | New York, NY | San Francisco, CA, United States",
-  "remote": false,
-  "url": "https://jobs.ashbyhq.com/cursor/1d3a2047-4739-479b-914d-377046f0fd1a",
-  "posted": "2026-11-04T17:13:07.664000+00:00",
-  "comp": "",
-  "ats": "ashby",
-  "location_tag": "relocation-NYC/SF",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
   "id": "ashby:cursor:b958e1bd-9e49-48cd-a7f5-b42c63f527fa",
   "company": "Cursor",
   "title": "Customer Success Strategy & Operations Manager",
@@ -1910,23 +389,6 @@
   "url": "https://jobs.ashbyhq.com/cursor/b958e1bd-9e49-48cd-a7f5-b42c63f527fa",
   "posted": "2026-11-09T21:05:45.660000+00:00",
   "comp": "$250,000 - $300,000",
-  "ats": "ashby",
-  "location_tag": "relocation-NYC/SF",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "ashby:cursor:0b0d2dbb-ae94-4df8-8e7b-bd4dcdb67943",
-  "company": "Cursor",
-  "title": "Strategic Partner Manager",
-  "location": "San Francisco, CA | New York, NY | San Francisco, CA, United States",
-  "remote": false,
-  "url": "https://jobs.ashbyhq.com/cursor/0b0d2dbb-ae94-4df8-8e7b-bd4dcdb67943",
-  "posted": "2026-11-05T23:01:44.614000+00:00",
-  "comp": "",
   "ats": "ashby",
   "location_tag": "relocation-NYC/SF",
   "company_tags": [
@@ -2004,41 +466,6 @@
   "first_seen": "2026-11-15T20:19:26.903438+00:00"
  },
  {
-  "id": "ashby:pinecone:a50c376a-0216-40b2-9525-da89d47ef190",
-  "company": "Pinecone",
-  "title": "Solutions Engineer",
-  "location": "San Francisco | New York City | San Francisco, California, US",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/pinecone/a50c376a-0216-40b2-9525-da89d47ef190",
-  "posted": "2026-11-05T18:13:05.165000+00:00",
-  "comp": "$207K – $240K • Offers Equity • Offers Commission • OTE split is 70/30",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas",
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:elevenlabs:8c068ebf-c79f-4f12-97ef-b4c9a4f7ae5f",
-  "company": "ElevenLabs",
-  "title": "Deployment Strategist - North America",
-  "location": "United States | New York | Los Angeles | Boston | San Francisco | Washington, D.C.",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/ElevenLabs/8c068ebf-c79f-4f12-97ef-b4c9a4f7ae5f",
-  "posted": "2026-11-02T18:19:57.531000+00:00",
-  "comp": "",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
   "id": "ashby:elevenlabs:a605e308-0d28-42b6-8cbb-03cc7799cecc",
   "company": "ElevenLabs",
   "title": "Sales Development Lead - North America",
@@ -2073,218 +500,21 @@
   "first_seen": "2026-11-15T20:19:26.903438+00:00"
  },
  {
-  "id": "ashby:cohere:8df498e9-aba8-487f-80ba-362b492bad09",
-  "company": "Cohere",
-  "title": "Forward Deployed Engineer, Inference",
-  "location": "United States | San Francisco, California, United States",
-  "remote": false,
-  "url": "https://jobs.ashbyhq.com/cohere/8df498e9-aba8-487f-80ba-362b492bad09",
-  "posted": "2026-10-28T21:49:48.769000+00:00",
-  "comp": "$240K – $415K • Offers Equity • Multiple Ranges",
-  "ats": "ashby",
-  "location_tag": "relocation-NYC/SF",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "greenhouse:anthropic:5473216008",
+  "id": "greenhouse:anthropic:5478939008",
   "company": "Anthropic",
-  "title": "Scaled Account Manager, Beneficial Deployments",
-  "location": "San Francisco, CA | New York City, NY | New York City, NY",
+  "title": "Commercial Activation Lead",
+  "location": "San Francisco, CA | New York City, NY | San Francisco, CA",
   "remote": null,
-  "url": "https://job-boards.greenhouse.io/anthropic/jobs/5473216008",
-  "posted": "2026-11-04T20:52:41+00:00",
-  "comp": "$222,800 — $290,000",
+  "url": "https://job-boards.greenhouse.io/anthropic/jobs/5478939008",
+  "posted": "2026-11-13T01:32:22+00:00",
+  "comp": "$170,000 — $215,000",
   "ats": "greenhouse",
   "location_tag": "relocation-NYC/SF",
   "company_tags": [
    "saas"
   ],
   "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "ashby:openai:5d66a54f-ad89-4155-ac37-9dcd7d52db34",
-  "company": "OpenAI",
-  "title": "AI Deployment Manager",
-  "location": "San Francisco | New York City | San Francisco, California, United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/openai/5d66a54f-ad89-4155-ac37-9dcd7d52db34",
-  "posted": "2026-11-04T14:46:41.451000+00:00",
-  "comp": "$162K – $230K • Offers Equity",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas",
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:openai:83ac3381-99c0-46a0-897c-abcd8699b466",
-  "company": "OpenAI",
-  "title": "VC Partnerships Manager",
-  "location": "San Francisco | San Francisco, California, United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/openai/83ac3381-99c0-46a0-897c-abcd8699b466",
-  "posted": "2026-10-26T17:36:08.958000+00:00",
-  "comp": "$302K – $352K • Offers Equity",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas",
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:openai:9471b38b-f65c-4a01-9626-bd33fca90f1d",
-  "company": "OpenAI",
-  "title": "Forward Deployed Engineer (FDE) - NYC",
-  "location": "New York City | New York, New York, United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/openai/9471b38b-f65c-4a01-9626-bd33fca90f1d",
-  "posted": "2026-11-05T21:21:22.242000+00:00",
-  "comp": "$185K – $300K • Offers Equity",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas",
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:openai:bc80a3ae-1e69-4a8d-8366-77fcdd56ff61",
-  "company": "OpenAI",
-  "title": "Deployment Lead, Forward Deployed Engineering (FDE) - Platform",
-  "location": "San Francisco | New York City | San Francisco, California, United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/openai/bc80a3ae-1e69-4a8d-8366-77fcdd56ff61",
-  "posted": "2026-10-27T17:57:23.030000+00:00",
-  "comp": "$207K – $294K • Offers Equity",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas",
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:openai:7472e486-0aa6-4f9d-86da-2105a42b2dce",
-  "company": "OpenAI",
-  "title": "Forward Deployed Engineer (FDE) - AI Infra - SF",
-  "location": "San Francisco | San Francisco, California, United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/openai/7472e486-0aa6-4f9d-86da-2105a42b2dce",
-  "posted": "2026-10-26T17:45:52.245000+00:00",
-  "comp": "$185K – $300K • Offers Equity",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas",
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:openai:1790fe9e-2ac3-45df-894e-f731d243395f",
-  "company": "OpenAI",
-  "title": "AI Deployment Manager - Builder",
-  "location": "New York City | San Francisco | New York, New York, United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/openai/1790fe9e-2ac3-45df-894e-f731d243395f",
-  "posted": "2026-11-04T15:39:36.756000+00:00",
-  "comp": "$240K • Offers Equity",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas",
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:openai:8e7ba2dd-d632-4a8b-b95b-e2592f77a679",
-  "company": "OpenAI",
-  "title": "Forward Deployed Engineering Manager, Financial Services",
-  "location": "New York City | New York, New York, United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/openai/8e7ba2dd-d632-4a8b-b95b-e2592f77a679",
-  "posted": "2026-11-05T14:12:06.619000+00:00",
-  "comp": "$302K – $385K • Offers Equity",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas",
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:openai:c90cfa58-7513-4998-a1ce-f6168dd8fc95",
-  "company": "OpenAI",
-  "title": "Forward Deployed Engineer (FDE), Financial Services- NYC",
-  "location": "New York City | New York, New York, United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/openai/c90cfa58-7513-4998-a1ce-f6168dd8fc95",
-  "posted": "2026-11-05T23:38:18.194000+00:00",
-  "comp": "$185K – $300K • Offers Equity",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas",
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:openai:9c1aa1f3-b4d0-48fa-814b-37d36ad0ad2e",
-  "company": "OpenAI",
-  "title": "Forward Deployed Engineer (FDE), Cyber - NYC",
-  "location": "New York City | San Francisco | New York, New York, United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/openai/9c1aa1f3-b4d0-48fa-814b-37d36ad0ad2e",
-  "posted": "2026-11-05T23:48:15.716000+00:00",
-  "comp": "$185K – $300K • Offers Equity",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas",
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:openai:a84e6109-142f-45ae-80e1-05811732cca1",
-  "company": "OpenAI",
-  "title": "Forward Deployed Engineer (FDE), Cyber - SF",
-  "location": "San Francisco | San Francisco, California, United States",
-  "remote": false,
-  "url": "https://jobs.ashbyhq.com/openai/a84e6109-142f-45ae-80e1-05811732cca1",
-  "posted": "2026-11-05T23:48:58.284000+00:00",
-  "comp": "$185K – $300K • Offers Equity",
-  "ats": "ashby",
-  "location_tag": "relocation-NYC/SF",
-  "company_tags": [
-   "saas",
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
+  "first_seen": "2026-11-16T16:39:43.606241+00:00"
  },
  {
   "id": "ashby:openai:a12c3c93-51df-437d-862f-4892367fea32",
@@ -2323,24 +553,6 @@
   "first_seen": "2026-11-15T20:41:38.452073+00:00"
  },
  {
-  "id": "ashby:openai:eb3b695e-6c60-4875-b8bc-8f4d5d8a9bbb",
-  "company": "OpenAI",
-  "title": "Solutions Engineer, Ads Solutions - NYC",
-  "location": "San Francisco | San Francisco, California, United States",
-  "remote": false,
-  "url": "https://jobs.ashbyhq.com/openai/eb3b695e-6c60-4875-b8bc-8f4d5d8a9bbb",
-  "posted": "2026-11-09T14:14:33.198000+00:00",
-  "comp": "$234K – $260K • Offers Equity",
-  "ats": "ashby",
-  "location_tag": "relocation-NYC/SF",
-  "company_tags": [
-   "saas",
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
   "id": "ashby:openai:7b0786b7-ee7d-494d-97a3-38b9277d8634",
   "company": "OpenAI",
   "title": "Sales Development Manager, Enterprise (AMER)",
@@ -2357,42 +569,6 @@
   ],
   "connections": 0,
   "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "greenhouse:samsara:8282629",
-  "company": "Samsara",
-  "title": "Customer Success Account Manager - Basic",
-  "location": "Remote - US",
-  "remote": null,
-  "url": "https://www.samsara.com/company/careers/roles/8282629?gh_jid=8282629",
-  "posted": "2026-11-05T16:27:00+00:00",
-  "comp": "$72,888 — $110,250",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas",
-   "linkedin-follow"
-  ],
-  "connections": 1,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "greenhouse:samsara:8355866",
-  "company": "Samsara",
-  "title": "Customer Success Account Manager - Digital",
-  "location": "Remote - US",
-  "remote": null,
-  "url": "https://www.samsara.com/company/careers/roles/8355866?gh_jid=8355866",
-  "posted": "2026-11-05T21:00:39+00:00",
-  "comp": "$72,888 — $110,250",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas",
-   "linkedin-follow"
-  ],
-  "connections": 1,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
  },
  {
   "id": "greenhouse:samsara:8359847",
@@ -2416,7 +592,7 @@
   "id": "greenhouse:samsara:8372624",
   "company": "Samsara",
   "title": "Enterprise Implementation Consultant - Public Sector",
-  "location": "Phoenix, Arizona, United States | Remote - GA | Remote - UT | Remote - GA",
+  "location": "Phoenix, Arizona, United States | Remote - GA",
   "remote": null,
   "url": "https://www.samsara.com/company/careers/roles/8372624?gh_jid=8372624",
   "posted": "2026-11-10T16:56:36+00:00",
@@ -2557,24 +733,6 @@
   "first_seen": "2026-11-15T20:19:26.903438+00:00"
  },
  {
-  "id": "greenhouse:toast:8334826",
-  "company": "Toast",
-  "title": "Senior Software Engineer, Onboarding",
-  "location": "Boston, MA | Remote - USA",
-  "remote": null,
-  "url": "https://careers.toasttab.com/jobs?gh_jid=8334826",
-  "posted": "2026-11-03T18:51:05+00:00",
-  "comp": "",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas",
-   "linkedin-follow"
-  ],
-  "connections": 2,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
   "id": "greenhouse:toast:8363046",
   "company": "Toast",
   "title": "Senior Solutions Engineer, International",
@@ -2610,23 +768,6 @@
   "first_seen": "2026-11-15T20:41:38.452073+00:00"
  },
  {
-  "id": "ashby:1password:3b1dd358-261b-440e-9277-6dc786a5a9d0",
-  "company": "1Password",
-  "title": "Senior Implementation Consultant",
-  "location": "Remote (United States | Canada)",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/1password/3b1dd358-261b-440e-9277-6dc786a5a9d0",
-  "posted": "2026-11-02T20:46:23.736000+00:00",
-  "comp": "$102,000",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
   "id": "ashby:1password:63059a05-03d1-4a4f-908c-8daa721cce90",
   "company": "1Password",
   "title": "Senior Implementation Project Manager",
@@ -2639,114 +780,6 @@
   "location_tag": "remote-US",
   "company_tags": [
    "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:hinge-health:cf408381-241a-4e65-aa8a-3c6ca1da2d33",
-  "company": "Hinge Health",
-  "title": "Client Success Manager- Mid Market",
-  "location": "Remote US | United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/hinge-health/cf408381-241a-4e65-aa8a-3c6ca1da2d33",
-  "posted": "2026-11-03T19:00:56.361000+00:00",
-  "comp": "$76,608 – $139,104 • Offers Equity • Multiple Ranges",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "healthtech",
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "ashby:headway:9ee51a07-c54d-49cc-a5bb-97870188fd4b",
-  "company": "Headway",
-  "title": "Digital Marketing Channel Manager, Social & Premium Video",
-  "location": "Remote | San Francisco, CA | United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/headway/9ee51a07-c54d-49cc-a5bb-97870188fd4b",
-  "posted": "2026-11-03T18:55:31.936000+00:00",
-  "comp": "$121.6K – $190K • Offers Equity • Multiple Ranges",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "healthtech",
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:headway:561b5c8b-89f0-4a0f-8c4c-205d0b088db1",
-  "company": "Headway",
-  "title": "Digital Marketing Channel Manager, Affiliate and Creator/Influencer",
-  "location": "Remote | San Francisco, CA | United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/headway/561b5c8b-89f0-4a0f-8c4c-205d0b088db1",
-  "posted": "2026-11-03T22:27:43.398000+00:00",
-  "comp": "$121.6K – $190K • Offers Equity • Multiple Ranges",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "healthtech",
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:headway:c36c74bf-5e65-466e-997b-3adb451daa1d",
-  "company": "Headway",
-  "title": "Senior Digital Marketing Channel Manager, SEO & AEO",
-  "location": "Remote | San Francisco, CA | United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/headway/c36c74bf-5e65-466e-997b-3adb451daa1d",
-  "posted": "2026-11-03T22:53:58.804000+00:00",
-  "comp": "$144K – $225K • Offers Equity • Multiple Ranges",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "healthtech",
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:headway:6b45d60c-8458-49a3-ab36-f25b70ad407f",
-  "company": "Headway",
-  "title": "Business Development Representative",
-  "location": "Remote | United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/headway/6b45d60c-8458-49a3-ab36-f25b70ad407f",
-  "posted": "2026-11-13T16:11:23.278000+00:00",
-  "comp": "$49.6K – $65K • Offers Equity • Offers Commission",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "healthtech",
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:rula:ab97133b-3d3d-4802-8202-e3c37f48c09e",
-  "company": "Rula",
-  "title": "Integration Engineer - Workato",
-  "location": "Remote - United States | United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/rula/ab97133b-3d3d-4802-8202-e3c37f48c09e",
-  "posted": "2026-11-03T17:03:34.364000+00:00",
-  "comp": "$108K – $125.4K • Offers Equity • Range above includes base salary, there is no bonus for this role.",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "healthtech",
-   "linkedin-follow"
   ],
   "connections": 0,
   "first_seen": "2026-11-15T20:19:26.903438+00:00"
@@ -2786,23 +819,6 @@
   "first_seen": "2026-11-15T20:41:38.452073+00:00"
  },
  {
-  "id": "workable:redox:6B87FFEDDF",
-  "company": "Redox",
-  "title": "Senior Account Manager (Transformer Oil) - Murarrie, QLD",
-  "location": "Murarrie, Queensland, Australia",
-  "remote": false,
-  "url": "https://apply.workable.com/j/6B87FFEDDF",
-  "posted": "2026-11-12T00:00:00+00:00",
-  "comp": "",
-  "ats": "workable",
-  "location_tag": "relocation-NYC/SF",
-  "company_tags": [
-   "healthtech"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
   "id": "greenhouse:komodohealth:8933245002",
   "company": "Komodo Health",
   "title": "Web & GTM Engineer",
@@ -2815,24 +831,6 @@
   "location_tag": "remote-US",
   "company_tags": [
    "healthtech"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "ashby:ibotta:c363616d-a2c4-4c66-9194-324879723e8b",
-  "company": "Ibotta",
-  "title": "Account Manager",
-  "location": "Remote - Wisconsin | Minneapolis, MN | Bentonville, AR | Cleveland, OH | Boston, MA | Atlanta, GA | Dallas, TX | St. Louis, MO | Jersey City, NJ | Houston, TX | Chicago, IL | Cincinnati, OH | Austin, TX | Madison, Wisconsin, United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/ibotta/c363616d-a2c4-4c66-9194-324879723e8b",
-  "posted": "2026-10-29T18:53:12.697000+00:00",
-  "comp": "$94,000 - $124,000",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas",
-   "colorado"
   ],
   "connections": 0,
   "first_seen": "2026-11-15T20:19:26.903438+00:00"
@@ -2874,92 +872,21 @@
   "first_seen": "2026-11-15T20:19:26.903438+00:00"
  },
  {
-  "id": "greenhouse:pingidentity:8919623002",
-  "company": "Ping Identity",
-  "title": "Sales Development Representative (Required French & English Fluency)",
-  "location": "CAD - Vancouver, BC - Remote  | USA - Office - Austin, TX",
-  "remote": null,
-  "url": "https://job-boards.greenhouse.io/pingidentity/jobs/8919623002",
-  "posted": "2026-10-27T16:33:26+00:00",
-  "comp": "$71,000 - $98,150",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas",
-   "colorado"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "greenhouse:pingidentity:8912626002",
-  "company": "Ping Identity",
-  "title": "Senior Onboarding Customer Success Manager",
-  "location": "USA - Remote | USA - Remote - Denver, CO",
-  "remote": null,
-  "url": "https://job-boards.greenhouse.io/pingidentity/jobs/8912626002",
-  "posted": "2026-11-04T19:44:13+00:00",
-  "comp": "$87,000 - $116,000",
-  "ats": "greenhouse",
-  "location_tag": "CO",
-  "company_tags": [
-   "saas",
-   "colorado"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "greenhouse:conga:5280608007",
-  "company": "Conga",
-  "title": "Sr Pre-Sales Solution Architect",
-  "location": "Remote United States; US - Boston, MA ; US - Houston, TX | Texas",
-  "remote": null,
-  "url": "https://job-boards.greenhouse.io/conga/jobs/5280608007",
-  "posted": "2026-11-06T16:27:30+00:00",
-  "comp": "$176,540 — $230,000",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas",
-   "colorado"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
-  "id": "greenhouse:ripple:8328916",
+  "id": "greenhouse:ripple:8328928",
   "company": "Ripple",
   "title": "Professional Services Consultant",
-  "location": "San Francisco, CA, United States | Chicago, IL, United States | New York, NY, United States | Chicago, IL, United States",
+  "location": "New York, NY, United States | Chicago, IL, United States | San Francisco, CA, United States | Chicago, IL, United States",
   "remote": null,
-  "url": "https://ripple.com/careers/all-jobs/job/8328916?gh_jid=8328916",
-  "posted": "2026-11-09T19:50:37+00:00",
-  "comp": "$120,000 — $135,000",
+  "url": "https://ripple.com/careers/all-jobs/job/8328928?gh_jid=8328928",
+  "posted": "2026-11-09T19:50:42+00:00",
+  "comp": "$116,000 — $140,000",
   "ats": "greenhouse",
   "location_tag": "relocation-NYC/SF",
   "company_tags": [
    "fintech"
   ],
   "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "ashby:baseten:5a1a7b6c-646b-495c-911a-8fa435c78b6f",
-  "company": "Baseten",
-  "title": "Solutions Architect, EMEA",
-  "location": "Remote | London | United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/baseten/5a1a7b6c-646b-495c-911a-8fa435c78b6f",
-  "posted": "2026-10-26T19:48:37.946000+00:00",
-  "comp": "$145K – $290K • Offers Equity",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
+  "first_seen": "2026-11-16T16:39:43.606241+00:00"
  },
  {
   "id": "ashby:baseten:fdbbf773-0857-4771-8b90-f3dfa1d8683f",
@@ -2970,210 +897,6 @@
   "url": "https://jobs.ashbyhq.com/baseten/fdbbf773-0857-4771-8b90-f3dfa1d8683f",
   "posted": "2026-11-12T22:33:36.122000+00:00",
   "comp": "$80K – $110K • Offers Equity",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "ashby:exa:0059f617-4744-4a47-b4dd-0a63065864a8",
-  "company": "Exa",
-  "title": "Solutions Architect, SF",
-  "location": "San Francisco, California | San Francisco, California, United States",
-  "remote": false,
-  "url": "https://jobs.ashbyhq.com/exa/0059f617-4744-4a47-b4dd-0a63065864a8",
-  "posted": "2026-10-29T06:10:53.102000+00:00",
-  "comp": "$160K – $300K • Offers Equity",
-  "ats": "ashby",
-  "location_tag": "relocation-NYC/SF",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "ashby:exa:18d1ef7b-3604-40e0-900b-c546162c9a95",
-  "company": "Exa",
-  "title": "Solutions Architect, NYC",
-  "location": "New York City | New York, New York, United States",
-  "remote": false,
-  "url": "https://jobs.ashbyhq.com/exa/18d1ef7b-3604-40e0-900b-c546162c9a95",
-  "posted": "2026-11-04T00:43:00.531000+00:00",
-  "comp": "$160K – $300K • Offers Equity",
-  "ats": "ashby",
-  "location_tag": "relocation-NYC/SF",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "ashby:exa:2aea5e9f-ff9f-4981-8c49-367502fa0f7e",
-  "company": "Exa",
-  "title": "Solutions Architect, US Remote",
-  "location": "San Francisco, California | San Francisco, California, United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/exa/2aea5e9f-ff9f-4981-8c49-367502fa0f7e",
-  "posted": "2026-11-06T00:17:51.024000+00:00",
-  "comp": "$160K – $300K • Offers Equity",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "ashby:brainco:cfdd60e3-ca4b-463d-8ee9-9e6abbe4261a",
-  "company": "Brain Co.",
-  "title": "AI Deployment Lead, Gov",
-  "location": "San Francisco Bay Area | San Francisco, California, United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/brainco/cfdd60e3-ca4b-463d-8ee9-9e6abbe4261a",
-  "posted": "2026-11-06T15:46:23.785000+00:00",
-  "comp": "$145,000 - $300,000",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "ashby:brainco:135184c8-1623-4ddd-890f-ef0ad8e9d4a8",
-  "company": "Brain Co.",
-  "title": "AI Deployment Lead, Financial Services",
-  "location": "San Francisco Bay Area | San Francisco, California, United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/brainco/135184c8-1623-4ddd-890f-ef0ad8e9d4a8",
-  "posted": "2026-10-27T22:51:47.850000+00:00",
-  "comp": "$145,000 - $300,000",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "ashby:pylon:8a1ad19d-f636-4bd5-8662-d1ed929fb771",
-  "company": "Pylon",
-  "title": "Lead Forward Deployed Product Manager",
-  "location": "NYC or Palo Alto (in office) | New York City, New York, United States",
-  "remote": false,
-  "url": "https://jobs.ashbyhq.com/pylon/8a1ad19d-f636-4bd5-8662-d1ed929fb771",
-  "posted": "2026-10-29T00:00:05.117000+00:00",
-  "comp": "",
-  "ats": "ashby",
-  "location_tag": "relocation-NYC/SF",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "ashby:assorthealth:775971f9-a5f1-45bc-a519-0c78aa39fe44",
-  "company": "Assort Health",
-  "title": "Sales Development Representative",
-  "location": "San Francisco | San Francisco, California, United States",
-  "remote": false,
-  "url": "https://jobs.ashbyhq.com/assorthealth/775971f9-a5f1-45bc-a519-0c78aa39fe44",
-  "posted": "2026-10-30T20:41:14.834000+00:00",
-  "comp": "$90K – $100K • Offers Equity • Offers Commission",
-  "ats": "ashby",
-  "location_tag": "relocation-NYC/SF",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "ashby:hellopatient:1bf9dae7-5c92-4d96-bde5-febf111af791",
-  "company": "Hello Patient",
-  "title": "Strategic Account Manager",
-  "location": "Remote - US | United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/hellopatient/1bf9dae7-5c92-4d96-bde5-febf111af791",
-  "posted": "2026-11-11T17:05:12.494000+00:00",
-  "comp": "$90K – $135K • Offers Equity",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "ashby:pearlhealth:4766bfe2-a1bd-496b-b19e-3aa6fc5fd57c",
-  "company": "Pearl Health",
-  "title": "Customer Success Manager",
-  "location": "Seattle, Los Angeles, San Francisco or Remote | United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/pearlhealth/4766bfe2-a1bd-496b-b19e-3aa6fc5fd57c",
-  "posted": "2026-10-27T16:31:38.083000+00:00",
-  "comp": "$85,000-$115,000",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "ashby:merge:3c437268-3c18-42bc-8720-0c1368320c32",
-  "company": "Merge",
-  "title": "Enterprise Customer Success Manager",
-  "location": "New York, NY | New York, New York, United States",
-  "remote": false,
-  "url": "https://jobs.ashbyhq.com/merge/3c437268-3c18-42bc-8720-0c1368320c32",
-  "posted": "2026-10-29T19:21:40.712000+00:00",
-  "comp": "$175,000",
-  "ats": "ashby",
-  "location_tag": "relocation-NYC/SF",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "ashby:perplexity:6b2da750-51fb-4428-b682-fe2296d9aef7",
-  "company": "Perplexity",
-  "title": "Customer Success Lead",
-  "location": "San Francisco | New York City | San Francisco, California, United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/Perplexity/6b2da750-51fb-4428-b682-fe2296d9aef7",
-  "posted": "2026-10-29T18:04:45.718000+00:00",
-  "comp": "$265K – $320K • Offers Equity",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "ashby:perplexity:91814621-dd0e-46d1-8aba-24957c5a4296",
-  "company": "Perplexity",
-  "title": "Sales Onboarding Manager",
-  "location": "San Francisco | San Francisco, California, United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/Perplexity/91814621-dd0e-46d1-8aba-24957c5a4296",
-  "posted": "2026-10-29T19:50:31.571000+00:00",
-  "comp": "$150K – $175K • Offers Equity",
   "ats": "ashby",
   "location_tag": "remote-US",
   "company_tags": [
@@ -3200,23 +923,6 @@
   "first_seen": "2026-11-15T20:41:38.452073+00:00"
  },
  {
-  "id": "greenhouse:customerio:8353711",
-  "company": "Customer.io",
-  "title": "Account Manager, AMER (Remote)",
-  "location": "Americas Remote",
-  "remote": null,
-  "url": "https://job-boards.greenhouse.io/customerio/jobs/8353711",
-  "posted": "2026-11-09T18:54:18+00:00",
-  "comp": "$90,000",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
   "id": "greenhouse:customerio:8384953",
   "company": "Customer.io",
   "title": "Senior Customer Success Manager, Strategic",
@@ -3231,58 +937,6 @@
    "linkedin-follow"
   ],
   "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "greenhouse:talkspace:6233369004",
-  "company": "Talkspace",
-  "title": "Business Development Representative, AI",
-  "location": "New York, NY (Remote) | Talkspace",
-  "remote": null,
-  "url": "https://www.talkspace.com/careers/job?gh_jid=6233369004",
-  "posted": "2026-10-26T15:25:08+00:00",
-  "comp": "$67,000 - $95,000",
-  "ats": "greenhouse",
-  "location_tag": "remote-unclear",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "ashby:grow-therapy:8ab67dd9-4581-4dd6-888e-2b55c3dd306b",
-  "company": "Grow Therapy",
-  "title": "Specialist I, Client Success (Retention)",
-  "location": "Remote | United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/grow-therapy/8ab67dd9-4581-4dd6-888e-2b55c3dd306b",
-  "posted": "2026-11-05T21:15:04.819000+00:00",
-  "comp": "$24.04",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 1,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "ashby:rillet:0a7b221a-5328-4285-bba0-63ea07e9464f",
-  "company": "Rillet",
-  "title": "Customer Excellence Solutions Architect",
-  "location": "San Francisco | New York City | Remote | Chicago | San Francisco, California, United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/rillet/0a7b221a-5328-4285-bba0-63ea07e9464f",
-  "posted": "2026-10-26T19:10:27.304000+00:00",
-  "comp": "$100K – $140K • Offers Equity • Multiple Ranges",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "linkedin-follow",
-   "connection"
-  ],
-  "connections": 2,
   "first_seen": "2026-11-15T20:41:38.452073+00:00"
  },
  {
@@ -3371,40 +1025,6 @@
   "first_seen": "2026-11-15T20:41:38.452073+00:00"
  },
  {
-  "id": "greenhouse:gitlab:8931313002",
-  "company": "GitLab",
-  "title": "Customer Success Architect - East",
-  "location": "Remote, United States | North America | United States of America",
-  "remote": null,
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8931313002",
-  "posted": "2026-11-12T17:31:31+00:00",
-  "comp": "$93,600 — $158,400",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 1,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "greenhouse:gitlab:8931347002",
-  "company": "GitLab",
-  "title": "Customer Success Engineer",
-  "location": "Remote, United States | United States of America",
-  "remote": null,
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8931347002",
-  "posted": "2026-11-06T01:19:13+00:00",
-  "comp": "$93,600 — $158,400",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 1,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
   "id": "greenhouse:gitlab:8931337002",
   "company": "GitLab",
   "title": "Customer Success LATAM",
@@ -3413,74 +1033,6 @@
   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8931337002",
   "posted": "2026-11-06T22:55:25+00:00",
   "comp": "$93,600 — $158,400",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 1,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "greenhouse:gitlab:8929468002",
-  "company": "GitLab",
-  "title": "Professional Services, Program Manager",
-  "location": "Remote, Canada; Remote, United States | North America",
-  "remote": null,
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8929468002",
-  "posted": "2026-11-06T21:28:11+00:00",
-  "comp": "$92,880 — $156,000",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 1,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "greenhouse:gitlab:8920764002",
-  "company": "GitLab",
-  "title": "Senior Professional Services Engineer - Charlotte, NC",
-  "location": "Remote, United States | United States of America",
-  "remote": null,
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8920764002",
-  "posted": "2026-11-06T21:25:46+00:00",
-  "comp": "$140,400 — $210,600",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 1,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "greenhouse:gitlab:8838394002",
-  "company": "GitLab",
-  "title": "Senior Professional Services Engineer - PubSec - DC Metro",
-  "location": "Remote, United States | United States of America",
-  "remote": null,
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8838394002",
-  "posted": "2026-10-27T16:49:08+00:00",
-  "comp": "$138,080 — $230,040",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 1,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "greenhouse:gitlab:8906915002",
-  "company": "GitLab",
-  "title": "Senior Solutions Architect - East Enterprise team",
-  "location": "Remote, United States | United States of America",
-  "remote": null,
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8906915002",
-  "posted": "2026-10-27T15:52:43+00:00",
-  "comp": "",
   "ats": "greenhouse",
   "location_tag": "remote-US",
   "company_tags": [
@@ -3500,159 +1052,6 @@
   "comp": "$127,000 — $174,700",
   "ats": "greenhouse",
   "location_tag": "remote-US",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "greenhouse:databricks:8885039002",
-  "company": "Databricks",
-  "title": "Solutions Architect - Banking and Capital Markets (FINS)",
-  "location": "New Jersey; New York City, New York; Remote - New York | New York City, New York",
-  "remote": null,
-  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8885039002",
-  "posted": "2026-11-10T21:48:11+00:00",
-  "comp": "$180,000 — $247,500",
-  "ats": "greenhouse",
-  "location_tag": "remote-unclear",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "greenhouse:databricks:8938652002",
-  "company": "Databricks",
-  "title": "Solutions Architect - Digital Native Business (DNB)",
-  "location": "Remote - California; San Francisco, California | Remote - California",
-  "remote": null,
-  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8938652002",
-  "posted": "2026-11-13T14:02:25+00:00",
-  "comp": "$180,000 — $247,500",
-  "ats": "greenhouse",
-  "location_tag": "remote-unclear",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "greenhouse:databricks:8904745002",
-  "company": "Databricks",
-  "title": "Solutions Architect - Digital Native Business (Geo)",
-  "location": "Connecticut; Remote - Massachusetts; Remote - New York; Remote - Pennsylvania | Remote - New York",
-  "remote": null,
-  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8904745002",
-  "posted": "2026-11-05T18:20:08+00:00",
-  "comp": "$180,000 — $247,500",
-  "ats": "greenhouse",
-  "location_tag": "remote-unclear",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "greenhouse:databricks:8920805002",
-  "company": "Databricks",
-  "title": "Solutions Architect - Retail",
-  "location": "Arkansas; Remote - Illinois; Remote - Ohio | Remote - Texas | Chicago, Illinois; Florida; Northeast - United States; Remote - Georgia; Remote - Massachusetts; Remote - New York; Southeast - United States; Tennessee | Florida",
-  "remote": null,
-  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8920805002",
-  "posted": "2026-10-29T18:49:46+00:00",
-  "comp": "$180,000 — $247,500",
-  "ats": "greenhouse",
-  "location_tag": "remote-unclear",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "greenhouse:databricks:8929038002",
-  "company": "Databricks",
-  "title": "Solutions Architect - Telco",
-  "location": "Denver, Colorado | Remote - California",
-  "remote": null,
-  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8929038002",
-  "posted": "2026-11-03T19:39:59+00:00",
-  "comp": "$180,000 — $247,500",
-  "ats": "greenhouse",
-  "location_tag": "CO",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "greenhouse:databricks:8823788002",
-  "company": "Databricks",
-  "title": "Sr. Forward Deployed Engineer - Public Sector",
-  "location": "Alabama; Berkeley, California; Connecticut; Kansas City, Missouri; Maryland; New Hampshire; New Jersey; North Carolina; Remote - California; Remote - Colorado; Remote - Illinois; Remote - Massachusetts; Remote - Missouri; Remote - New York; Remote - Pennsylvania; Remote - Virginia; Remote - Washington; Remote - Washington D.C.; Rhode Island; San Diego, California; South Carolina | Remote - California",
-  "remote": null,
-  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8823788002",
-  "posted": "2026-11-05T20:41:38+00:00",
-  "comp": "$182,000 — $250,208",
-  "ats": "greenhouse",
-  "location_tag": "CO",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "greenhouse:databricks:8807797002",
-  "company": "Databricks",
-  "title": "Sr. Partner Solutions Architect - Customer Lake & Lakewatch",
-  "location": "United States | Remote - California",
-  "remote": null,
-  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8807797002",
-  "posted": "2026-11-03T19:42:03+00:00",
-  "comp": "$219,100 — $301,300",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "greenhouse:databricks:8893720002",
-  "company": "Databricks",
-  "title": "Sr. Solutions Architect - AI Natives Business",
-  "location": "San Francisco, California | Remote - California",
-  "remote": null,
-  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8893720002",
-  "posted": "2026-11-05T17:20:03+00:00",
-  "comp": "$219,100 — $301,300",
-  "ats": "greenhouse",
-  "location_tag": "remote-unclear",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "greenhouse:databricks:8886517002",
-  "company": "Databricks",
-  "title": "Sr. Solutions Architect - Travel and Hospitality",
-  "location": "Austin, Texas; Chicago, Illinois; Dallas, Texas; Remote - Texas | Remote - California",
-  "remote": null,
-  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8886517002",
-  "posted": "2026-10-29T18:34:52+00:00",
-  "comp": "$219,100 — $301,300",
-  "ats": "greenhouse",
-  "location_tag": "remote-unclear",
   "company_tags": [
    "linkedin-follow"
   ],
@@ -3694,23 +1093,6 @@
   "first_seen": "2026-11-15T20:41:38.452073+00:00"
  },
  {
-  "id": "ashby:zip:cbbb8244-bd71-4525-9ccd-c0fcd0bb28ad",
-  "company": "Zip",
-  "title": "Solutions Manager",
-  "location": "New York City | New York City, New York, United States | San Francisco | San Francisco, California, United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/zip/cbbb8244-bd71-4525-9ccd-c0fcd0bb28ad",
-  "posted": "2026-11-12T22:50:59.367000+00:00",
-  "comp": "$120,000",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
   "id": "ashby:zip:d28dc61e-b4fa-4517-b61e-a31bccefddba",
   "company": "Zip",
   "title": "Enterprise Solution Engineer (Pre-Sales)",
@@ -3728,125 +1110,6 @@
   "first_seen": "2026-11-15T20:41:38.452073+00:00"
  },
  {
-  "id": "ashby:synthesia:689f6008-d096-4a2e-90a6-82ca1eaf6d90",
-  "company": "Synthesia",
-  "title": "Senior Solutions Engineer",
-  "location": "Austin | US Remote | Austin, Texas, United States | New York City | New York City, New York, United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/synthesia/689f6008-d096-4a2e-90a6-82ca1eaf6d90",
-  "posted": "2026-10-27T12:17:51.964000+00:00",
-  "comp": "$211,197",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "ashby:synthesia:103ca468-012b-4882-b5ab-001e3d55f71b",
-  "company": "Synthesia",
-  "title": "Solutions Engineer",
-  "location": "Austin | Austin, Texas, United States | New York City | New York City, New York, United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/synthesia/103ca468-012b-4882-b5ab-001e3d55f71b",
-  "posted": "2026-10-27T12:52:43.675000+00:00",
-  "comp": "$155,621",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "ashby:virtuous:f31e326b-485a-4314-81b5-af9a25340cdf",
-  "company": "Virtuous",
-  "title": "Integrations Engineer, AI Services",
-  "location": "Remote, USA | United States, United States, United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/virtuous/f31e326b-485a-4314-81b5-af9a25340cdf",
-  "posted": "2026-11-02T17:50:21.710000+00:00",
-  "comp": "",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "ashby:payscale:47d614e7-2296-4141-939e-d38d19a1ff41",
-  "company": "Payscale",
-  "title": "Account Manager II - Enterprise",
-  "location": "Remote-United States | US",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/Payscale/47d614e7-2296-4141-939e-d38d19a1ff41",
-  "posted": "2026-11-06T21:49:40.498000+00:00",
-  "comp": "$160K • $160K Commission",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "greenhouse:klaviyo:8182739003",
-  "company": "Klaviyo",
-  "title": "Customer Success Operations Analyst",
-  "location": "Boston, MA; Denver, CO; San Francisco, CA | Boston",
-  "remote": null,
-  "url": "https://www.klaviyo.com/careers/jobs/8182739003?gh_jid=8182739003",
-  "posted": "2026-11-05T19:43:25+00:00",
-  "comp": "$73,600 — $110,400",
-  "ats": "greenhouse",
-  "location_tag": "CO",
-  "company_tags": [
-   "connection"
-  ],
-  "connections": 3,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "greenhouse:klaviyo:8017124003",
-  "company": "Klaviyo",
-  "title": "Lead Integrations Engineer - G&A Systems",
-  "location": "Boston, MA | Boston | San Francisco | San Francisco, CA | Boston | San Francisco",
-  "remote": null,
-  "url": "https://www.klaviyo.com/careers/jobs/8017124003?gh_jid=8017124003",
-  "posted": "2026-10-26T21:52:00+00:00",
-  "comp": "$140,000 — $210,000",
-  "ats": "greenhouse",
-  "location_tag": "relocation-NYC/SF",
-  "company_tags": [
-   "connection"
-  ],
-  "connections": 3,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "greenhouse:zscaler:5269098007",
-  "company": "Zscaler",
-  "title": "Senior Professional Services Consultant",
-  "location": "Remote - USA",
-  "remote": null,
-  "url": "https://job-boards.greenhouse.io/zscaler/jobs/5269098007",
-  "posted": "2026-11-05T23:21:54+00:00",
-  "comp": "$143,500 — $205,000",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "connection"
-  ],
-  "connections": 2,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
   "id": "greenhouse:zscaler:5287748007",
   "company": "Zscaler",
   "title": "Senior Sales Engineer - Enterprise, Michigan",
@@ -3854,23 +1117,6 @@
   "remote": null,
   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5287748007",
   "posted": "2026-11-11T17:46:51+00:00",
-  "comp": "$154,875 — $221,250",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "connection"
-  ],
-  "connections": 2,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "greenhouse:zscaler:5284066007",
-  "company": "Zscaler",
-  "title": "Senior Sales Engineer - Federal (NSA, CIA, FBI)",
-  "location": "Remote - Maryland, USA; Remote - Virginia, USA | Remote - Maryland, USA",
-  "remote": null,
-  "url": "https://job-boards.greenhouse.io/zscaler/jobs/5284066007",
-  "posted": "2026-11-04T16:04:24+00:00",
   "comp": "$154,875 — $221,250",
   "ats": "greenhouse",
   "location_tag": "remote-US",
@@ -3895,40 +1141,6 @@
    "connection"
   ],
   "connections": 2,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "greenhouse:newrelic:5480591008",
-  "company": "New Relic",
-  "title": "Account Manager - Renewals (West)",
-  "location": "Denver, Colorado, USA; Las Vegas, Nevada, USA; Los Angeles, California, USA; Phoenix, Arizona, USA; Portland, Oregon, USA; Salt Lake City, Utah, USA; San Diego, California, USA; San Francisco, California, USA; Seattle, Washington, USA | California",
-  "remote": null,
-  "url": "https://job-boards.greenhouse.io/newrelic/jobs/5480591008",
-  "posted": "2026-11-13T23:44:36+00:00",
-  "comp": "$138,000 — $172,000",
-  "ats": "greenhouse",
-  "location_tag": "CO",
-  "company_tags": [
-   "connection"
-  ],
-  "connections": 2,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "greenhouse:chainguard:4723766006",
-  "company": "Chainguard",
-  "title": "Commercial Sales Engineer- New York",
-  "location": "United States - Remote | Remote - US",
-  "remote": null,
-  "url": "https://job-boards.greenhouse.io/chainguard/jobs/4723766006",
-  "posted": "2026-10-26T14:13:10+00:00",
-  "comp": "$157,000 - $185,000",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "connection"
-  ],
-  "connections": 1,
   "first_seen": "2026-11-15T20:41:38.452073+00:00"
  },
  {
@@ -3966,57 +1178,6 @@
   "first_seen": "2026-11-15T20:41:38.452073+00:00"
  },
  {
-  "id": "greenhouse:chainguard:4723378006",
-  "company": "Chainguard",
-  "title": "Enterprise Sales Engineer - North Central",
-  "location": "United States - Remote | Remote - US",
-  "remote": null,
-  "url": "https://job-boards.greenhouse.io/chainguard/jobs/4723378006",
-  "posted": "2026-10-26T14:17:19+00:00",
-  "comp": "$200,000 - $235,000",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "connection"
-  ],
-  "connections": 1,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "greenhouse:chainguard:4723371006",
-  "company": "Chainguard",
-  "title": "Enterprise Sales Engineer, Northeast",
-  "location": "United States - Remote | Remote - US",
-  "remote": null,
-  "url": "https://job-boards.greenhouse.io/chainguard/jobs/4723371006",
-  "posted": "2026-10-26T14:17:40+00:00",
-  "comp": "$140,000",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "connection"
-  ],
-  "connections": 1,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "greenhouse:chainguard:4723359006",
-  "company": "Chainguard",
-  "title": "Enterprise Sales Engineer - Philadelphia",
-  "location": "United States - Remote | Remote - US",
-  "remote": null,
-  "url": "https://job-boards.greenhouse.io/chainguard/jobs/4723359006",
-  "posted": "2026-10-26T13:29:12+00:00",
-  "comp": "$140,000",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "connection"
-  ],
-  "connections": 1,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
   "id": "greenhouse:chainguard:4728389006",
   "company": "Chainguard",
   "title": "Partner Sales Engineer - West",
@@ -4025,40 +1186,6 @@
   "url": "https://job-boards.greenhouse.io/chainguard/jobs/4728389006",
   "posted": "2026-11-10T20:01:45+00:00",
   "comp": "",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "connection"
-  ],
-  "connections": 1,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "greenhouse:chainguard:4723252006",
-  "company": "Chainguard",
-  "title": "Senior Customer Success Manager, Enterprise - West",
-  "location": "United States - Remote | Remote - US",
-  "remote": null,
-  "url": "https://job-boards.greenhouse.io/chainguard/jobs/4723252006",
-  "posted": "2026-10-28T17:41:47+00:00",
-  "comp": "$160,000",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "connection"
-  ],
-  "connections": 1,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "greenhouse:chainguard:4726575006",
-  "company": "Chainguard",
-  "title": "Senior Customer Success Operations Manager",
-  "location": "United States - Remote | Remote - US",
-  "remote": null,
-  "url": "https://job-boards.greenhouse.io/chainguard/jobs/4726575006",
-  "posted": "2026-11-13T16:51:37+00:00",
-  "comp": "$140,000-$165,000",
   "ats": "greenhouse",
   "location_tag": "remote-US",
   "company_tags": [
