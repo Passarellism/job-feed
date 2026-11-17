@@ -14,6 +14,14 @@
   "source": "Company board",
   "url": "https://jobs.ashbyhq.com/airbyte/00feb9ca-de23-4654-b230-29b96027647a"
  },
+ "ashby:ampersand:67564afc-ceb2-4b35-bef6-f103fb4f047d": {
+  "company": "Ampersand",
+  "first_seen": "2026-11-17T12:44:33.489357+00:00",
+  "outcome": "Shown (fit 9, <24h)",
+  "role": "Sales Development Representative",
+  "source": "Feed",
+  "url": "https://jobs.ashbyhq.com/Ampersand/67564afc-ceb2-4b35-bef6-f103fb4f047d"
+ },
  "ashby:baseten:fdbbf773-0857-4771-8b90-f3dfa1d8683f": {
   "alias": "ab:baseten:fdbbf773-0857-4771-8b90-f3dfa1d8683f",
   "company": "Baseten",
@@ -30,6 +38,14 @@
   "role": "Solutions Engineer (Central Region)",
   "source": "Company board",
   "url": "https://jobs.ashbyhq.com/Braintrust/0a099dbd-0972-426c-ba10-fc280135de43"
+ },
+ "ashby:claylabs:232ab8c1-36d7-4114-91c1-0f9c9e4064bc": {
+  "company": "Clay",
+  "first_seen": "2026-11-17T12:44:33.489357+00:00",
+  "outcome": "Shown (fit 7, <24h)",
+  "role": "Solutions Engineer",
+  "source": "Feed",
+  "url": "https://jobs.ashbyhq.com/claylabs/232ab8c1-36d7-4114-91c1-0f9c9e4064bc"
  },
  "ashby:claylabs:7111f7da-3405-433a-8814-f2504c32210b": {
   "company": "Clay",
@@ -181,6 +197,86 @@
   "role": "Sales Engineer (NYC)",
   "source": "Web search"
  },
+ "ashby:ramp:4727e0b5-eafa-41ab-89ce-f6a1d19d3f0e": {
+  "company": "Ramp",
+  "first_seen": "2026-11-16T12:00:00+00:00",
+  "outcome": "Low fit (3; Referral; 7+ yrs, NYC)",
+  "posted": "2026-11-13",
+  "role": "Customer Success Manager, Enterprise",
+  "source": "Company board (Ashby)",
+  "url": "https://jobs.ashbyhq.com/ramp/4727e0b5-eafa-41ab-89ce-f6a1d19d3f0e"
+ },
+ "ashby:ramp:492823d8-9651-46cf-9d33-a632ef706879": {
+  "company": "Ramp",
+  "first_seen": "2026-11-16T12:00:00+00:00",
+  "outcome": "Referral - apply via referral (fit 6; 3+ yrs, remote US, $151-231K)",
+  "posted": "2026-11-10",
+  "role": "Solutions Consultant, Post Sales, Mid-Market",
+  "source": "Company board (Ashby)",
+  "url": "https://jobs.ashbyhq.com/ramp/492823d8-9651-46cf-9d33-a632ef706879"
+ },
+ "ashby:ramp:498d0fa0-d6e2-4755-9004-736dcae47d81": {
+  "company": "Ramp",
+  "first_seen": "2026-11-16T12:00:00+00:00",
+  "outcome": "Low fit (4; Referral; 5+ yrs, NYC)",
+  "posted": "2026-11-13",
+  "role": "Customer Success Manager, Mid-Market",
+  "source": "Company board (Ashby)",
+  "url": "https://jobs.ashbyhq.com/ramp/498d0fa0-d6e2-4755-9004-736dcae47d81"
+ },
+ "ashby:ramp:55bd9ab4-8edc-4493-b577-4277ad2f9ae6": {
+  "company": "Ramp",
+  "first_seen": "2026-11-17T12:44:33.489357+00:00",
+  "outcome": "Low fit (3, off-track, Sun-Thu weekends)",
+  "role": "Risk Operations Specialist, Onboarding",
+  "source": "Feed",
+  "url": "https://jobs.ashbyhq.com/ramp/55bd9ab4-8edc-4493-b577-4277ad2f9ae6"
+ },
+ "ashby:ramp:574f46a4-42b2-46be-ba5c-de07c5e173c5": {
+  "company": "Ramp",
+  "first_seen": "2026-11-16T12:00:00+00:00",
+  "outcome": "Referral - apply via referral (fit 5; 4+ yrs, SF relocation)",
+  "posted": "2026-11-12",
+  "role": "Customer Activation Manager, Public Sector",
+  "source": "Company board (Ashby)",
+  "url": "https://jobs.ashbyhq.com/ramp/574f46a4-42b2-46be-ba5c-de07c5e173c5"
+ },
+ "ashby:ramp:8ca5c32b-e6c7-47e3-af23-291f122fa0f8": {
+  "company": "Ramp",
+  "first_seen": "2026-11-16T12:00:00+00:00",
+  "outcome": "Referral - apply via referral (fit 7; 3+ yrs, remote US, $119-181K)",
+  "posted": "2026-11-10",
+  "role": "Solutions Consultant, Post Sales, Commercial",
+  "source": "Company board (Ashby)",
+  "url": "https://jobs.ashbyhq.com/ramp/8ca5c32b-e6c7-47e3-af23-291f122fa0f8"
+ },
+ "ashby:ramp:971abc99-f20b-43f0-91d6-90bcbfa2c8d9": {
+  "company": "Ramp",
+  "first_seen": "2026-11-16T12:00:00+00:00",
+  "outcome": "Referral - apply via referral (fit 5; 4+ yrs, remote US)",
+  "posted": "2026-11-10",
+  "role": "Solutions Consultant, Post Sales, Enterprise",
+  "source": "Company board (Ashby)",
+  "url": "https://jobs.ashbyhq.com/ramp/971abc99-f20b-43f0-91d6-90bcbfa2c8d9"
+ },
+ "ashby:ramp:b599c5a9-9c9d-4826-b67a-ca5e012faaad": {
+  "company": "Ramp",
+  "first_seen": "2026-11-16T12:00:00+00:00",
+  "outcome": "Referral - apply via referral (fit 6; NYC relocation, $110-120K OTE)",
+  "posted": "2026-11-12",
+  "role": "Partner Development Representative, Reseller",
+  "source": "Company board (Ashby)",
+  "url": "https://jobs.ashbyhq.com/ramp/b599c5a9-9c9d-4826-b67a-ca5e012faaad"
+ },
+ "ashby:ramp:e45a8b6a-5029-4ca5-ac6f-5af940843c72": {
+  "company": "Ramp",
+  "first_seen": "2026-11-16T12:00:00+00:00",
+  "outcome": "Referral - apply via referral (fit 5; 4+ yrs, NYC relocation)",
+  "posted": "2026-11-13",
+  "role": "Technical Consultant, Strategic",
+  "source": "Company board (Ashby)",
+  "url": "https://jobs.ashbyhq.com/ramp/e45a8b6a-5029-4ca5-ac6f-5af940843c72"
+ },
  "ashby:secureframe:ee36ed6c-60cb-470e-a859-b2d3569924a9": {
   "company": "Secureframe",
   "first_seen": "2026-11-16T12:00:00+00:00",
@@ -313,6 +409,14 @@
   "outcome": "Closed",
   "role": "Junior Sales Development Representative",
   "source": "Built In Colorado"
+ },
+ "builtin:10859289": {
+  "company": "Vantage",
+  "first_seen": "2026-11-17T12:44:33.489357+00:00",
+  "outcome": "Shown (fit 6, date unclear)",
+  "role": "Customer Success Manager",
+  "source": "Web search/Talentway",
+  "url": "https://www.builtincolorado.com/job/customer-success-manager/10859289"
  },
  "builtin:11001027": {
   "company": "Uptick Software",
@@ -687,6 +791,14 @@
   "role": "Sales Development Representative (East Coast)",
   "source": "Built In"
  },
+ "builtin:12254439": {
+  "company": "Envoy",
+  "first_seen": "2026-11-17T12:44:33.489357+00:00",
+  "outcome": "Shown (fit 6, hybrid Denver, date per aggregator)",
+  "role": "Scale Customer Success Manager",
+  "source": "Web search/Talentway",
+  "url": "https://www.builtincolorado.com/job/scale-csm/12254439"
+ },
  "builtin:12257183": {
   "company": "Raydar (recruiter)",
   "first_seen": "2026-11-15T12:00:00+00:00",
@@ -813,6 +925,22 @@
   "role": "Solution Engineer",
   "source": "Company board",
   "url": "https://job-boards.greenhouse.io/contentful/jobs/8383603"
+ },
+ "greenhouse:contentful:8383638": {
+  "company": "Contentful",
+  "first_seen": "2026-11-17T12:44:33.489357+00:00",
+  "outcome": "Shown (fit 7, size exception)",
+  "role": "Solution Engineer",
+  "source": "Feed",
+  "url": "https://job-boards.greenhouse.io/contentful/jobs/8383638"
+ },
+ "greenhouse:contentful:8383692": {
+  "company": "Contentful",
+  "first_seen": "2026-11-17T12:44:33.489357+00:00",
+  "outcome": "Low fit (4, senior, 5 yrs, size exception)",
+  "role": "Senior Solution Engineer",
+  "source": "Feed",
+  "url": "https://job-boards.greenhouse.io/contentful/jobs/8383692"
  },
  "greenhouse:contentful:8385473": {
   "alias": "gh:contentful:8385473",
@@ -1049,6 +1177,14 @@
   "source": "Company board",
   "url": "https://ripple.com/careers/all-jobs/job/8328928?gh_jid=8328928"
  },
+ "greenhouse:salesloft:8386104": {
+  "company": "Salesloft",
+  "first_seen": "2026-11-17T12:44:33.489357+00:00",
+  "outcome": "Low fit (4, 5+ yrs GTM systems)",
+  "role": "Senior GTM Engineer",
+  "source": "Feed",
+  "url": "https://www.salesloft.com/company/careers?gh_jid=8386104"
+ },
  "greenhouse:samsara:8372624": {
   "company": "Samsara",
   "first_seen": "2026-11-16T12:00:00+00:00",
@@ -1104,6 +1240,14 @@
   "role": "Implementation Consultant III, Enterprise Hotels and Sports + Entertainment",
   "source": "Company board",
   "url": "https://careers.toasttab.com/jobs?gh_jid=8374880"
+ },
+ "greenhouse:toast:8385953": {
+  "company": "Toast",
+  "first_seen": "2026-11-17T12:44:33.489357+00:00",
+  "outcome": "Low fit (4, people-management role) - referral co",
+  "role": "Senior Onboarding Manager, Hotels",
+  "source": "Feed",
+  "url": "https://careers.toasttab.com/jobs?gh_jid=8385953"
  },
  "greenhouse:zscaler:5287748007": {
   "company": "Zscaler",
@@ -1520,77 +1664,5 @@
   "outcome": "Closed (Greenhouse posting closed 2026-10-08)",
   "role": "Solution Engineer",
   "source": "Wellfound"
- },
- "ashby:ramp:e45a8b6a-5029-4ca5-ac6f-5af940843c72": {
-  "company": "Ramp",
-  "role": "Technical Consultant, Strategic",
-  "source": "Company board (Ashby)",
-  "outcome": "Referral - apply via referral (fit 5; 4+ yrs, NYC relocation)",
-  "first_seen": "2026-11-16T12:00:00+00:00",
-  "url": "https://jobs.ashbyhq.com/ramp/e45a8b6a-5029-4ca5-ac6f-5af940843c72",
-  "posted": "2026-11-13"
- },
- "ashby:ramp:8ca5c32b-e6c7-47e3-af23-291f122fa0f8": {
-  "company": "Ramp",
-  "role": "Solutions Consultant, Post Sales, Commercial",
-  "source": "Company board (Ashby)",
-  "outcome": "Referral - apply via referral (fit 7; 3+ yrs, remote US, $119-181K)",
-  "first_seen": "2026-11-16T12:00:00+00:00",
-  "url": "https://jobs.ashbyhq.com/ramp/8ca5c32b-e6c7-47e3-af23-291f122fa0f8",
-  "posted": "2026-11-10"
- },
- "ashby:ramp:492823d8-9651-46cf-9d33-a632ef706879": {
-  "company": "Ramp",
-  "role": "Solutions Consultant, Post Sales, Mid-Market",
-  "source": "Company board (Ashby)",
-  "outcome": "Referral - apply via referral (fit 6; 3+ yrs, remote US, $151-231K)",
-  "first_seen": "2026-11-16T12:00:00+00:00",
-  "url": "https://jobs.ashbyhq.com/ramp/492823d8-9651-46cf-9d33-a632ef706879",
-  "posted": "2026-11-10"
- },
- "ashby:ramp:971abc99-f20b-43f0-91d6-90bcbfa2c8d9": {
-  "company": "Ramp",
-  "role": "Solutions Consultant, Post Sales, Enterprise",
-  "source": "Company board (Ashby)",
-  "outcome": "Referral - apply via referral (fit 5; 4+ yrs, remote US)",
-  "first_seen": "2026-11-16T12:00:00+00:00",
-  "url": "https://jobs.ashbyhq.com/ramp/971abc99-f20b-43f0-91d6-90bcbfa2c8d9",
-  "posted": "2026-11-10"
- },
- "ashby:ramp:574f46a4-42b2-46be-ba5c-de07c5e173c5": {
-  "company": "Ramp",
-  "role": "Customer Activation Manager, Public Sector",
-  "source": "Company board (Ashby)",
-  "outcome": "Referral - apply via referral (fit 5; 4+ yrs, SF relocation)",
-  "first_seen": "2026-11-16T12:00:00+00:00",
-  "url": "https://jobs.ashbyhq.com/ramp/574f46a4-42b2-46be-ba5c-de07c5e173c5",
-  "posted": "2026-11-12"
- },
- "ashby:ramp:b599c5a9-9c9d-4826-b67a-ca5e012faaad": {
-  "company": "Ramp",
-  "role": "Partner Development Representative, Reseller",
-  "source": "Company board (Ashby)",
-  "outcome": "Referral - apply via referral (fit 6; NYC relocation, $110-120K OTE)",
-  "first_seen": "2026-11-16T12:00:00+00:00",
-  "url": "https://jobs.ashbyhq.com/ramp/b599c5a9-9c9d-4826-b67a-ca5e012faaad",
-  "posted": "2026-11-12"
- },
- "ashby:ramp:498d0fa0-d6e2-4755-9004-736dcae47d81": {
-  "company": "Ramp",
-  "role": "Customer Success Manager, Mid-Market",
-  "source": "Company board (Ashby)",
-  "outcome": "Low fit (4; Referral; 5+ yrs, NYC)",
-  "first_seen": "2026-11-16T12:00:00+00:00",
-  "url": "https://jobs.ashbyhq.com/ramp/498d0fa0-d6e2-4755-9004-736dcae47d81",
-  "posted": "2026-11-13"
- },
- "ashby:ramp:4727e0b5-eafa-41ab-89ce-f6a1d19d3f0e": {
-  "company": "Ramp",
-  "role": "Customer Success Manager, Enterprise",
-  "source": "Company board (Ashby)",
-  "outcome": "Low fit (3; Referral; 7+ yrs, NYC)",
-  "first_seen": "2026-11-16T12:00:00+00:00",
-  "url": "https://jobs.ashbyhq.com/ramp/4727e0b5-eafa-41ab-89ce-f6a1d19d3f0e",
-  "posted": "2026-11-13"
  }
 }
