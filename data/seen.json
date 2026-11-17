@@ -439,6 +439,14 @@
   "role": "Sales Development Representative",
   "source": "Built In"
  },
+ "builtin:11432109": {
+  "company": "Medical Informatics Engineering",
+  "first_seen": "2026-11-17T16:33:04.456406+00:00",
+  "outcome": "Shown (fit 6, date unclear, no range)",
+  "role": "Client Success Manager",
+  "source": "Built In",
+  "url": "https://www.builtincolorado.com/job/client-success-manager/11432109"
+ },
  "builtin:11442422": {
   "company": "Parachute Health",
   "first_seen": "2026-11-16T12:00:00+00:00",
@@ -673,6 +681,14 @@
   "source": "Built In",
   "url_note": "no employer link found - search Built In by company"
  },
+ "builtin:12176714": {
+  "company": "Crogl",
+  "first_seen": "2026-11-17T16:33:04.456406+00:00",
+  "outcome": "Low fit (3, 5-10 yrs SecOps)",
+  "role": "Solutions Engineer",
+  "source": "Built In",
+  "url": "https://www.builtincolorado.com/job/solutions-engineer/12176714"
+ },
  "builtin:12206401": {
   "company": "Bubblehouse",
   "first_seen": "2026-11-15T12:00:00+00:00",
@@ -680,6 +696,14 @@
   "role": "Customer Success Manager",
   "source": "Built In",
   "url_note": "no employer link found - search Built In by company"
+ },
+ "builtin:12206501": {
+  "company": "Fleetio",
+  "first_seen": "2026-11-17T16:33:04.456406+00:00",
+  "outcome": "Shown (fit 8, 5d, employer link: fleetio.com/careers)",
+  "role": "Outbound Sales Development Representative",
+  "source": "Built In",
+  "url": "https://www.builtincolorado.com/job/outbound-sales-development-representative/12206501"
  },
  "builtin:12208029": {
   "company": "Kaseya",
@@ -770,6 +794,14 @@
   "role": "Sales Engineer II, Reseller & VARs",
   "source": "Built In"
  },
+ "builtin:12252732": {
+  "company": "Bask Health",
+  "first_seen": "2026-11-17T16:33:04.456406+00:00",
+  "outcome": "Shown (fit 7, 4d, no range, 3+ yrs)",
+  "role": "Implementation Engineer",
+  "source": "Built In",
+  "url": "https://www.builtincolorado.com/job/implementation-engineer/12252732"
+ },
  "builtin:12253252": {
   "company": "LiveKit",
   "first_seen": "2026-11-16T12:00:00+00:00",
@@ -805,6 +837,102 @@
   "outcome": "Excluded (recruiter, no employer named; adtech must-have)",
   "role": "Founding Customer Success Manager",
   "source": "Built In Colorado"
+ },
+ "builtin:12259680": {
+  "company": "Cyberhaven",
+  "first_seen": "2026-11-17T16:33:04.456406+00:00",
+  "outcome": "Low fit (4, NY/FL only)",
+  "role": "Customer Success Manager",
+  "source": "Built In",
+  "url": "https://www.builtincolorado.com/job/customer-success-manager/12259680"
+ },
+ "builtin:12266824": {
+  "company": "NetBrain",
+  "first_seen": "2026-11-17T16:33:04.456406+00:00",
+  "outcome": "Low fit (3, 8+ yrs)",
+  "role": "Customer Success Manager - West",
+  "source": "Built In",
+  "url": "https://www.builtincolorado.com/job/customer-success-manager-west/12266824"
+ },
+ "builtin:12268977": {
+  "company": "DTEX Systems",
+  "first_seen": "2026-11-17T16:33:04.456406+00:00",
+  "outcome": "Worth a look (5, security domain, 4+ yrs)",
+  "role": "Customer Success Manager",
+  "source": "Built In",
+  "url": "https://www.builtincolorado.com/job/customer-success-manager/12268977"
+ },
+ "builtin:12269308": {
+  "company": "ModMed",
+  "first_seen": "2026-11-17T16:33:04.456406+00:00",
+  "outcome": "Low fit (5, size 4500+)",
+  "role": "Customer Success Manager",
+  "source": "Built In",
+  "url": "https://www.builtincolorado.com/job/customer-success-manager/12269308"
+ },
+ "builtin:12270292": {
+  "company": "SOVRA",
+  "first_seen": "2026-11-17T16:33:04.456406+00:00",
+  "outcome": "Shown (fit 7, <24h, no range)",
+  "role": "Sales Development Representative, Enterprise",
+  "source": "Built In",
+  "url": "https://www.builtincolorado.com/job/sales-development-representative-enterprise/12270292"
+ },
+ "builtin:12274432": {
+  "company": "Skydio",
+  "first_seen": "2026-11-17T16:33:04.456406+00:00",
+  "outcome": "Excluded (FAA license, 50-75% travel)",
+  "role": "Solutions Engineer",
+  "source": "Built In",
+  "url": "https://www.builtincolorado.com/job/solutions-engineer-highway-safety-and-transit/12274432"
+ },
+ "builtin:12275421": {
+  "company": "SailPoint",
+  "first_seen": "2026-11-17T16:33:04.456406+00:00",
+  "outcome": "Low fit (5, size exception needs 7)",
+  "role": "Customer Success Manager",
+  "source": "Built In",
+  "url": "https://www.builtincolorado.com/job/customer-success-manager/12275421"
+ },
+ "builtin:12276160": {
+  "company": "Greenplaces",
+  "first_seen": "2026-11-17T16:33:04.456406+00:00",
+  "outcome": "Shown (fit 6, <24h, 4+ yrs)",
+  "role": "Customer Success Manager",
+  "source": "Built In",
+  "url": "https://www.builtincolorado.com/job/customer-success-manager/12276160"
+ },
+ "builtin:12281305": {
+  "company": "Nsight Health",
+  "first_seen": "2026-11-17T16:33:04.456406+00:00",
+  "outcome": "Shown (fit 8, <24h, Built In apply, 2+ yrs)",
+  "role": "Sales Development Representative",
+  "source": "Built In",
+  "url": "https://www.builtincolorado.com/job/sales-development-representative/12281305"
+ },
+ "builtin:12281523": {
+  "company": "Wyllo",
+  "first_seen": "2026-11-17T16:33:04.456406+00:00",
+  "outcome": "Low fit (3, 5+ yrs Shopify)",
+  "role": "CX Solutions Engineer",
+  "source": "Built In",
+  "url": "https://www.builtincolorado.com/job/cx-solutions-engineer/12281523"
+ },
+ "builtin:12281617": {
+  "company": "CeSuite Digital",
+  "first_seen": "2026-11-17T16:33:04.456406+00:00",
+  "outcome": "Worth a look (5, no range)",
+  "role": "Client Success Manager",
+  "source": "Built In",
+  "url": "https://www.builtincolorado.com/job/client-success-manager/12281617"
+ },
+ "builtin:12291497": {
+  "company": "FireMon",
+  "first_seen": "2026-11-17T16:33:04.456406+00:00",
+  "outcome": "Low fit (4, 5+ yrs netsec)",
+  "role": "Customer Success Manager",
+  "source": "Built In",
+  "url": "https://www.builtincolorado.com/job/customer-success-manager/12291497"
  },
  "builtin:9739501": {
   "company": "ArboStar",
