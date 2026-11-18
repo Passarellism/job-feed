@@ -1,242 +1,348 @@
 [
  {
-  "id": "ashby:attio:72c41b8f-7a33-4285-8204-fff00ca4b9c8",
-  "company": "Attio",
-  "title": "Customer Success Manager",
-  "location": "New York | United States",
-  "url": "https://jobs.ashbyhq.com/attio/72c41b8f-7a33-4285-8204-fff00ca4b9c8",
-  "posted": "2026-11-17T18:14:23.208000+00:00",
-  "comp": "$125K – $165K • Offers Equity",
+  "id": "ashby:harvey:e1a075aa-509b-4b6f-b19f-269f38df5fc1",
+  "company": "Harvey",
+  "title": "GTM Onboarding Lead",
+  "location": "New York | New York, New York, USA | San Francisco | San Francisco, California, USA",
+  "url": "https://jobs.ashbyhq.com/harvey/e1a075aa-509b-4b6f-b19f-269f38df5fc1",
+  "posted": "2026-11-18T19:11:34.229000+00:00",
+  "comp": "$180K – $247K • Offers Equity • Offers Bonus",
   "location_tag": "remote-US",
   "company_tags": [
    "saas"
   ],
   "connections": 0,
-  "first_seen": "2026-11-17T19:52:47.659938+00:00",
-  "years": 3,
-  "excerpt": "Attio is the CRM for agentic revenue. Designed for the most ambitious go-to-market teams, it gives companies the power to understand every customer, automate at scale, and build their go-to-market motion exactly as they need. We've raised $116M from some of the world's best investors: GV (Google Ventures), Redpoint, Balderton, Point Nine, and 01A.\nWe hire builders who thrive on complex technical c\n...\nWHAT YOU'LL BRING\n - 5+ years of relevant professional experience, including 3+ years in Customer Success or Account Management.\n - Experience owning customer relationships in B2B software, ideally across SMB and mid-market customers in a product-led environment.\n - A consultative approach and ability to understand a customer's business before jumping to a solution.\n - Strong product instincts and a track record of coaching customers on how to get the most out of a complex software product.\n - Comfort working hands-on with customers to solve problems rather than relying heavily on separate technical or implementation teams.\n - Experience owning customer outcomes across adoption, retention, renewals, and expansion.\n - Strong commercial instincts and an ability to recognize customer potential beyond current spend or company size.\n - Comfort working with fast-growing companies and lean teams where priorities and needs can change quickly.\n - A data-driven approach to prior"
- },
- {
-  "id": "greenhouse:billcom:6255594004",
-  "company": "Bill.com",
-  "title": "Onboarding Account Manager",
-  "location": "United States",
-  "url": "https://www.bill.com/job?6255594004&gh_jid=6255594004",
-  "posted": "2026-11-17T17:55:26+00:00",
-  "comp": "$93,300 — $112,000",
-  "location_tag": "US",
-  "company_tags": [
-   "fintech"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-17T19:52:47.659938+00:00",
+  "first_seen": "2026-11-18T19:25:15.990736+00:00",
   "years": 2,
-  "excerpt": "Innovate with purpose \n At BILL, we believe in empowering the businesses that drive our economy. By replacing outdated financial processes with innovative tools, we help businesses—from startups to established brands—make smarter decisions and gain control of their operations. And we don’t stop there: we’re creating the future of financial automation so businesses can spend more time on what matte\n...\nrequirements\n Identify implementation risks, blockers, or gaps in real time and work quickly to resolve them\n Maintain accurate documentation, notes, and system records throughout the implementation process\n Partner closely with Sales, Customer Success, Support, and the broader Accounting Channel team to ensure a seamless partner experience\n Reinforce a consistent, scalable implementation motion that supports both partner outcomes and business growth\n Contribute feedback on partner pain points, integration challenges, and opportunities to improve the implementation journey\n What you'll be doing\n Manage day-to-day AP implementation engagements with Accounting Channel partners and their clients\n Guide partners through initial setup, accounting software integrations, and AP workflow configuration with quality and urgency\n Help partners and clients understand how to use the BILL AP platform and adopt core workflows as quickly as possible\n Deliver clear, confident communication that creates a positive, efficient, and professional implementation experience\n Surface risks, integration "
+  "excerpt": "WHY HARVEY\nAt Harvey, we’re transforming how legal and professional services operate. By combining frontier agentic AI, an enterprise-grade platform, and deep domain expertise, we’re reshaping how critical knowledge work gets done for decades to come.\nThis is a rare chance to help build a generational company at a true inflection point. We have strong product-market fit and world-class investor su\n...\nYOU HAVE\n - 8+ years of experience in enablement, onboarding, learning and development, or GTM program leadership at a high-growth technology company, ideally including time in a sales seat\n - 2+ years managing a team (small teams count), with people you developed and held to a clear standard\n - Recent hands-on experience building and delivering onboarding curriculum, certifications or ramp programs yourself\n - A track "
  },
  {
-  "id": "greenhouse:sumologic:8318216",
-  "company": "Sumo Logic",
-  "title": "PreSales Solutions Engineer",
-  "location": "Remote US | United States",
-  "url": "https://job-boards.greenhouse.io/sumologic/jobs/8318216",
-  "posted": "2026-11-17T17:22:48+00:00",
-  "comp": "$114,000 - $133,000",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-17T19:52:47.659938+00:00",
-  "years": 3,
-  "excerpt": "As a Sales Engineer , you will be the primary technical resource for our Account Executive team. You will share your product and technical expertise through presentations, product demonstrations, and technical evaluations (Proof Of Values). As the technical expert, you will work with clients to understand their requirements and pain points, then design the right solution for their business needs. \n...\nRequirements \n Fluency in German and English (written and verbal) is required.\n B.S. in Computer Science, Engineering, or a related field; M.S. in Computer Science, Engineering, or a related field (preferred)\n 3+ years as a Solutions Engineer (preferred), Solutions Architect (preferred), Sales Engineer (preferred), Implementation Consultant, Support Engineer, Site Reliability Engineer, or a Software Developer with experience leading projects and/or working with customers\n Hands on knowledge of Security related products, technologies, and sources such as IDS/IPS, SIEM/Log Management, Network / Endpoint Security, Threat Detection, Incident Response, MSSP/MDR, Threat Feeds, CASB, etc\n Experience with open source collections (Telegraf, FluentBit, FluentD, Open Telemetry, etc.) (preferred)\n Experience with leading and running technical validations like Proof of Value (preferred)\n Experience selling and working with pure SaaS solutions in multi-tenant architectures\n Experience with Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure (certification is preferred)\n A "
- },
- {
-  "id": "ashby:airwallex:4acbd6ee-d26e-4810-b2e2-851e7e1d87fe",
-  "company": "Airwallex",
-  "title": "Sales Development Representative, Mid Market",
-  "location": "US - San Francisco | US - New York | San Francisco, California, United States",
-  "url": "https://jobs.ashbyhq.com/airwallex/4acbd6ee-d26e-4810-b2e2-851e7e1d87fe",
-  "posted": "2026-11-17T17:03:09.167000+00:00",
-  "comp": "$135K – $150K • Offers Equity",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "fintech"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-17T19:52:47.659938+00:00",
-  "years": null,
-  "excerpt": "ABOUT AIRWALLEX\nAirwallex is the AI-native financial operating system for a real-time, intelligent economy. More than 675,000 businesses, including McLaren Racing, Qantas, SHEIN, and TikTok, use us, directly or through our platform partners, to run their financial operations or build and monetize financial products of their own.\nWe started in Melbourne in 2015 to build the infrastructure global co\n...\nWHAT WE'RE LOOKING FOR\nEssentials\n - Bachelor’s degree or equivalent work experience\n - 12 months of experience in sales, account management, or a related customer-service role\n - Experience in a startup, fintech, or B2B software environment\n - A goal-oriented approach and enthusiasm for generating and nurturing relationships with decision-makers\n - Strong written and verbal communication skills, including the ability to build rapport by phone and email\n - Ability to collaborate with Account Executives and cross-functional teams to create and nurture opportunities\n - Curiosity and the ability to research leaders across functions such as Engineering, Product, and Finance\n - Willingness to learn, adapt, and help build new sales processes in an early-stage team\nPreferred\n - Experience developing outbound strategies with Account Executives\n - Experience engaging executive stakeholders or supporting complex product discussions\n - Experience working with global teams across diverse offices and time zones\n - Experience in a customer-facing role where you owned resolution of customer ne"
- },
- {
-  "id": "greenhouse:stripe:8395851",
-  "company": "Stripe",
-  "title": "Forward Deployed AI Accelerator, Marketing",
-  "location": "Seattle, San Francisco, New York, Chicago, Atlanta, Remote in the US, Canada | US",
-  "url": "https://stripe.com/jobs/search?gh_jid=8395851",
-  "posted": "2026-11-17T16:05:34+00:00",
+  "id": "greenhouse:contentful:8385618",
+  "company": "Contentful",
+  "title": "Senior Customer Success Manager",
+  "location": "New York, New York, United States | New York, NY",
+  "url": "https://job-boards.greenhouse.io/contentful/jobs/8385618",
+  "posted": "2026-11-18T18:56:19+00:00",
   "comp": "",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "fintech",
-   "linkedin-follow"
-  ],
-  "connections": 2,
-  "first_seen": "2026-11-17T19:52:47.659938+00:00",
-  "years": null,
-  "excerpt": "Who we are\n About Stripe\n Stripe is a financial infrastructure platform for businesses. Millions of companies — from the world's largest enterprises to the most ambitious startups — use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an un\n...\nWho you are\n We're looking for people who have already lived the transformation they'll be driving for others. You've used AI to fundamentally change how work gets done, not as a novelty, but as your default operating mode.\n You are a deep AI practitioner. You build agents, automations, and tools fluently. You don't just know what AI can do in theory. You've built things that changed how real teams operate, and the people you built for actually use what you shipped. You build in real time alongside the people you support.\n You spot transformation opportunities and execute on them. You look at a team's workflows and see where AI changes the economics: where existing work can be done in a fraction of the time, or where entirely new programs become viable that weren't worth doing before. Then you build the thing, not just the slide.\n You understand marketing work. You either have direct experience in marketing or quickly learn the workflows, deliverables, tools, and pressures of your assigned cohort. You know that understanding someone's work is a prerequisite to transforming it.\n "
- },
- {
-  "id": "greenhouse:databricks:8925851002",
-  "company": "Databricks",
-  "title": "Sr. Solutions Engineer",
-  "location": "United States | San Francisco, California | Chicago, Illinois; Remote - California; Remote - New York; United States | San Francisco, California",
-  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8925851002",
-  "posted": "2026-11-17T15:23:15+00:00",
-  "comp": "",
-  "location_tag": "relocation-NYC/SF",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-17T19:52:47.659938+00:00",
-  "years": 4,
-  "excerpt": "Sr. Solutions Engineer \n Req FEQ128R78 \n The Role \n As a Sr. Solutions Engineer, you will independently lead technical engagements for customers, owning discovery, solution design, and platform demonstrations. You are a builder who can code, architect, and present—combining technical depth with customer-facing skills to drive Databricks adoption. You will own frontline customer relationships and work with your Account Executive to develop technical strategies that expand platform usage.\n The Impact You Will Have \n Independently lead technical discovery and solution design for customer workloads spanning data engineering, analytics, and machine learning\n Build and deliver compelling proofs-of-concept and live demos on the Databricks Platform that drive technical wins\n Own frontline technical relationships with customer engineers, data teams, and technical leads\n Develop account-level technical strategies in partnership with your Account Executive to grow platform consumption\n Navigate competitive landscapes by articulating Databricks differentiation through hands-on demonstrations\n Contribute reusable technical assets (notebooks, solution accelerators, reference architectures) to the broader SA community\n What We Look For \n 4+ years in data engineering, solutions architecture, technical pre-sales, or a hands-on consulting role\n Proficient in Python and SQL with demonstrated ability to debug, optimize, and write production-quality code — live coding is a required interview stag"
- },
- {
-  "id": "ashby:merge:fe48ba75-e5aa-43e4-91fe-560733d89c89",
-  "company": "Merge",
-  "title": "Solutions Engineer",
-  "location": "New York, NY; San Francisco, CA | New York City or San Francisco",
-  "url": "https://jobs.ashbyhq.com/merge/fe48ba75-e5aa-43e4-91fe-560733d89c89",
-  "posted": "2026-11-17T14:57:48.175000+00:00",
-  "comp": "$155,000 - $185,000",
-  "location_tag": "relocation-NYC/SF",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-17T19:52:47.659938+00:00",
-  "years": 2,
-  "excerpt": "Merge is the leading provider of agentic tools and customer-facing integrations for frontier LLMs, Fortune 500 organizations, and B2B SaaS companies. \nOur platform offers two core products: Merge for Product, and Merge for Workforce. Merge for Product enables teams to ship AI features and integrations at massive scale. Merge for Workforce helps engineering teams govern AI access at the company level. Merge's enterprise-grade platform handles the entire integration lifecycle, from authentication and security to monitoring and maintenance. Thousands of companies trust Merge to accelerate product development, unblock sales, reduce customer churn, and save engineering resources—allowing them to focus on their core product.\nWho are we looking for?\nAs a Solutions Engineer, you are the technical partner on every deal. Our Account Executives own the relationship and the commercial side. You own the technical win: understanding what a prospect's engineers actually need, spotting risks early, and proving Merge solves their problem.\nThis is a pre-sales role. You will spend most of your time in front of customers, roughly 15 to 16 hours a week on sales calls, alongside prep, follow-up and work with our Product and Engineering teams. Pipeline comes to you through our AEs, so there is no cold calling or prospecting.\nYou will be a generalist across both product lines, credible with a CTO building AI into their product in the morning and a CISO rolling out AI agents to employees in the after"
- },
- {
-  "id": "ashby:notion:f5f95c45-7a2b-4abd-9875-f64dfbc89342",
-  "company": "Notion",
-  "title": "Enterprise Solutions Consultant (New York, NY)",
-  "location": "New York, New York | New York, New York, United States",
-  "url": "https://jobs.ashbyhq.com/notion/f5f95c45-7a2b-4abd-9875-f64dfbc89342",
-  "posted": "2026-11-17T14:24:44.488000+00:00",
-  "comp": "$360,000 - $400,000",
   "location_tag": "relocation-NYC/SF",
   "company_tags": [
    "saas"
   ],
-  "connections": 1,
-  "first_seen": "2026-11-17T19:52:47.659938+00:00",
-  "years": 8,
-  "excerpt": "WHO WE ARE\nNotion is the collaborative AI workspace where teams and agents think together https://www.youtube.com/watch?v=vkpYpWfEK5s. We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion.\nNotinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn’t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business’s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life’s work.\nABOUT THE ROLE\nNotion is shaping the future of Go-To-Market, and as a Solutions Consultant (SC), you’ll bring that future to life by building alongside customers and turning their biggest challenges into measurable outcomes. As a customer-facing, quota-carrying SC, you’ll bring together technical fluency and commercial ownership to grow your book of business. You’ll build pipeline with BDRs, engage key stakeholders, lead discovery, co-build workflow solutions live with customers, and guide opportunities through close. You’ll connect each solution to a clear business case and stay engaged through adopt"
+  "connections": 0,
+  "first_seen": "2026-11-18T19:25:15.990736+00:00",
+  "years": 7,
+  "excerpt": "Applications for this position will be accepted on an ongoing basis. \n About The Opportunity\n As a Senior Customer Success Manager, you will work directly with Contentful customers in your region to ensure they maximize value from our platform and deliver a stellar customer experience as their trusted advisor. You will help our customers achieve both their technical and business goals while drivin\n...\nexperience\n B2B SaaS, Content management systems, content strategy, or agency experience preferred\n Demonstrated success in meeting or exceeding sales or performance goals\n Ability to think strategically about a customer’s goals and drive renewal and expansion opportunities to close independently\n Interfaces effectively and confidently with executives at Fortune 500 companies\n Excellent oral and written communication skills: shows excellence in previous customer and internal engagements\n Collaborate effectively with cross-functional teams, including Sales, Product, and Support\n Ability to understand Contentful APIs, as well as the modern content management and digital experience stack. Independently uses data tools to engage in meaningful, proactive customer discussions\n Technical proficiency and a keen interest in technology. Ability to communicate high-level technical concepts to customers.\n Bachelor’s Degree is highly preferred\n In the United States, compensation offered will be determined by factors such as location, job level, job-related knowledge, skills, and experience. "
  },
  {
-  "id": "ashby:ramp:f34619af-0475-4987-83b9-eb926b4bb07a",
-  "company": "Ramp",
-  "title": "Customer Success Manager, Strategic",
-  "location": "New York, NY (HQ) | San Francisco, CA | Remote (US) | New York City, NY, USA",
-  "url": "https://jobs.ashbyhq.com/ramp/f34619af-0475-4987-83b9-eb926b4bb07a",
-  "posted": "2026-11-16T22:38:33.564000+00:00",
-  "comp": "$211K – $338K • Offers Equity • 70/30 split on salary and variable compensation",
+  "id": "greenhouse:grafanalabs:6265447004",
+  "company": "Grafana Labs",
+  "title": "Senior Product Partnership Manager | United States | Remote",
+  "location": "United States (Remote) | USA (Remote)",
+  "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6265447004",
+  "posted": "2026-11-18T18:55:22+00:00",
+  "comp": "$ 183,857 - $ 220,629",
+  "location_tag": "remote-US",
+  "company_tags": [
+   "saas"
+  ],
+  "connections": 0,
+  "first_seen": "2026-11-18T19:25:15.990736+00:00",
+  "years": null,
+  "excerpt": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving teams (and their agents) unified visibility so they can see, understand, and act on all their disparate data, wherever it lives, and move at the speed of their ambitions. Customers, including Anthropic, Bloomberg, NVIDIA, Microsoft, and Salesforce, rely on Grafana Labs. We are a 100% remote company with team members across 40+ countries, backed by leading investors including Lightspeed Venture Partners, Sequoia Capital, GIC, Coatue, J.P. Morgan, CapitalG, and Lead Edge Capital. Learn more at grafana.com and follow us on LinkedIn and X . \n We’re scaling fast and staying true to what makes us different: an open-source legacy, a global collaborative culture, and a passion for meaningful work. Our team thrives in an innovation-driven environment where transparency, autonomy, and trust fuel everything we do.\n You may not meet every requirement, and that’s okay. If this role excites you, we’d love you to raise your hand for what could be a truly career-defining opportunity.\n The Opportunity: \n We’re looking for a Strategic Partnerships Lead to own multi-threaded strategic partnerships and carry those negotiat"
+ },
+ {
+  "id": "ashby:plaid:265a7e77-e6c0-4d04-ac35-23b86d21f810",
+  "company": "Plaid",
+  "title": "Sales Development Representative",
+  "location": "San Francisco HQ | San Francisco, California, United States",
+  "url": "https://jobs.ashbyhq.com/plaid/265a7e77-e6c0-4d04-ac35-23b86d21f810",
+  "posted": "2026-11-18T18:47:13.976000+00:00",
+  "comp": "$91,995 – $106,971 • Offers Equity • Offers Commission • Multiple Ranges",
   "location_tag": "remote-US",
   "company_tags": [
    "fintech",
    "linkedin-follow"
   ],
-  "connections": 6,
-  "first_seen": "2026-11-17T19:52:47.659938+00:00",
-  "years": null,
-  "excerpt": "ABOUT RAMP\nRamp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $275B in annualized spend flows in and out of 85,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books.\nThe problems are high-stakes, data-dense, and unforgiving.\nWe hire people with high agency and high urgency. We look for slope over intercept. We care less about where you trained and more about what you’ve built. At Ramp, everyone is a builder who owns problems end to end and makes consequential decisions that shape the outcome.\nThe median Ramp customer saves 7.5% and grows revenue 16% in their first year – far in excess of businesses operating without Ramp. We believe every ambitious company deserves the same.\nIf you want to build systems that directly shape how companies move and manage billions, Ramp is the place to do it.\nABOUT THE TEAM AND ROLE\nRamp’s Strategic Lifecycle Success team helps our largest and most complex customers turn their investment in Ramp into lasting business impact. After initial onboarding and implementation are complete, we help customers deepen adoption, continuously improve their Ramp setup, and successfully launch and activate additional products as their needs evolve.\nAs a Strategic Lifecycle Customer Success Manager, you’ll be a hands-on product expert and trusted partner to the finance, accounting, and operations teams using Ramp. You’ll own the"
+  "connections": 0,
+  "first_seen": "2026-11-18T19:25:15.990736+00:00",
+  "years": 1,
+  "excerpt": "We believe that the way people interact with their finances will drastically improve in the next few years. We’re dedicated to empowering this transformation by building the tools and experiences that thousands of developers use to create their own products. Plaid powers the tools millions of people rely on to live a healthier financial life. We work with thousands of companies like Venmo, SoFi, s\n...\nQualifications\n - 1-3 years of experience in pipeline development and/or sales (preferably at SaaS company)\n - Leading high-level conversations with business stakeholders\n - The ability to evangelize Plaid’s value proposition in order to assess buying interest\n - The ability to thrive in a high customer volume, time-sensitive environment\n - Having a relentless mindset and unwillingness to quit\n - Proficiency in using Salesforce.com or other CRM\n - Experience working with customers and explaining technical products. Interest in financial services and technical products; a high degree of intellectual curiosity\n - Excitement to work in a high-growth environment and to help build processes and tools as needed\n - Desire to get (more) technical and the ability to learn the ins and outs of Plaid's APIs\nResponsibilities \n - Acting as a key member of the Plaid GTM Team, supporting several Account Executives hunting new business\n - Liaising with Marketing to provide feedback on campaigns and design new efforts\n - Identifying prospects and building pipeline through outbound campaigns\n - He"
  },
  {
-  "id": "ashby:commure:9f4e755d-cb35-4397-8b6b-48f387118c28",
-  "company": "Commure",
-  "title": "Sales Development Representative (Lehi, UT)",
-  "location": "Lehi, UT | Lehi, Utah, USA",
-  "url": "https://jobs.ashbyhq.com/Commure/9f4e755d-cb35-4397-8b6b-48f387118c28",
-  "posted": "2026-11-16T22:08:01.695000+00:00",
-  "comp": "$63K – $95K • Offers Equity • Offers Commission",
+  "id": "ashby:abridge:acdfad1e-f38e-4850-99c2-f7c9ada11d8d",
+  "company": "Abridge",
+  "title": "Sales Engineer",
+  "location": "Remote - Tier 1 | USA",
+  "url": "https://jobs.ashbyhq.com/Abridge/acdfad1e-f38e-4850-99c2-f7c9ada11d8d",
+  "posted": "2026-11-18T18:02:20.434000+00:00",
+  "comp": "$170K – $195K • Offers Equity • Offers Bonus",
   "location_tag": "remote-US",
   "company_tags": [
    "healthtech"
   ],
   "connections": 0,
-  "first_seen": "2026-11-17T19:52:47.659938+00:00",
-  "years": 1,
-  "excerpt": "At Commure, we're building the AI Operating System for healthcare, the foundation that defines how care is delivered, documented, and financed. Our platform spans the full care journey: Ambient AI and Dictation eliminating documentation burden at the point of care, intelligent Agents automating patient and revenue workflows, and autonomous RCM processing billions in claims, all on a single AI-nati\n...\nYou Have\n - Bachelor’s degree or equivalent work experience\n - 6 months - 1 year+ of sales or healthcare experience\n - Strong communication skills, both written and oral\n - Extremely flexible with an ability to multitask, prioritize, and manage time effectively.\n - Process oriented, organized, and able to work well in unstructured environments\n - Expertise in project management: You have experience deploying multiple projects in a fast-paced environment. You take pride in being on top of things\n - Energized By People: You love interacting with customers and consistently seek to deliver a great customer experience.\n - Truth Seeker: You are relentless in searching for truth, asking questions, and always seeking to understand a customer's requests\n - Comfort in Chaos: You are comfortable working in an autonomous environment, can expertly prioritize and have a knack for identifying internal and external blockers.\nPlease be aware that all official communication from"
+  "first_seen": "2026-11-18T19:25:15.990736+00:00",
+  "years": 5,
+  "excerpt": "ABOUT ABRIDGE\nFounded in 2018, Abridge is the first AI-native clinician intelligence platform organized around the patient, built for clinicians, and designed to help health systems coordinate the clinical, financial, and evidence-based decisions for every moment of care. Powered by purpose-built AI for healthcare, Abridge connects patients, providers, payers, and life sciences companies. This yea\n...\nWHAT YOU’LL BRING:\n - 5+ years of experience as a sales engineer, solutions consultant, solutions architect, or similar role in a Healthcare SaaS and technology sales environment\n - Solid technical background with deep understanding of and/or hands on experience with multiple EHR systems, enterprise desktop and VDI "
  },
  {
-  "id": "greenhouse:datadog:8346224",
-  "company": "Datadog",
-  "title": "Senior Forward Deployed Engineer",
-  "location": "Denver, Colorado, USA; New York, New York, USA; San Francisco, California, USA | San Francisco",
-  "url": "https://careers.datadoghq.com/detail/8346224/?gh_jid=8346224",
-  "posted": "2026-11-16T22:01:15+00:00",
-  "comp": "$154,000 — $205,000",
-  "location_tag": "CO",
+  "id": "ashby:commure:f4ab2a70-ab0a-4163-84b8-62efbaea942b",
+  "company": "Commure",
+  "title": "Sales Engineer",
+  "location": "San Francisco Bay Area or Remote | New York City, NY | Mountain View, CA | San Francisco, California, United States",
+  "url": "https://jobs.ashbyhq.com/Commure/f4ab2a70-ab0a-4163-84b8-62efbaea942b",
+  "posted": "2026-11-18T17:47:29.126000+00:00",
+  "comp": "$80K – $120K • Offers Equity • Offers Commission",
+  "location_tag": "remote-US",
+  "company_tags": [
+   "healthtech"
+  ],
+  "connections": 0,
+  "first_seen": "2026-11-18T19:25:15.990736+00:00",
+  "years": 2,
+  "excerpt": "At Commure, we're building the AI Operating System for healthcare, the foundation that defines how care is delivered, documented, and financed. Our platform spans the full care journey: Ambient AI and Dictation eliminating documentation burden at the point of care, intelligent Agents automating patient and revenue workflows, and autonomous RCM processing billions in claims, all on a single AI-nati\n...\nYou Have\n - 2+ years in sales engineering, solutions consulting, implementation, o"
+ },
+ {
+  "id": "ashby:zip:2f9dc460-7f0d-4ecd-b3eb-6bc350be6dd7",
+  "company": "Zip",
+  "title": "Senior Solutions Consultant, Intake & Orchestration",
+  "location": "New York City | San Francisco | New York City, New York, United States",
+  "url": "https://jobs.ashbyhq.com/zip/2f9dc460-7f0d-4ecd-b3eb-6bc350be6dd7",
+  "posted": "2026-11-18T16:50:39.063000+00:00",
+  "comp": "$110,000 - $150,000",
+  "location_tag": "remote-US",
+  "company_tags": [
+   "linkedin-follow"
+  ],
+  "connections": 0,
+  "first_seen": "2026-11-18T19:25:15.990736+00:00",
+  "years": 5,
+  "excerpt": "ABOUT ZIP\nZip is the AI platform for enterprise procurement — built for humans and agents working together. By orchestrating procurement across teams, tools, and suppliers with the help of AI agents, companies can secure the resources they need to innovate faster than ever before.\nThe world’s most influential enterprises trust Zip, including T-Mobile, OpenAI, AMD, Mars, Dollar Tree, and more. Toge\n...\nexperience\n - Lead testing and go-live readiness, helping customers validate workflows, resolve issues, and confirm the solution meets their business requirements.\n - Deliver training and enablement so customers can confidently own and manage Zip after go-live\n - Partner with Product and Engineering to communicate customer needs, evaluate requests, and set clear expectations with customers\n - Share customer feedback, support peers, and contribute to implementation playbooks to shorten time to value and elevate the customer experience\nQUALIFICATIONS\n - 5+ years implementing procurement adjacent SaaS products (P2P, Risk Management, Contract Management, etc.) OR customer-facing implementation lead in B2B SaaS\n - Clear written and verbal communication with both executives and day-to-day client contacts\n - Proven track record of managing multiple concurrent projects and balancing competing priorities using project management methodologies\n - Comfort with configuration-heavy software work and AI tooling. Technical skills like SQL or APIs are a plus but not required\n - A track record o"
+ },
+ {
+  "id": "ashby:hinge-health:e7852ace-0947-4708-b7c5-b5623a988a76",
+  "company": "Hinge Health",
+  "title": "Senior Client Success Manager",
+  "location": "Remote US | United States",
+  "url": "https://jobs.ashbyhq.com/hinge-health/e7852ace-0947-4708-b7c5-b5623a988a76",
+  "posted": "2026-11-18T16:22:22.086000+00:00",
+  "comp": "$94,848 – $172,224 • Offers Equity • Multiple Ranges",
+  "location_tag": "remote-US",
+  "company_tags": [
+   "healthtech",
+   "linkedin-follow"
+  ],
+  "connections": 0,
+  "first_seen": "2026-11-18T19:25:15.990736+00:00",
+  "years": 5,
+  "excerpt": "About the Role\nIn this fast paced client-facing role, you will own day-to-day relationships with our employer clients and ensure they are maximizing the benefits from the Hinge Health programs. You will also have the opportunity to train, coach, and develop our CS Associates and Managers. This role demands a little bit of everything, from being a trusted adviser, project manager, product expert, c\n...\nQualifications\n - Relationship-building: Able to build relationships at all levels as a trusted & respected thought-partner\n - Data storytelling: Able to craft a compelling story using data-driven insights to make recommendations to influence customer decisions.\n - Product Knowledge: Subject matter expert on our product, knowing the specifics and functionalities, and understanding common use cases and best practices. Able to confidently answer questions and present solutions to clients.\n - Strategic influence: Able to effectively navigate the complexities of a book of business with clients in multiple stages of their lifecycle. Gain insight into client culture, priorities, and goals. Effectively convey client needs internally, driving the resources needed for successful client relationships.\n - Manages Complexity: Able to make sense of complex, high quantity, and sometimes contradictory information to effectively solve problems. Able to ask the right questions to accurately analyze situations, acquire data and uncover root causes to difficult problems.\n - Communicate effectively"
+ },
+ {
+  "id": "ashby:elevenlabs:09936411-899b-466d-aae7-54f6873caea0",
+  "company": "ElevenLabs",
+  "title": "Partner Manager - Public Sector Partnerships",
+  "location": "Remote",
+  "url": "https://jobs.ashbyhq.com/ElevenLabs/09936411-899b-466d-aae7-54f6873caea0",
+  "posted": "2026-11-18T16:01:33.483000+00:00",
+  "comp": "",
+  "location_tag": "remote-unclear",
   "company_tags": [
    "saas"
+  ],
+  "connections": 0,
+  "first_seen": "2026-11-18T19:25:15.990736+00:00",
+  "years": null,
+  "excerpt": "ABOUT ELEVENLABS\nElevenLabs is an AI research and product company transforming how we interact with technology.\nWe launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always.\nWe have expanded from voice into three main platforms:\n - ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale.\n - ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages.\n - ElevenAPI gives developers access to our leading AI audio foundational models.\nEverything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you.\nHOW WE WORK\n - High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy.\n - Impact not job titles: We don’t have job titles. Instead, it’s about the impact you have. No task is above or benea"
+ },
+ {
+  "id": "greenhouse:toast:8381022",
+  "company": "Toast",
+  "title": "Onboarding Consultant I, Retail",
+  "location": "Remote, US | Field Position - USA",
+  "url": "https://careers.toasttab.com/jobs?gh_jid=8381022",
+  "posted": "2026-11-18T15:28:16+00:00",
+  "comp": "$70,000 — $80,000",
+  "location_tag": "remote-US",
+  "company_tags": [
+   "saas",
+   "linkedin-follow"
   ],
   "connections": 2,
-  "first_seen": "2026-11-17T19:52:47.659938+00:00",
-  "years": 8,
-  "excerpt": "Datadog's Implementation Services team leads end-to-end deployment and optimization projects. Our FDEs own the discovery, design, and build of the Datadog platform to help customers accelerate time to value.\n As a Forward Deployed Engineer, you'll be the hands-on technical engine behind our most complex engagements. You'll work directly in customer environments to deploy Datadog, migrate customers\n...\nWho You Are: \n You have 8+ years in software engineering, SRE, DevOps, platform engineering, or customer-facing technical roles such as professional services or solutions engineering with a strong foundational understanding of best practices.\n Demonstrated ability to architect solutions, get buy in on design, and drive build work to completion\n You write and operate production-quality code or automation in Python, Go, TypeScript, or similar, and you default to scripting repetitive work.\n Experience with React\n You know at least one major cloud well (AWS, GCP or Azure), along with strong fundamentals in Kubernetes, Terraform or Ansible, and CI/CD\n You have hands-on observability experience with Datadog or a comparable platform, and understand how monitoring, logging, and tracing work in production\n You use AI coding tools daily and switch between customer delivery and heads-down building without needing the day structured for you\n Able to sit up to 4 hours, traveling to and from client sites \n Able to travel via auto, train or air up to 30% of the time\n Datadog values people from"
- },
- {
-  "id": "greenhouse:contentful:8393388",
-  "company": "Contentful",
-  "title": "Customer Success Manager",
-  "location": "Denver, Colorado, United States | Denver, CO | New York, NY | New York, New York, United States | Denver, CO | New York, NY",
-  "url": "https://job-boards.greenhouse.io/contentful/jobs/8393388",
-  "posted": "2026-11-16T17:05:22+00:00",
-  "comp": "$99,400 - $136,600",
-  "location_tag": "CO",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-17T19:52:47.659938+00:00",
-  "years": 5,
-  "excerpt": "Applications for this position will be accepted on an ongoing basis. \n About the opportunity\n As a Customer Success Manager at Contentful, you will serve as a strategic partner to some of our most important customers, helping them unlock the full value of our platform and accelerate their digital experience initiatives. Acting as a trusted advisor, you will guide customers in achieving both their technical and business objectives while ensuring they realize measurable impact from their investment in Contentful.\n You will own the end-to-end customer lifecycle, including renewals and identifying expansion opportunities, while working cross-functionally with Sales, our Partner ecosystem, and Professional Services to drive customer outcomes and strengthen long-term relationships. At the same time, you will champion the voice of the customer internally by translating insights and feedback into actionable input for our Product and Customer teams.\n Your success will be measured by the value your customers achieve, the strength of the relationships you build, and your ability to retain and grow some of Contentful’s most strategic accounts.\n Why This Role Is Exciting\n Drive Real Impact: Shape the success of leading enterprises by helping them deliver faster, more personalized, and operationally efficient digital experiences. Your work will directly influence their business outcomes.\n Be a Strategic Advisor: Partner with executives and cross-functional teams to define long-term digital"
- },
- {
-  "id": "greenhouse:contentful:8385607",
-  "company": "Contentful",
-  "title": "Customer Success Manager, LATAM",
-  "location": "New York, New York, United States | Denver, CO | New York, NY | Mexico City, Cuidad de México, Mexico | Denver, CO | New York, NY | Austin, Texas, United States | Denver, CO | New York, NY | Denver, C",
-  "url": "https://job-boards.greenhouse.io/contentful/jobs/8385607",
-  "posted": "2026-11-13T23:35:58+00:00",
-  "comp": "$118,190 - $163,500",
-  "location_tag": "CO",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-17T19:52:47.659938+00:00",
-  "years": 5,
-  "excerpt": "Applications for this position will be accepted on an ongoing basis. \n About the opportunity\n As a Customer Success Manager at Contentful, you will serve as a strategic partner to some of our most important customers, helping them unlock the full value of our platform and accelerate their digital experience initiatives. Acting as a trusted advisor, you will guide customers in achieving both their technical and business objectives while ensuring they realize measurable impact from their investment in Contentful.\n You will own the end-to-end customer lifecycle, including renewals and identifying expansion opportunities, while working cross-functionally with Sales, our Partner ecosystem, and Professional Services to drive customer outcomes and strengthen long-term relationships. At the same time, you will champion the voice of the customer internally by translating insights and feedback into actionable input for our Product and Customer teams.\n Your success will be measured by the value your customers achieve, the strength of the relationships you build, and your ability to retain and grow some of Contentful’s most strategic accounts.\n Why This Role Is Exciting\n Drive Real Impact: Shape the success of leading enterprises by helping them deliver faster, more personalized, and operationally efficient digital experiences. Your work will directly influence their business outcomes.\n Be a Strategic Advisor: Partner with executives and cross-functional teams to define long-term digital"
- },
- {
-  "id": "greenhouse:contentful:8383636",
-  "company": "Contentful",
-  "title": "Solution Engineer",
-  "location": "Austin, Texas, United States | Denver, CO | New York, New York, United States | Denver, CO | Atlanta, Georgia, United States | Denver, CO | Denver, Colorado, United States | Denver, CO | Dallas, Texas",
-  "url": "https://job-boards.greenhouse.io/contentful/jobs/8383636",
-  "posted": "2026-11-12T18:13:34+00:00",
-  "comp": "$113,300 - $151,550",
-  "location_tag": "CO",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-17T19:52:47.659938+00:00",
+  "first_seen": "2026-11-18T19:25:15.990736+00:00",
   "years": 3,
-  "excerpt": "Applications for this position will be accepted on an ongoing basis. \n About The Opportunity \n Contentful is on a mission to help our customers be successful in the digital-first era. As a Solution Engineer, you would get to play a critical role in helping our customers realize how Contentful can help them with their digital transformation efforts, no matter their existing digital maturity. \n Just as our customers have varying levels of digital maturity, our Solution Engineers come from a wide range of backgrounds. While we value Solution Engineering experience, we also consider candidates who have front-end and back-end development experience or who have professional services, sales or marketing backgrounds. We lean heavily on our core values to identify the right talent at Contentful, as the role of a Solution Engineer is dynamic and multidimensional. \n Imagine yourself as a co-pilot on sales opportunities. You would work with your Account Executives in lockstep through key phases of the sales cycle, including technical discovery, product presentations, collaborative solution design sessions, proofs of concept, and more.\n This is a dynamic role that lets you join a high-growth company, drive sales results, help shape the direction of the Solution Engineering function, work in a truly positive culture, and continue growing your career. \n What To Expect?\n Dive into an immersive onboarding experience that will help you learn the Contentful product, APIs, SDKs, CLI, our partner"
+  "excerpt": "Toast creates technology to help restaurants and local businesses succeed in a digital world, helping business owners operate, increase sales, engage customers, and keep employees happy.\n A day in the life \n As an Onboarding Consultant, Toast’s way of saying an “Implementation Specialist”, you serve as the customer’s relationship manager & point of contact from the time that the account purchases \n...\nskills \n What will help you stand out (Nonessential Skills/Nice to Haves) \n Understanding of POS systems, integrations, and retail operation workflows (a plus for candidates from hospitality or retail SaaS).\n Experience in a project management or implementation role working with cross-functional teams and managing multiple priorities\n Skilled in project management tools such as Salesforce, Asana, and Google Workspace, with strong organizational discipline\n Experience working in the tech industry or for a SAAS company \n Training, teaching, or development experience\n Sales and objection handling experience\n AI at Toast \n At Toast, one of our company values is that we're hungry to build and learn. We believe learning new AI tools empowers u"
+ },
+ {
+  "id": "ashby:secureframe:e9a31be3-be71-4490-b77e-bdecafe9ca49",
+  "company": "Secureframe",
+  "title": "Presales Solutions Engineer, GRC",
+  "location": "New York, NY | New York, New York, United States",
+  "url": "https://jobs.ashbyhq.com/secureframe/e9a31be3-be71-4490-b77e-bdecafe9ca49",
+  "posted": "2026-11-18T14:55:06.875000+00:00",
+  "comp": "$150K – $175K",
+  "location_tag": "remote-US",
+  "company_tags": [
+   "saas"
+  ],
+  "connections": 0,
+  "first_seen": "2026-11-18T19:25:15.990736+00:00",
+  "years": null,
+  "excerpt": "At Secureframe https://secureframe.com/, we help thousands of businesses achieve and maintain compliance through automation and AI. We have been featured in Forbes’ Next Billion Dollar Startups https://www.forbes.com/sites/amyfeldman/2022/08/16/next-billion-dollar-startups-2022/, TechCrunch, and The Wall Street Journal.\nWe are backed by Kleiner Perkins, Accomplice, Gradient Ventures (Google’s AI f\n...\nWHAT YOU’LL BRING\n - Pre-sales experience as a Solutions Engineer, Sales Engineer, or similar role at a B2B SaaS company.\n - Experience supporting sales of GRC or compliance automation software.\n - Deep knowledge of SOC 2 and ISO 27001 audits, including SOC 2 Type 1 and Type 2 reports, observation periods and Trust Services Criteria, and ISO 27001 certification and internal audits; familiarity with HIPAA, PCI DSS, and GDPR.\n - Experience with APIs, webhooks, integrations, and cloud platforms (AWS, Azure, or Google Cloud), with the ability to understand customer requirements, assess integration feasibility, and design an integration approach.\n - Experie"
+ },
+ {
+  "id": "greenhouse:stripe:7917880",
+  "company": "Stripe",
+  "title": "Technical Solutions Engineer",
+  "location": "Remote - US | US",
+  "url": "https://stripe.com/jobs/search?gh_jid=7917880",
+  "posted": "2026-11-18T14:31:48+00:00",
+  "comp": "",
+  "location_tag": "remote-US",
+  "company_tags": [
+   "fintech",
+   "linkedin-follow"
+  ],
+  "connections": 2,
+  "first_seen": "2026-11-18T19:25:15.990736+00:00",
+  "years": null,
+  "excerpt": "Technical Solutions Engineer \n Who we are \n About Stripe \n Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahe\n...\nWho you are \n We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are "
+ },
+ {
+  "id": "greenhouse:samsara:8386368",
+  "company": "Samsara",
+  "title": "Customer Success Adoption Specialist",
+  "location": "Remote - CA; Remote - Chicago; Remote - Seattle; Remote - TX | Remote - CA",
+  "url": "https://www.samsara.com/company/careers/roles/8386368?gh_jid=8386368",
+  "posted": "2026-11-18T08:54:25+00:00",
+  "comp": "$97,877",
+  "location_tag": "remote-unclear",
+  "company_tags": [
+   "saas",
+   "linkedin-follow"
+  ],
+  "connections": 1,
+  "first_seen": "2026-11-18T19:25:15.990736+00:00",
+  "years": null,
+  "excerpt": "Who we are \n Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40% of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing — and we are excited to help digitally transform their operations at scale. \n Working at Samsara means you’ll help define the future of physical operations and be on a team that’s shaping an exciting array of product solutions, including Video-Based Safety, Vehicle Telematics, Apps and Driver Workflows, and Equipment Monitoring. As part of a recently public company, you’ll have the autonomy and support to make an impact as we build for the long term. \n About the role:\n As an Adoption Specialist on our Mid-Market team, you are the technical expert our customers and our Account Managers call when a high-value feature needs to go from \"purchased\" to \"running in the operation.\" You work on a project-scoped basis: each engagement has a defined goal, a timeline, and clear commitments from both Samsara and the customer. Think of the structure of a solutions architect team, delivered as part of the Samsara r"
+ },
+ {
+  "id": "ashby:cursor:62dbe8b8-74d9-464e-b6f0-5370d79332bd",
+  "company": "Cursor",
+  "title": "Forward Deployed Engineering Partner Program Lead",
+  "location": "San Francisco, CA | New York, NY | San Francisco, CA, United States",
+  "url": "https://jobs.ashbyhq.com/cursor/62dbe8b8-74d9-464e-b6f0-5370d79332bd",
+  "posted": "2026-11-18T00:20:46.940000+00:00",
+  "comp": "$224,000 - $336,000",
+  "location_tag": "relocation-NYC/SF",
+  "company_tags": [
+   "saas"
+  ],
+  "connections": 0,
+  "first_seen": "2026-11-18T19:25:15.990736+00:00",
+  "years": null,
+  "excerpt": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life multiplanetary and expanding consciousness to the stars.\nSpaceXSI is building Super Intelligence to help humanity understand the univer\n...\nQUALIFICATIONS:\n - Hands-on technical background as a software engineer, solutions engineer, architect, or forward deployed engineer.\n - Experience personally leading complex technical engagements at enterprise customers, from discovery and scoping through production adoption, across complex stakeholder environments.\nPREFERRED SKILLS AND EXPERIENCE:\n - Experience deploying LLM-based applications, evals, or agentic systems for enterprise customers.\n - Experience building delivery capability through engineers who did not report to you, such as a partner practice, an outsourced delivery org, or an enablement function, while holding the quality bar even when commercial pressure pushed the other way.\nADDITIONAL REQUIREMENTS:\n - Must be willing to travel to meet customers.\nCOMPENSATION AND BENEFITS:\nThe annual compensation range for this role is listed below.\nAnnual Salary:\n$224,000 - $336,000 USD\nYour actual level and base salary will be determined on a case-by-case basis and may vary based on the following considerations: job-related knowledge and skills, education, and experience.\n"
+ },
+ {
+  "id": "ashby:plaid:5ce95dc1-c7a4-47ed-8f33-5b3ad50bbc90",
+  "company": "Plaid",
+  "title": "Strategic Partner Manager, Banking and Wealth",
+  "location": "San Francisco HQ | New York City Office | San Francisco, California, United States",
+  "url": "https://jobs.ashbyhq.com/plaid/5ce95dc1-c7a4-47ed-8f33-5b3ad50bbc90",
+  "posted": "2026-11-18T00:16:11.873000+00:00",
+  "comp": "$176.4K – $220.8K",
+  "location_tag": "remote-US",
+  "company_tags": [
+   "fintech",
+   "linkedin-follow"
+  ],
+  "connections": 0,
+  "first_seen": "2026-11-18T19:25:15.990736+00:00",
+  "years": 5,
+  "excerpt": "We believe that the way people interact with their finances will drastically improve in the next few years. We’re dedicated to empowering this transformation by building the tools and experiences that thousands of developers use to create their own products. Plaid powers the tools millions of people rely on to live a healthier financial life. We work with thousands of companies like Venmo, SoFi, s\n...\nQUALIFICATIONS\n - 5–11 years of experience in business development, partnerships, or a related GTM role\n - Demonstrated ability to manage and grow strategic accounts in an external-facing role.\n - Ability to prioritize multiple complex work streams across technical, product and go-to-market functions.\n - Strong verbal and written communication skills including the ability to develop highly contextualized, value-oriented sales narratives.\nOur mission at Plaid is to unlock financial freedom for everyone. To support that mission, we seek to build a diverse team of driven individuals who care deeply about making the financial ecosystem more equitable. We recognize that strong qualifications can come from both prior work experiences and lived experiences. We encourage you to apply to a role even if your experience doesn't fully match the job description. We are always looking for team members that will bring something unique to Plaid!\nPlaid is proud to be an equal opportunity employer and values diversity at our company. We do not discriminate based on race, color, national origin, e"
+ },
+ {
+  "id": "greenhouse:chainguard:4726738006",
+  "company": "Chainguard",
+  "title": "Federal Business Development Representative",
+  "location": "Washington DC - Remote | Remote - US",
+  "url": "https://job-boards.greenhouse.io/chainguard/jobs/4726738006",
+  "posted": "2026-11-17T23:58:44+00:00",
+  "comp": "$100,000",
+  "location_tag": "remote-US",
+  "company_tags": [
+   "connection"
+  ],
+  "connections": 1,
+  "first_seen": "2026-11-18T19:25:15.990736+00:00",
+  "years": null,
+  "excerpt": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. \nOur customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, Open\n...\nWhat we're looking for: \n At least 6 months of BDR/SDR experience (or equivalent transferrable experience)\n Proven ability to generate pipeline through outbound (not just inbound qualification)\n Experience engaging multiple stakeholders within technical or complex organizations\n Strong writing skills — especially in crafting personalized, relevant outreach\n Curious and motivated to learn how modern software and security actually work\n Comfortable navigating ambiguity and building your own approach\n Experience with Salesforce, Outreach/Salesloft, or similar tools\n Track record of hitting or exceeding pipeline targets\n Federal market fluency - Must Have \n Familiarity with federal buying processes and procurement vehicles, how agencies procure softaware\n Understanding of the channel/partner layer common in public sector deals (resellers and integrators like Carahsoft, immixGroup, DLT) and how prime/sub relationships shape account strategy\n Working knowledge of the compliance frameworks federal buyers care about — FedRAMP, NIST 800-53, RMF, CMMC, FISMA, ATO process — enough to speak"
+ },
+ {
+  "id": "greenhouse:chainguard:4726720006",
+  "company": "Chainguard",
+  "title": "Enterprise Business Development Representative - Canada",
+  "location": "Canada - Remote | Remote - US",
+  "url": "https://job-boards.greenhouse.io/chainguard/jobs/4726720006",
+  "posted": "2026-11-17T23:53:53+00:00",
+  "comp": "",
+  "location_tag": "remote-US",
+  "company_tags": [
+   "connection"
+  ],
+  "connections": 1,
+  "first_seen": "2026-11-18T19:25:15.990736+00:00",
+  "years": null,
+  "excerpt": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. \nOur customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, Open\n...\nWhat we're looking for: \n At least 6 months of BDR/SDR experience (or equivalent transferrable experience)\n Proven ability to generate pipeline through outbound (not just inbound qualification)\n Experience engaging multiple stakeholders within technical or complex organizations\n Strong writing skills — especially in crafting personalized, relevant outreach\n Curious and motivated to learn how modern software and security actually work\n Comfortable navigating ambiguity and building your own approach\n Experience with Salesforce, Outreach/Salesloft, or similar tools\n Track record of hitting or exceeding pipeline targets\n Required to be a fluent French speaker \n What makes this role compelling: \n Sell something technical buyers respect — security + open source + developer-first\n Go deeper technically — engage with real infrastructure and security problems\n Operate as part of the deal team — not just top-of-funnel support\n Have real impact on revenue — not just activity metrics\n About Us\n We live and breathe our company values:\n We are customer obsessed — We focus on delivering soluti"
+ },
+ {
+  "id": "greenhouse:chainguard:4727004006",
+  "company": "Chainguard",
+  "title": "Enterprise Business Development Representative - South Central",
+  "location": "Florida - Remote; Georgia - Remote; Texas - Remote | Remote - US",
+  "url": "https://job-boards.greenhouse.io/chainguard/jobs/4727004006",
+  "posted": "2026-11-17T23:32:23+00:00",
+  "comp": "$100,000",
+  "location_tag": "remote-US",
+  "company_tags": [
+   "connection"
+  ],
+  "connections": 1,
+  "first_seen": "2026-11-18T19:25:15.990736+00:00",
+  "years": null,
+  "excerpt": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. \nOur customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, Open\n...\nWhat we're looking for: \n At least 6 months of BDR/SDR experience (or equivalent transferrable experience)\n Proven ability to generate pipeline through outbound (not just inbound qualification)\n Experience engaging multiple stakeholders within technical or complex organizations\n Strong writing skills — especially in crafting personalized, relevant outreach\n Curious and motivated to learn how modern software and security actually work\n Comfortable navigating ambiguity and building your own approach\n Experience with Salesforce, Outreach/Salesloft, or similar tools\n Track record of hitting or exceeding pipeline targets\n What makes this role compelling: \n Sell something technical buyers respect — security + open source + developer-first\n Go deeper technically — engage with real infrastructure and security problems\n Operate as part of the deal team — not just top-of-funnel support\n Have real impact on revenue — not just activity metrics\n Compensation: $100,000 OTE\n About Us\n We live and breathe our company values:\n We are customer obsessed — We focus on delivering solutions to our cu"
+ },
+ {
+  "id": "ashby:elevenlabs:27e92957-374f-409a-b787-166b10e0f042",
+  "company": "ElevenLabs",
+  "title": "Hyperscaler & Systems Integrator Partner Manager (North America)",
+  "location": "Remote | New York | Washington, D.C.",
+  "url": "https://jobs.ashbyhq.com/ElevenLabs/27e92957-374f-409a-b787-166b10e0f042",
+  "posted": "2026-11-17T23:03:35.976000+00:00",
+  "comp": "",
+  "location_tag": "remote-unclear",
+  "company_tags": [
+   "saas"
+  ],
+  "connections": 0,
+  "first_seen": "2026-11-18T19:25:15.990736+00:00",
+  "years": null,
+  "excerpt": "ABOUT ELEVENLABS\nElevenLabs is an AI research and product company transforming how we interact with technology.\nWe launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always.\nWe have expanded from voice into three main platforms:\n - ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale.\n - ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages.\n - ElevenAPI gives developers access to our leading AI audio foundational models.\nEverything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you.\nHOW WE WORK\n - High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy.\n - Impact not job titles: We don’t have job titles. Instead, it’s about the impact you have. No task is above or benea"
+ },
+ {
+  "id": "greenhouse:anthropic:5483359008",
+  "company": "Anthropic",
+  "title": "GTM Activations Strategy Lead",
+  "location": "San Francisco, CA | New York City, NY | San Francisco, CA",
+  "url": "https://job-boards.greenhouse.io/anthropic/jobs/5483359008",
+  "posted": "2026-11-17T20:20:48+00:00",
+  "comp": "$190,000 — $270,000",
+  "location_tag": "relocation-NYC/SF",
+  "company_tags": [
+   "saas"
+  ],
+  "connections": 0,
+  "first_seen": "2026-11-18T19:25:15.990736+00:00",
+  "years": null,
+  "excerpt": "About Anthropic \n Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.\n About the role\n As the GTM Strategy and Operations Lead for\n...\nqualifications \n Experience in GTM strategy, revenue operations, customer success operations, or management consulting with a B2B SaaS or enterprise technology focus\n Demonstrated experience with consumption-based or usage-based business models, such as API, cloud infrastructure, or platform businesses\n Track record designing and implementing activations operating models that scale\n Strong analytical capabilities with demonstrated ability to build metrics frameworks and translate data into strategic insights\n Experience with customer segmentation, engagement t"
  }
 ]
