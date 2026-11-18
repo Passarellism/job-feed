@@ -17,14 +17,14 @@
  "ashby:airwallex:4acbd6ee-d26e-4810-b2e2-851e7e1d87fe": {
   "company": "Airwallex",
   "first_seen": "2026-11-18T12:44:59.265722+00:00",
-  "outcome": "Shown (fit 8, size exception)",
+  "outcome": "Applied (2026-11-18)",
   "role": "Sales Development Representative, Mid Market",
   "source": "Feed"
  },
  "ashby:ampersand:67564afc-ceb2-4b35-bef6-f103fb4f047d": {
   "company": "Ampersand",
   "first_seen": "2026-11-17T12:44:33.489357+00:00",
-  "outcome": "Shown (fit 9, <24h)",
+  "outcome": "Passed (pay too low to relocate to SF)",
   "role": "Sales Development Representative",
   "source": "Feed",
   "url": "https://jobs.ashbyhq.com/Ampersand/67564afc-ceb2-4b35-bef6-f103fb4f047d"
@@ -40,7 +40,7 @@
   "alias": "ab:baseten:fdbbf773-0857-4771-8b90-f3dfa1d8683f",
   "company": "Baseten",
   "first_seen": "2026-11-15T12:00:00+00:00",
-  "outcome": "Drafted (fit 7)",
+  "outcome": "Applied (2026-11-18)",
   "role": "Sales Development Representative - Outbound",
   "source": "Company board",
   "url": "https://jobs.ashbyhq.com/baseten/fdbbf773-0857-4771-8b90-f3dfa1d8683f"
@@ -56,7 +56,7 @@
  "ashby:claylabs:232ab8c1-36d7-4114-91c1-0f9c9e4064bc": {
   "company": "Clay",
   "first_seen": "2026-11-17T12:44:33.489357+00:00",
-  "outcome": "Shown (fit 7, <24h)",
+  "outcome": "Applied (2026-11-18)",
   "role": "Solutions Engineer",
   "source": "Feed",
   "url": "https://jobs.ashbyhq.com/claylabs/232ab8c1-36d7-4114-91c1-0f9c9e4064bc"
@@ -118,7 +118,7 @@
  "ashby:decagon:5bf50bc3-f676-4edc-90d2-bc8154d7ee84": {
   "company": "Decagon",
   "first_seen": "2026-11-15T12:00:00+00:00",
-  "outcome": "Shown (fit 8)",
+  "outcome": "Applied (2026-11-18)",
   "role": "Sales Development Representative (SDR)",
   "source": "Company board",
   "url": "https://jobs.ashbyhq.com/decagon/5bf50bc3-f676-4edc-90d2-bc8154d7ee84"
@@ -182,7 +182,7 @@
  "ashby:merge:fe48ba75-e5aa-43e4-91fe-560733d89c89": {
   "company": "Merge",
   "first_seen": "2026-11-18T12:44:59.265722+00:00",
-  "outcome": "Shown (fit 7, relocation NYC/SF)",
+  "outcome": "Applied (2026-11-18)",
   "role": "Solutions Engineer",
   "source": "Feed"
  },
@@ -211,7 +211,7 @@
  "ashby:oyster:69966551-1bb6-4675-869e-ba85f13178a6": {
   "company": "Oyster",
   "first_seen": "2026-11-15T12:00:00+00:00",
-  "outcome": "Shown (fit 7, no range)",
+  "outcome": "Applied (2026-11-18)",
   "role": "Business Development Representative (Americas)",
   "source": "Company board",
   "url": "https://jobs.ashbyhq.com/oyster/69966551-1bb6-4675-869e-ba85f13178a6"
@@ -742,7 +742,7 @@
  "builtin:12206501": {
   "company": "Fleetio",
   "first_seen": "2026-11-17T16:33:04.456406+00:00",
-  "outcome": "Shown (fit 8, 5d, employer link: fleetio.com/careers)",
+  "outcome": "Passed (comp too low ($54K base, $36K variable))",
   "role": "Outbound Sales Development Representative",
   "source": "Built In",
   "url": "https://www.builtincolorado.com/job/outbound-sales-development-representative/12206501"
@@ -825,7 +825,7 @@
  "builtin:12250821": {
   "company": "Legion Technologies",
   "first_seen": "2026-11-16T12:00:00+00:00",
-  "outcome": "Shown (fit 8)",
+  "outcome": "Applied (2026-11-18)",
   "role": "Sales Development Representative - Strategics",
   "source": "Built In"
  },
@@ -922,7 +922,7 @@
  "builtin:12270292": {
   "company": "SOVRA",
   "first_seen": "2026-11-17T16:33:04.456406+00:00",
-  "outcome": "Shown (fit 7, <24h, no range)",
+  "outcome": "Closed",
   "role": "Sales Development Representative, Enterprise",
   "source": "Built In",
   "url": "https://www.builtincolorado.com/job/sales-development-representative-enterprise/12270292"
@@ -954,7 +954,7 @@
  "builtin:12281305": {
   "company": "Nsight Health",
   "first_seen": "2026-11-17T16:33:04.456406+00:00",
-  "outcome": "Shown (fit 8, <24h, Built In apply, 2+ yrs)",
+  "outcome": "Applied (2026-11-18)",
   "role": "Sales Development Representative",
   "source": "Built In",
   "url": "https://www.builtincolorado.com/job/sales-development-representative/12281305"
@@ -1028,7 +1028,7 @@
  "builtin:12308369": {
   "company": "Wisetack",
   "first_seen": "2026-11-18T12:44:59.265722+00:00",
-  "outcome": "Shown (fit 8, <24h, fintech, Built In apply)",
+  "outcome": "Passed (no HVAC experience)",
   "role": "Sales Development Representative",
   "source": "Built In"
  },
@@ -1090,7 +1090,7 @@
  "greenhouse:billcom:6255594004": {
   "company": "Bill.com",
   "first_seen": "2026-11-18T12:44:59.265722+00:00",
-  "outcome": "Shown (fit 7, size exception)",
+  "outcome": "Applied (2026-11-18)",
   "role": "Onboarding Account Manager",
   "source": "Feed"
  },
@@ -1176,14 +1176,14 @@
  "greenhouse:contentful:8383636": {
   "company": "Contentful",
   "first_seen": "2026-11-18T12:44:59.265722+00:00",
-  "outcome": "Shown (fit 7, size exception, CO variant)",
+  "outcome": "Passed (Austin, TX location)",
   "role": "Solution Engineer",
   "source": "Feed"
  },
  "greenhouse:contentful:8383638": {
   "company": "Contentful",
   "first_seen": "2026-11-17T12:44:33.489357+00:00",
-  "outcome": "Shown (fit 7, size exception)",
+  "outcome": "Passed (Austin, TX location)",
   "role": "Solution Engineer",
   "source": "Feed",
   "url": "https://job-boards.greenhouse.io/contentful/jobs/8383638"
@@ -1313,7 +1313,7 @@
  "greenhouse:gitlab:8932248002": {
   "company": "GitLab",
   "first_seen": "2026-11-16T12:00:00+00:00",
-  "outcome": "Shown (fit 7, size exception)",
+  "outcome": "Applied (2026-11-18)",
   "role": "Business Development Representative - West",
   "source": "Company board",
   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8932248002"
@@ -1607,7 +1607,7 @@
   "alias": "lv:outreach:752b3b1a-dcee-4c74-844d-c17705f46f37",
   "company": "Outreach",
   "first_seen": "2026-11-15T12:00:00+00:00",
-  "outcome": "Drafted (fit 7) - earlier run; record sub-tab exists",
+  "outcome": "Passed (Forward Deployed Engineer is not a target title)",
   "role": "Forward Deployed Engineer, Onboarding Services",
   "source": "LinkedIn",
   "url": "https://jobs.lever.co/outreach/752b3b1a-dcee-4c74-844d-c17705f46f37"
