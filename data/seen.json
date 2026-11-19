@@ -87,7 +87,7 @@
  "ashby:commure:f4ab2a70-ab0a-4163-84b8-62efbaea942b": {
   "company": "Commure",
   "first_seen": "2026-11-19T12:45:31.934596+00:00",
-  "outcome": "Shown (fit 7, <24h)",
+  "outcome": "Applied (2026-11-19)",
   "role": "Sales Engineer",
   "source": "Feed",
   "url": "https://jobs.ashbyhq.com/Commure/f4ab2a70-ab0a-4163-84b8-62efbaea942b"
@@ -210,7 +210,7 @@
  "ashby:ironcladhq:11a49de7-4a92-482e-8788-bd1dfd72aace": {
   "company": "Ironclad",
   "first_seen": "2026-11-15T12:00:00+00:00",
-  "outcome": "Shown (fit 8)",
+  "outcome": "Passed (removed by user)",
   "role": "Business Development Representative",
   "source": "Company board",
   "url": "https://jobs.ashbyhq.com/ironcladhq/11a49de7-4a92-482e-8788-bd1dfd72aace"
@@ -280,7 +280,7 @@
  "ashby:plaid:265a7e77-e6c0-4d04-ac35-23b86d21f810": {
   "company": "Plaid",
   "first_seen": "2026-11-19T12:45:31.934596+00:00",
-  "outcome": "Shown (fit 8, <24h, size exception)",
+  "outcome": "Applied (2026-11-19)",
   "role": "Sales Development Representative",
   "source": "Feed",
   "url": "https://jobs.ashbyhq.com/plaid/265a7e77-e6c0-4d04-ac35-23b86d21f810"
@@ -414,7 +414,7 @@
  "ashby:sentry:9b759583-60d2-4673-9da6-026731956300": {
   "company": "Sentry",
   "first_seen": "2026-11-16T17:18:17.617017+00:00",
-  "outcome": "Low fit (3; engineering role, not a target track)",
+  "outcome": "Passed (never target FDE titles)",
   "role": "Forward Deployed Engineer",
   "source": "Company board",
   "url": "https://jobs.ashbyhq.com/sentry/9b759583-60d2-4673-9da6-026731956300"
@@ -899,7 +899,7 @@
  "builtin:12248966": {
   "company": "Mashgin",
   "first_seen": "2026-11-15T12:00:00+00:00",
-  "outcome": "Shown (fit 7)",
+  "outcome": "Applied (2026-11-19)",
   "role": "Sales Engineer",
   "source": "Built In",
   "url": "https://jobs.lever.co/mashgin",
@@ -1173,7 +1173,7 @@
  "builtin:12337401": {
   "company": "Backblaze",
   "first_seen": "2026-11-19T12:45:31.934596+00:00",
-  "outcome": "Shown (fit 7, <24h, entry level, Built In link only)",
+  "outcome": "Applied (2026-11-19)",
   "role": "Solutions Engineer",
   "source": "Built In",
   "url": "https://www.builtincolorado.com/job/solutions-engineer/12337401"
@@ -1291,7 +1291,7 @@
  "greenhouse:chainguard:4727004006": {
   "company": "Chainguard",
   "first_seen": "2026-11-19T12:45:31.934596+00:00",
-  "outcome": "Shown (fit 7, security domain gap)",
+  "outcome": "Passed (removed by user)",
   "role": "Enterprise BDR - South Central",
   "source": "Feed",
   "url": "https://job-boards.greenhouse.io/chainguard/jobs/4727004006"
@@ -1331,7 +1331,7 @@
  "greenhouse:contentful:8383603": {
   "company": "Contentful",
   "first_seen": "2026-11-16T17:48:10.002267+00:00",
-  "outcome": "Shown (fit 7, size exception)",
+  "outcome": "Applied (2026-11-19)",
   "role": "Solution Engineer",
   "source": "Company board",
   "url": "https://job-boards.greenhouse.io/contentful/jobs/8383603"
@@ -1578,7 +1578,7 @@
   "alias": "gh:legion:8016057003",
   "company": "Legion Technologies",
   "first_seen": "2026-11-16T12:00:00+00:00",
-  "outcome": "Shown (fit 8)",
+  "outcome": "Passed (removed by user)",
   "role": "Sales Development Representative - Strategics",
   "source": "Built In",
   "url": "https://job-boards.greenhouse.io/legion/jobs/8016057003"
@@ -1733,7 +1733,7 @@
  "greenhouse:toast:8381022": {
   "company": "Toast",
   "first_seen": "2026-11-19T12:45:31.934596+00:00",
-  "outcome": "Referral - apply via referral (fit 6; 3 yrs, $70-80K, 2 connections)",
+  "outcome": "Applied (2026-11-19)",
   "role": "Onboarding Consultant I, Retail",
   "source": "Feed",
   "url": "https://careers.toasttab.com/jobs?gh_jid=8381022"
@@ -1972,7 +1972,7 @@
  "li:4489502217": {
   "company": "Outreach",
   "first_seen": "2026-11-15T12:00:00+00:00",
-  "outcome": "Drafted (fit 7) - earlier run; record sub-tab exists",
+  "outcome": "Passed (never target FDE titles)",
   "role": "Forward Deployed Engineer, Onboarding Services",
   "source": "LinkedIn",
   "url": "https://www.linkedin.com/jobs/view/4489502217"
