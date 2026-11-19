@@ -1,15 +1,19 @@
 {
  "companies": 422,
- "boards_found": 315,
- "jobs_scanned": 16026,
+ "boards_found": 314,
+ "jobs_scanned": 16035,
  "by_ats": {
   "workable": 55,
   "greenhouse": 112,
-  "ashby": 128,
+  "ashby": 127,
   "lever": 19,
   "smartrecruiters": 1
  },
  "failures": [
+  {
+   "company": "Cedar",
+   "error": "no board found (all 404)"
+  },
   {
    "company": "Paytronix",
    "error": "no board found (all 404)"
@@ -24,12 +28,12 @@
   }
  ],
  "dropped": {
-  "title": 14482,
-  "location": 717,
-  "age": 703,
-  "pay": 5
+  "title": 14488,
+  "location": 723,
+  "age": 687,
+  "pay": 6
  },
- "run_at": "2026-11-18T19:25:15.990736+00:00",
- "matched_open": 102,
- "new": 20
+ "run_at": "2026-11-19T19:30:00.086965+00:00",
+ "matched_open": 110,
+ "new": 15
 }
