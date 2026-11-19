@@ -3,3 +3,5 @@
 - 2026-11-18 - Fleetio Outbound SDR - cut SDR/BDR roles with base+variable well under $75K OTE (e.g. $54K base / $36K variable)
 - 2026-11-18 - Ampersand SDR - SF-relocation roles must pay enough to justify moving
 - 2026-11-18 - Contentful Solution Engineer - cut roles whose location is Austin, TX (not CO/remote/NYC/SF)
+- 2026-11-19 - Ramp Solutions Consultant Enterprise - enterprise-tier roles at Ramp are too hard to get into; cut them
+- 2026-11-19 - Datadog TAM 2/3 - not applying to Technical Account Manager (TAM) roles; cut them
