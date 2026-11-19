@@ -5,3 +5,4 @@
 - 2026-11-18 - Contentful Solution Engineer - cut roles whose location is Austin, TX (not CO/remote/NYC/SF)
 - 2026-11-19 - Ramp Solutions Consultant Enterprise - enterprise-tier roles at Ramp are too hard to get into; cut them
 - 2026-11-19 - Datadog TAM 2/3 - not applying to Technical Account Manager (TAM) roles; cut them
+- 2026-11-19 - Ripple Professional Services Consultant - never show Professional Services Consultant roles
