@@ -92,6 +92,13 @@
   "source": "Feed",
   "url": "https://jobs.ashbyhq.com/Commure/f4ab2a70-ab0a-4163-84b8-62efbaea942b"
  },
+ "ashby:commure:faeeff7f-b1f9-4db2-93ff-99da570f85b0": {
+  "company": "Commure",
+  "first_seen": "2026-11-20T12:45:36.959418+00:00",
+  "outcome": "Excluded (learned: never FDE)",
+  "role": "Forward Deployed Engineer",
+  "source": "Feed"
+ },
  "ashby:cursor:053a8b5a-32bc-4a08-8dad-b4fc20f2883c": {
   "company": "Cursor",
   "first_seen": "2026-11-15T12:00:00+00:00",
@@ -292,6 +299,14 @@
   "role": "Strategic Partner Manager",
   "source": "Feed"
  },
+ "ashby:planhat:378dbb62-3a70-4e05-a6d7-20687b91b1dd": {
+  "company": "Planhat",
+  "first_seen": "2026-11-20T12:45:36.959418+00:00",
+  "outcome": "Shown (fit 6, relocation NYC/SF, 3 yrs)",
+  "role": "Solutions Engineer | Americas",
+  "source": "Feed",
+  "url": "https://jobs.ashbyhq.com/planhat/378dbb62-3a70-4e05-a6d7-20687b91b1dd"
+ },
  "ashby:rain:3f62d2db-7df1-4ced-8899-bfef37fe2720": {
   "alias": "ab:rain:3f62d2db-7df1-4ced-8899-bfef37fe2720",
   "company": "Rain",
@@ -371,6 +386,14 @@
   "source": "Feed",
   "url": "https://jobs.ashbyhq.com/ramp/b599c5a9-9c9d-4826-b67a-ca5e012faaad"
  },
+ "ashby:ramp:be7b0a9e-44b0-4c0f-b947-563c83f5ca10": {
+  "company": "Ramp",
+  "first_seen": "2026-11-20T12:45:36.959418+00:00",
+  "outcome": "Low fit (4, learned: Ramp enterprise-tier cut)",
+  "role": "Solutions Consultant, Post Sales, Strategic",
+  "source": "Feed",
+  "url": "https://jobs.ashbyhq.com/ramp/be7b0a9e-44b0-4c0f-b947-563c83f5ca10"
+ },
  "ashby:ramp:e45a8b6a-5029-4ca5-ac6f-5af940843c72": {
   "company": "Ramp",
   "first_seen": "2026-11-16T12:00:00+00:00",
@@ -402,6 +425,14 @@
   "role": "Implementation Specialist, CMMC",
   "source": "Company board",
   "url": "https://jobs.ashbyhq.com/secureframe/ee36ed6c-60cb-470e-a859-b2d3569924a9"
+ },
+ "ashby:secureframe:f7d8854b-f23b-42a7-9ac1-6d09bd885160": {
+  "company": "Secureframe",
+  "first_seen": "2026-11-20T12:45:36.959418+00:00",
+  "outcome": "Worth a look (5, defense/compliance gap)",
+  "role": "Presales Solutions Engineer, Defense",
+  "source": "Feed",
+  "url": "https://jobs.ashbyhq.com/secureframe/f7d8854b-f23b-42a7-9ac1-6d09bd885160"
  },
  "ashby:sentry:2cdc2ba7-8406-452a-b84f-d94d8e7a09bb": {
   "company": "Sentry",
@@ -451,6 +482,20 @@
   "role": "Partnerships Manager, Strategic Accounts",
   "source": "Web search"
  },
+ "ashby:talkiatry:24e615b5-c781-48f7-ad25-d6a710b47d15": {
+  "company": "Talkiatry",
+  "first_seen": "2026-11-20T12:45:36.959418+00:00",
+  "outcome": "Worth a look (5, territory TX)",
+  "role": "Provider Partnerships Manager - Fort Worth, TX",
+  "source": "Feed"
+ },
+ "ashby:talkiatry:9d2ab9e2-972c-432b-9785-a0d0ce16af05": {
+  "company": "Talkiatry",
+  "first_seen": "2026-11-20T12:45:36.959418+00:00",
+  "outcome": "Worth a look (5, territory WA)",
+  "role": "Provider Partnerships Manager - Seattle, WA",
+  "source": "Feed"
+ },
  "ashby:teleskope:0afb1aa8-27b0-4ed9-820b-046d73fc2e4f": {
   "company": "Teleskope",
   "first_seen": "2026-11-16T17:48:10.002267+00:00",
@@ -483,6 +528,14 @@
   "role": "Solutions Engineer, Mid-Market",
   "source": "Company board",
   "url": "https://jobs.ashbyhq.com/vanta/383e20b0-b2c5-4c4f-9406-46f0a671a7bc"
+ },
+ "ashby:vitally:f74c9f35-4d7a-4082-b0fc-3a679ef5ef2a": {
+  "company": "Vitally",
+  "first_seen": "2026-11-20T12:45:36.959418+00:00",
+  "outcome": "Shown (fit 7, <24h)",
+  "role": "Sales Development Representative",
+  "source": "Feed",
+  "url": "https://jobs.ashbyhq.com/vitally/f74c9f35-4d7a-4082-b0fc-3a679ef5ef2a"
  },
  "ashby:zip:2f9dc460-7f0d-4ecd-b3eb-6bc350be6dd7": {
   "company": "Zip",
@@ -579,6 +632,14 @@
   "outcome": "Excluded (first posted 2026-09-30)",
   "role": "Implementation Manager",
   "source": "Built In"
+ },
+ "builtin:11536612": {
+  "company": "Unite Us",
+  "first_seen": "2026-11-20T12:45:36.959418+00:00",
+  "outcome": "Shown (fit 6, date unclear, 20% travel, $100-125K)",
+  "role": "Enterprise Implementation Manager",
+  "source": "LinkedIn alert",
+  "url": "https://www.builtincolorado.com/job/enterprise-implementation-manager/11536612"
  },
  "builtin:11608487": {
   "company": "Pindrop; SAI360; Fetch Package; Coast",
@@ -1082,6 +1143,14 @@
   "role": "Senior Sales Development Representative",
   "source": "Built In"
  },
+ "builtin:12297882": {
+  "company": "Sumo Logic",
+  "first_seen": "2026-11-20T12:45:36.959418+00:00",
+  "outcome": "Worth a look (5, security domain)",
+  "role": "PreSales Solutions Engineer",
+  "source": "Built In",
+  "url": "https://www.builtincolorado.com/job/presales-solutions-engineer/12297882"
+ },
  "builtin:12299380": {
   "company": "Bask Health",
   "first_seen": "2026-11-18T12:44:59.265722+00:00",
@@ -1170,6 +1239,21 @@
   "source": "Built In",
   "url": "https://www.builtincolorado.com/job/customer-success-manager/12322431"
  },
+ "builtin:12330939": {
+  "company": "Whip Around",
+  "first_seen": "2026-11-20T12:45:36.959418+00:00",
+  "outcome": "Low fit (4, no pay)",
+  "role": "SDR - Enterprise Fleets",
+  "source": "Built In"
+ },
+ "builtin:12337397": {
+  "company": "Backblaze",
+  "first_seen": "2026-11-20T12:45:36.959418+00:00",
+  "outcome": "Shown (fit 6, sibling SE role already applied)",
+  "role": "Solutions Engineer ($128-144K)",
+  "source": "Built In",
+  "url": "https://www.builtincolorado.com/job/solutions-engineer/12337397"
+ },
  "builtin:12337401": {
   "company": "Backblaze",
   "first_seen": "2026-11-19T12:45:31.934596+00:00",
@@ -1177,6 +1261,64 @@
   "role": "Solutions Engineer",
   "source": "Built In",
   "url": "https://www.builtincolorado.com/job/solutions-engineer/12337401"
+ },
+ "builtin:12343489": {
+  "company": "n8n",
+  "first_seen": "2026-11-20T12:45:36.959418+00:00",
+  "outcome": "Low fit (4, range $50-149K)",
+  "role": "Customer Success Manager - Guided - West Coast",
+  "source": "Built In"
+ },
+ "builtin:12351775": {
+  "company": "Zocks",
+  "first_seen": "2026-11-20T12:45:36.959418+00:00",
+  "outcome": "Worth a look (5, 4+ yrs, Built In apply)",
+  "role": "Enterprise Customer Success Manager",
+  "source": "Built In",
+  "url": "https://www.builtincolorado.com/job/enterprise-customer-success-manager/12351775"
+ },
+ "builtin:12352607": {
+  "company": "Machinify",
+  "first_seen": "2026-11-20T12:45:36.959418+00:00",
+  "outcome": "Low fit (4, 5+ yrs payer accounts)",
+  "role": "Client Success Manager",
+  "source": "Built In",
+  "url": "https://www.builtincolorado.com/job/client-success-manager/12352607"
+ },
+ "builtin:12353375": {
+  "company": "Outmarket AI",
+  "first_seen": "2026-11-20T12:45:36.959418+00:00",
+  "outcome": "Low fit (4, no pay)",
+  "role": "Customer Success Manager",
+  "source": "Built In"
+ },
+ "builtin:12359255": {
+  "company": "RateMyAgent",
+  "first_seen": "2026-11-20T12:45:36.959418+00:00",
+  "outcome": "Low fit (4)",
+  "role": "Sales Development Representative",
+  "source": "Built In"
+ },
+ "builtin:12360597": {
+  "company": "Ooma",
+  "first_seen": "2026-11-20T12:45:36.959418+00:00",
+  "outcome": "Low fit (4, tops $77K, size)",
+  "role": "Implementation Specialist",
+  "source": "Built In"
+ },
+ "builtin:12363194": {
+  "company": "JamLoop",
+  "first_seen": "2026-11-20T12:45:36.959418+00:00",
+  "outcome": "Low fit (4, adtech)",
+  "role": "Sales Development Representative",
+  "source": "Built In"
+ },
+ "builtin:12364791": {
+  "company": "Keeper Security",
+  "first_seen": "2026-11-20T12:45:36.959418+00:00",
+  "outcome": "Low fit (4, no pay)",
+  "role": "Implementation Specialist",
+  "source": "Built In"
  },
  "builtin:9739501": {
   "company": "ArboStar",
@@ -1240,6 +1382,13 @@
   "role": "Senior Solutions Engineer",
   "source": "Company board",
   "url": "https://job-boards.greenhouse.io/boulevard/jobs/4726990006"
+ },
+ "greenhouse:brex:8950778002": {
+  "company": "Brex",
+  "first_seen": "2026-11-20T12:45:36.959418+00:00",
+  "outcome": "Low fit (4, accounting domain, relocation)",
+  "role": "Accounting Partnerships Manager",
+  "source": "Feed"
  },
  "greenhouse:chainguard:4723231006": {
   "alias": "gh:chainguard:4723231006",
@@ -1311,6 +1460,13 @@
   "outcome": "Closed (gone from Checkr board 2026-11-16)",
   "role": "Solutions Engineer",
   "source": "Web search"
+ },
+ "greenhouse:checkr:8399435": {
+  "company": "Checkr",
+  "first_seen": "2026-11-20T12:45:36.959418+00:00",
+  "outcome": "Shown (fit 8, CO, 2 yrs, $88-103K)",
+  "role": "Customer Success Implementation Specialist",
+  "source": "Feed"
  },
  "greenhouse:contentful:8209335": {
   "alias": "gh:contentful:8209335",
@@ -1465,6 +1621,13 @@
   "source": "Company board",
   "url": "https://careers.datadoghq.com/detail/8357178/?gh_jid=8357178"
  },
+ "greenhouse:datadog:8402937": {
+  "company": "Datadog",
+  "first_seen": "2026-11-20T12:45:36.959418+00:00",
+  "outcome": "Low fit (4, 7 yrs channel)",
+  "role": "National Partner Manager",
+  "source": "Feed"
+ },
  "greenhouse:garnerhealth:6226746004": {
   "alias": "gh:garnerhealth:6226746004",
   "company": "Garner Health",
@@ -1520,6 +1683,27 @@
   "source": "Feed",
   "url": "https://job-boards.greenhouse.io/givecampus/jobs/4505829009"
  },
+ "greenhouse:gleanwork:4755859005": {
+  "company": "Glean",
+  "first_seen": "2026-11-20T12:45:36.959418+00:00",
+  "outcome": "Low fit (4, 5 yrs)",
+  "role": "Enterprise Solutions Engineer, East",
+  "source": "Feed"
+ },
+ "greenhouse:gleanwork:4755877005": {
+  "company": "Glean",
+  "first_seen": "2026-11-20T12:45:36.959418+00:00",
+  "outcome": "Low fit (4, 5 yrs)",
+  "role": "Enterprise Solutions Engineer, Texas",
+  "source": "Feed"
+ },
+ "greenhouse:gleanwork:4755916005": {
+  "company": "Glean",
+  "first_seen": "2026-11-20T12:45:36.959418+00:00",
+  "outcome": "Low fit (4, 5 yrs)",
+  "role": "Enterprise Solutions Engineer, West",
+  "source": "Feed"
+ },
  "greenhouse:grafanalabs:6239639004": {
   "company": "Grafana Labs",
   "first_seen": "2026-11-16T12:00:00+00:00",
@@ -1533,6 +1717,13 @@
   "first_seen": "2026-11-19T12:45:31.934596+00:00",
   "outcome": "Excluded (senior partnerships, 183K+)",
   "role": "Senior Product Partnership Manager",
+  "source": "Feed"
+ },
+ "greenhouse:guild:8395830": {
+  "company": "Guild",
+  "first_seen": "2026-11-20T12:45:36.959418+00:00",
+  "outcome": "Shown (fit 7, CO, 4 yrs, size exception)",
+  "role": "Implementation Manager, Employer Partners",
   "source": "Feed"
  },
  "greenhouse:gusto:8189814": {
@@ -1812,6 +2003,13 @@
   "role": "Forward Deployed Engineer, Onboarding Services",
   "source": "LinkedIn",
   "url": "https://jobs.lever.co/outreach/752b3b1a-dcee-4c74-844d-c17705f46f37"
+ },
+ "lever:outreach:b7eb292a-f68f-4266-b67a-049c6cafba48": {
+  "company": "Outreach",
+  "first_seen": "2026-11-20T12:45:36.959418+00:00",
+  "outcome": "Excluded (learned: never FDE)",
+  "role": "Senior Forward Deployed Engineer, Managed Services",
+  "source": "Feed"
  },
  "li:4419528877": {
   "company": "Foundation Medicine",
@@ -2115,6 +2313,14 @@
   "role": "Customer Success Manager",
   "source": "Built In"
  },
+ "url:camunda-adr-na": {
+  "company": "Camunda",
+  "first_seen": "2026-11-20T12:45:36.959418+00:00",
+  "outcome": "Shown (fit 6, LinkedIn only - date unclear, $91-181K base)",
+  "role": "Account Development Representative - North America",
+  "source": "LinkedIn alert",
+  "url": "https://www.linkedin.com/jobs/search/?keywords=Camunda%20Account%20Development%20Representative"
+ },
  "url:canopyworks-cim": {
   "company": "Canopy",
   "first_seen": "2026-11-19T12:45:31.934596+00:00",
@@ -2153,6 +2359,27 @@
   "role": "Customer Success Manager",
   "source": "Built In",
   "url": "https://jobs.workable.com/view/1f2ba3a5-8395-414b-8f1d-001a68a3a494"
+ },
+ "url:nextpatient-csm": {
+  "company": "NextPatient",
+  "first_seen": "2026-11-20T12:45:36.959418+00:00",
+  "outcome": "Low fit (4, date unclear/stale)",
+  "role": "Customer Success Manager",
+  "source": "LinkedIn alert"
+ },
+ "url:omada-sr-alliance": {
+  "company": "Omada Health",
+  "first_seen": "2026-11-20T12:45:36.959418+00:00",
+  "outcome": "Excluded (senior partnerships)",
+  "role": "Senior Strategic Alliance Manager",
+  "source": "LinkedIn alert"
+ },
+ "url:quantinuum-sdr-962": {
+  "company": "Quantinuum",
+  "first_seen": "2026-11-20T12:45:36.959418+00:00",
+  "outcome": "Excluded (posted Aug 28, stale)",
+  "role": "Sales Development Representative Quantum Computing",
+  "source": "Indeed"
  },
  "wellfound:4824733": {
   "company": "FlexPoint",
