@@ -1,7 +1,7 @@
 {
  "companies": 422,
  "boards_found": 314,
- "jobs_scanned": 16035,
+ "jobs_scanned": 16008,
  "by_ats": {
   "workable": 55,
   "greenhouse": 112,
@@ -10,10 +10,6 @@
   "smartrecruiters": 1
  },
  "failures": [
-  {
-   "company": "Cedar",
-   "error": "no board found (all 404)"
-  },
   {
    "company": "Paytronix",
    "error": "no board found (all 404)"
@@ -28,12 +24,12 @@
   }
  ],
  "dropped": {
-  "title": 14488,
-  "location": 723,
-  "age": 687,
-  "pay": 6
+  "title": 14474,
+  "location": 730,
+  "age": 681,
+  "pay": 7
  },
- "run_at": "2026-11-19T19:30:00.086965+00:00",
- "matched_open": 110,
- "new": 15
+ "run_at": "2026-11-20T19:07:54.875478+00:00",
+ "matched_open": 97,
+ "new": 10
 }

@@ -1,261 +1,175 @@
 [
  {
-  "id": "ashby:ramp:be7b0a9e-44b0-4c0f-b947-563c83f5ca10",
-  "company": "Ramp",
-  "title": "Solutions Consultant, Post Sales, Strategic",
-  "location": "Remote (US) | Remote (Canada) | San Francisco, CA | New York, NY (HQ) | Toronto, ON | Miami, FL | United States",
-  "url": "https://jobs.ashbyhq.com/ramp/be7b0a9e-44b0-4c0f-b947-563c83f5ca10",
-  "posted": "2026-11-19T19:09:55.904000+00:00",
-  "comp": "$0 – $298K • Offers Equity • Multiple Ranges",
+  "id": "ashby:virtuous:aff75264-7ace-4d3b-b2a3-2500ea945708",
+  "company": "Virtuous",
+  "title": "Sales Development Representative",
+  "location": "Phoenix, AZ | Remote, USA | Phoenix, Arizona, United States",
+  "url": "https://jobs.ashbyhq.com/virtuous/aff75264-7ace-4d3b-b2a3-2500ea945708",
+  "posted": "2026-11-20T18:39:20.215000+00:00",
+  "comp": "",
+  "location_tag": "remote-US",
+  "company_tags": [
+   "linkedin-follow"
+  ],
+  "connections": 0,
+  "first_seen": "2026-11-20T19:07:54.875478+00:00",
+  "years": 3,
+  "excerpt": "POSITION SUMMARY\nYou’ll be responsible for a named account list of nonprofit organizations we seek to partner with. You’ll spend your days engaging with multiple departments within target organizations to generate pipeline, facilitate qualifying calls and conduct ROI evaluations with key decision makers, and execute a seamless handoff of qualified accounts to Account Executives.\nIn addition to dai\n...\nMUST HAVE\n - 3+ years of sales or marketing experience (to or within nonprofit organizations preferred)\n - Positive attitude, extremely flexible, and committed drive to build relationships\n - Familiarity working within HubSpot\n - Excellent communication skills - clear, effective, & persuasive written and verbal skills\n - Experience working within B2B tech industry (preferred)\n - Understanding of CRM functionality and ability to talk technically around customer/donor relationship management\n - Understanding of the nonprofit sector, fundraising, and donor relationship management\n - Interest in a fast-paced environment, focused on account research and outreach through email, video, and phone\n - Outgoing attitude and proven ability to build rapport quickly with new people - in writing, in-person, and by phone\n - Excellent interpersonal skills; a team player in a fast-paced, ever changing, and exciting environment\n - Disciplined and highly organized self-starter who’s coachable and not afraid to ask questions and dive in\n - Results-oriented mindset - experience/consistent performance"
+ },
+ {
+  "id": "greenhouse:stripe:8406140",
+  "company": "Stripe",
+  "title": "Forward Deployed AI Accelerator, Marketing",
+  "location": "Seattle, San Francisco, New York, Chicago, Atlanta, Remote in the US, Canada | US",
+  "url": "https://stripe.com/jobs/search?gh_jid=8406140",
+  "posted": "2026-11-20T15:05:21+00:00",
+  "comp": "",
   "location_tag": "remote-US",
   "company_tags": [
    "fintech",
    "linkedin-follow"
   ],
-  "connections": 6,
-  "first_seen": "2026-11-19T19:30:00.086965+00:00",
-  "years": 4,
-  "excerpt": "ABOUT RAMP\nRamp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $275B in annualized spend flows in and out of 85,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books.\nThe problems are high-stakes, data-dense, and unforgiving.\nWe hire people with high agency and high urgency. We look for slope over intercept. We care less about where you trained and more about what you’ve built. At Ramp, everyone is a builder who owns problems end to end and makes consequential decisions that shape the outcome.\nThe median Ramp customer saves 7.5% and grows revenue 16% in their first year – far in excess of businesses operating without Ramp. We believe every ambitious company deserves the same.\nIf you want to build systems that directly shape how companies move and manage billions, Ramp is the place to do it.\nABOUT THE ROLE \nSolutions Consultant, Post-Sales at Ramp partner with Account Management to deepen and expand relationships with existing Ramp customers. You'll act as the technical and financial subject matter expert across the customer lifecycle — running product demonstrations to expand customers onto new Ramp products, while bringing the depth needed to resolve complex ERP integrations, configuration challenges, and technical blockers.\nYou'll collaborate closely with Account Managers to assess requirements, design scalable solutions, and ensure fast tim"
+  "connections": 2,
+  "first_seen": "2026-11-20T19:07:54.875478+00:00",
+  "years": null,
+  "excerpt": "Who we are\n About Stripe\n Stripe is a financial infrastructure platform for businesses. Millions of companies — from the world's largest enterprises to the most ambitious startups — use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an un\n...\nWho you are\n We're looking for people who have already lived the transformation they'll be driving for others. You've used AI to fundamentally change how work gets done, not as a novelty, but as your default operating mode.\n You are a deep AI practitioner. You build agents, automations, and tools fluently. You don't just know what AI can do in theory. You've built things that changed how real teams operate, and the people you built for actually use what you shipped. You build in real time alongside the people you support.\n You spot transformation opportunities and execute on them. You look at a team's workflows and see where AI changes the economics: where existing work can be done in a fraction of the time, or where entirely new programs become viable that weren't worth doing before. Then you build the thing, not just the slide.\n You understand marketing work. You either have direct experience in marketing or quickly learn the workflows, deliverables, tools, and pressures of your assigned cohort. You know that understanding someone's work is a prerequisite to transforming it.\n "
  },
  {
-  "id": "greenhouse:datadog:8402937",
+  "id": "greenhouse:zscaler:5301401007",
+  "company": "Zscaler",
+  "title": "Senior Sales Engineer, SLED - Texas",
+  "location": "Remote - Texas, USA",
+  "url": "https://job-boards.greenhouse.io/zscaler/jobs/5301401007",
+  "posted": "2026-11-20T12:41:49+00:00",
+  "comp": "$154,875 — $221,250",
+  "location_tag": "remote-US",
+  "company_tags": [
+   "connection"
+  ],
+  "connections": 2,
+  "first_seen": "2026-11-20T19:07:54.875478+00:00",
+  "years": null,
+  "excerpt": "Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 200+ public data centers globally and thousands of private sites at the edge, the SASE-based Zero Trust Exchange is the world’s largest in-line cloud security platform.\n We believe the future of work is Human + AI and are building an AI-native enterprise where human potential is amplified by machine intelligence to solve the world’s hardest security challenges. Driven by deep customer obsession, we are committed to the mission, outcome, and to each other. We bring these commitments to life through three core behaviors: ownership and collaboration, trust through outcomes and impact, and a challenge culture with ongoing feedback. Ready to make an impact at the company pioneering security transformation in the AI era? Join us at Zscaler.\n Role \n We are looking for a Sr. Sales Engineer to join our Public Sector team. This is a Remote (Texas) role, reporting to the Sr. Sales Engineering Manager in the SLED department. As a key technical driver in our SLED organization, you will partner directly with state and local government and educational entities to architect solutions, demonstrate value, and guide their Zero Trust transformation.\n What you’ll do (Role Expectation"
+ },
+ {
+  "id": "ashby:plaid:bedae333-aa7f-4bf8-9d20-59fa3ba699b8",
+  "company": "Plaid",
+  "title": "Implementation Specialist - Enterprise",
+  "location": "San Francisco HQ | San Francisco, California, United States",
+  "url": "https://jobs.ashbyhq.com/plaid/bedae333-aa7f-4bf8-9d20-59fa3ba699b8",
+  "posted": "2026-11-20T01:37:58.943000+00:00",
+  "comp": "$148.8K – $186K",
+  "location_tag": "remote-US",
+  "company_tags": [
+   "fintech",
+   "linkedin-follow"
+  ],
+  "connections": 0,
+  "first_seen": "2026-11-20T19:07:54.875478+00:00",
+  "years": 7,
+  "excerpt": "We believe that the way people interact with their finances will drastically improve in the next few years. We’re dedicated to empowering this transformation by building the tools and experiences that thousands of developers use to create their own products. Plaid powers the tools millions of people rely on to live a healthier financial life. We work with thousands of companies like Venmo, SoFi, s\n...\nRequirements:\n - 7+ years of experience in a client facing and / or technology focused role where business experience and technical acumen was combined\n - Experience working with Enterprise-level customers\n - Experience traveling onsite and leading effective in-person meetings (kickoff, technical integration reviews, pre- and post- launch support)\n - Experience managing and executing complex technical projects with a customer-first attitude and a strong sense of empathy\n - Exceptional project management and communication skills with a strong ability to provide technical details to both technical and non-technical audiences\n - Experience working with APIs, OAuth, webhooks, etc.\n - Proven ability to quickly learn new technologies and understand complex systems (APIs, databases, reporting tools, etc.)\n - Strong troubleshooting and problem solving skills with a continuous desire to improve technical acumen\n - Experience working cross functionally with different teams and ty"
+ },
+ {
+  "id": "ashby:zip:40368ae2-ba55-45dd-ae58-85781a5f4fd8",
+  "company": "Zip",
+  "title": "Senior Solutions Consultant, Procure to Pay",
+  "location": "New York City | San Francisco | New York City, New York, United States",
+  "url": "https://jobs.ashbyhq.com/zip/40368ae2-ba55-45dd-ae58-85781a5f4fd8",
+  "posted": "2026-11-19T23:26:36.765000+00:00",
+  "comp": "$110,000 - $150,000",
+  "location_tag": "remote-US",
+  "company_tags": [
+   "linkedin-follow"
+  ],
+  "connections": 0,
+  "first_seen": "2026-11-20T19:07:54.875478+00:00",
+  "years": 5,
+  "excerpt": "ABOUT ZIP\nZip is the AI platform for enterprise procurement — built for humans and agents working together. By orchestrating procurement across teams, tools, and suppliers with the help of AI agents, companies can secure the resources they need to innovate faster than ever before.\nThe world’s most influential enterprises trust Zip, including T-Mobile, OpenAI, AMD, Mars, Dollar Tree, and more. Toge\n...\nexperience\n - Lead testing and go-live readiness, helping customers validate workflows, resolve issues, and confirm the solution meets their business requirements.\n - Deliver training and enablement so customers can confidently own and manage Zip after go-live\n - Partner with Product and Engineering to communicate customer needs, evaluate requests, and set clear expectations with customers\n - Share customer feedback, support peers, and contribute to implementation playbooks to shorten time to value and elevate the customer experience\nQUALIFICATIONS\n - 5+ years as an AP or finance systems implementer, or customer-facing implementation lead in B2B SaaS\n - Working knowledge of AP processes (invoice coding, three-way match, tax treatment, multi-entity and multi-currency setups) and the confidence to advise controllers and AP teams\n - Proven track record of managing multiple concurrent projects and balancing competing priorities using project management methodologies\n - Hands-on experience implementing or integrating with an ERP (NetSuite, SAP, Oracle Fusion, Microsoft Dynamics, Sage"
+ },
+ {
+  "id": "ashby:openai:831960f4-a877-4c41-8fda-17fd321c0230",
+  "company": "OpenAI",
+  "title": "Systems Integration Manager | Consumer Devices",
+  "location": "San Francisco | San Francisco, California, United States",
+  "url": "https://jobs.ashbyhq.com/openai/831960f4-a877-4c41-8fda-17fd321c0230",
+  "posted": "2026-11-19T22:31:11.389000+00:00",
+  "comp": "$290K – $365K • Offers Equity",
+  "location_tag": "relocation-NYC/SF",
+  "company_tags": [
+   "saas",
+   "linkedin-follow"
+  ],
+  "connections": 0,
+  "first_seen": "2026-11-20T19:07:54.875478+00:00",
+  "years": null,
+  "excerpt": "ABOUT THE TEAM\nOpenAI Consumer Devices is building the next generation of products that bring powerful AI into people’s everyday lives. Guided by OpenAI’s mission to ensure AGI benefits all of humanity, our team combines world-class researchers, engineers, designers, and operators who care deeply about creating useful, intuitive, and responsible technology. You’ll have the opportunity to work alon\n...\nQUALIFICATIONS:\n - Experience leading engineering teams responsible for systems integration, test infrastructure, developer tooling, device quality, or hardware-software validation.\n - Strong technica"
+ },
+ {
+  "id": "ashby:supabase:f035bda1-b5d3-4c5b-8736-b9c335fe1c3b",
+  "company": "Supabase",
+  "title": "Multigres Deployment Engineer",
+  "location": "Remote, Global",
+  "url": "https://jobs.ashbyhq.com/supabase/f035bda1-b5d3-4c5b-8736-b9c335fe1c3b",
+  "posted": "2026-11-19T21:07:22.705000+00:00",
+  "comp": "",
+  "location_tag": "remote-unclear",
+  "company_tags": [
+   "saas"
+  ],
+  "connections": 0,
+  "first_seen": "2026-11-20T19:07:54.875478+00:00",
+  "years": null,
+  "excerpt": "Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth.\nWe're looking for an engineer to own the deployment and operational infrastructure of Multigres, our distributed Postgres platform. You'll\n...\nYOU HAVE:\n - Strong systems programming skills - Proficiency in Go and experience building production-grade operators or controllers\n - Deep Kubernetes expertise - Hands-on experience with Kubernetes internals, custom resources, and cloud-managed Kubernetes services (EKS, GKE, AKS)\n - Database operations knowledge - Understanding of database deployment patterns, backup/restore, replication, and high availability\n - Distributed systems experience - Familiarity with consensus protocols, failure scenarios, and designing for resilience\n - Cloud infrastructure background - Experience with cloud-native deployment tooling, IaC (Terraform, Pulumi), and cloud provider APIs\n - Production operations mindset - Track record of building reliable, observable, and maintainable systems\nNICE TO HAVE:\n - Experience with CSI storage drivers and storage orchestration in Kubernetes\n - Knowledge of cross-cloud networking tools like Cilium, Istio, or similar service mesh technologies\n - Prior work with sharded query serving systems like Vitess\n - Contributions to open-source infrastructure projects\nWHA"
+ },
+ {
+  "id": "greenhouse:chainguard:4730575006",
+  "company": "Chainguard",
+  "title": "Commercial Sales Engineer- West",
+  "location": "United States - Remote | Remote - US",
+  "url": "https://job-boards.greenhouse.io/chainguard/jobs/4730575006",
+  "posted": "2026-11-19T20:53:06+00:00",
+  "comp": "",
+  "location_tag": "remote-US",
+  "company_tags": [
+   "connection"
+  ],
+  "connections": 1,
+  "first_seen": "2026-11-20T19:07:54.875478+00:00",
+  "years": 2,
+  "excerpt": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. \nOur customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, Open\n...\nWhat we're looking for: \n Proven experience (2+ years) as a Sales Engineer, Pre-Sales Engineer, or in a similar technical sales role, preferably with a focus on startup and midmarket clients.\n Solid understanding and experience with sales methodologies such as MEDDPICC\n Technical expertise in container technologies like Kubernetes, Docker, and serverless solutions.\n Knowledge of cloud platforms (AWS, Azure, Google Cloud) and familiarity with cloud and containers security.\n Previous experience in a startup environment, demonstrating flexibility and the ability to thrive under pressure.\n Exceptional interpersonal and communication skills, with the ability to effectively negotiate and build rapport with clients.\n Strong team player with a commitment to ongoing learning\n Must reside on the West Coast\n About Us\n We live and breathe our company values:\n We are customer obsessed — We focus on delivering solutions to our customers that create value and make their lives better.\n We have a bias for intentional action — We prioritize, plan, try things, and fail fast.\n We don't take ourselv"
+ },
+ {
+  "id": "greenhouse:chainguard:4730968006",
+  "company": "Chainguard",
+  "title": "GSI Partner Sales Engineer - AMER",
+  "location": "United States - Remote | Remote - US",
+  "url": "https://job-boards.greenhouse.io/chainguard/jobs/4730968006",
+  "posted": "2026-11-19T20:10:19+00:00",
+  "comp": "$237,000 - $275,000",
+  "location_tag": "remote-US",
+  "company_tags": [
+   "connection"
+  ],
+  "connections": 1,
+  "first_seen": "2026-11-20T19:07:54.875478+00:00",
+  "years": null,
+  "excerpt": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. \nOur customers include Fortune 500 enterprises and global industry leaders, including Anduril, Canva, Fortinet, Hewlett Packard Enterprise, OpenAI, Snap Inc., and Snowflake. \nChainguard is venture-backed by leading investors, including Amplify, IVP, Kleiner Perkins, Lightspeed Venture Partners, Mantis VC, Redpoint Ventures, Sequoia Capital, and Spark Capital.\n The Global Systems Integrator (GSI) Partner Solutions Engineer is a partner-facing technical role focused on Chainguard's relationships with GSIs. GSIs sell and deliver large cloud, security, and platform modernization programs, so this role works within partners' practices, delivery teams, and pursuit teams to make Chainguard part of how those programs are designed, scoped, and delivered. The GSI PSE builds technical champions across practices and regions, turns Chainguard into repeatable GSI offerings and accelerators, and supports joint pursuits that drive partner-sourced and partner-influenced revenue.\n Key responsibilities\n Partner technical strategy and enablement\n Build and maintain technical champions across each GSI's practices (cloud, security, platform engineering, application modernization) and regions, so Chainguard becomes the default recommendation for s"
+ },
+ {
+  "id": "greenhouse:datadog:8384194",
   "company": "Datadog",
   "title": "National Partner Manager",
-  "location": "Texas, USA, Remote | Atlanta | Boston | Chicago | Denver | New York | Remote - Texas | San Francisco | Atlanta, Georgia, USA; Boston, Massachusetts, USA; Chicago, Illinois, USA; Denver, Colorado, USA;",
-  "url": "https://careers.datadoghq.com/detail/8402937/?gh_jid=8402937",
-  "posted": "2026-11-19T19:01:24+00:00",
+  "location": "Atlanta, Georgia, USA; Boston, Massachusetts, USA; Chicago, Illinois, USA; Denver, Colorado, USA; New York, New York, USA; San Francisco, California, USA | Atlanta | Boston | Chicago | Denver | New Yo",
+  "url": "https://careers.datadoghq.com/detail/8384194/?gh_jid=8384194",
+  "posted": "2026-11-19T19:01:21+00:00",
   "comp": "$113,000 — $150,000",
   "location_tag": "CO",
   "company_tags": [
    "saas"
   ],
   "connections": 2,
-  "first_seen": "2026-11-19T19:30:00.086965+00:00",
+  "first_seen": "2026-11-20T19:07:54.875478+00:00",
   "years": 7,
   "excerpt": "Our Channels & Alliances Team’s charter is to build and activate a strategic, differentiated and high-impact partner ecosystem for our best-of-breed multi-cloud monitoring product, one partner at a time. As a National Partner Manager, you will recruit, develop, and grow strategic national channel partners, including Global and Regional Systems Integrators, Managed Service Providers, and Value Adde\n...\nWho You Are: \n 7+ years of experience in partner-facing, quota-carrying business development, strategic alliances, or channel sales at a cloud services or SaaS organization\n Proven track record of building and scaling partnerships into multi-million-dollar books of business \n Demonstrated ability to drive sales opportunities from lead generation to closure, effectively negotiating agreements and building long-lasting partnerships\n Able to quickly comprehend technical concepts and architectural scenarios, and explain them to others verbally and in writing\n Proficiency in managing premier Cloud MSP partners will be advantageous\n Willing to travel 20-30% of the time\n Datadog values people from all walks of life. We understand not everyone will meet all the above qualifications on day one. That's okay. If you’re passionate about technolog Our Channels & Alliances Team’s charter builds and activates a strategic, differentiated and high-impact partner ecosystem for our best-of-breed multi-cloud monitoring product, one partner at a time. As a National Partner Manager, you will recruit "
- },
- {
-  "id": "ashby:secureframe:f7d8854b-f23b-42a7-9ac1-6d09bd885160",
-  "company": "Secureframe",
-  "title": "Presales Solutions Engineer, Defense",
-  "location": "New York, NY | New York, New York, United States",
-  "url": "https://jobs.ashbyhq.com/secureframe/f7d8854b-f23b-42a7-9ac1-6d09bd885160",
-  "posted": "2026-11-19T18:33:05.639000+00:00",
-  "comp": "$150K – $175K",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-19T19:30:00.086965+00:00",
-  "years": null,
-  "excerpt": "At Secureframe https://secureframe.com/, we help thousands of businesses achieve and maintain compliance through automation and AI. We have been featured in Forbes’ Next Billion Dollar Startups https://www.forbes.com/sites/amyfeldman/2022/08/16/next-billion-dollar-startups-2022/, TechCrunch, and The Wall Street Journal.\nWe are backed by Kleiner Perkins, Accomplice, Gradient Ventures (Google’s AI fund), BoxGroup, Village Global, and others.\nABOUT THE ROLE\nThe Presales Solutions Engineer, Defense owns the technical side of Secureframe’s defense sales cycle, from qualification through the technical win. You’ll bring CMMC expertise to defense contractors protecting sensitive information and support cloud software companies pursuing FedRAMP authorization.\nYou’ll partner with Account Executives to understand customer requirements, how information moves through the business, and which people, systems, and sites belong in scope. You’ll lead discovery, demos, and evaluations that show how a solution fits the customer’s work.\nYou’ll work with Implementation, Customer Success, Product, and our partners so customers understand what Secureframe delivers, what their team owns, and how to prepare for assessment.\nThis role is remote from the United States.\nWHAT YOU’LL DO\n - Shape deal strategy with Account Executives across Defense, CMMC, and FedRAMP opportunities. Identify contract or prime contractor requirements, target CMMC level, assessment type, deadlines, stakeholders, and technical r"
- },
- {
-  "id": "lever:outreach:b7eb292a-f68f-4266-b67a-049c6cafba48",
-  "company": "Outreach",
-  "title": "Senior Forward Deployed Engineer, Managed Services",
-  "location": "Seattle, WA",
-  "url": "https://jobs.lever.co/outreach/b7eb292a-f68f-4266-b67a-049c6cafba48",
-  "posted": "2026-11-19T17:56:41.417000+00:00",
-  "comp": "$110,000-$135,000 USD",
-  "location_tag": "remote-unclear",
-  "company_tags": [
-   "saas",
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-19T19:30:00.086965+00:00",
-  "years": null,
-  "excerpt": "About Outreach\nOutreach, founded in 2014, is the only complete agentic AI platform for revenue teams. Outreach infuses agentic AI, conversation intelligence, and assistive AI to power hundreds of use cases across revenue motions. From new logo prospecting to expansions, deal acceleration, driving retention, and forecasting, Outreach AI automates workflows and frees sellers to focus on more strategic conversations and actions. Revenue leaders benefit from connected account visibility, performance insights, and higher forecasting accuracy across every GTM team. World leading enterprise organizations use Outreach to power their revenue teams, including Databricks, SAP, Siemens, and Verizon to name a few. \nAbout the Team \nManaged Services sits within Professional Services. We're Outreach, CRM, and GTM technology experts who help customers get full value from the platform once implementation ends. We are trusted advisors that drive adoption, flag risk, and grow usage, so customers keep exceeding their goals.\nThe Role \nYou'll join our FDE, Managed Services team, chartered with building our customers' AI Agents beyond what was set up during implementation: opening new use cases and growing Amplify credit and product consumption. \nYou’ll own and expand our largest, most complex portfolio of accounts and guide customers through best practices and hands-on configuration to drive outcomes and deepen adoption. You will partner with the leaders and team to set the technical standard for t"
- },
- {
-  "id": "ashby:planhat:378dbb62-3a70-4e05-a6d7-20687b91b1dd",
-  "company": "Planhat",
-  "title": "Solutions Engineer | Americas",
-  "location": "Boston | Los Angeles | New York | Toronto | Atlanta | Indianapolis | Boston, Massachussets, United States",
-  "url": "https://jobs.ashbyhq.com/planhat/378dbb62-3a70-4e05-a6d7-20687b91b1dd",
-  "posted": "2026-11-19T15:51:49.452000+00:00",
-  "comp": "$140,000 - $155,000",
-  "location_tag": "relocation-NYC/SF",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-19T19:30:00.086965+00:00",
-  "years": 3,
-  "excerpt": "COMPETENCIES\nPlanhat OS is a model-agnostic AI operating system where people and agents work together across the entire customer lifecycle. At its heart is Pi, the world’s first multiplayer customer agent. Think Salesforce, Slack and Claude all in one and Google Cloud has stated that Planhat has built the first next-generation CRM.\nWe’re 250+ people, profitable, and growing fast. The world’s biggest logos run on Planhat because Salesforce and ServiceNow can’t deliver fast enough.\nWe're looking for a Solutions Engineer to partner with our Account Executives to win new business. You'll run use-case and custom demos, lead technical validation and proofs of concept, build tailored demo environments in Planhat, and coordinate a smooth handoff from sales to our onboarding team so customers get live quickly.\nMore specifically, the people who do this well bring:\n - Experience: 3-6 years in a pre-sales role (Solutions Engineer, Sales Engineer or Solutions Consultant) selling B2B SaaS, ideally in customer success, CRM, revenue or professional services software.\n - Business acumen: You connect a prospect's business challenges to product capabilities and build every demo around their outcomes, not a feature tour.\n - Technical depth: Comfortable with data models, APIs, integrations (CRM, support tools, data warehouses), SSO and security reviews. You can configure a platform hands-on, not just present it.\n - Commercial judgment: You know when a demo is enough and when a POC is needed, and "
- },
- {
-  "id": "ashby:commure:faeeff7f-b1f9-4db2-93ff-99da570f85b0",
-  "company": "Commure",
-  "title": "Forward Deployed Engineer",
-  "location": "Mountain View, CA | Phoenix, AZ | Austin, TX | Los Angeles, CA | Boston, MA | New York City, NY | San Francisco, CA | Mountain View, CA, USA",
-  "url": "https://jobs.ashbyhq.com/Commure/faeeff7f-b1f9-4db2-93ff-99da570f85b0",
-  "posted": "2026-11-19T00:44:48.731000+00:00",
-  "comp": "$130K – $190K • Offers Equity",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "healthtech"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-19T19:30:00.086965+00:00",
-  "years": 1,
-  "excerpt": "At Commure, we're building the AI Operating System for healthcare, the foundation that defines how care is delivered, documented, and financed. Our platform spans the full care journey: Ambient AI and Dictation eliminating documentation burden at the point of care, intelligent Agents automating patient and revenue workflows, and autonomous RCM processing billions in claims, all on a single AI-nati\n...\nYou Have\n - Bachelor’s degree in Computer Science, Engineering, or a related field\n - 1+ years of professional experience in software engineering or a similar role\n - Foundational knowledge of full-stack engineering principles and system design.\n - Experience with programming languages such as Python, Javascript, React, and SQL.\n - Experience building 0-1 products\n - Demonstrated strong problem-solving skills and effective communication abilities.\n - Eagerness to collaborate and ability to engage confidently with clients.\n - Adaptability and enthusiasm for working in a fast-paced, client-focused healthcare environment.\nPlease be aware that all official communication from us will come exclusively from email addresses ending in @commure.com http://commure.com. Any emails from other domains are not affiliated wit"
- },
- {
-  "id": "ashby:vitally:f74c9f35-4d7a-4082-b0fc-3a679ef5ef2a",
-  "company": "Vitally",
-  "title": "Sales Development Representative",
-  "location": "United States",
-  "url": "https://jobs.ashbyhq.com/vitally/f74c9f35-4d7a-4082-b0fc-3a679ef5ef2a",
-  "posted": "2026-11-19T00:26:35.496000+00:00",
-  "comp": "$65,000 - $85,000",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-19T19:30:00.086965+00:00",
-  "years": 1,
-  "excerpt": "We are looked for an ambitious Sales Development Representative to start conversations with Customer Success leaders and turn them into qualified meetings for our Account Executives. You will research accounts, run outbound across phone, email, and LinkedIn, and follow up fast on inbound interest. We are looking for someone who brings energy to a high-activity role, takes coaching well, and uses A\n...\nRequirements\n - 1-2 years in an SDR, BDR or similar outbound role with a meetings or pipeline target at a B2B SaaS company.\n - Able to self-direct and work autonomously towards your goals; you'll be our only SDR and there's no playbook yet, so we need you to hit the ground running and not wait for instructions every day.\n - Comfortable with a high volume of cold calling, not just email/LinkedIn, and comfortable handling objections and rejection.\n - A track record of hitting goals through consistent effort.\n - Experience with HubSpot sequences or similar tools.\n - Clear, concise writing and confidence on the phone.\n - Hands-on use of AI tools in your work. You can show us how.\n - Coachable, curious and organized.\nNice to have\n - Familiarity with the Customer Success space and/or the tools CS teams use.\n - A goal of growing into an Account Executive role.\nBenefits & Culture\n - Salary: Base salary of $65,000 - $85,000 with a 70/30 split and uncapped variable\n - Equity: We want every team member invested in the company's success and offer generous equity packages.\n - Benefits:\n - 10"
- },
- {
-  "id": "greenhouse:brex:8950778002",
-  "company": "Brex",
-  "title": "Accounting Partnerships Manager",
-  "location": "New York, New York, United States | New York, NY | San Francisco, CA | San Francisco, California, United States | New York, NY | San Francisco, CA",
-  "url": "https://www.brex.com/careers/8950778002?gh_jid=8950778002",
-  "posted": "2026-11-18T22:23:02+00:00",
-  "comp": "$135,600 - $169,500",
-  "location_tag": "relocation-NYC/SF",
-  "company_tags": [
-   "fintech",
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-19T19:30:00.086965+00:00",
-  "years": 3,
-  "excerpt": "Why join us \n Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automatio\n...\nRequirements \n 3+ years in a closing sales or partnerships role\n Demonstrated track record of consistently hitting targets and quotas\n Ability to identify client needs through thoughtful questioning, active listening, and analysis; including but not limited to shared mutual referral goals, enablement sessions, and MBR/QBRs where necessary\n Ability to deliver tailored, consultative soluti"
- },
- {
-  "id": "greenhouse:checkr:8399435",
-  "company": "Checkr",
-  "title": "Customer Success Implementation Specialist",
-  "location": "Denver, Colorado, United States; San Francisco, California, United States | San Francisco",
-  "url": "https://job-boards.greenhouse.io/checkr/jobs/8399435",
-  "posted": "2026-11-18T22:21:38+00:00",
-  "comp": "$88,000 — $103,000",
-  "location_tag": "CO",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-19T19:30:00.086965+00:00",
-  "years": 2,
-  "excerpt": "About Checkr\n Checkr is building the data platform to power safe and fair decisions. Over 140,000 companies and millions of people rely on Checkr for AI verification in the moments that matter most: getting a new job, a new place to live, a car ride, childcare, even a date. Customers include Uber, Pennymac, Airbnb, Doordash, and Anthropic.\nWe’re a team that thrives on solving complex problems with\n...\nexperience\n Excellent written, oral, and presentation skills, and comfort communicating at multiple levels of an organization\n Strong attention to detail and a customer-centric approach\n Ability to multitask and juggle multiple projects and stakeholders (internal and external) in a fast-paced environment\n Ability to move with urgency, take ownership to deliver meaningful results\n Comfort taking on new challenges, and openness to guidance and coaching while working with cross-functional GTM teams\n An A-player mindset with a strong bias for action: you raise the bar, move with urgency, stay resilient through ambiguity, and take ownership to deliver meaningful outcomes.\n Pay Transparency Disclosure \n We use geographic cost of labor as an input to develop ranges for our roles and as such, each location where we hire may have a different range. If this role is remote, we have listed the top to the bottom of the possible range, but we will specify the target range for an exact location when you are selected for a recruiting discussion. For more information on our compensation philosop"
- },
- {
-  "id": "greenhouse:gleanwork:4755916005",
-  "company": "Glean",
-  "title": "Enterprise Solutions Engineer, West",
-  "location": "San Francisco Bay Area | Remote - US",
-  "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4755916005",
-  "posted": "2026-11-18T22:15:32+00:00",
-  "comp": "$180,000 - $230,000",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 1,
-  "first_seen": "2026-11-19T19:30:00.086965+00:00",
-  "years": 5,
-  "excerpt": "About Glean: \n Glean is the Work AI platform that helps everyone work smarter with AI. What began as the industry’s most advanced enterprise search has evolved into a full-scale Work AI ecosystem, powering intelligent Search, an AI Assistant, and scalable AI agents on one secure, open platform. With over 100 enterprise SaaS connectors, flexible LLM choice, and robust APIs, Glean gives organization\n...\nAbout you: \n 5+ years of sales engineering or solution consulting experience in a SaaS organization\n Bachelor's degree in CS or a related field\n Excellent written and verbal communication skills\n Highly motivated, driven and self-starting individual\n Ability to work in a fast paced, team environment\n Clear examples of partnering with AEs to run technical deal cycles with Enterprise customers\n A consultative approach with solving your customer’s business challenges and having a track record of successfully overcoming technical and security objections\n Familiarity with any cloud environment (GCP, AWS, Azure)\n Proficiency in Python or Java\n Ability to configure, monitor and maintain API based integrations\n Location: \n This role is based out of the San Francisco Bay area. \n Compensation & Benefits: \n The OTE range for this position is $180,000 - $230,000 annually. Compensation offered will be determined by factors such as location"
- },
- {
-  "id": "ashby:talkiatry:24e615b5-c781-48f7-ad25-d6a710b47d15",
-  "company": "Talkiatry",
-  "title": "Provider Partnerships Manager - Fort Worth, TX",
-  "location": "Fort Worth, TX | Fort Worth, Texas, United States",
-  "url": "https://jobs.ashbyhq.com/talkiatry/24e615b5-c781-48f7-ad25-d6a710b47d15",
-  "posted": "2026-11-18T20:52:35.553000+00:00",
-  "comp": "$80K – $105K • Offers Commission • Offers Bonus • Uncapped Commission",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "healthtech"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-19T19:30:00.086965+00:00",
-  "years": null,
-  "excerpt": "We are hiring a field-based Provider Partnerships Manager who thrives on building relationships in medical settings, driving growth, and helping practices connect their patients to timely psychiatric care. This role blends new business prospecting with account ownership and field engagement. You will build relationships with medical practices and health systems in your territory, educate providers and supporting staff on Talkiatry’s services, support referral success, and grow adoption over time. This is a quota-carrying, field-forward role (approximately 75% territory travel) designed for someone who loves meeting providers in person, growing partnerships, and owning market success.\nYou're the ideal candidate if you’re ambitious and thrive in dynamic environments. You seek opportunities to take ownership, move fast, and see the direct impact of your work. You’re driven by purpose, motivated by helping providers connect patients to the care they need, and you bring a builder’s mindset to every relationship, opportunity, and challenge. You’re a collaborative, people person who draws energy from being in the field and building relationships. Sitting behind a desk and living in spreadsheets drains you; building trust with clinicians and staff motivates you. You’re equally at home nurturing relationships and driving results. You’re competitive in the best way, motivated by growth, inspired by goals, and proud to be accountable for outcomes.\nABOUT TALKIATRY: \nTalkiatry is transfor"
- },
- {
-  "id": "ashby:talkiatry:9d2ab9e2-972c-432b-9785-a0d0ce16af05",
-  "company": "Talkiatry",
-  "title": "Provider Partnerships Manager - Seattle, WA",
-  "location": "Seattle, WA | Seattle, Washington, United States",
-  "url": "https://jobs.ashbyhq.com/talkiatry/9d2ab9e2-972c-432b-9785-a0d0ce16af05",
-  "posted": "2026-11-18T20:50:54.436000+00:00",
-  "comp": "$80K – $105K • Offers Commission • Offers Bonus • Uncapped Commission",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "healthtech"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-19T19:30:00.086965+00:00",
-  "years": null,
-  "excerpt": "We are hiring a field-based Provider Partnerships Manager who thrives on building relationships in medical settings, driving growth, and helping practices connect their patients to timely psychiatric care. This role blends new business prospecting with account ownership and field engagement. You will build relationships with medical practices and health systems in your territory, educate providers and supporting staff on Talkiatry’s services, support referral success, and grow adoption over time. This is a quota-carrying, field-forward role (approximately 75% territory travel) designed for someone who loves meeting providers in person, growing partnerships, and owning market success.\nYou're the ideal candidate if you’re ambitious and thrive in dynamic environments. You seek opportunities to take ownership, move fast, and see the direct impact of your work. You’re driven by purpose, motivated by helping providers connect patients to the care they need, and you bring a builder’s mindset to every relationship, opportunity, and challenge. You’re a collaborative, people person who draws energy from being in the field and building relationships. Sitting behind a desk and living in spreadsheets drains you; building trust with clinicians and staff motivates you. You’re equally at home nurturing relationships and driving results. You’re competitive in the best way, motivated by growth, inspired by goals, and proud to be accountable for outcomes.\nABOUT TALKIATRY: \nTalkiatry is transfor"
- },
- {
-  "id": "greenhouse:gleanwork:4755877005",
-  "company": "Glean",
-  "title": "Enterprise Solutions Engineer, Texas",
-  "location": "Remote - US",
-  "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4755877005",
-  "posted": "2026-11-18T20:50:24+00:00",
-  "comp": "$170,000 - $215,000",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 1,
-  "first_seen": "2026-11-19T19:30:00.086965+00:00",
-  "years": 5,
-  "excerpt": "About Glean: \n Glean is the Work AI platform that helps everyone work smarter with AI. What began as the industry’s most advanced enterprise search has evolved into a full-scale Work AI ecosystem, powering intelligent Search, an AI Assistant, and scalable AI agents on one secure, open platform. With over 100 enterprise SaaS connectors, flexible LLM choice, and robust APIs, Glean gives organization\n...\nAbout you: \n 5+ years of sales engineering or solution consulting experience in a SaaS organization \n Bachelor's degree in CS or a related field \n Excellent written and verbal communication skills \n Highly motivated, driven and self-starting individual \n Ability to work in a fast paced, team environment \n Clear examples of partnering with AEs to run technical deal cycles with Enterprise customers \n A consultative approach with solving your customer’s business challenges and having a track record of successfully overcoming technical and security objections \n Familiarity with any cloud environment (GCP, AWS, Azure) \n Proficiency in Python or Java \n Ability to configure, monitor, and maintain API based integrations \n Location: \n This role is remote, but must be based out of TX - ideally in Austin. \n Compensation & Benefits: \n The standard OTE salary range for this position is $170,000 - $215,000 annually. Compensation"
- },
- {
-  "id": "greenhouse:gleanwork:4755859005",
-  "company": "Glean",
-  "title": "Enterprise Solutions Engineer, East",
-  "location": "Remote - US",
-  "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4755859005",
-  "posted": "2026-11-18T20:34:49+00:00",
-  "comp": "$180,000 - $230,000",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 1,
-  "first_seen": "2026-11-19T19:30:00.086965+00:00",
-  "years": 5,
-  "excerpt": "About Glean: \n Glean is the Work AI platform that helps everyone work smarter with AI. What began as the industry’s most advanced enterprise search has evolved into a full-scale Work AI ecosystem, powering intelligent Search, an AI Assistant, and scalable AI agents on one secure, open platform. With over 100 enterprise SaaS connectors, flexible LLM choice, and robust APIs, Glean gives organization\n...\nAbout you: \n 5+ years of sales engineering or solution consulting experience in a SaaS organization \n Bachelor's degree in CS or a related field \n Excellent written and verbal communication skills \n Highly motivated, driven and self-starting individual \n Ability to work in a fast paced, team environment \n Clear examples of partnering with AEs to run technical deal cycles with Enterprise customers \n A consultative approach with solving your customer’s business challenges and having a track record of successfully overcoming technical and security objections \n Familiarity with any cloud environment (GCP, AWS, Azure) \n Proficiency in Python or Java \n Ability to configure, monitor and maintain API based integrations \n Location: \n This role is remote (must be based in the Eastern US) \n Compensation & Benefits: \n The standard OTE range for this position is $180,000 - $230,000 annually . Compensation offered will be determined by factors such as location, level, job-related knowledge, skills, and experience. Certain roles may be eligible for variable compensation, equity, and benefits. "
- },
- {
-  "id": "greenhouse:guild:8395830",
-  "company": "Guild",
-  "title": "Implementation Manager, Employer Partners",
-  "location": "Denver, CO, United States; United States | United States",
-  "url": "https://www.guild.com/open-positions-at-guild?gh_jid=8395830",
-  "posted": "2026-11-18T19:39:47+00:00",
-  "comp": "$97,800 - $142,050",
-  "location_tag": "CO",
-  "company_tags": [
-   "saas",
-   "colorado"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-19T19:30:00.086965+00:00",
-  "years": 4,
-  "excerpt": "To thrive as a company and meet our impact goals, we must cultivate a culture of high-performance. You can read about our culture principles here .\n We know managers are often the single-largest driver of employee satisfaction and growth, and our talent is our biggest asset. Because of that, we’ve identified consistent expectations for all of Guild’s people managers — helping you know what to expe\n...\nQualifications \n Required Qualifications \n 4+ years of experience in implementation, project management, program management, customer onboardi"
  }
 ]
