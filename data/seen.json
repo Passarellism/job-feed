@@ -72,17 +72,17 @@
  "ashby:claylabs:7111f7da-3405-433a-8814-f2504c32210b": {
   "company": "Clay",
   "first_seen": "2026-11-15T12:00:00+00:00",
-  "outcome": "Shown (fit 7)",
+  "outcome": "Passed (no reason given)",
   "role": "ClayDR (Sales Development Representative) - NYC",
-  "source": "Company board",
+  "source": "Chat",
   "url": "https://jobs.ashbyhq.com/claylabs/7111f7da-3405-433a-8814-f2504c32210b"
  },
  "ashby:commure:9f4e755d-cb35-4397-8b6b-48f387118c28": {
   "company": "Commure",
   "first_seen": "2026-11-18T12:44:59.265722+00:00",
-  "outcome": "Shown (fit 6, location unclear UT)",
+  "outcome": "Passed (no reason given)",
   "role": "Sales Development Representative (Lehi, UT)",
-  "source": "Feed"
+  "source": "Chat"
  },
  "ashby:commure:f4ab2a70-ab0a-4163-84b8-62efbaea942b": {
   "company": "Commure",
@@ -234,9 +234,9 @@
   "alias": "ab:livekit:f4414ce0-5565-4f7f-9025-488bd6b4d19c",
   "company": "LiveKit",
   "first_seen": "2026-11-16T12:00:00+00:00",
-  "outcome": "Shown (fit 6)",
+  "outcome": "Passed (no reason given)",
   "role": "Sales Development Representative (East Coast)",
-  "source": "Built In",
+  "source": "Chat",
   "url": "https://jobs.ashbyhq.com/livekit/f4414ce0-5565-4f7f-9025-488bd6b4d19c"
  },
  "ashby:merge:fe48ba75-e5aa-43e4-91fe-560733d89c89": {
@@ -302,9 +302,9 @@
  "ashby:planhat:378dbb62-3a70-4e05-a6d7-20687b91b1dd": {
   "company": "Planhat",
   "first_seen": "2026-11-20T12:45:36.959418+00:00",
-  "outcome": "Shown (fit 6, relocation NYC/SF, 3 yrs)",
+  "outcome": "Passed (no reason given)",
   "role": "Solutions Engineer | Americas",
-  "source": "Feed",
+  "source": "Chat",
   "url": "https://jobs.ashbyhq.com/planhat/378dbb62-3a70-4e05-a6d7-20687b91b1dd"
  },
  "ashby:rain:3f62d2db-7df1-4ced-8899-bfef37fe2720": {
@@ -327,10 +327,10 @@
  "ashby:ramp:492823d8-9651-46cf-9d33-a632ef706879": {
   "company": "Ramp",
   "first_seen": "2026-11-16T12:00:00+00:00",
-  "outcome": "Referral - apply via referral (fit 6; 3+ yrs, remote US, $151-231K)",
+  "outcome": "Passed (no reason given)",
   "posted": "2026-11-10",
   "role": "Solutions Consultant, Post Sales, Mid-Market",
-  "source": "Company board (Ashby)",
+  "source": "Chat",
   "url": "https://jobs.ashbyhq.com/ramp/492823d8-9651-46cf-9d33-a632ef706879"
  },
  "ashby:ramp:498d0fa0-d6e2-4755-9004-736dcae47d81": {
@@ -362,10 +362,10 @@
  "ashby:ramp:8ca5c32b-e6c7-47e3-af23-291f122fa0f8": {
   "company": "Ramp",
   "first_seen": "2026-11-16T12:00:00+00:00",
-  "outcome": "Referral - apply via referral (fit 7; 3+ yrs, remote US, $119-181K)",
+  "outcome": "Passed (referral contact said not worth it)",
   "posted": "2026-11-10",
   "role": "Solutions Consultant, Post Sales, Commercial",
-  "source": "Company board (Ashby)",
+  "source": "Chat",
   "url": "https://jobs.ashbyhq.com/ramp/8ca5c32b-e6c7-47e3-af23-291f122fa0f8"
  },
  "ashby:ramp:971abc99-f20b-43f0-91d6-90bcbfa2c8d9": {
@@ -406,9 +406,9 @@
  "ashby:ramp:f34619af-0475-4987-83b9-eb926b4bb07a": {
   "company": "Ramp",
   "first_seen": "2026-11-18T12:44:59.265722+00:00",
-  "outcome": "Referral - apply via referral (fit 5)",
+  "outcome": "Passed (no reason given)",
   "role": "Customer Success Manager, Strategic",
-  "source": "Feed"
+  "source": "Chat"
  },
  "ashby:secureframe:e9a31be3-be71-4490-b77e-bdecafe9ca49": {
   "company": "Secureframe",
@@ -532,9 +532,9 @@
  "ashby:vitally:f74c9f35-4d7a-4082-b0fc-3a679ef5ef2a": {
   "company": "Vitally",
   "first_seen": "2026-11-20T12:45:36.959418+00:00",
-  "outcome": "Shown (fit 7, <24h)",
+  "outcome": "Passed (no reason given)",
   "role": "Sales Development Representative",
-  "source": "Feed",
+  "source": "Chat",
   "url": "https://jobs.ashbyhq.com/vitally/f74c9f35-4d7a-4082-b0fc-3a679ef5ef2a"
  },
  "ashby:zip:2f9dc460-7f0d-4ecd-b3eb-6bc350be6dd7": {
@@ -910,9 +910,9 @@
  "builtin:12211061": {
   "company": "Swayable",
   "first_seen": "2026-11-16T12:00:00+00:00",
-  "outcome": "Shown (fit 6, date unclear)",
+  "outcome": "Passed (no reason given)",
   "role": "Sales Development Representative (Junior)",
-  "source": "Built In SF",
+  "source": "Chat",
   "url_note": "no employer link found - search Built In by company"
  },
  "builtin:12211064": {
@@ -1154,9 +1154,9 @@
  "builtin:12299380": {
   "company": "Bask Health",
   "first_seen": "2026-11-18T12:44:59.265722+00:00",
-  "outcome": "Shown (fit 6, 2+ yrs, 24 emp, no range, ET hours)",
+  "outcome": "Closed (no longer up, per Steve)",
   "role": "Solutions Engineer",
-  "source": "Built In"
+  "source": "Chat"
  },
  "builtin:12299384": {
   "company": "Bask Health",
@@ -1424,17 +1424,17 @@
  "greenhouse:chainguard:4726720006": {
   "company": "Chainguard",
   "first_seen": "2026-11-19T12:45:31.934596+00:00",
-  "outcome": "Shown (fit 6, no range, Canada territory)",
+  "outcome": "Passed (no reason given)",
   "role": "Enterprise BDR - Canada",
-  "source": "Feed",
+  "source": "Chat",
   "url": "https://job-boards.greenhouse.io/chainguard/jobs/4726720006"
  },
  "greenhouse:chainguard:4726738006": {
   "company": "Chainguard",
   "first_seen": "2026-11-19T12:45:31.934596+00:00",
-  "outcome": "Shown (fit 6, federal domain gap)",
+  "outcome": "Passed (no reason given)",
   "role": "Federal BDR",
-  "source": "Feed",
+  "source": "Chat",
   "url": "https://job-boards.greenhouse.io/chainguard/jobs/4726738006"
  },
  "greenhouse:chainguard:4727004006": {
@@ -1464,9 +1464,9 @@
  "greenhouse:checkr:8399435": {
   "company": "Checkr",
   "first_seen": "2026-11-20T12:45:36.959418+00:00",
-  "outcome": "Shown (fit 8, CO, 2 yrs, $88-103K)",
+  "outcome": "Applied (2026-11-20)",
   "role": "Customer Success Implementation Specialist",
-  "source": "Feed"
+  "source": "Chat"
  },
  "greenhouse:contentful:8209335": {
   "alias": "gh:contentful:8209335",
@@ -1722,9 +1722,9 @@
  "greenhouse:guild:8395830": {
   "company": "Guild",
   "first_seen": "2026-11-20T12:45:36.959418+00:00",
-  "outcome": "Shown (fit 7, CO, 4 yrs, size exception)",
+  "outcome": "Passed (no reason given)",
   "role": "Implementation Manager, Employer Partners",
-  "source": "Feed"
+  "source": "Chat"
  },
  "greenhouse:gusto:8189814": {
   "alias": "gh:gusto:8189814",
@@ -2265,9 +2265,9 @@
  "li:4491030039": {
   "company": "Toast",
   "first_seen": "2026-11-16T12:00:00+00:00",
-  "outcome": "Referral - apply via referral (fit 5)",
+  "outcome": "Passed (no reason given)",
   "role": "Implementation Consultant III, Enterprise Restaurants",
-  "source": "Company board",
+  "source": "Chat",
   "url": "https://www.linkedin.com/jobs/view/4491030039"
  },
  "li:4491031013": {
