@@ -18,24 +18,6 @@
   "first_seen": "2026-11-20T19:07:54.875478+00:00"
  },
  {
-  "id": "greenhouse:stripe:8326098",
-  "company": "Stripe",
-  "title": "Risk Partnerships Manager, Networks and Acquiring",
-  "location": "US-Remote; US-Chicago; US-Atlanta; CA-Toronto; CA-Remote | US",
-  "remote": null,
-  "url": "https://stripe.com/jobs/search?gh_jid=8326098",
-  "posted": "2026-11-11T21:33:03+00:00",
-  "comp": "",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "fintech",
-   "linkedin-follow"
-  ],
-  "connections": 2,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
   "id": "greenhouse:stripe:7917880",
   "company": "Stripe",
   "title": "Technical Solutions Engineer",
@@ -116,24 +98,6 @@
   "url": "https://jobs.ashbyhq.com/ramp/574f46a4-42b2-46be-ba5c-de07c5e173c5",
   "posted": "2026-11-12T19:10:17.611000+00:00",
   "comp": "$122K – $184K • Offers Equity • Offers Commission • Multiple Ranges",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "fintech",
-   "linkedin-follow"
-  ],
-  "connections": 6,
-  "first_seen": "2026-11-16T21:04:06.757118+00:00"
- },
- {
-  "id": "ashby:ramp:55bd9ab4-8edc-4493-b577-4277ad2f9ae6",
-  "company": "Ramp",
-  "title": "Risk Operations Specialist, Onboarding",
-  "location": "New York, NY (HQ) | San Francisco, CA | Remote (US) | New York City, NY, USA",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/ramp/55bd9ab4-8edc-4493-b577-4277ad2f9ae6",
-  "posted": "2026-11-12T01:19:57.296000+00:00",
-  "comp": "$100K – $155K • Offers Equity • Multiple Ranges",
   "ats": "ashby",
   "location_tag": "remote-US",
   "company_tags": [
@@ -249,23 +213,6 @@
   ],
   "connections": 0,
   "first_seen": "2026-11-21T17:59:55.153216+00:00"
- },
- {
-  "id": "ashby:oyster:69966551-1bb6-4675-869e-ba85f13178a6",
-  "company": "Oyster",
-  "title": "Business Development Representative (Americas)",
-  "location": "New York | San Francisco Bay Area | Seattle | New York, New York, United States | United States | Austin, Texas, United States | Boston | Austin | San Diego | Chicago | Charlotte | Denver | Atlanta | Philadelphia | Pittsburgh | Boston, Massachusetts, United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/oyster/69966551-1bb6-4675-869e-ba85f13178a6",
-  "posted": "2026-11-12T08:44:38.418000+00:00",
-  "comp": "",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
  },
  {
   "id": "greenhouse:billcom:6266920004",
@@ -680,23 +627,6 @@
   "first_seen": "2026-11-18T19:25:15.990736+00:00"
  },
  {
-  "id": "greenhouse:grafanalabs:6239639004",
-  "company": "Grafana Labs",
-  "title": "Senior Solutions Engineer, Growth | Mid Atlantic or Southeast | Remote",
-  "location": "United States (Remote) | USA (Remote)",
-  "remote": null,
-  "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6239639004",
-  "posted": "2026-11-12T16:51:41+00:00",
-  "comp": "$204,000 - $254,000",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
- },
- {
   "id": "ashby:temporal:41c539a1-6ba5-41ad-925d-f2f2579b2acf",
   "company": "Temporal",
   "title": "Americas SI Partnerships Manager",
@@ -746,23 +676,6 @@
   ],
   "connections": 0,
   "first_seen": "2026-11-18T19:25:15.990736+00:00"
- },
- {
-  "id": "ashby:elevenlabs:a605e308-0d28-42b6-8cbb-03cc7799cecc",
-  "company": "ElevenLabs",
-  "title": "Sales Development Lead - North America",
-  "location": "San Francisco | United States | San Francisco, California, United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/ElevenLabs/a605e308-0d28-42b6-8cbb-03cc7799cecc",
-  "posted": "2026-11-12T18:25:10.656000+00:00",
-  "comp": "",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
  },
  {
   "id": "ashby:elevenlabs:09936411-899b-466d-aae7-54f6873caea0",
@@ -870,14 +783,14 @@
   "first_seen": "2026-11-21T17:59:55.153216+00:00"
  },
  {
-  "id": "greenhouse:toast:8350508",
+  "id": "greenhouse:toast:8350506",
   "company": "Toast",
   "title": "Customer Success Manager II, SMB - On Demand",
-  "location": "Boston, Ma | Remote - USA | Remote - US | Remote - USA",
+  "location": "Remote - US | Remote - USA | Boston, Ma | Remote - USA",
   "remote": null,
-  "url": "https://careers.toasttab.com/jobs?gh_jid=8350508",
-  "posted": "2026-11-20T21:46:20+00:00",
-  "comp": "$75,000 — $85,000",
+  "url": "https://careers.toasttab.com/jobs?gh_jid=8350506",
+  "posted": "2026-11-20T21:44:21+00:00",
+  "comp": "$80,000 — $90,000",
   "ats": "greenhouse",
   "location_tag": "remote-US",
   "company_tags": [
@@ -885,24 +798,7 @@
    "linkedin-follow"
   ],
   "connections": 2,
-  "first_seen": "2026-11-21T17:59:55.153216+00:00"
- },
- {
-  "id": "greenhouse:justworks:8383270",
-  "company": "Justworks",
-  "title": "Associate GTM Engineer",
-  "location": "New York, New York | New York, NY",
-  "remote": null,
-  "url": "https://boards.greenhouse.io/justworks/jobs/8383270?gh_jid=8383270",
-  "posted": "2026-11-12T16:47:07+00:00",
-  "comp": "$98,000",
-  "ats": "greenhouse",
-  "location_tag": "relocation-NYC/SF",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 1,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
+  "first_seen": "2026-11-22T18:32:45.298363+00:00"
  },
  {
   "id": "greenhouse:justworks:8356649",
@@ -1171,23 +1067,6 @@
   "url": "https://jobs.ashbyhq.com/zip/92c2b94a-3963-4c1e-8e5a-b83f548f8f0d",
   "posted": "2026-11-12T22:37:31.353000+00:00",
   "comp": "$140,000 - $170,000",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:41:38.452073+00:00"
- },
- {
-  "id": "ashby:zip:d28dc61e-b4fa-4517-b61e-a31bccefddba",
-  "company": "Zip",
-  "title": "Enterprise Solution Engineer (Pre-Sales)",
-  "location": "Remote - US | United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/zip/d28dc61e-b4fa-4517-b61e-a31bccefddba",
-  "posted": "2026-11-11T20:33:55.330000+00:00",
-  "comp": "$180,000 - $265,000",
   "ats": "ashby",
   "location_tag": "remote-US",
   "company_tags": [
@@ -1537,13 +1416,13 @@
   "first_seen": "2026-11-18T19:25:15.990736+00:00"
  },
  {
-  "id": "greenhouse:contentful:8383550",
+  "id": "greenhouse:contentful:8383695",
   "company": "Contentful",
   "title": "Senior Solution Engineer",
-  "location": "Denver, Colorado, United States | Denver, CO | New York, New York, United States | Denver, CO | San Francisco, California, United States | Denver, CO",
+  "location": "New York, New York, United States | Denver, CO",
   "remote": null,
-  "url": "https://job-boards.greenhouse.io/contentful/jobs/8383550",
-  "posted": "2026-11-12T18:31:25+00:00",
+  "url": "https://job-boards.greenhouse.io/contentful/jobs/8383695",
+  "posted": "2026-11-12T18:32:59+00:00",
   "comp": "$134,750 - $180,250",
   "ats": "greenhouse",
   "location_tag": "CO",
@@ -1551,23 +1430,6 @@
    "saas"
   ],
   "connections": 0,
-  "first_seen": "2026-11-16T17:42:26.914189+00:00"
- },
- {
-  "id": "greenhouse:contentful:8383636",
-  "company": "Contentful",
-  "title": "Solution Engineer",
-  "location": "Austin, Texas, United States | Denver, CO | New York, New York, United States | Denver, CO | Atlanta, Georgia, United States | Denver, CO | Denver, Colorado, United States | Denver, CO | Dallas, Texas, United States | Denver, CO | San Francisco, California, United States | Denver, CO",
-  "remote": null,
-  "url": "https://job-boards.greenhouse.io/contentful/jobs/8383636",
-  "posted": "2026-11-12T18:13:34+00:00",
-  "comp": "$113,300 - $151,550",
-  "ats": "greenhouse",
-  "location_tag": "CO",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-17T19:52:47.659938+00:00"
+  "first_seen": "2026-11-19T19:30:00.086965+00:00"
  }
 ]
