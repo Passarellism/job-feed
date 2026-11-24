@@ -145,6 +145,13 @@
   "role": "Customer Success Strategy & Operations Manager",
   "source": "Company board"
  },
+ "ashby:dailypay:ef221487-9763-4b54-89ee-14ec3cebad70": {
+  "company": "DailyPay",
+  "first_seen": "2026-11-24T12:45:28.831946+00:00",
+  "outcome": "Excluded (manager)",
+  "role": "BDR Manager",
+  "source": "Feed"
+ },
  "ashby:decagon:5bf50bc3-f676-4edc-90d2-bc8154d7ee84": {
   "company": "Decagon",
   "first_seen": "2026-11-15T12:00:00+00:00",
@@ -165,6 +172,13 @@
   "first_seen": "2026-11-19T12:45:31.934596+00:00",
   "outcome": "Low fit (3, remote unclear)",
   "role": "Hyperscaler Partner Manager",
+  "source": "Feed"
+ },
+ "ashby:elevenlabs:7758cdc5-b5c9-4a5c-8c80-11678f7cba9d": {
+  "company": "ElevenLabs",
+  "first_seen": "2026-11-24T12:45:28.831946+00:00",
+  "outcome": "Excluded (forward-deployed/public sector)",
+  "role": "Deployment Strategist, Public Sector",
   "source": "Feed"
  },
  "ashby:elevenlabs:a605e308-0d28-42b6-8cbb-03cc7799cecc": {
@@ -397,6 +411,14 @@
   "role": "Solutions Consultant, Post Sales, Commercial",
   "source": "Chat",
   "url": "https://jobs.ashbyhq.com/ramp/8ca5c32b-e6c7-47e3-af23-291f122fa0f8"
+ },
+ "ashby:ramp:8efd3a0a-fc66-46e2-9415-bffba10e2919": {
+  "company": "Ramp",
+  "first_seen": "2026-11-24T12:45:28.831946+00:00",
+  "outcome": "Referral - apply via referral (fit 6)",
+  "role": "AI Solutions Engineer",
+  "source": "Feed",
+  "url": "https://jobs.ashbyhq.com/ramp/8efd3a0a-fc66-46e2-9415-bffba10e2919"
  },
  "ashby:ramp:971abc99-f20b-43f0-91d6-90bcbfa2c8d9": {
   "company": "Ramp",
@@ -971,7 +993,7 @@
  "builtin:12211064": {
   "company": "Swayable",
   "first_seen": "2026-11-16T12:00:00+00:00",
-  "outcome": "Shown (fit 6, date unclear)",
+  "outcome": "Expired (no action)",
   "role": "Sales Development Representative (Junior)",
   "source": "Built In SF"
  },
@@ -1053,7 +1075,7 @@
  "builtin:12253252": {
   "company": "LiveKit",
   "first_seen": "2026-11-16T12:00:00+00:00",
-  "outcome": "Shown (fit 6)",
+  "outcome": "Expired (no action)",
   "role": "Sales Development Representative (East Coast)",
   "source": "Built In"
  },
@@ -1067,7 +1089,7 @@
  "builtin:12253356": {
   "company": "LiveKit",
   "first_seen": "2026-11-16T12:00:00+00:00",
-  "outcome": "Shown (fit 6)",
+  "outcome": "Expired (no action)",
   "role": "Sales Development Representative (East Coast)",
   "source": "Built In"
  },
@@ -1427,6 +1449,46 @@
   "source": "Built In",
   "url": "https://www.builtincolorado.com/job/solutions-engineer/12407573"
  },
+ "builtin:12419165": {
+  "company": "Neural Earth",
+  "first_seen": "2026-11-24T12:45:28.831946+00:00",
+  "outcome": "Low fit (2, 7-10 yrs P&C insurance)",
+  "role": "Implementation and Solutions Lead",
+  "source": "Built In",
+  "url": "https://www.builtincolorado.com/job/implementation-and-solutions-lead/12419165"
+ },
+ "builtin:12433588": {
+  "company": "SuperDial",
+  "first_seen": "2026-11-24T12:45:28.831946+00:00",
+  "outcome": "Shown (fit 7, 3+ yrs, Built In apply)",
+  "role": "Customer Success Manager",
+  "source": "Built In",
+  "url": "https://www.builtincolorado.com/job/customer-success-manager/12433588"
+ },
+ "builtin:12434896": {
+  "company": "SmithRx",
+  "first_seen": "2026-11-24T12:45:28.831946+00:00",
+  "outcome": "Low fit (3, 8-12 yrs)",
+  "role": "Senior Implementation Manager",
+  "source": "Built In",
+  "url": "https://www.builtincolorado.com/job/senior-implementation-manager/12434896"
+ },
+ "builtin:12434908": {
+  "company": "Postscript",
+  "first_seen": "2026-11-24T12:45:28.831946+00:00",
+  "outcome": "Shown (fit 6, ecommerce/Shopify gap, 3+ yrs, Built In apply)",
+  "role": "Solutions Engineer",
+  "source": "Built In",
+  "url": "https://www.builtincolorado.com/job/solutions-engineer/12434908"
+ },
+ "builtin:12439426": {
+  "company": "Horizon3.ai",
+  "first_seen": "2026-11-24T12:45:28.831946+00:00",
+  "outcome": "Low fit (4, cybersecurity gap, Central US only)",
+  "role": "Customer Success Manager, Central",
+  "source": "Built In",
+  "url": "https://www.builtincolorado.com/job/customer-success-manager-central/12439426"
+ },
  "builtin:9739501": {
   "company": "ArboStar",
   "first_seen": "2026-11-15T12:00:00+00:00",
@@ -1540,7 +1602,7 @@
  "greenhouse:chainguard:4723777006": {
   "company": "Chainguard",
   "first_seen": "2026-11-16T12:00:00+00:00",
-  "outcome": "Worth a look (5, no range)",
+  "outcome": "Expired (no action)",
   "role": "Enterprise Sales Engineer - Central",
   "source": "Company board",
   "url": "https://job-boards.greenhouse.io/chainguard/jobs/4723777006"
@@ -1927,6 +1989,14 @@
   "role": "Associate GTM Engineer",
   "source": "Company board"
  },
+ "greenhouse:justworks:8404062": {
+  "company": "Justworks",
+  "first_seen": "2026-11-24T12:45:28.831946+00:00",
+  "outcome": "Excluded (size exception needs fit 7; relocation NYC/SF; no range)",
+  "role": "Customer Onboarding Manager",
+  "source": "Feed",
+  "url": "https://boards.greenhouse.io/justworks/jobs/8404062"
+ },
  "greenhouse:legion:8015155003": {
   "alias": "gh:legion:8015155003",
   "company": "Legion Technologies",
@@ -1951,6 +2021,13 @@
   "outcome": "Closed",
   "role": "Sales Development Representative",
   "source": "Company board"
+ },
+ "greenhouse:mercury:6268832004": {
+  "company": "Mercury",
+  "first_seen": "2026-11-24T12:45:28.831946+00:00",
+  "outcome": "Excluded (manager)",
+  "role": "Manager - Sales Development",
+  "source": "Feed"
  },
  "greenhouse:newrelic:5480591008": {
   "company": "New Relic",
@@ -2070,7 +2147,7 @@
  "greenhouse:suki:8202889003": {
   "company": "Suki",
   "first_seen": "2026-11-16T12:00:00+00:00",
-  "outcome": "Worth a look (5)",
+  "outcome": "Expired (no action)",
   "role": "Enterprise Customer Success Manager (EST/CST Remote)",
   "source": "Company board",
   "url": "https://www.suki.ai/open-positions?gh_jid=8202889003"
@@ -2093,7 +2170,7 @@
  "greenhouse:toast:8350506": {
   "company": "Toast",
   "first_seen": "2026-11-23T12:46:06.615970+00:00",
-  "outcome": "Referral - apply via referral (fit 7)",
+  "outcome": "Closed",
   "role": "Customer Success Manager II, SMB - On Demand",
   "source": "Feed",
   "url": "https://careers.toasttab.com/jobs?gh_jid=8350506"
@@ -2145,6 +2222,13 @@
   "role": "Senior Sales Engineer (NYC Financials; Michigan)",
   "source": "Company board",
   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5292843007"
+ },
+ "greenhouse:zscaler:5297257007": {
+  "company": "Zscaler",
+  "first_seen": "2026-11-24T12:45:28.831946+00:00",
+  "outcome": "Excluded (Professional Services Consultant rule, senior, size)",
+  "role": "Senior Professional Services Consultant",
+  "source": "Feed"
  },
  "greenhouse:zscaler:5301401007": {
   "company": "Zscaler",
@@ -2291,6 +2375,13 @@
   "role": "Manager, Business Development Team",
   "source": "LinkedIn"
  },
+ "li:4476954831": {
+  "company": "monday.com",
+  "first_seen": "2026-11-24T12:45:28.831946+00:00",
+  "outcome": "Excluded (size)",
+  "role": "Solutions Engineering",
+  "source": "LinkedIn alert"
+ },
  "li:4478739608": {
   "company": "Stripe",
   "first_seen": "2026-11-16T17:18:17.617017+00:00",
@@ -2335,6 +2426,14 @@
   "outcome": "Excluded (location: Seattle)",
   "role": "Customer Success Manager",
   "source": "LinkedIn"
+ },
+ "li:4484861927": {
+  "company": "Lyra Health",
+  "first_seen": "2026-11-24T12:45:28.831946+00:00",
+  "outcome": "Low fit (4, size >1000, senior, 25-50% travel)",
+  "role": "Solutions Consultant",
+  "source": "LinkedIn alert",
+  "url": "https://careers.lyrahealth.com/job/remote/solutions-consultant/43250/89313701648"
  },
  "li:4488901437": {
   "company": "Oracle",
@@ -2478,6 +2577,13 @@
   "source": "LinkedIn",
   "url": "https://www.linkedin.com/jobs/view/4491031013"
  },
+ "li:4493311673": {
+  "company": "Swooped",
+  "first_seen": "2026-11-24T12:45:28.831946+00:00",
+  "outcome": "Excluded (recruiter/aggregator)",
+  "role": "Implementation Manager",
+  "source": "LinkedIn alert"
+ },
  "li:datavant-iem": {
   "company": "Datavant",
   "first_seen": "2026-11-23T12:46:06.615970+00:00",
@@ -2573,6 +2679,14 @@
   "role": "CSM; Customer Onboarding Manager; Onboarding Manager; Enterprise Implementation Specialist",
   "source": "Built In SF"
  },
+ "url:coursedog-sales-se": {
+  "company": "Coursedog",
+  "first_seen": "2026-11-24T12:45:28.831946+00:00",
+  "outcome": "Excluded (posted 2026-10-30, 7+ days)",
+  "role": "Sales Solutions Engineer - Ed Tech",
+  "source": "LinkedIn alert",
+  "url": "https://apply.workable.com/coursedog-1/jobs/view/EBA28E3A5B"
+ },
  "url:estuary.dev-csm": {
   "company": "Estuary",
   "first_seen": "2026-11-15T12:00:00+00:00",
@@ -2581,6 +2695,14 @@
   "source": "Web search (HN)",
   "url": "https://jobs.firstmark.com/companies/estuary-2/jobs/91484648-customer-success-manager",
   "url_note": "unverified - aggregator/board link, confirm on employer site"
+ },
+ "url:ethena-sales-engineer": {
+  "company": "Ethena",
+  "first_seen": "2026-11-24T12:45:28.831946+00:00",
+  "outcome": "Worth a look (5, date unclear, LinkedIn only)",
+  "role": "Sales Engineer",
+  "source": "LinkedIn alert",
+  "url": "https://jobs.lever.co/ethena/0920de25-ca22-4349-b543-45a3c830f113"
  },
  "url:jobs.ashbyhq.com/ramp/ab6902bd-544e-4107-bf3b-b2157ee84aee": {
   "company": "Ramp",
