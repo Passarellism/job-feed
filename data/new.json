@@ -1,106 +1,244 @@
 [
  {
-  "id": "greenhouse:zscaler:5297257007",
-  "company": "Zscaler",
-  "title": "Senior Professional Services Consultant - Zero Trust Branch Specialist",
-  "location": "Remote - USA",
-  "url": "https://job-boards.greenhouse.io/zscaler/jobs/5297257007",
-  "posted": "2026-11-23T21:44:20+00:00",
-  "comp": "$143,500 — $205,000",
+  "id": "greenhouse:fleetio:5308609007",
+  "company": "Fleetio",
+  "title": "Implementation Manager - Enterprise",
+  "location": "Remote - USA | Remote",
+  "url": "https://job-boards.greenhouse.io/fleetio/jobs/5308609007",
+  "posted": "2026-11-24T20:17:42+00:00",
+  "comp": "",
+  "location_tag": "remote-US",
+  "company_tags": [
+   "saas"
+  ],
+  "connections": 0,
+  "first_seen": "2026-11-24T21:16:12.145976+00:00",
+  "years": 5,
+  "excerpt": "A little about us…Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations. Transportation technology is a hot market, and we’re leading the charge with raving fans and new customers signing up every day. We raised $450M in our Series D funding round in March of 2025 and are on an exciting trajectory as a company. Fleetio is also a proud f\n...\nExperience\n 5+ years in customer-facing SaaS implementation, enterprise onboarding, technical project delivery, or a related role, with direct ownership of complex implementations through launch.\n Experience guiding enterprise customers through multi-stakeholder, multi-location, or work-stream deployments.\n Strong project leadership: you can turn customer goals into a workable plan, coordinate parallel work-streams and dependencies, and reset expectations when conditions change.\n Clear, confident communication with customer operators, IT teams, project leads, and executives, including leading discovery, facilitating decisions, and navigating difficult conversations.\n Technical aptitude with data-heavy implementations, including migration, configuration, integrations, testing, and cutover. You know when to involve technical specialists and how to keep customer expectations grounded in confirmed scope.\n A consultative, detail-oriented approach to change management and adoption, with the judgment to manage risk and competing priorities while keeping customers moving toward sustaina"
+ },
+ {
+  "id": "greenhouse:salesloft:8403492",
+  "company": "Salesloft",
+  "title": "Customer Success Manager",
+  "location": "United States, Remote | United States",
+  "url": "https://www.salesloft.com/company/careers?gh_jid=8403492",
+  "posted": "2026-11-24T20:13:55+00:00",
+  "comp": "$115,000 — $140,000",
+  "location_tag": "remote-US",
+  "company_tags": [
+   "saas"
+  ],
+  "connections": 0,
+  "first_seen": "2026-11-24T21:16:12.145976+00:00",
+  "years": null,
+  "excerpt": "Role: Senior Customer Success Manager \nLocation: United States, Remote \n This is a fully remote opportunity and can be worked from any location in the United States. \n ABOUT THE COMPANY: \n Revenue is complex, and clarity is rare. Our mission at Salesloft is to transform revenue complexity into clear, decisive action for every team driving growth.\n We’re building the industry’s first Predictive Rev\n...\nWHAT WE'RE LOOKING FOR \n We are looking for a commercially minded relationship builder who understands that customer success is a revenue discipline, not a support function. You are equally comfortable running an executive business review and digging into usage data to find the signal that tells you where to focus next.\n You embody what we call Evidence Over Ego — you bring data to customer conversations rather than assumption, you let health signals and outcomes guide where you spend your time, and you're honest with customers about what will and won't move them forward. You are proactive by nature, energized by ownership, and motivated by seeing customers win.\n This is the right role if you want to own real commercial outcomes at a company whose platform is redefining how revenue teams operate.\n THE TEAM \n The Salesloft Customer Success organization is responsible for the retention, adoption, and growth of our customer base — the team that ensures the value we sell is the value customers ac"
+ },
+ {
+  "id": "greenhouse:twilio:8350195",
+  "company": "Twilio",
+  "title": "Technical Account Manager",
+  "location": "Remote - US",
+  "url": "https://job-boards.greenhouse.io/twilio/jobs/8350195",
+  "posted": "2026-11-24T19:38:25+00:00",
+  "comp": "$98,800 - $123,500",
+  "location_tag": "remote-US",
+  "company_tags": [
+   "saas"
+  ],
+  "connections": 0,
+  "first_seen": "2026-11-24T21:16:12.145976+00:00",
+  "years": 6,
+  "excerpt": "Who we are \n At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences.\n Our dedication to remote-first work , and strong culture of connection and global inclusion means that no matter your location, you’re p\n...\nQualifications \n Twilio values diverse experiences from all kinds of industries, and we encourage everyone who meets the required qualifications to apply. If your career is just starting or hasn't followed a traditional path, don't let that stop you from considering Twilio. We are always looking for people who will bring something new to the table!\n *Required: \n 6 to 10+ years of relevant experience\n Good knowledge of RESTful technology, previous work with APIs and ability to understand and troubleshoot issues with cloud solutions.\n Broad capabilities to troubleshoot server-side code (Java, Node.js, PHP, C#, Python) and client-side JavaScript, with a good understanding of React and Redux\n Skilled in troubleshooting network connectivity issues, with an understanding of TCP/UDP, and basics of SSL/TLS.\n High competency in communicating complex technical issues to both technical and non-technical audiences via phone or email mediums\n Comfortable in working with customers’ developers to troubleshoot use of the Twilio helper libraries. \n Have an inquisitive mind to understand how thin"
+ },
+ {
+  "id": "greenhouse:conga:5308376007",
+  "company": "Conga",
+  "title": "Lead Sales Engineer",
+  "location": "Remote United States | North America",
+  "url": "https://job-boards.greenhouse.io/conga/jobs/5308376007",
+  "posted": "2026-11-24T18:30:47+00:00",
+  "comp": "$165,281",
+  "location_tag": "remote-US",
+  "company_tags": [
+   "saas",
+   "colorado"
+  ],
+  "connections": 0,
+  "first_seen": "2026-11-24T21:16:12.145976+00:00",
+  "years": null,
+  "excerpt": "A career that’s the whole package! \n At Conga, we’ve built a community where our colleagues can thrive. Here you’ll find opportunities to innovate and support growth through individual and team development, all within an environment where every voice is heard.\n Conga lines up commercial operations so companies run as connected, smarter businesses. By unifying the people and processes that drive commerce, Conga aligns pricing, quoting, contracting, rebates, and communications so teams stay in sync and buyers keep moving forward. The result is trusted decisions, consistent buyer experiences, and profitable growth. More than 10,000 customers worldwide, including over 50% of the Fortune 100®, trust Conga when commercial complexity is high and global impact is on the line. \n Reports to: Sr Manager, Sales Engineering\n Location: Remote - United States (100% remote, telecommute/work from home from anywhere in the U.S. & report to HQ - Houston)\n A quick snapshot…\n As Lead Sales Engineer, you’ll be responsible for managing technical relationships with executive-level leadership during evaluations in complex SaaS assessments.\n Here's the person we're looking for... \n Related Experience. You have a minimum of a Bachelor’s degree in Business Administration, or a related field or equivalent and five (5) years of progressively responsible experience supporting presales activities for growth, commercial and enterprise business opportunities; building and leading technical demonstrations incl"
+ },
+ {
+  "id": "ashby:zip:d212845e-9668-4a01-a30d-0d24c5a4f2b2",
+  "company": "Zip",
+  "title": "AI Forward Deployed Engineer - Applied AI",
+  "location": "San Francisco | San Francisco, California, United States",
+  "url": "https://jobs.ashbyhq.com/zip/d212845e-9668-4a01-a30d-0d24c5a4f2b2",
+  "posted": "2026-11-24T17:08:48.535000+00:00",
+  "comp": "$130,000- $170,000",
+  "location_tag": "remote-US",
+  "company_tags": [
+   "linkedin-follow"
+  ],
+  "connections": 0,
+  "first_seen": "2026-11-24T21:16:12.145976+00:00",
+  "years": 4,
+  "excerpt": "ABOUT ZIP\nZip is the AI platform for enterprise procurement — built for humans and agents working together. By orchestrating procurement across teams, tools, and suppliers with the help of AI agents, companies can secure the resources they need to innovate faster than ever before.\nThe world’s most influential enterprises trust Zip, including T-Mobile, OpenAI, AMD, Mars, Dollar Tree, and more. Toge\n...\nYOU HAVE\n - Thrive in high intensity environments where change and iteration are key to success\n - 4+ years of in-house procurement experience, including implementing procurement tools (ie. Coupa, Ariba etc.)\n - Ownership of a spend portfolio, with software and services deals you negotiated end to end\n - A procurement workflow you designed in a P2P tool, such as intake or PR-to-PO\n - Daily use of AI tools in your own sourcing or contracting work\n - A track record of taking projects from plan to production: setting scope, success criteria and timelines, and delivering against them\n - Experience writing requirements and partnering with engineering and design to ship products\n - A track record of influencing cross-functional partners and leadership without direct authority\n - Ability to prioritize ruthlessly, even if it may disappoint customers or stakeholders\n - Strong written and verbal communication with internal and external stakeholders, including executives\n - Extreme attention "
+ },
+ {
+  "id": "ashby:zip:c5fba54c-37ee-4172-987d-7ff6bbd51d94",
+  "company": "Zip",
+  "title": "AI Forward Deployed Engineer - Procurement",
+  "location": "San Francisco | San Francisco, California, United States",
+  "url": "https://jobs.ashbyhq.com/zip/c5fba54c-37ee-4172-987d-7ff6bbd51d94",
+  "posted": "2026-11-24T16:59:21.679000+00:00",
+  "comp": "$130,000- $170,000",
+  "location_tag": "remote-US",
+  "company_tags": [
+   "linkedin-follow"
+  ],
+  "connections": 0,
+  "first_seen": "2026-11-24T21:16:12.145976+00:00",
+  "years": 4,
+  "excerpt": "ABOUT ZIP\nZip is the AI platform for enterprise procurement — built for humans and agents working together. By orchestrating procurement across teams, tools, and suppliers with the help of AI agents, companies can secure the resources they need to innovate faster than ever before.\nThe world’s most influential enterprises trust Zip, including T-Mobile, OpenAI, AMD, Mars, Dollar Tree, and more. Toge\n...\nYOU HAVE\n - Thrive in high intensity environments where change and iteration are key to success\n - 4+ years of in-house procurement experience, including implementing procurement tools (ie. Coupa, Ariba etc.)\n - Ownership of a spend portfolio, with software and services deals you negotiated end to end\n - A procurement workflow you designed in a P2P tool, such as intake or PR-to-PO\n - Daily use of AI tools in your own sourcing or contracting work\n - A track record of taking projects from plan to production: setting scope, success criteria and timelines, and delivering against them\n - Experience writing requirements and partnering with engineering and design to ship products\n - A track record of influencing cross-functional partners and leadership without direct authority\n - Ability to prioritize ruthlessly, even if it may disappoint customers or stakeholders\n - Strong written and verbal communication with internal and external stakeholders, including executives\n - Extreme attention "
+ },
+ {
+  "id": "ashby:miter:089c4729-a8b3-4a69-98f3-ceecdf17d369",
+  "company": "Miter",
+  "title": "Sales Development Representative, Inbound",
+  "location": "New York City | New York, New York, United States",
+  "url": "https://jobs.ashbyhq.com/miter/089c4729-a8b3-4a69-98f3-ceecdf17d369",
+  "posted": "2026-11-24T15:17:30.447000+00:00",
+  "comp": "$90K • Offers Equity • Offers Commission",
   "location_tag": "remote-US",
   "company_tags": [
    "connection"
   ],
-  "connections": 2,
-  "first_seen": "2026-11-23T22:41:34.124912+00:00",
+  "connections": 1,
+  "first_seen": "2026-11-24T21:16:12.145976+00:00",
   "years": null,
-  "excerpt": "Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 200+ public data centers globally and thousands of private sites at the edge, the SASE-based Zero Trust Exchange is the world’s largest in-line cloud security platform.\n We believe the future of work is Human + AI and are building an AI-native enterprise where human potential is amplified by machine intelligence to solve the world’s hardest security challenges. Driven by deep customer obsession, we are committed to the mission, outcome, and to each other. We bring these commitments to life through three core behaviors: ownership and collaboration, trust through outcomes and impact, and a challenge culture with ongoing feedback. Ready to make an impact at the company pioneering security transformation in the AI era? Join us at Zscaler.\n Role \n We are looking for a Senior Professional Services Consultant – Zero Trust Branch Specialist to join our team. This is a Remote (United States) role reporting to the Director, Professional Services in the Professional Services department. As a key field resource, you will deliver deployment advisory and implementation services to enterprise customers adopting the Zscaler Zero Trust Exchange platform, focusing on Zero Trust Br"
+  "excerpt": "A BETTER BUILT WORLD https://www.miter.com/resources/a-better-built-world/\nAt Miter, we’re on a mission to help construction contractors build with confidence. If we’re successful, we’ll make it easier and faster to build critical physical infrastructure - roads, bridges, utilities, data centers, housing, etc.\nFor decades, construction and field services contractors have had to run their businesse\n...\nWhat You’ll Need:\n - No prior experience required — prior SDR work, cold calling, or transferable experience from college (athletics, leadership, part-time sales) is a plus\n - Highly organized — you can juggle a high volume of inbound leads and follow-ups, staying on top of every prospect without letting anything slip through the cracks\n - Strong written and verbal communication — as the first point of contact at Miter, you’re energetic, personable, and make a great first impression\n - A natural relationship builder who partners closely with AEs, asks sharp questions, and stays genuinely curious about every prospect\n - Self-motivated and coachable, with a strong desire to build a long-term career in Sales\n - Grit, resilience, and a strong work ethic — you bring consistent energy and bounce back quickly from a “no”\n - A true team player above all — you win as a team and lift up the people around you\nOur Interview Process:\n -"
  },
  {
-  "id": "greenhouse:mercury:6268832004",
-  "company": "Mercury",
-  "title": "Manager - Sales Development",
-  "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within United States | Any Office or Remote",
-  "url": "https://job-boards.greenhouse.io/mercury/jobs/6268832004",
-  "posted": "2026-11-23T21:05:48+00:00",
-  "comp": "$137,200 — $171,500",
+  "id": "ashby:miter:444921ab-1a8a-4482-b92d-f59596882713",
+  "company": "Miter",
+  "title": "Sales Development Representative, Outbound",
+  "location": "New York City | New York, New York, United States",
+  "url": "https://jobs.ashbyhq.com/miter/444921ab-1a8a-4482-b92d-f59596882713",
+  "posted": "2026-11-24T15:17:17.525000+00:00",
+  "comp": "$90K • Offers Equity • Offers Commission",
+  "location_tag": "remote-US",
+  "company_tags": [
+   "connection"
+  ],
+  "connections": 1,
+  "first_seen": "2026-11-24T21:16:12.145976+00:00",
+  "years": null,
+  "excerpt": "A BETTER BUILT WORLD https://www.miter.com/resources/a-better-built-world/\nAt Miter, we’re on a mission to help construction contractors build with confidence. If we’re successful, we’ll make it easier and faster to build critical physical infrastructure - roads, bridges, utilities, data centers, housing, etc.\nFor decades, construction and field services contractors have had to run their businesse\n...\nWhat You’ll Need:\n - No prior experience required — prior SDR work, cold calling, or outbound prospecting is a plus, along with athletic, competitive, or leadership experience\n - Strong written and verbal communication, with the confidence to pick up the phone and make a strong first impression with cold prospects\n - Grit, resilience, and a strong work ethic — you bounce back quickly from a “no” and bring consistent energy every day\n - A natural relationship builder who partners closely with AEs, asks sharp questions, and gets creative about breaking into target accounts\n - Self-motivated and coachable, with a genuine desire to build a long-term career in Sales\n - A true team player above all — you win as a team and lift up the people around you\nOur Interview Process:\n - Recruiter Screen\n - Hiring Manager Interview\n - Take Home Assignment\n - Final Executive Interview\nOUR BENEFITS:\n - Competitive Compensation: We offer competitive (well above “market”) salary, commission, and equity packages.\n - Med"
+ },
+ {
+  "id": "ashby:plaid:b93abf51-f064-4923-ada8-7cc78c8939e8",
+  "company": "Plaid",
+  "title": "Business Development Representative - Enterprise",
+  "location": "San Francisco HQ | San Francisco, California, United States",
+  "url": "https://jobs.ashbyhq.com/plaid/b93abf51-f064-4923-ada8-7cc78c8939e8",
+  "posted": "2026-11-24T14:37:40.031000+00:00",
+  "comp": "$91,995 – $106,971 • Offers Equity • Offers Commission • Multiple Ranges",
   "location_tag": "remote-US",
   "company_tags": [
    "fintech",
    "linkedin-follow"
   ],
-  "connections": 2,
-  "first_seen": "2026-11-23T22:41:34.124912+00:00",
-  "years": 2,
-  "excerpt": "At Mercury, we’re building banking* for ambitious companies. More than 450,000 businesses use Mercury to manage their finances. In May 2026, we raised $200 million at a $5.2 billion valuation. By then, we’d reached $650 million in annualized revenue and had been profitable for four years.\n Sales Development has helped Mercury reach startup founders from their earliest days. As we grow, we’re taking on a new challenge alongside that work. How we earn a conversation with a founder who just raised funding looks different from how we earn one with the owner of an established agency. We’re looking for a Manager, Sales Development who’s excited to help us figure that out and coach a team to do it well.\n You’ll hire and develop SDRs, own your team’s pipeline goals, and partner with Account Executives to understand which conversations turn into customers and why. One week, you might coach a rep through a cold call that keeps stalling at the same objection. The next, you might take a message that’s opening doors for one SDR and test whether it works across an entire segment. As the team grows, the people you develop and the playbooks you build will shape how Mercury reaches its next customers.\n *Mercury is a fintech company, not an FDIC-insured bank. Banking services provided through Choice Financial Group and Column N.A., Members FDIC. \n Here are some things you’ll do on the job: \n Lead & Coach: Provide high-impact 1:1 coaching to a group of SDRs focused on driving pipeline generatio"
+  "connections": 0,
+  "first_seen": "2026-11-24T21:16:12.145976+00:00",
+  "years": 1,
+  "excerpt": "We believe that the way people interact with their finances will drastically improve in the next few years. We’re dedicated to empowering this transformation by building the tools and experiences that thousands of developers use to create their own products. Plaid powers the tools millions of people rely on to live a healthier financial life. We work with thousands of companies like Venmo, SoFi, s\n...\nQUALIFICATIONS\n - Experience: 1–3 years of experience in pipeline development, account mapping, or sales (preferably within Enterprise SaaS or complex technical environments).\n - Enterprise Navigating: Proven ability to map multi-stakeholder organizations and navigate complex procurement, legal, or security hurdles conceptually.\n - Strategic Communication: Exceptional ability to evangelize Plaid’s value proposition and translate a highly technical product into clear, ROI-driven business value for enterprise executives.\n - Thriving in Complexity: The ability to thrive in a high-impact, strategic, and quality-driven environment (prioritizing account depth over raw customer volume).\n - Technical Aptitude: Experience working with customers on technical products. You must have a high degree of intellectual curiosity and an eagerness to master the ins and outs of Plaid's APIs, security standards, and compliance frameworks.\n - Resilient Mindset: A relentless, consultative mindset with a passion for solving big problems and a d"
  },
  {
-  "id": "ashby:ramp:8efd3a0a-fc66-46e2-9415-bffba10e2919",
-  "company": "Ramp",
-  "title": "AI Solutions Engineer",
-  "location": "New York, NY (HQ) | San Francisco, CA | Boston, MA | Chicago, IL | Denver, CO | Miami, FL | New York City, NY, USA",
-  "url": "https://jobs.ashbyhq.com/ramp/8efd3a0a-fc66-46e2-9415-bffba10e2919",
-  "posted": "2026-11-23T16:55:06.572000+00:00",
-  "comp": "$119K – $275K • Offers Equity • Multiple Ranges",
-  "location_tag": "CO",
+  "id": "ashby:plaid:f91d3207-247f-4e51-babb-24336904bb41",
+  "company": "Plaid",
+  "title": "Business Development Representative - Banking & Wealth",
+  "location": "New York City Office | New York, New York, United States",
+  "url": "https://jobs.ashbyhq.com/plaid/f91d3207-247f-4e51-babb-24336904bb41",
+  "posted": "2026-11-24T14:37:20.676000+00:00",
+  "comp": "$91,995 – $106,971 • Offers Equity • Offers Commission • Multiple Ranges",
+  "location_tag": "remote-US",
   "company_tags": [
    "fintech",
    "linkedin-follow"
   ],
-  "connections": 6,
-  "first_seen": "2026-11-23T22:41:34.124912+00:00",
-  "years": null,
-  "excerpt": "ABOUT RAMP\nRamp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $275B in annualized spend flows in and out of 85,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books.\nThe problems are high-stakes, data-dense, and unforgiving.\nWe hire people with high agency and high urgency. We look for slope over intercept. We care less about where you trained and more about what you’ve built. At Ramp, everyone is a builder who owns problems end to end and makes consequential decisions that shape the outcome.\nThe median Ramp customer saves 7.5% and grows revenue 16% in their first year – far in excess of businesses operating without Ramp. We believe every ambitious company deserves the same.\nIf you want to build systems that directly shape how companies move and manage billions, Ramp is the place to do it.\nABOUT THE ROLE\nRamp is building a new AI business, and you’ll be one of its first technical sellers. Your job is to turn technically complex AI products into closed revenue.\nYou’ll sell a growing portfolio spanning AI-powered applications and agents for finance teams, as well as infrastructure that helps companies deploy and manage AI with greater control, security, and cost efficiency. This is a product-focused, quota-carrying technical sales role. You’ll help customers evaluate and purchase Ramp’s AI products, translating complex capabilities into clear b"
+  "connections": 0,
+  "first_seen": "2026-11-24T21:16:12.145976+00:00",
+  "years": 1,
+  "excerpt": "We believe that the way people interact with their finances will drastically improve in the next few years. We’re dedicated to empowering this transformation by building the tools and experiences that thousands of developers use to create their own products. Plaid powers the tools millions of people rely on to live a healthier financial life. We work with thousands of companies like Venmo, SoFi, s\n...\nQUALIFICATIONS\n - 1-3 years of experience in pipeline development and/or sales (preferably at a SaaS or Fintech company).\n - Leading high-level conversations with banking and wealth management stakeholders.\n - The ability to evangelize Plaid’s value proposition in order to assess buying interest from traditional and modern financial institutions alike.\n - The ability to thrive in a high customer volume, time-sensitive environment.\n - Having a relentless mindset and unwillingness to quit.\n - Proficiency in using Salesforce.com http://Salesforce.com or other CRM.\n - Experience working with customers and explaining technical products. Strong interest in the financial services industry, market trends, and technical products; a high degree of intellectual curiosity.\n - Excitement to work in a high-growth environment and to help build processes and tools as needed.\n - Desire to get (more) technical and the ability to learn the ins and outs of Plaid's APIs (specifically our Investments, Auth, and Identity products).\nNote on Applying: Please submit only one application across our New Bu"
  },
  {
-  "id": "greenhouse:justworks:8404062",
-  "company": "Justworks",
-  "title": "Customer Onboarding Manager",
-  "location": "New York, New York | New York, NY",
-  "url": "https://boards.greenhouse.io/justworks/jobs/8404062?gh_jid=8404062",
-  "posted": "2026-11-23T14:49:58+00:00",
-  "comp": "",
+  "id": "ashby:plaid:7203c5b9-ae19-4478-84ea-85a11d438174",
+  "company": "Plaid",
+  "title": "Business Development Representative - Fintech",
+  "location": "New York City Office | New York, New York, United States",
+  "url": "https://jobs.ashbyhq.com/plaid/7203c5b9-ae19-4478-84ea-85a11d438174",
+  "posted": "2026-11-24T14:37:05.500000+00:00",
+  "comp": "$91,995 – $106,971 • Offers Equity • Offers Commission • Multiple Ranges",
+  "location_tag": "remote-US",
+  "company_tags": [
+   "fintech",
+   "linkedin-follow"
+  ],
+  "connections": 0,
+  "first_seen": "2026-11-24T21:16:12.145976+00:00",
+  "years": 1,
+  "excerpt": "We believe that the way people interact with their finances will drastically improve in the next few years. We’re dedicated to empowering this transformation by building the tools and experiences that thousands of developers use to create their own products. Plaid powers the tools millions of people rely on to live a healthier financial life. We work with thousands of companies like Venmo, SoFi, s\n...\nQUALIFICATIONS\n - 1-3 years of experience in pipeline development and/or sales (preferably at a SaaS, Fintech, or developer-first tech company).\n - Leading high-level conversations with tech-savvy founders, product managers, and engineering stakeholders.\n - The ability to evangelize Plaid’s value proposition in order to assess buying interest from fast-moving, digital-first innovators.\n - The ability to thrive in a high customer volume, time-sensitive environment.\n - Having a relentless mindset and an unwillingness to quit when penetrating competitive markets.\n - Proficiency in using Salesforce.com http://Salesforce.com or other CRM.\n - Experience working with customers and explaining deeply technical products. Strong interest in the broader fintech landscape, startup funding trends, and API architecture; a high degree of intellectual curiosity.\n - Excitement to work in a high-growth environment and to help build agile processes and tools as needed.\n - Desire to get (more) technical and the ability to master the ins and outs of Plaid's entire developer ecosystem (including Auth,"
+ },
+ {
+  "id": "ashby:airwallex:ef0f8894-1a69-480a-a080-8e25afabd23a",
+  "company": "Airwallex",
+  "title": "Implementation Manager - Embedded Finance",
+  "location": "US - San Francisco | San Francisco, California, United States",
+  "url": "https://jobs.ashbyhq.com/airwallex/ef0f8894-1a69-480a-a080-8e25afabd23a",
+  "posted": "2026-11-24T04:33:04.357000+00:00",
+  "comp": "$150K – $250K • Offers Equity • Offers Bonus",
+  "location_tag": "remote-US",
+  "company_tags": [
+   "fintech"
+  ],
+  "connections": 0,
+  "first_seen": "2026-11-24T21:16:12.145976+00:00",
+  "years": 5,
+  "excerpt": "ABOUT AIRWALLEX\nAirwallex is the AI-native financial operating system for a real-time, intelligent economy. More than 675,000 businesses, including McLaren Racing, Qantas, SHEIN, and TikTok, use us, directly or through our platform partners, to run their financial operations or build and monetize financial products of their own.\nWe started in Melbourne in 2015 to build the infrastructure global co\n...\nWHAT WE'RE LOOKING FOR\nEssentials\n - A bachelor’s degree in a related field.\n - 5+ years of experience in product delivery management or project management, managing complex, multi-stakeholder technology or financial services implementations.\n - 5+ years of professional services or client-facing delivery experience in a fast-paced environment, such as consulting, systems integration, or enterprise implementation.\n - Experience with global payment products or technology-led business solutions, with the ability to translate product capabilities into practical integration plans for partners.\n - A track record of successfully delivering cross-functional projects with stakeholders from diverse backgrounds and functions, including C-level executives, technical teams, and operations.\n - Exceptional written, verbal, and presentation skills, including the ability to lead steering meetings, write clear status updates, and influence decisions without direct authority.\n - Hands-on experience working with or alongside integration engineers, solution architects, or technical program managers "
+ },
+ {
+  "id": "ashby:sentry:32395b43-7e93-4bfc-8e2d-769222d10812",
+  "company": "Sentry",
+  "title": "Sales Engineer",
+  "location": "San Francisco, California | San Francisco, California, United States",
+  "url": "https://jobs.ashbyhq.com/sentry/32395b43-7e93-4bfc-8e2d-769222d10812",
+  "posted": "2026-11-23T23:09:14.727000+00:00",
+  "comp": "$150K – $200K • Offers Equity • Offers Commission",
+  "location_tag": "remote-US",
+  "company_tags": [
+   "saas"
+  ],
+  "connections": 0,
+  "first_seen": "2026-11-24T21:16:12.145976+00:00",
+  "years": 3,
+  "excerpt": "ABOUT SENTRY\nSoftware runs the world and the pace is faster than ever. Sentry helps developers fix errors and performance issues before users notice, so teams can spend less time firefighting and more time building.\nTrusted by 200,000+ organizations, Sentry is today’s application monitoring standard and our team is building its AI-native future.\nABOUT THE ROLE\nSentry is growing our North America S\n...\nQUALIFICATIONS\n - 3+ years as a Pre-Sales Engineer (preferred), Implementation Consultant, or Software Developer with experience leading projects, presenting solutions, and/or working with customers\n - Experience developing mobile apps with native (iOS, Android) or multi-platform (React Native, Flutter) highly desired\n - Hands-on experience working with programming languages including: JavaScript, Java, Swift/Cocoa, Python, Go, .NET, Ruby, Node.js, etc\n - Experience with performance monitoring, Open Telemetry and code instrumentation desired but not required\n - Excellent communication and presentation skills\n - Preference for working in a fast-paced, task switching, ambiguous, process guided environment\n - Understanding of sales processes in a high transaction sales environment\n - Experience selling and working with pure SaaS solutions (experience selling/implementing infrastructure tools is a plus) and proven track record of success driving revenue through technical interactions with prospects\n - BS Degree in Engineering (preferably Computer Science/Engineering)\nThe on target e"
+ },
+ {
+  "id": "greenhouse:datadog:8380309",
+  "company": "Datadog",
+  "title": "Manager 2, Forward Deployed Engineering - Implementation Services",
+  "location": "New York, New York, USA | New York",
+  "url": "https://careers.datadoghq.com/detail/8380309/?gh_jid=8380309",
+  "posted": "2026-11-23T17:11:10+00:00",
+  "comp": "$180,000 — $240,000",
   "location_tag": "relocation-NYC/SF",
   "company_tags": [
    "saas"
   ],
-  "connections": 1,
-  "first_seen": "2026-11-23T22:41:34.124912+00:00",
-  "years": null,
-  "excerpt": "Who We Are \n At Justworks, you’ll enjoy a welcoming and casual environment, great benefits, wellness program offerings, company retreats, and the ability to interact with and learn from leaders in the startup community. We work hard and care about our most prized asset - our people. \n We’re helping businesses get off the ground by enabling them to focus on running their business. We solve HR issue\n...\nWho You Are \n As an Onboarding Manager, you are a trusted partner to new customers and a critical driver of successful implementations. You bring a consultative, service-first approach to your work, balancing structured execution with the ability to tailor onboarding experiences to meet customer needs.\n You are skilled at managing multiple stakeholders and navigating ambiguity, ensuring alignment across customers and internal teams. You take ownership of the onboarding process end-to-end, proactively managing timelines, identifying risks, and driving outcomes.\n You are confident leading customer conversations, asking thoughtful questions to understand goals, and translating those insights into actionable onboarding plans. You are a strong communicator who can explain complex concepts clearly and guide customers toward best practices.\n You are adaptable and solution-oriented, able to troubleshoot challenges and make informed decisions that keep onboarding on track. You are continuously refining your approach and contributing to a high standard of customer experience.\n Your Succes"
- },
- {
-  "id": "ashby:dailypay:ef221487-9763-4b54-89ee-14ec3cebad70",
-  "company": "DailyPay",
-  "title": "BDR Manager",
-  "location": "NYC Headquarters | New York, New York, United States",
-  "url": "https://jobs.ashbyhq.com/dailypay/ef221487-9763-4b54-89ee-14ec3cebad70",
-  "posted": "2026-11-23T11:53:13.896000+00:00",
-  "comp": "$105K – $115K • Offers Commission",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-23T22:41:34.124912+00:00",
-  "years": 2,
-  "excerpt": "About Us:\nDailyPay is the leader in On-Demand Pay, helping employers modernize how people get their pay. DailyPay serves more than 1,900 employers and over 6 million employees, including many of the world's most recognized brands. By providing real-time access to earned pay and financial wellness tools, DailyPay helps employees manage their finances and helps employers attract and retain talent. D\n...\nskills\n - Proficiency in CRM and sales automation tools (e.g., Salesforce, Salesloft)\n - Ability to excel in a fast-paced, high-pressure environment\n - Bachelor's degree in business, marketing, or a related field\nWHAT WE OFFER:\n - Exceptional health, vision, and dental care\n - Opportunity for equity ownership\n - Life and AD&D, short- and long-term disability\n - Employee Assistance Program\n - Employee Resource Groups\n - Fun company outings and events\n - Unlimited PTO\n - 401K with company match\nDailyPay is committed to fostering an inclusive, equitable culture of belonging, grounded in empathy and respect, which values openness to opinions, awareness of lived experiences, fair treatment and access for all. We strive to build and develop diverse teams to create an organization where innovation thrives, where the full potential of each person is engaged, and their views, beliefs and values are integrated into our ways of working.\nWe encourage people of all backgrounds to join us on our mission. If you require reasonable accommodation for any aspect of the recruitment process, please"
- },
- {
-  "id": "ashby:elevenlabs:7758cdc5-b5c9-4a5c-8c80-11678f7cba9d",
-  "company": "ElevenLabs",
-  "title": "Deployment Strategist, Public Sector (Federal & SLED) - North America",
-  "location": "United States | Washington, D.C.",
-  "url": "https://jobs.ashbyhq.com/ElevenLabs/7758cdc5-b5c9-4a5c-8c80-11678f7cba9d",
-  "posted": "2026-11-22T20:50:48.868000+00:00",
-  "comp": "",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00",
-  "years": null,
-  "excerpt": "ABOUT ELEVENLABS\nElevenLabs is an AI research and product company transforming how we interact with technology.\nWe launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always.\nWe have expanded from voice into three main platforms:\n - ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale.\n - ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages.\n - ElevenAPI gives developers access to our leading AI audio foundational models.\nEverything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you.\nHOW WE WORK\n - High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy.\n - Impact not job titles: We don’t have job titles. Instead, it’s about the impact you have. No task is above or benea"
+  "connections": 2,
+  "first_seen": "2026-11-24T21:16:12.145976+00:00",
+  "years": 3,
+  "excerpt": "Datadog’s Implementation Services team leads end-to-end deployment and optimization projects. Our Forward Deployed Engineers (FDEs) own the discovery, design, and build of the Datadog platform in customer environments, helping customers get to value faster.\n As a Manager for FDE, you’ll lead the engineers behind our most complex engagements: deploying Datadog at scale, migrating customers off lega\n...\nexperience\n Who you are \n You have 8+ years in software engineering, SRE, DevOps, platform engineering, or customer-facing technical roles, and 3+ years of people management experience leading engineers or technical consultants\n You collaborate credibly with Engineering and Product teams, weigh in on architecture and design tradeoffs, and can read, review, and write production-grade code\n You have a strong grasp of SDLC fundamentals and what great build looks like (design reviews, testing strategy, CI/CD, release management, production readiness)\n You know at least one major cloud well (AWS, GCP or Azure), along with strong fundamentals in Kubernetes, Terraform or Ansible, and CI/CD, and have hands-on observability experience with Datadog or a comparable platform\n You’re comfortable in front of customers: you can run technical discovery, build trust with engineering leaders, present to technical and executive audiences, and turn field experience into sharp, actionable feedback for Product and Engineering\n Able to sit up to 4 hours, traveling to and from client sites. Able to tra"
  }
 ]
