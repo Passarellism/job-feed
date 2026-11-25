@@ -1,7 +1,7 @@
 {
  "companies": 422,
  "boards_found": 298,
- "jobs_scanned": 15983,
+ "jobs_scanned": 15942,
  "by_ats": {
   "workable": 39,
   "greenhouse": 112,
@@ -24,12 +24,12 @@
   }
  ],
  "dropped": {
-  "title": 14450,
+  "title": 14404,
   "location": 731,
-  "age": 713,
+  "age": 704,
   "pay": 5
  },
- "run_at": "2026-11-24T21:16:12.145976+00:00",
- "matched_open": 79,
- "new": 14
+ "run_at": "2026-11-25T20:29:28.190999+00:00",
+ "matched_open": 89,
+ "new": 12
 }

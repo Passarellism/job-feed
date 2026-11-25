@@ -144,6 +144,24 @@
   "first_seen": "2026-11-18T19:25:15.990736+00:00"
  },
  {
+  "id": "ashby:ramp:220e674a-fc70-439f-bacf-687553ca59c9",
+  "company": "Ramp",
+  "title": "Solutions Consultant, Commercial",
+  "location": "Remote (US) | Remote (Canada) | San Francisco, CA | New York, NY (HQ) | Toronto, ON | Miami, FL | United States",
+  "remote": true,
+  "url": "https://jobs.ashbyhq.com/ramp/220e674a-fc70-439f-bacf-687553ca59c9",
+  "posted": "2026-11-25T20:23:25.735000+00:00",
+  "comp": "$119K – $189K • Offers Equity • Multiple Ranges",
+  "ats": "ashby",
+  "location_tag": "remote-US",
+  "company_tags": [
+   "fintech",
+   "linkedin-follow"
+  ],
+  "connections": 6,
+  "first_seen": "2026-11-25T20:29:28.190999+00:00"
+ },
+ {
   "id": "ashby:ramp:8efd3a0a-fc66-46e2-9415-bffba10e2919",
   "company": "Ramp",
   "title": "AI Solutions Engineer",
@@ -198,13 +216,13 @@
   "first_seen": "2026-11-17T19:52:47.659938+00:00"
  },
  {
-  "id": "greenhouse:brex:8950778002",
+  "id": "greenhouse:brex:8950781002",
   "company": "Brex",
   "title": "Accounting Partnerships Manager",
-  "location": "New York, New York, United States | New York, NY | San Francisco, CA | San Francisco, California, United States | New York, NY | San Francisco, CA",
+  "location": "San Francisco, California, United States | New York, NY | San Francisco, CA | New York, New York, United States | New York, NY | San Francisco, CA",
   "remote": null,
-  "url": "https://www.brex.com/careers/8950778002?gh_jid=8950778002",
-  "posted": "2026-11-18T22:23:02+00:00",
+  "url": "https://www.brex.com/careers/8950781002?gh_jid=8950781002",
+  "posted": "2026-11-18T22:23:54+00:00",
   "comp": "$135,600 - $169,500",
   "ats": "greenhouse",
   "location_tag": "relocation-NYC/SF",
@@ -213,7 +231,25 @@
    "linkedin-follow"
   ],
   "connections": 0,
-  "first_seen": "2026-11-19T19:30:00.086965+00:00"
+  "first_seen": "2026-11-21T17:59:55.153216+00:00"
+ },
+ {
+  "id": "greenhouse:brex:8962370002",
+  "company": "Brex",
+  "title": "Embedded Implementation Consultant",
+  "location": "Seattle, Washington, United States | New York, NY | Salt Lake City, UT | San Francisco, CA | Seattle, WA | Vancouver | Vancouver, British Columbia, Canada | New York, NY | Salt Lake City, UT | San Francisco, CA | Seattle, WA | Vancouver | Salt Lake City, Utah, United States | New York, NY | Salt Lake City, UT | San Francisco, CA | Seattle, WA | Vancouver | San Francisco, California, United States | New York, NY | Salt Lake City, UT | San Francisco, CA | Seattle, WA | Vancouver | New York, New York, United States | New York, NY | Salt Lake City, UT | San Francisco, CA | Seattle, WA | Vancouver",
+  "remote": null,
+  "url": "https://www.brex.com/careers/8962370002?gh_jid=8962370002",
+  "posted": "2026-11-25T16:53:35+00:00",
+  "comp": "$119,328 - $181,930",
+  "ats": "greenhouse",
+  "location_tag": "relocation-NYC/SF",
+  "company_tags": [
+   "fintech",
+   "linkedin-follow"
+  ],
+  "connections": 0,
+  "first_seen": "2026-11-25T20:29:28.190999+00:00"
  },
  {
   "id": "greenhouse:mercury:6268832004",
@@ -319,23 +355,6 @@
   "first_seen": "2026-11-24T21:16:12.145976+00:00"
  },
  {
-  "id": "ashby:secureframe:e9a31be3-be71-4490-b77e-bdecafe9ca49",
-  "company": "Secureframe",
-  "title": "Presales Solutions Engineer, GRC",
-  "location": "New York, NY | New York, New York, United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/secureframe/e9a31be3-be71-4490-b77e-bdecafe9ca49",
-  "posted": "2026-11-18T14:55:06.875000+00:00",
-  "comp": "$150K – $175K",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-18T19:25:15.990736+00:00"
- },
- {
   "id": "ashby:secureframe:f7d8854b-f23b-42a7-9ac1-6d09bd885160",
   "company": "Secureframe",
   "title": "Presales Solutions Engineer, Defense",
@@ -371,6 +390,24 @@
   "first_seen": "2026-11-16T21:04:06.757118+00:00"
  },
  {
+  "id": "ashby:claylabs:72660287-4da2-4b23-8dcf-f5ce8a998e3b",
+  "company": "Clay",
+  "title": "Partner Manager, Solutions Partners",
+  "location": "New York | New York, NY, United States",
+  "remote": true,
+  "url": "https://jobs.ashbyhq.com/claylabs/72660287-4da2-4b23-8dcf-f5ce8a998e3b",
+  "posted": "2026-11-25T17:58:01.492000+00:00",
+  "comp": "",
+  "ats": "ashby",
+  "location_tag": "remote-US",
+  "company_tags": [
+   "saas",
+   "linkedin-follow"
+  ],
+  "connections": 0,
+  "first_seen": "2026-11-25T20:29:28.190999+00:00"
+ },
+ {
   "id": "lever:outreach:b7eb292a-f68f-4266-b67a-049c6cafba48",
   "company": "Outreach",
   "title": "Senior Forward Deployed Engineer, Managed Services",
@@ -387,40 +424,6 @@
   ],
   "connections": 0,
   "first_seen": "2026-11-19T19:30:00.086965+00:00"
- },
- {
-  "id": "greenhouse:salesloft:8403492",
-  "company": "Salesloft",
-  "title": "Customer Success Manager",
-  "location": "United States, Remote | United States",
-  "remote": null,
-  "url": "https://www.salesloft.com/company/careers?gh_jid=8403492",
-  "posted": "2026-11-24T20:13:55+00:00",
-  "comp": "$115,000 — $140,000",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-24T21:16:12.145976+00:00"
- },
- {
-  "id": "greenhouse:salesloft:8386104",
-  "company": "Salesloft",
-  "title": "Senior GTM Engineer",
-  "location": "United States, Remote | United States",
-  "remote": null,
-  "url": "https://www.salesloft.com/company/careers?gh_jid=8386104",
-  "posted": "2026-11-16T20:25:16+00:00",
-  "comp": "$87,000 — $149,000",
-  "ats": "greenhouse",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-16T21:04:06.757118+00:00"
  },
  {
   "id": "ashby:attio:72c41b8f-7a33-4285-8204-fff00ca4b9c8",
@@ -576,6 +579,41 @@
   "first_seen": "2026-11-21T17:59:55.153216+00:00"
  },
  {
+  "id": "ashby:ashby:dd3601fc-3a21-467b-aaff-43fceb65864b",
+  "company": "Ashby",
+  "title": "SMB Customer Success Manager - Americas",
+  "location": "Remote - US | Remote - Canada | United States",
+  "remote": true,
+  "url": "https://jobs.ashbyhq.com/Ashby/dd3601fc-3a21-467b-aaff-43fceb65864b",
+  "posted": "2026-11-24T22:22:43.594000+00:00",
+  "comp": "$80K – $138K • Offers Equity • Multiple Ranges",
+  "ats": "ashby",
+  "location_tag": "remote-US",
+  "company_tags": [
+   "saas",
+   "linkedin-follow"
+  ],
+  "connections": 1,
+  "first_seen": "2026-11-15T20:19:26.903438+00:00"
+ },
+ {
+  "id": "greenhouse:checkr:8411552",
+  "company": "Checkr",
+  "title": "Customer Success Implementation Manager",
+  "location": "Denver, Colorado, United States; San Francisco, California, United States | San Francisco",
+  "remote": null,
+  "url": "https://job-boards.greenhouse.io/checkr/jobs/8411552",
+  "posted": "2026-11-25T19:56:48+00:00",
+  "comp": "$151,000 — $178,000",
+  "ats": "greenhouse",
+  "location_tag": "CO",
+  "company_tags": [
+   "saas"
+  ],
+  "connections": 0,
+  "first_seen": "2026-11-25T20:29:28.190999+00:00"
+ },
+ {
   "id": "greenhouse:checkr:8399435",
   "company": "Checkr",
   "title": "Customer Success Implementation Specialist",
@@ -661,13 +699,13 @@
   "first_seen": "2026-11-24T21:16:12.145976+00:00"
  },
  {
-  "id": "greenhouse:datadog:8402937",
+  "id": "greenhouse:datadog:8384194",
   "company": "Datadog",
   "title": "National Partner Manager",
-  "location": "Texas, USA, Remote | Atlanta | Boston | Chicago | Denver | New York | Remote - Texas | San Francisco | Atlanta, Georgia, USA; Boston, Massachusetts, USA; Chicago, Illinois, USA; Denver, Colorado, USA; New York, New York, USA; San Francisco, California, USA | Atlanta | Boston | Chicago | Denver | New York | Remote - Texas | San Francisco",
+  "location": "Atlanta, Georgia, USA; Boston, Massachusetts, USA; Chicago, Illinois, USA; Denver, Colorado, USA; New York, New York, USA; San Francisco, California, USA | Atlanta | Boston | Chicago | Denver | New York | Remote - Texas | San Francisco | Texas, USA, Remote | Atlanta | Boston | Chicago | Denver | New York | Remote - Texas | San Francisco",
   "remote": null,
-  "url": "https://careers.datadoghq.com/detail/8402937/?gh_jid=8402937",
-  "posted": "2026-11-19T19:01:24+00:00",
+  "url": "https://careers.datadoghq.com/detail/8384194/?gh_jid=8384194",
+  "posted": "2026-11-19T19:01:21+00:00",
   "comp": "$113,000 — $150,000",
   "ats": "greenhouse",
   "location_tag": "CO",
@@ -675,7 +713,7 @@
    "saas"
   ],
   "connections": 2,
-  "first_seen": "2026-11-19T19:30:00.086965+00:00"
+  "first_seen": "2026-11-20T19:07:54.875478+00:00"
  },
  {
   "id": "greenhouse:grafanalabs:6265447004",
@@ -727,6 +765,23 @@
   ],
   "connections": 0,
   "first_seen": "2026-11-18T19:25:15.990736+00:00"
+ },
+ {
+  "id": "ashby:modal:44b57790-528e-4f97-8613-03564316be8a",
+  "company": "Modal",
+  "title": "Customer Engineer",
+  "location": "New York | San Francisco | new york, new york, United States",
+  "remote": false,
+  "url": "https://jobs.ashbyhq.com/modal/44b57790-528e-4f97-8613-03564316be8a",
+  "posted": "2026-11-25T18:58:26.261000+00:00",
+  "comp": "$150K – $200K • Offers Equity",
+  "ats": "ashby",
+  "location_tag": "relocation-NYC/SF",
+  "company_tags": [
+   "saas"
+  ],
+  "connections": 0,
+  "first_seen": "2026-11-25T20:29:28.190999+00:00"
  },
  {
   "id": "ashby:elevenlabs:09936411-899b-466d-aae7-54f6873caea0",
@@ -798,6 +853,24 @@
   "first_seen": "2026-11-20T19:07:54.875478+00:00"
  },
  {
+  "id": "ashby:openai:eb3b695e-6c60-4875-b8bc-8f4d5d8a9bbb",
+  "company": "OpenAI",
+  "title": "Solutions Engineer, Ads Solutions - NYC",
+  "location": "San Francisco | San Francisco, California, United States",
+  "remote": false,
+  "url": "https://jobs.ashbyhq.com/openai/eb3b695e-6c60-4875-b8bc-8f4d5d8a9bbb",
+  "posted": "2026-11-25T02:03:01.866000+00:00",
+  "comp": "$234K – $260K • Offers Equity",
+  "ats": "ashby",
+  "location_tag": "relocation-NYC/SF",
+  "company_tags": [
+   "saas",
+   "linkedin-follow"
+  ],
+  "connections": 0,
+  "first_seen": "2026-11-15T20:41:38.452073+00:00"
+ },
+ {
   "id": "greenhouse:samsara:8400979",
   "company": "Samsara",
   "title": "Customer Success Adoption Specialist",
@@ -865,6 +938,42 @@
   ],
   "connections": 0,
   "first_seen": "2026-11-15T20:19:26.903438+00:00"
+ },
+ {
+  "id": "greenhouse:omadahealth:8397950",
+  "company": "Omada Health",
+  "title": "Consultant Relations, Business Development Rep (BDR)",
+  "location": "Remote, USA | Remote",
+  "remote": null,
+  "url": "https://job-boards.greenhouse.io/omadahealth/jobs/8397950",
+  "posted": "2026-11-24T22:49:27+00:00",
+  "comp": "$195,640 - $211,970",
+  "ats": "greenhouse",
+  "location_tag": "remote-US",
+  "company_tags": [
+   "healthtech",
+   "linkedin-follow"
+  ],
+  "connections": 0,
+  "first_seen": "2026-11-25T20:29:28.190999+00:00"
+ },
+ {
+  "id": "greenhouse:omadahealth:8397946",
+  "company": "Omada Health",
+  "title": "Consultant Relations, PBM/Pharmacy Business Development Rep (BDR)",
+  "location": "Remote, USA | Remote",
+  "remote": null,
+  "url": "https://job-boards.greenhouse.io/omadahealth/jobs/8397946",
+  "posted": "2026-11-24T22:49:21+00:00",
+  "comp": "$190,640 - $211,970",
+  "ats": "greenhouse",
+  "location_tag": "remote-US",
+  "company_tags": [
+   "healthtech",
+   "linkedin-follow"
+  ],
+  "connections": 0,
+  "first_seen": "2026-11-25T20:29:28.190999+00:00"
  },
  {
   "id": "ashby:hinge-health:e7852ace-0947-4708-b7c5-b5623a988a76",
@@ -1007,6 +1116,23 @@
   "first_seen": "2026-11-16T21:04:06.757118+00:00"
  },
  {
+  "id": "ashby:cognition:0ad5c578-71c4-47aa-b0b3-6c79a6343c96",
+  "company": "Cognition",
+  "title": "Forward Deployed Engineer - MENA",
+  "location": "Riyadh | Riyadh, Saudi Arabia",
+  "remote": true,
+  "url": "https://jobs.ashbyhq.com/cognition/0ad5c578-71c4-47aa-b0b3-6c79a6343c96",
+  "posted": "2026-11-25T11:08:11.604000+00:00",
+  "comp": "",
+  "ats": "ashby",
+  "location_tag": "remote-unclear",
+  "company_tags": [
+   "linkedin-follow"
+  ],
+  "connections": 0,
+  "first_seen": "2026-11-25T20:29:28.190999+00:00"
+ },
+ {
   "id": "ashby:merge:fe48ba75-e5aa-43e4-91fe-560733d89c89",
   "company": "Merge",
   "title": "Solutions Engineer",
@@ -1024,6 +1150,23 @@
   "first_seen": "2026-11-17T19:52:47.659938+00:00"
  },
  {
+  "id": "ashby:braintrust:2fd567c7-e7b6-411e-a9e5-0dbbb70c7bb0",
+  "company": "Braintrust",
+  "title": "Forward Deployed Engineer",
+  "location": "San Francisco | United States",
+  "remote": false,
+  "url": "https://jobs.ashbyhq.com/Braintrust/2fd567c7-e7b6-411e-a9e5-0dbbb70c7bb0",
+  "posted": "2026-11-24T22:06:22.377000+00:00",
+  "comp": "",
+  "ats": "ashby",
+  "location_tag": "relocation-NYC/SF",
+  "company_tags": [
+   "linkedin-follow"
+  ],
+  "connections": 0,
+  "first_seen": "2026-11-25T20:29:28.190999+00:00"
+ },
+ {
   "id": "ashby:dailypay:ef221487-9763-4b54-89ee-14ec3cebad70",
   "company": "DailyPay",
   "title": "BDR Manager",
@@ -1031,7 +1174,7 @@
   "remote": true,
   "url": "https://jobs.ashbyhq.com/dailypay/ef221487-9763-4b54-89ee-14ec3cebad70",
   "posted": "2026-11-23T11:53:13.896000+00:00",
-  "comp": "$105K – $115K • Offers Commission",
+  "comp": "$100K – $115K • Offers Commission",
   "ats": "ashby",
   "location_tag": "remote-US",
   "company_tags": [
@@ -1039,6 +1182,23 @@
   ],
   "connections": 0,
   "first_seen": "2026-11-23T22:41:34.124912+00:00"
+ },
+ {
+  "id": "greenhouse:databricks:8913000002",
+  "company": "Databricks",
+  "title": "Forward Deployed Program Lead",
+  "location": "New York City, New York; San Francisco, California | San Francisco, California",
+  "remote": null,
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8913000002",
+  "posted": "2026-11-23T20:32:40+00:00",
+  "comp": "$162,900 — $223,950",
+  "ats": "greenhouse",
+  "location_tag": "relocation-NYC/SF",
+  "company_tags": [
+   "linkedin-follow"
+  ],
+  "connections": 0,
+  "first_seen": "2026-11-25T20:29:28.190999+00:00"
  },
  {
   "id": "greenhouse:databricks:8925851002",
@@ -1141,6 +1301,23 @@
   ],
   "connections": 0,
   "first_seen": "2026-11-20T19:07:54.875478+00:00"
+ },
+ {
+  "id": "ashby:payscale:65557c2b-9a94-4ae7-a636-eaa68ed71b04",
+  "company": "Payscale",
+  "title": "Technical Account Manager",
+  "location": "Remote-United States | US",
+  "remote": true,
+  "url": "https://jobs.ashbyhq.com/Payscale/65557c2b-9a94-4ae7-a636-eaa68ed71b04",
+  "posted": "2026-11-25T15:23:30.481000+00:00",
+  "comp": "$90.9K – $136.6K • Offers Bonus • 10% CBP",
+  "ats": "ashby",
+  "location_tag": "remote-US",
+  "company_tags": [
+   "linkedin-follow"
+  ],
+  "connections": 0,
+  "first_seen": "2026-11-25T20:29:28.190999+00:00"
  },
  {
   "id": "greenhouse:zscaler:5297257007",
