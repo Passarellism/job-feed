@@ -29,6 +29,14 @@
   "role": "Sales Development Representative, Mid Market",
   "source": "Feed"
  },
+ "ashby:airwallex:ef0f8894-1a69-480a-a080-8e25afabd23a": {
+  "company": "Airwallex",
+  "first_seen": "2026-11-25T12:45:36.352170+00:00",
+  "outcome": "Low fit (4, 5+ yrs, size)",
+  "role": "Implementation Manager - Embedded Finance",
+  "source": "feed",
+  "url": "https://jobs.ashbyhq.com/airwallex/ef0f8894-1a69-480a-a080-8e25afabd23a"
+ },
  "ashby:ampersand:67564afc-ceb2-4b35-bef6-f103fb4f047d": {
   "company": "Ampersand",
   "first_seen": "2026-11-17T12:44:33.489357+00:00",
@@ -268,6 +276,22 @@
   "role": "Solutions Engineer",
   "source": "Feed"
  },
+ "ashby:miter:089c4729-a8b3-4a69-98f3-ceecdf17d369": {
+  "company": "Miter",
+  "first_seen": "2026-11-25T12:45:36.352170+00:00",
+  "outcome": "Shown (fit 7, <24h, 1 connection)",
+  "role": "Sales Development Representative, Inbound",
+  "source": "feed",
+  "url": "https://jobs.ashbyhq.com/miter/089c4729-a8b3-4a69-98f3-ceecdf17d369"
+ },
+ "ashby:miter:444921ab-1a8a-4482-b92d-f59596882713": {
+  "company": "Miter",
+  "first_seen": "2026-11-25T12:45:36.352170+00:00",
+  "outcome": "Shown (fit 7, <24h, 1 connection)",
+  "role": "Sales Development Representative, Outbound",
+  "source": "feed",
+  "url": "https://jobs.ashbyhq.com/miter/444921ab-1a8a-4482-b92d-f59596882713"
+ },
  "ashby:notion:f5f95c45-7a2b-4abd-9875-f64dfbc89342": {
   "company": "Notion",
   "first_seen": "2026-11-18T12:44:59.265722+00:00",
@@ -335,6 +359,22 @@
   "role": "Strategic Partner Manager",
   "source": "Feed"
  },
+ "ashby:plaid:7203c5b9-ae19-4478-84ea-85a11d438174": {
+  "company": "Plaid",
+  "first_seen": "2026-11-25T12:45:36.352170+00:00",
+  "outcome": "Shown (fit 8, size exception, <24h)",
+  "role": "Business Development Representative - Fintech",
+  "source": "feed",
+  "url": "https://jobs.ashbyhq.com/plaid/7203c5b9-ae19-4478-84ea-85a11d438174"
+ },
+ "ashby:plaid:b93abf51-f064-4923-ada8-7cc78c8939e8": {
+  "company": "Plaid",
+  "first_seen": "2026-11-25T12:45:36.352170+00:00",
+  "outcome": "Shown (fit 8, size exception, <24h)",
+  "role": "Business Development Representative - Enterprise",
+  "source": "feed",
+  "url": "https://jobs.ashbyhq.com/plaid/b93abf51-f064-4923-ada8-7cc78c8939e8"
+ },
  "ashby:plaid:bedae333-aa7f-4bf8-9d20-59fa3ba699b8": {
   "company": "Plaid",
   "first_seen": "2026-11-23T12:46:06.615970+00:00",
@@ -342,6 +382,14 @@
   "role": "Implementation Specialist - Enterprise",
   "source": "Feed",
   "url": "https://jobs.ashbyhq.com/plaid/bedae333-aa7f-4bf8-9d20-59fa3ba699b8"
+ },
+ "ashby:plaid:f91d3207-247f-4e51-babb-24336904bb41": {
+  "company": "Plaid",
+  "first_seen": "2026-11-25T12:45:36.352170+00:00",
+  "outcome": "Shown (fit 8, size exception, <24h)",
+  "role": "Business Development Representative - Banking & Wealth",
+  "source": "feed",
+  "url": "https://jobs.ashbyhq.com/plaid/f91d3207-247f-4e51-babb-24336904bb41"
  },
  "ashby:planhat:378dbb62-3a70-4e05-a6d7-20687b91b1dd": {
   "company": "Planhat",
@@ -494,6 +542,14 @@
   "source": "Company board",
   "url": "https://jobs.ashbyhq.com/sentry/2cdc2ba7-8406-452a-b84f-d94d8e7a09bb"
  },
+ "ashby:sentry:32395b43-7e93-4bfc-8e2d-769222d10812": {
+  "company": "Sentry",
+  "first_seen": "2026-11-25T12:45:36.352170+00:00",
+  "outcome": "Shown (fit 6, 3+ yrs pre-sales gap)",
+  "role": "Sales Engineer",
+  "source": "feed",
+  "url": "https://jobs.ashbyhq.com/sentry/32395b43-7e93-4bfc-8e2d-769222d10812"
+ },
  "ashby:sentry:9b759583-60d2-4673-9da6-026731956300": {
   "company": "Sentry",
   "first_seen": "2026-11-16T17:18:17.617017+00:00",
@@ -628,12 +684,26 @@
   "source": "Company board",
   "url": "https://jobs.ashbyhq.com/zip/92c2b94a-3963-4c1e-8e5a-b83f548f8f0d"
  },
+ "ashby:zip:c5fba54c-37ee-4172-987d-7ff6bbd51d94": {
+  "company": "Zip",
+  "first_seen": "2026-11-25T12:45:36.352170+00:00",
+  "outcome": "Excluded (learned: no FDE)",
+  "role": "AI Forward Deployed Engineer - Procurement",
+  "source": "feed"
+ },
  "ashby:zip:cbbb8244-bd71-4525-9ccd-c0fcd0bb28ad": {
   "company": "Zip",
   "first_seen": "2026-11-16T12:00:00+00:00",
   "outcome": "Low fit (3; 8+ yrs)",
   "role": "Solutions Manager",
   "source": "Company board"
+ },
+ "ashby:zip:d212845e-9668-4a01-a30d-0d24c5a4f2b2": {
+  "company": "Zip",
+  "first_seen": "2026-11-25T12:45:36.352170+00:00",
+  "outcome": "Excluded (learned: no FDE)",
+  "role": "AI Forward Deployed Engineer - Applied AI",
+  "source": "feed"
  },
  "ashby:zip:d28dc61e-b4fa-4517-b61e-a31bccefddba": {
   "company": "Zip",
@@ -649,6 +719,14 @@
   "outcome": "Excluded (size exception, evergreen repost)",
   "role": "Solutions Engineer, DX",
   "source": "PreSales Collective"
+ },
+ "builtin:10101005": {
+  "company": "Mesh",
+  "first_seen": "2026-11-25T12:45:36.352170+00:00",
+  "outcome": "Worth a look (5, 2-5 yrs, crypto/API, date unclear)",
+  "role": "Solutions Engineer",
+  "source": "Built In",
+  "url": "https://www.builtincolorado.com/job/solutions-engineer/10101005"
  },
  "builtin:10573177": {
   "company": "Matador Solutions",
@@ -1489,6 +1567,30 @@
   "source": "Built In",
   "url": "https://www.builtincolorado.com/job/customer-success-manager-central/12439426"
  },
+ "builtin:12450037": {
+  "company": "Libra Solutions",
+  "first_seen": "2026-11-25T12:45:36.352170+00:00",
+  "outcome": "Shown (fit 6, Denver in-office, no range, Built In apply)",
+  "role": "Onboarding & Implementation Manager",
+  "source": "Built In",
+  "url": "https://www.builtincolorado.com/job/onboarding-implementation-manager/12450037"
+ },
+ "builtin:12457986": {
+  "company": "GridUnity",
+  "first_seen": "2026-11-25T12:45:36.352170+00:00",
+  "outcome": "Shown (fit 6, <24h, 25-50% travel, Built In apply)",
+  "role": "Business Solutions Engineer",
+  "source": "Built In",
+  "url": "https://www.builtincolorado.com/job/business-solutions-engineer/12457986"
+ },
+ "builtin:12458331": {
+  "company": "Butterfly Network",
+  "first_seen": "2026-11-25T12:45:36.352170+00:00",
+  "outcome": "Shown (fit 7, <24h, 50% travel, Built In apply)",
+  "role": "Associate Client Success Manager - West",
+  "source": "Built In",
+  "url": "https://www.builtincolorado.com/job/associate-client-success-manager-west-remote-travel/12458331"
+ },
  "builtin:9739501": {
   "company": "ArboStar",
   "first_seen": "2026-11-15T12:00:00+00:00",
@@ -1676,6 +1778,14 @@
   "role": "Customer Success Implementation Specialist",
   "source": "Chat"
  },
+ "greenhouse:conga:5308376007": {
+  "company": "Conga",
+  "first_seen": "2026-11-25T12:45:36.352170+00:00",
+  "outcome": "Low fit (4, Lead level)",
+  "role": "Lead Sales Engineer",
+  "source": "feed",
+  "url": "https://job-boards.greenhouse.io/conga/jobs/5308376007"
+ },
  "greenhouse:contentful:8209335": {
   "alias": "gh:contentful:8209335",
   "company": "Contentful",
@@ -1749,7 +1859,7 @@
  "greenhouse:contentful:8386901": {
   "company": "Contentful",
   "first_seen": "2026-11-16T17:48:10.002267+00:00",
-  "outcome": "Worth a look (5, size exception needs 7, 5 yrs)",
+  "outcome": "Expired (no action)",
   "role": "Customer Success Manager",
   "source": "Company board",
   "url": "https://job-boards.greenhouse.io/contentful/jobs/8386901"
@@ -1837,6 +1947,13 @@
   "source": "Company board",
   "url": "https://careers.datadoghq.com/detail/8357178/?gh_jid=8357178"
  },
+ "greenhouse:datadog:8380309": {
+  "company": "Datadog",
+  "first_seen": "2026-11-25T12:45:36.352170+00:00",
+  "outcome": "Excluded (Manager, FDE, learned rule)",
+  "role": "Manager 2, FDE Implementation Services",
+  "source": "feed"
+ },
  "greenhouse:datadog:8384194": {
   "company": "Datadog",
   "first_seen": "2026-11-23T12:46:06.615970+00:00",
@@ -1851,6 +1968,14 @@
   "outcome": "Low fit (4, 7 yrs channel)",
   "role": "National Partner Manager",
   "source": "Feed"
+ },
+ "greenhouse:fleetio:5308609007": {
+  "company": "Fleetio",
+  "first_seen": "2026-11-25T12:45:36.352170+00:00",
+  "outcome": "Worth a look (5, 5+ yrs, no range)",
+  "role": "Implementation Manager - Enterprise",
+  "source": "feed",
+  "url": "https://job-boards.greenhouse.io/fleetio/jobs/5308609007"
  },
  "greenhouse:garnerhealth:6226746004": {
   "alias": "gh:garnerhealth:6226746004",
@@ -2082,6 +2207,14 @@
   "source": "Feed",
   "url": "https://www.salesloft.com/company/careers?gh_jid=8386104"
  },
+ "greenhouse:salesloft:8403492": {
+  "company": "Salesloft",
+  "first_seen": "2026-11-25T12:45:36.352170+00:00",
+  "outcome": "Shown (fit 6, Senior)",
+  "role": "Senior Customer Success Manager",
+  "source": "feed",
+  "url": "https://www.salesloft.com/company/careers?gh_jid=8403492"
+ },
  "greenhouse:samsara:8372624": {
   "company": "Samsara",
   "first_seen": "2026-11-16T12:00:00+00:00",
@@ -2206,6 +2339,13 @@
   "role": "Senior Onboarding Manager, Hotels",
   "source": "Feed",
   "url": "https://careers.toasttab.com/jobs?gh_jid=8385953"
+ },
+ "greenhouse:twilio:8350195": {
+  "company": "Twilio",
+  "first_seen": "2026-11-25T12:45:36.352170+00:00",
+  "outcome": "Excluded (learned: no TAM roles)",
+  "role": "Technical Account Manager",
+  "source": "feed"
  },
  "greenhouse:zscaler:5287748007": {
   "company": "Zscaler",
@@ -2718,6 +2858,14 @@
   "role": "Customer Success Manager",
   "source": "Built In",
   "url": "https://jobs.workable.com/view/1f2ba3a5-8395-414b-8f1d-001a68a3a494"
+ },
+ "url:mews-customer-onboarding-manager-usa": {
+  "company": "Mews",
+  "first_seen": "2026-11-25T12:45:36.352170+00:00",
+  "outcome": "Worth a look (5, 3-5 yrs, date unclear, size)",
+  "role": "Customer Onboarding Manager - USA",
+  "source": "Indeed",
+  "url": "https://www.mews.com/en/careers/jobs/5032341101"
  },
  "url:nextpatient-csm": {
   "company": "NextPatient",
