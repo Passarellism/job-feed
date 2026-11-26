@@ -216,13 +216,13 @@
   "first_seen": "2026-11-17T19:52:47.659938+00:00"
  },
  {
-  "id": "greenhouse:brex:8950781002",
+  "id": "greenhouse:brex:8950778002",
   "company": "Brex",
   "title": "Accounting Partnerships Manager",
-  "location": "San Francisco, California, United States | New York, NY | San Francisco, CA | New York, New York, United States | New York, NY | San Francisco, CA",
+  "location": "New York, New York, United States | New York, NY | San Francisco, CA | San Francisco, California, United States | New York, NY | San Francisco, CA",
   "remote": null,
-  "url": "https://www.brex.com/careers/8950781002?gh_jid=8950781002",
-  "posted": "2026-11-18T22:23:54+00:00",
+  "url": "https://www.brex.com/careers/8950778002?gh_jid=8950778002",
+  "posted": "2026-11-18T22:23:02+00:00",
   "comp": "$135,600 - $169,500",
   "ats": "greenhouse",
   "location_tag": "relocation-NYC/SF",
@@ -231,17 +231,17 @@
    "linkedin-follow"
   ],
   "connections": 0,
-  "first_seen": "2026-11-21T17:59:55.153216+00:00"
+  "first_seen": "2026-11-19T19:30:00.086965+00:00"
  },
  {
-  "id": "greenhouse:brex:8962370002",
+  "id": "greenhouse:brex:8962367002",
   "company": "Brex",
   "title": "Embedded Implementation Consultant",
-  "location": "Seattle, Washington, United States | New York, NY | Salt Lake City, UT | San Francisco, CA | Seattle, WA | Vancouver | Vancouver, British Columbia, Canada | New York, NY | Salt Lake City, UT | San Francisco, CA | Seattle, WA | Vancouver | Salt Lake City, Utah, United States | New York, NY | Salt Lake City, UT | San Francisco, CA | Seattle, WA | Vancouver | San Francisco, California, United States | New York, NY | Salt Lake City, UT | San Francisco, CA | Seattle, WA | Vancouver | New York, New York, United States | New York, NY | Salt Lake City, UT | San Francisco, CA | Seattle, WA | Vancouver",
+  "location": "Salt Lake City, Utah, United States | New York, NY | Salt Lake City, UT | San Francisco, CA | Seattle, WA | Vancouver | Vancouver, British Columbia, Canada | New York, NY | Salt Lake City, UT | San Francisco, CA | Seattle, WA | Vancouver | San Francisco, California, United States | New York, NY | Salt Lake City, UT | San Francisco, CA | Seattle, WA | Vancouver | New York, New York, United States | New York, NY | Salt Lake City, UT | San Francisco, CA | Seattle, WA | Vancouver | Seattle, Washington, United States | New York, NY | Salt Lake City, UT | San Francisco, CA | Seattle, WA | Vancouver",
   "remote": null,
-  "url": "https://www.brex.com/careers/8962370002?gh_jid=8962370002",
-  "posted": "2026-11-25T16:53:35+00:00",
-  "comp": "$119,328 - $181,930",
+  "url": "https://www.brex.com/careers/8962367002?gh_jid=8962367002",
+  "posted": "2026-11-25T16:53:33+00:00",
+  "comp": "$105,600 - $161,000",
   "ats": "greenhouse",
   "location_tag": "relocation-NYC/SF",
   "company_tags": [
@@ -249,7 +249,7 @@
    "linkedin-follow"
   ],
   "connections": 0,
-  "first_seen": "2026-11-25T20:29:28.190999+00:00"
+  "first_seen": "2026-11-26T20:12:20.435719+00:00"
  },
  {
   "id": "greenhouse:mercury:6268832004",
@@ -372,22 +372,21 @@
   "first_seen": "2026-11-19T19:30:00.086965+00:00"
  },
  {
-  "id": "ashby:claylabs:232ab8c1-36d7-4114-91c1-0f9c9e4064bc",
-  "company": "Clay",
-  "title": "Solutions Engineer",
-  "location": "New York | San Francisco | New York, NY, United States",
+  "id": "ashby:hex:158fc2e0-f3f0-40f0-b120-ec3519646fd2",
+  "company": "Hex",
+  "title": "Sales Engineering Manager, Commercial",
+  "location": "Remote - US | United States",
   "remote": true,
-  "url": "https://jobs.ashbyhq.com/claylabs/232ab8c1-36d7-4114-91c1-0f9c9e4064bc",
-  "posted": "2026-11-16T18:59:28.310000+00:00",
-  "comp": "$140K – $220K • Offers Equity",
+  "url": "https://jobs.ashbyhq.com/hex/158fc2e0-f3f0-40f0-b120-ec3519646fd2",
+  "posted": "2026-11-26T16:59:18.411000+00:00",
+  "comp": "$250K – $316K • Offers Equity",
   "ats": "ashby",
   "location_tag": "remote-US",
   "company_tags": [
-   "saas",
-   "linkedin-follow"
+   "saas"
   ],
   "connections": 0,
-  "first_seen": "2026-11-16T21:04:06.757118+00:00"
+  "first_seen": "2026-11-26T20:12:20.435719+00:00"
  },
  {
   "id": "ashby:claylabs:72660287-4da2-4b23-8dcf-f5ce8a998e3b",
@@ -441,6 +440,23 @@
   ],
   "connections": 0,
   "first_seen": "2026-11-17T19:52:47.659938+00:00"
+ },
+ {
+  "id": "ashby:attio:ecb92574-646c-4cf3-8156-f2899c540eca",
+  "company": "Attio",
+  "title": "Sales Development Representative",
+  "location": "San Francisco | San Francisco, California, US",
+  "remote": true,
+  "url": "https://jobs.ashbyhq.com/attio/ecb92574-646c-4cf3-8156-f2899c540eca",
+  "posted": "2026-11-26T00:53:34.562000+00:00",
+  "comp": "",
+  "ats": "ashby",
+  "location_tag": "remote-US",
+  "company_tags": [
+   "saas"
+  ],
+  "connections": 0,
+  "first_seen": "2026-11-26T20:12:20.435719+00:00"
  },
  {
   "id": "ashby:vitally:f74c9f35-4d7a-4082-b0fc-3a679ef5ef2a",
@@ -906,23 +922,6 @@
   "first_seen": "2026-11-23T22:41:34.124912+00:00"
  },
  {
-  "id": "greenhouse:justworks:8356649",
-  "company": "Justworks",
-  "title": "Senior Product Manager, Activation",
-  "location": "New York, New York | New York, NY",
-  "remote": null,
-  "url": "https://boards.greenhouse.io/justworks/jobs/8356649?gh_jid=8356649",
-  "posted": "2026-11-16T17:42:19+00:00",
-  "comp": "$166,000 - $242,500",
-  "ats": "greenhouse",
-  "location_tag": "relocation-NYC/SF",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 1,
-  "first_seen": "2026-11-16T17:42:26.914189+00:00"
- },
- {
   "id": "ashby:1password:63059a05-03d1-4a4f-908c-8daa721cce90",
   "company": "1Password",
   "title": "Senior Implementation Project Manager",
@@ -1096,24 +1095,6 @@
   ],
   "connections": 0,
   "first_seen": "2026-11-24T21:16:12.145976+00:00"
- },
- {
-  "id": "ashby:ampersand:67564afc-ceb2-4b35-bef6-f103fb4f047d",
-  "company": "Ampersand",
-  "title": "Enterprise Sales Development Representative",
-  "location": "San Francisco | San Francisco, CA, USA",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/Ampersand/67564afc-ceb2-4b35-bef6-f103fb4f047d",
-  "posted": "2026-11-16T18:48:56.718000+00:00",
-  "comp": "$75K – $90K • Offers Equity • Offers Commission",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas",
-   "colorado"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-16T21:04:06.757118+00:00"
  },
  {
   "id": "ashby:cognition:0ad5c578-71c4-47aa-b0b3-6c79a6343c96",
@@ -1439,40 +1420,6 @@
   "first_seen": "2026-11-20T19:07:54.875478+00:00"
  },
  {
-  "id": "ashby:miter:089c4729-a8b3-4a69-98f3-ceecdf17d369",
-  "company": "Miter",
-  "title": "Sales Development Representative, Inbound",
-  "location": "New York City | New York, New York, United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/miter/089c4729-a8b3-4a69-98f3-ceecdf17d369",
-  "posted": "2026-11-24T15:17:30.447000+00:00",
-  "comp": "$90K • Offers Equity • Offers Commission",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "connection"
-  ],
-  "connections": 1,
-  "first_seen": "2026-11-24T21:16:12.145976+00:00"
- },
- {
-  "id": "ashby:miter:444921ab-1a8a-4482-b92d-f59596882713",
-  "company": "Miter",
-  "title": "Sales Development Representative, Outbound",
-  "location": "New York City | New York, New York, United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/miter/444921ab-1a8a-4482-b92d-f59596882713",
-  "posted": "2026-11-24T15:17:17.525000+00:00",
-  "comp": "$90K • Offers Equity • Offers Commission",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "connection"
-  ],
-  "connections": 1,
-  "first_seen": "2026-11-24T21:16:12.145976+00:00"
- },
- {
   "id": "greenhouse:assetwatch:4756936005",
   "company": "AssetWatch",
   "title": "Customer Success Manager",
@@ -1505,23 +1452,6 @@
   ],
   "connections": 0,
   "first_seen": "2026-11-24T21:16:12.145976+00:00"
- },
- {
-  "id": "greenhouse:contentful:8393390",
-  "company": "Contentful",
-  "title": "Customer Success Manager",
-  "location": "New York, New York, United States | Denver, CO | New York, NY | Denver, Colorado, United States | Denver, CO | New York, NY",
-  "remote": null,
-  "url": "https://job-boards.greenhouse.io/contentful/jobs/8393390",
-  "posted": "2026-11-16T17:05:24+00:00",
-  "comp": "$118,190 - $163,500",
-  "ats": "greenhouse",
-  "location_tag": "CO",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-21T17:59:55.153216+00:00"
  },
  {
   "id": "greenhouse:contentful:8385618",

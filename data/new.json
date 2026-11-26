@@ -1,212 +1,54 @@
 [
  {
-  "id": "ashby:ramp:220e674a-fc70-439f-bacf-687553ca59c9",
-  "company": "Ramp",
-  "title": "Solutions Consultant, Commercial",
-  "location": "Remote (US) | Remote (Canada) | San Francisco, CA | New York, NY (HQ) | Toronto, ON | Miami, FL | United States",
-  "url": "https://jobs.ashbyhq.com/ramp/220e674a-fc70-439f-bacf-687553ca59c9",
-  "posted": "2026-11-25T20:23:25.735000+00:00",
-  "comp": "$119K – $189K • Offers Equity • Multiple Ranges",
+  "id": "ashby:hex:158fc2e0-f3f0-40f0-b120-ec3519646fd2",
+  "company": "Hex",
+  "title": "Sales Engineering Manager, Commercial",
+  "location": "Remote - US | United States",
+  "url": "https://jobs.ashbyhq.com/hex/158fc2e0-f3f0-40f0-b120-ec3519646fd2",
+  "posted": "2026-11-26T16:59:18.411000+00:00",
+  "comp": "$250K – $316K • Offers Equity",
   "location_tag": "remote-US",
   "company_tags": [
-   "fintech",
-   "linkedin-follow"
-  ],
-  "connections": 6,
-  "first_seen": "2026-11-25T20:29:28.190999+00:00",
-  "years": 2,
-  "excerpt": "ABOUT RAMP\nRamp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $275B in annualized spend flows in and out of 85,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books.\nThe problems are high-stakes, data-dense, and unforgiving.\nWe hire people with high agency and hig\n...\nWHAT YOU’LL NEED\n - 2+ years of experience in Solutions Consulting, Sales Engineering, Solutions Architecture, or similar customer-facing roles, focusing on implementing business SaaS solutions and utilizing APIs, preferably within the financial sector\n - Bachelor's degree in computer science, engineering, business, finance, accounting or related field\n - Proficiency in IdP, HRIS, and/or ERP solutions\n - Expertise in accounting systems, controllership needs, and finance/accounting workflows\n - Exceptional organizational, project management, and time management abilities\n - Strong skills in engineering, system design, and technical specification writing\n - Proactive mindset, adaptability, and comfort in a fast-paced, high-growth startup environment\nFor candidates located in NYC or SF, the pay range for this role is $128,000 - $176,000. For remote candidates located in all other locations, the pay range for this role is $115,000-$159,000.\nBENEFITS AVAILABLE TO ALL FULL-TIME RAMP EMPLOYEES (GLOBAL)\n - Flexible PTO\n - Centralized home-office equipment ordering\n - Health and wellness"
- },
- {
-  "id": "greenhouse:checkr:8411552",
-  "company": "Checkr",
-  "title": "Customer Success Implementation Manager",
-  "location": "Denver, Colorado, United States; San Francisco, California, United States | San Francisco",
-  "url": "https://job-boards.greenhouse.io/checkr/jobs/8411552",
-  "posted": "2026-11-25T19:56:48+00:00",
-  "comp": "$151,000 — $178,000",
-  "location_tag": "CO",
-  "company_tags": [
    "saas"
   ],
   "connections": 0,
-  "first_seen": "2026-11-25T20:29:28.190999+00:00",
-  "years": 3,
-  "excerpt": "About Checkr\n Checkr is building the data platform to power safe and fair decisions. Over 140,000 companies and millions of people rely on Checkr for AI verification in the moments that matter most: getting a new job, a new place to live, a car ride, childcare, even a date. Customers include Uber, Pennymac, Airbnb, Doordash, and Anthropic.\nWe’re a team that thrives on solving complex problems with innovative solutions that advance our mission. Checkr is recognized on Forbes Cloud 100 2025 List and is a Y Combinator 2024 Breakthrough Company .\n About the team/role \n As a Customer Success Implementation Manager reporting to the Director of Implementations, you will drive successful deployments for Checkr’s most important customers and partners. You will contribute to the day-to-day project management of multiple deployments at once, keeping scope, timelines, and quality on track. You will partner closely with Solutions Engineering, Solutions Architects, Product, Support, and Customer Success Managers to deliver a white-glove onboarding experience that supports Checkr’s growth.\n What you’ll do \n Build and maintain project plans and RAID logs from templates, and lead regular check-in meetings with customers and partners\n Identify project risks early and coordinate with the right teams to mitigate and resolve them\n Track and report deployment progress to management using reporting tools and dashboards\n Manage dependencies across GTM, Product, and Operations for multiple concurrent"
+  "first_seen": "2026-11-26T20:12:20.435719+00:00",
+  "years": 5,
+  "excerpt": "ABOUT HEX\nHex is growing our team of builders on a mission to make everyone a data person. Our platform solves key pain points with today’s data and analytics tooling, and empowers anyone to explore data using natural language, with or without code, on trusted context. Thousands of customers like Ramp https://hex.tech/customers/ramp/, Figma https://hex.tech/customers/figma/, Stubhub https://hex.te\n...\nABOUT YOU\n - You have 5+ years of experience leading technical pre-sales teams, ideally in high-growth SaaS environments\n - You have a successful track record as a Sales Engineer winning deals in complex, competitive enterprise environments\n - You are passionate about developing talent and creating an environment where people can do their best work\n - You know when to step into a deal and when to coach instead, you can unblock technical issues and provide deal strategy support to help your team win\n - You're credible with enterprise data, platform, and security leaders and can speak to how Hex fits into complex data architectures (warehouses, lakehouses, BI, governance)\n - You thrive working cross-functionally and see feedback, enablement, and collaboration as core parts of your role\n - You use AI in your own workflow, coach your team to do the same, and can translate how AI is transforming the data ecosystem for our customers\n - You bring clarity, action, and accountability to everything you do\nIf you want to learn more about the Customer team, what we do, and how we work, plea"
  },
  {
-  "id": "ashby:modal:44b57790-528e-4f97-8613-03564316be8a",
-  "company": "Modal",
-  "title": "Customer Engineer",
-  "location": "New York | San Francisco | new york, new york, United States",
-  "url": "https://jobs.ashbyhq.com/modal/44b57790-528e-4f97-8613-03564316be8a",
-  "posted": "2026-11-25T18:58:26.261000+00:00",
-  "comp": "$150K – $200K • Offers Equity",
-  "location_tag": "relocation-NYC/SF",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-25T20:29:28.190999+00:00",
-  "years": null,
-  "excerpt": "ABOUT US:\nAI NEEDS A NEW INFRASTRUCTURE LAYER. WE'RE BUILDING IT AT MODAL.\nEvery era of computing brought new workloads that previous infrastructure couldn't support: mainframes, databases, and the cloud. Each time, the company that rebuilt the layer underneath defined the decade. AI is no different, except it touches everything instead of one slice, and the window to build the layer underneath it\n...\nREQUIREMENTS:\n - Accomplished in key areas. You bring depth in either low-level infrastructure or ML/AI, and you're not lost in the other.\n - Low-level infrastructure experience. Operating systems, file systems, networking, performance profiling, cluster management and distributed systems.\n - AI/ML engineering experience. Training models, optimizing inference, working with GPUs, or building ML infrastructure.\n - Automation mindset. Your instinct when you see a manual process is to eliminate it and you have the engineering background to make that happen.\n - Clear communicator. Can explain a systems issue to a customer, write a crisp bug report, and draft documentation, all while collaborating internally to ship improvements."
- },
- {
-  "id": "ashby:claylabs:72660287-4da2-4b23-8dcf-f5ce8a998e3b",
-  "company": "Clay",
-  "title": "Partner Manager, Solutions Partners",
-  "location": "New York | New York, NY, United States",
-  "url": "https://jobs.ashbyhq.com/claylabs/72660287-4da2-4b23-8dcf-f5ce8a998e3b",
-  "posted": "2026-11-25T17:58:01.492000+00:00",
+  "id": "ashby:attio:ecb92574-646c-4cf3-8156-f2899c540eca",
+  "company": "Attio",
+  "title": "Sales Development Representative",
+  "location": "San Francisco | San Francisco, California, US",
+  "url": "https://jobs.ashbyhq.com/attio/ecb92574-646c-4cf3-8156-f2899c540eca",
+  "posted": "2026-11-26T00:53:34.562000+00:00",
   "comp": "",
   "location_tag": "remote-US",
   "company_tags": [
-   "saas",
-   "linkedin-follow"
+   "saas"
   ],
   "connections": 0,
-  "first_seen": "2026-11-25T20:29:28.190999+00:00",
+  "first_seen": "2026-11-26T20:12:20.435719+00:00",
   "years": null,
-  "excerpt": "ABOUT CLAY\nAI is unleashing the biggest wave of company creation in history. Clay's mission is to be the engine those companies use to grow to their full potential.\nClay predicts the next best action for your business and then helps you take it. We started by aggregating the best data for B2B companies. Then, we built the infrastructure to run any personalized campaign on top of it, including emails, ads, landing pages, and workflows that make reps more productive. Now, we're building agents that can help grow your company for you. We're already helping thousands of customers — including Anthropic, OpenAI, Google, and Visa — go to market with unique data, signals, and AI research.\nIn 2026, we raised a $115M Series D https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F09%2F09%2Fbusiness%2Fdealbook%2Fclay-ai-fundraising.html%3Fsmid%3Durl-share%26unlocked_article_code%3D1._1A.E5rN.MeYsbgEsUKbB&urlhash=XS4q&mt=4bpSf4a8omAKuAHqAqZx6C11QpbLK_QwIhSV7gSf4Wf9aywPF_KBSiX9IkWE1AhXBEjPH8mK6fAEN7CMFlpvo0lPAtKRjs-dhgzYqHiVKUMCRtw0jScFgxWCRRfYs4HCX0YL9L6PCQz-edBLinvRdU_TaVUL2dA3&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BoQmIsufoRJm7X2HC5Rqd%2Fw%3D%3D at $7.1B Valuation led by Wellington — and are on track to cross $200M in revenue this quarter. We also launched a $1M Scholarship fund for GTME Education.\nSome things to know about us:\n - Our community http://community.clay.com includes 17,000+ customers, 200+ integration partners, 125+ agencies, 50+ Clay"
+  "excerpt": "Attio is the CRM for agentic revenue. Designed for the most ambitious go-to-market teams, it gives companies the power to understand every customer, automate at scale, and build their go-to-market motion exactly as they need. We've raised $116M from some of the world's best investors: GV (Google Ventures), Redpoint, Balderton, Point Nine, and 01A.\nWe hire builders who thrive on complex technical c\n...\nWHAT WE'RE LOOKING FOR\n - We are particularly interested in hearing from candidates with:\n - A track record of owning outcomes and following through on commitments\n - A habit of grounding decisions in evidence and reasoning, particularly when prioritizing across competing demands\n - A genuine track record of seeking out feedback and acting on it\n - Communication that adapts to different audiences\n This role requires full-time availability from your first day, including the near term ability to work a regular full-time schedule with at least three (3) days per week in our San Francisco office.\nIf you’re finishing school, you’re welcome to apply if you’ll have completed your studies and can accommodate this schedule & location by a near term start date.\nWHAT THE HIRING PROCESS LOOKS LIKE\n - Talent Introduction (~30 minutes) \n - Hiring Manager Interview (~30 minutes) \n - Take-Home Exercise\n - Take-Home Review with your Hiring Manager\n - Meet the Team: Two focused conversations with key stakeholders\n - Executive Leadership Conversation\n - Offer"
  },
  {
-  "id": "greenhouse:brex:8962370002",
+  "id": "greenhouse:brex:8962367002",
   "company": "Brex",
   "title": "Embedded Implementation Consultant",
-  "location": "Seattle, Washington, United States | New York, NY | Salt Lake City, UT | San Francisco, CA | Seattle, WA | Vancouver | Vancouver, British Columbia, Canada | New York, NY | Salt Lake City, UT | San Fra",
-  "url": "https://www.brex.com/careers/8962370002?gh_jid=8962370002",
-  "posted": "2026-11-25T16:53:35+00:00",
-  "comp": "$119,328 - $181,930",
+  "location": "Salt Lake City, Utah, United States | New York, NY | Salt Lake City, UT | San Francisco, CA | Seattle, WA | Vancouver | Vancouver, British Columbia, Canada | New York, NY | Salt Lake City, UT | San Fr",
+  "url": "https://www.brex.com/careers/8962367002?gh_jid=8962367002",
+  "posted": "2026-11-25T16:53:33+00:00",
+  "comp": "$105,600 - $161,000",
   "location_tag": "relocation-NYC/SF",
   "company_tags": [
    "fintech",
    "linkedin-follow"
   ],
   "connections": 0,
-  "first_seen": "2026-11-25T20:29:28.190999+00:00",
+  "first_seen": "2026-11-26T20:12:20.435719+00:00",
   "years": 2,
-  "excerpt": "Why join us \n Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automatio\n...\nRequirements \n Experience: 2-4+ years in a SaaS customer facing role \n Domain Knowledge: Familiarity with embedded finance or third-party SaaS integrations you understand how these ecosystems fit together and where friction hides.\n Communication: A natural communicator who can translate technical complexity into clear, confident guidance for Brex customers, partners, and internal stakeholders.\n Execution: Highly organized and comfortable managing multiple concurrent projects in a fast-moving environment where no two implementations look the same.\n Mindset: Energized by ambiguity. You thrive when the product is evolving and the partnership landscape is expanding.\n Bonus points \n Experience in Financial, Expense Mana"
- },
- {
-  "id": "ashby:payscale:65557c2b-9a94-4ae7-a636-eaa68ed71b04",
-  "company": "Payscale",
-  "title": "Technical Account Manager",
-  "location": "Remote-United States | US",
-  "url": "https://jobs.ashbyhq.com/Payscale/65557c2b-9a94-4ae7-a636-eaa68ed71b04",
-  "posted": "2026-11-25T15:23:30.481000+00:00",
-  "comp": "$90.9K – $136.6K • Offers Bonus • 10% CBP",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-25T20:29:28.190999+00:00",
-  "years": 3,
-  "excerpt": "ABOUT PAYSCALE \nPayscale is the pioneer of compensation intelligence, helping organizations make smarter pay decisions that drive business performance. For more than 20 years, Payscale has combined trusted market data with AI-powered technology to deliver actionable insights that turn pay from a cost into a catalyst for growth. The Payscale Intelligence Cloud portfolio of solutions — Ascent, JobNa\n...\nYOU HAVE:\n - Bachelor's degree in Human Resources, Compensation, Data Analytics, Information Systems or a related field.\n - 3+ years of experience in a technical account management or senior support position\n - 3+ years in a human resources or compensation professional role ideally within the SaaS or compensation industry.\n - Strong technical background with expertise in compensation data, survey data, HCM systems, APIs, SFTPs, and SSO.\n - Experience with CRM and support ticketing systems (e.g., Salesforce, Atlassian Tools).\n - Advanced Excel skills and knowledge of Tableau.\n - Familiarity or experience with Payfactors and/or MarketPay.\n - Excellent problem-solving skills and the ability to troubleshoot complex technical issues in a timely manner.\n - Exceptional communication and interpersonal skills, with the ability to explain technical concepts to non-technical audiences.\n - Proven ability to manage multiple accounts and prioritize tasks effectively.\n - Customer-centric mindset with a passion for delivering exceptional service and support.\nLocation\nPayscale has an employee ce"
- },
- {
-  "id": "ashby:cognition:0ad5c578-71c4-47aa-b0b3-6c79a6343c96",
-  "company": "Cognition",
-  "title": "Forward Deployed Engineer - MENA",
-  "location": "Riyadh | Riyadh, Saudi Arabia",
-  "url": "https://jobs.ashbyhq.com/cognition/0ad5c578-71c4-47aa-b0b3-6c79a6343c96",
-  "posted": "2026-11-25T11:08:11.604000+00:00",
-  "comp": "",
-  "location_tag": "remote-unclear",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-25T20:29:28.190999+00:00",
-  "years": null,
-  "excerpt": "WE ARE AN APPLIED AI LAB BUILDING END-TO-END SOFTWARE AGENTS.\nWe're the makers of Devin, the first AI software engineer. \nOur team is extremely talent-dense. Among our founding team, we have world-class competitive programmers, former founders, and leaders from companies at the cutting edge of AI including Scale AI, Palantir, Cursor, Waymo, Tesla, Lunchclub, Modal, Google DeepMind, and Nuro.\nBuild\n...\nRequirements\n - Strong engineering foundation from a rigorous technical environment\n - Demonstrated track record of exceptional performance in whatever you've pursued, whether academic, athletic, professional, or entrepreneurial\n - Self-directed by default. You don't need a manager to tell you what to do next or how to prioritize.\n - Strong communication skills. You can hold your own with senior engineers and executives alike.\n - Have a high tolerance for ambiguity, inten"
- },
- {
-  "id": "greenhouse:omadahealth:8397950",
-  "company": "Omada Health",
-  "title": "Consultant Relations, Business Development Rep (BDR)",
-  "location": "Remote, USA | Remote",
-  "url": "https://job-boards.greenhouse.io/omadahealth/jobs/8397950",
-  "posted": "2026-11-24T22:49:27+00:00",
-  "comp": "$195,640 - $211,970",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "healthtech",
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-25T20:29:28.190999+00:00",
-  "years": 5,
-  "excerpt": "Omada Health is on a mission to bend the curve of chronic disease.\n Job overview: \n As a member of Omada’s Consultant Relations Commercial Channel Growth team, the Consultant Relations Business Development Representative (CR BDR) is an opportunity generation quota-carrying, consultant-facing sales support role focused on supporting the generation of commercial employer opportunities through the be\n...\nAbout you: \n 5–7+ years of experience in employee-benefits sales, benefits consulting, consultant relations, business development, and/or healthcare/digital-health sales, with direct experience engaging benefits consultants and brokers serving commercial employers\n Proven track record of meeting or exceeding sales goals, such as meetings set, qualified opportunities generated, or pipeline created\n Existing relationships within benefits consulting or brokerage firms, and the ability to quickly build new ones across offices, practices, and account teams\n Working knowledge of the commercial employer benefits market, including self-funded employers, consultant-led evaluations, and how employers buy\n Strong prospecting, discovery, and objection-handling skills, with the ability to secure clear next steps and advance opportunities\n Ability to communicate Omada’s clinical and economic value with credibility to consultants and employer audiences\n Excellent presentation, written, and verbal communication skills\n Self-starter who can manage a territory or contact portfolio, prioritize eff"
- },
- {
-  "id": "greenhouse:omadahealth:8397946",
-  "company": "Omada Health",
-  "title": "Consultant Relations, PBM/Pharmacy Business Development Rep (BDR)",
-  "location": "Remote, USA | Remote",
-  "url": "https://job-boards.greenhouse.io/omadahealth/jobs/8397946",
-  "posted": "2026-11-24T22:49:21+00:00",
-  "comp": "$190,640 - $211,970",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "healthtech",
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-25T20:29:28.190999+00:00",
-  "years": 5,
-  "excerpt": "Omada Health is on a mission to bend the curve of chronic disease.\n Job overview:\n As a member of Omada’s Consultant Relations Commercial Channel Growth team and Omada’s GLP-1 Business Unit, the Consultant Relations Business Development Representative, PBM & Pharmacy (CR BDR – PBM) is a quota-carrying, consultant-facing sales support role focused on expanding Omada’s footprint with pharmacy benefi\n...\nAbout you: \n 5–7+ years of experience in PBM, pharmacy benefits consulting, employee-benefits sales, consultant relations, or healthcare/digital-health business development, with direct experience engaging PBM or pharmacy consultants serving commercial employers\n Working knowledge of the PBM market, including PBM organizational structures (sales, account management, clinical, and trade/formulary functions), pricing and contracting models, rebates, formulary management, and utilization management\n Understanding of how PBM consultants operate—including PBM marketplace RFPs and re-procurements, understanding of formulary and clinical program reviews, and pharmacy benefit strategy for self-funded employers\n Knowledge of the GLP-1 and prescribing landscape, including GLP-1 coverage and prior authorization decisions, cost and utilization trends, and the role of lifestyle and clinical support programs in managing GLP-1 spend and outcomes\n Existing relationships within PBM or pharmacy practices at benefits consulting or brokerage firms, and the ability to quickly build new ones across o"
- },
- {
-  "id": "ashby:ashby:dd3601fc-3a21-467b-aaff-43fceb65864b",
-  "company": "Ashby",
-  "title": "SMB Customer Success Manager - Americas",
-  "location": "Remote - US | Remote - Canada | United States",
-  "url": "https://jobs.ashbyhq.com/Ashby/dd3601fc-3a21-467b-aaff-43fceb65864b",
-  "posted": "2026-11-24T22:22:43.594000+00:00",
-  "comp": "$80K – $138K • Offers Equity • Multiple Ranges",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas",
-   "linkedin-follow"
-  ],
-  "connections": 1,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00",
-  "years": 2,
-  "excerpt": "Hello! I’m Jared 👋 I joined Ashby four years ago as the first member of the Startup Customer Success team. Since then, I have been a part of building out the onboarding and success functions across our entire startup segment. Today, we’re a team of fifteen spanning across the US, Canada, and EMEA. I am so excited to be hiring another SMB Customer Success Manager in the US or Canada 🎉.\nOur SMB Customer Success Team serves our early-stage customers programmatically. These customers are special to us because they aren’t just learning our software; they are learning how to build hiring excellence into the DNA of their growing organizations.\nOur SMB Customer Success Managers create high-quality onboarding materials, documentation, and e-webinars that enable our customers to get up and running independently. They also jump in to assist via email and customer calls when needed. This is a mid-level role, so we require at least 2 years of experience as a full-time SMB Customer Success Manager, Account Manager, or Program Manager. \nIn this role, you’ll take ownership of a book of customers for whom you’d be the main point of contact in our shared inbox and hop on customer calls per our SLAs. You’ll also take ownership of medium and large projects that are core to our team’s operations. Existing projects our team has taken on include:\n - Building an in-app onboarding experience using Amplitude\n - Creation of a live, foundational webinar series + recorded content\n - Building retention be"
- },
- {
-  "id": "ashby:braintrust:2fd567c7-e7b6-411e-a9e5-0dbbb70c7bb0",
-  "company": "Braintrust",
-  "title": "Forward Deployed Engineer",
-  "location": "San Francisco | United States",
-  "url": "https://jobs.ashbyhq.com/Braintrust/2fd567c7-e7b6-411e-a9e5-0dbbb70c7bb0",
-  "posted": "2026-11-24T22:06:22.377000+00:00",
-  "comp": "",
-  "location_tag": "relocation-NYC/SF",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-25T20:29:28.190999+00:00",
-  "years": 4,
-  "excerpt": "ABOUT THE COMPANY\nBraintrust is the agent observability platform. By actively applying intelligence to agent traces and automatically surfacing the most critical patterns, Braintrust gives teams the visibility to understand how agents behave in production and the tools to improve them.\nTeams at Notion, Stripe, Box, OpenAI, and Cloudflare use Braintrust to trace their agents, find the issues in their observability data, and run evals that tell them how to improve.\nABOUT THE ROLE\nWe are looking to hire a Forward Deployed Engineer on our Post sales team to ensure customers are successful with Braintrust. In this role, you'll work closely with technical stakeholders at companies ranging from small startups to massive enterprises. Our primary users are software engineers and PMs at world-class tech companies who are working to leverage GenAI for both internal and external use cases. As an FDE, you’ll understand how customers build, what they’re trying to achieve, and you’ll support them where they need help.\nWHAT YOU'LL DO\n - Become an extended part of our customer by owning technical engagements with their AI Eng teams post-sale.\n - Deliver product and technical presentations to customers (Engineers, PMs, and Domain Experts) to help them get the most out of Braintrust.\n - Pair-program with customer engineers to get them live quickly and give them a great onboarding experience (office hours).\n - Help evolve the product through insights from customers.\n - Partner with our sales tea"
- },
- {
-  "id": "greenhouse:databricks:8913000002",
-  "company": "Databricks",
-  "title": "Forward Deployed Program Lead",
-  "location": "New York City, New York; San Francisco, California | San Francisco, California",
-  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8913000002",
-  "posted": "2026-11-23T20:32:40+00:00",
-  "comp": "$162,900 — $223,950",
-  "location_tag": "relocation-NYC/SF",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-25T20:29:28.190999+00:00",
-  "years": 5,
-  "excerpt": "FEQ327R430\n Forward Deployed Program Lead \n About the team \n The Office of the Field CCO works with the Chief Marketing and Chief Revenue Officers of Databricks’ largest customers to redesign how their commercial organizations operate. We build a peer community of CMOs and CROs, partner with them on go-to-market transformation programs, and ensure those programs deliver measurable business results\n...\nQualifications \n Education: Bachelor's degree in a technical or related field, or equivalent professional experience.\n Experience: 5-7+ years in product development of highly technical products, product operations, GTM str"
+  "excerpt": "Why join us \n Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automatio\n...\nRequirements \n Experience: 2-4+ years in a SaaS customer facing role \n Domain Knowledge: Familiarity with embedded finance or third-party SaaS integrations you understand how these ecosystems fit together and where friction hides.\n Communication: A natural communicator who can translate technical complexity into clear, confident guidance for Brex customers, partners, and internal stakeholders.\n Execution: Highly organized and comfortable managing multiple concurrent projects in a fast-moving environment where no two implementations look the same.\n Mindset: Energized by ambiguity. You thrive when the product is evolving and the partnership landscape is expanding.\n Bonus points \n Experience in Financial, Expen"
  }
 ]
