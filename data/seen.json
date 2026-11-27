@@ -60,6 +60,14 @@
   "role": "Customer Success Manager",
   "source": "Feed"
  },
+ "ashby:attio:ecb92574-646c-4cf3-8156-f2899c540eca": {
+  "company": "Attio",
+  "first_seen": "2026-11-27T12:45:26.667878+00:00",
+  "outcome": "Worth a look (5, relocation SF - 3 days/wk office, no range)",
+  "role": "Sales Development Representative",
+  "source": "Feed",
+  "url": "https://jobs.ashbyhq.com/attio/ecb92574-646c-4cf3-8156-f2899c540eca"
+ },
  "ashby:baseten:fdbbf773-0857-4771-8b90-f3dfa1d8683f": {
   "alias": "ab:baseten:fdbbf773-0857-4771-8b90-f3dfa1d8683f",
   "company": "Baseten",
@@ -266,6 +274,14 @@
   "source": "Feed",
   "url": "https://jobs.ashbyhq.com/hellopatient/1bf9dae7-5c92-4d96-bde5-febf111af791"
  },
+ "ashby:hex:158fc2e0-f3f0-40f0-b120-ec3519646fd2": {
+  "company": "Hex",
+  "first_seen": "2026-11-27T12:45:26.667878+00:00",
+  "outcome": "Excluded (management role, 5 yrs)",
+  "role": "Sales Engineering Manager, Commercial",
+  "source": "Feed",
+  "url": "https://jobs.ashbyhq.com/hex/158fc2e0-f3f0-40f0-b120-ec3519646fd2"
+ },
  "ashby:hinge-health:e7852ace-0947-4708-b7c5-b5623a988a76": {
   "company": "Hinge Health",
   "first_seen": "2026-11-19T12:45:31.934596+00:00",
@@ -309,17 +325,17 @@
  "ashby:miter:089c4729-a8b3-4a69-98f3-ceecdf17d369": {
   "company": "Miter",
   "first_seen": "2026-11-25T12:45:36.352170+00:00",
-  "outcome": "Shown (fit 7, <24h, 1 connection)",
+  "outcome": "Closed",
   "role": "Sales Development Representative, Inbound",
-  "source": "feed",
+  "source": "Feed",
   "url": "https://jobs.ashbyhq.com/miter/089c4729-a8b3-4a69-98f3-ceecdf17d369"
  },
  "ashby:miter:444921ab-1a8a-4482-b92d-f59596882713": {
   "company": "Miter",
   "first_seen": "2026-11-25T12:45:36.352170+00:00",
-  "outcome": "Shown (fit 7, <24h, 1 connection)",
+  "outcome": "Closed",
   "role": "Sales Development Representative, Outbound",
-  "source": "feed",
+  "source": "Feed",
   "url": "https://jobs.ashbyhq.com/miter/444921ab-1a8a-4482-b92d-f59596882713"
  },
  "ashby:modal:44b57790-528e-4f97-8613-03564316be8a": {
@@ -1346,7 +1362,7 @@
  "builtin:12292217": {
   "company": "Megaport",
   "first_seen": "2026-11-18T12:44:59.265722+00:00",
-  "outcome": "Worth a look (5, no range)",
+  "outcome": "Expired (no action)",
   "role": "Senior Sales Development Representative",
   "source": "Built In"
  },
@@ -1368,7 +1384,7 @@
  "builtin:12299384": {
   "company": "Bask Health",
   "first_seen": "2026-11-18T12:44:59.265722+00:00",
-  "outcome": "Worth a look (5, no range)",
+  "outcome": "Expired (no action)",
   "role": "Junior Implementation Engineer",
   "source": "Built In"
  },
@@ -1389,7 +1405,7 @@
  "builtin:12306432": {
   "company": "Kojo",
   "first_seen": "2026-11-18T12:44:59.265722+00:00",
-  "outcome": "Shown (fit 6, <24h, 3+ yrs, Built In apply)",
+  "outcome": "Expired (no action)",
   "role": "Customer Success Manager, Mid Market",
   "source": "Built In"
  },
@@ -1621,6 +1637,22 @@
   "source": "Built In",
   "url": "https://www.builtincolorado.com/job/customer-success-manager-central/12439426"
  },
+ "builtin:12442011": {
+  "company": "Dockwa",
+  "first_seen": "2026-11-27T12:45:26.667878+00:00",
+  "outcome": "Worth a look (5, 4+ yrs, no pay listed, Built In apply)",
+  "role": "Implementation Specialist",
+  "source": "Built In",
+  "url": "https://www.builtincolorado.com/job/implementation-specialist/12442011"
+ },
+ "builtin:12448415": {
+  "company": "Mark43",
+  "first_seen": "2026-11-27T12:45:26.667878+00:00",
+  "outcome": "Shown (fit 6, 1-3 yrs, public safety SaaS, no pay listed, Built In apply)",
+  "role": "Sales Development Representative",
+  "source": "Built In",
+  "url": "https://www.builtincolorado.com/job/sales-development-representative/12448415"
+ },
  "builtin:12450037": {
   "company": "Libra Solutions",
   "first_seen": "2026-11-25T12:45:36.352170+00:00",
@@ -1645,6 +1677,14 @@
   "source": "Built In",
   "url": "https://www.builtincolorado.com/job/associate-client-success-manager-west-remote-travel/12458331"
  },
+ "builtin:12460013": {
+  "company": "ABC Legal Services",
+  "first_seen": "2026-11-27T12:45:26.667878+00:00",
+  "outcome": "Worth a look (5, 3-5 yrs, $70-80K, legal domain, Built In apply)",
+  "role": "Docketly - Customer Success Manager",
+  "source": "Built In",
+  "url": "https://www.builtincolorado.com/job/docketly-customer-success-manager/12460013"
+ },
  "builtin:12467112": {
   "company": "DAT Freight & Analytics",
   "first_seen": "2026-11-26T12:44:58.155417+00:00",
@@ -1652,6 +1692,14 @@
   "role": "Customer Success Manager-Broker",
   "source": "Built In",
   "url": "https://www.builtincolorado.com/job/customer-success-manager-broker/12467112"
+ },
+ "builtin:12472370": {
+  "company": "Cellebrite",
+  "first_seen": "2026-11-27T12:45:26.667878+00:00",
+  "outcome": "Low fit (4, 50-75% travel, forensics domain gap, no pay)",
+  "role": "Solutions Engineer",
+  "source": "Built In",
+  "url": "https://www.builtincolorado.com/job/solutions-engineer/12472370"
  },
  "builtin:12478117": {
   "company": "Mapbox",
@@ -1661,6 +1709,30 @@
   "source": "Built In",
   "url": "https://www.builtincolorado.com/job/sales-development-representative-us/12478117"
  },
+ "builtin:12478596": {
+  "company": "CAMP Systems International",
+  "first_seen": "2026-11-27T12:45:26.667878+00:00",
+  "outcome": "Low fit (4, 50%+ travel, 3+ yrs, 1600 emp size)",
+  "role": "Implementation & Training Account Manager",
+  "source": "Built In",
+  "url": "https://www.builtincolorado.com/job/implementation-training-account-manager/12478596"
+ },
+ "builtin:12484599": {
+  "company": "Replicant",
+  "first_seen": "2026-11-27T12:45:26.667878+00:00",
+  "outcome": "Shown (fit 6, sibling of 12485289)",
+  "role": "Sales Development Representative",
+  "source": "Built In",
+  "url": "https://www.builtincolorado.com/job/sales-development-representative/12484599"
+ },
+ "builtin:12485289": {
+  "company": "Replicant",
+  "first_seen": "2026-11-27T12:45:26.667878+00:00",
+  "outcome": "Shown (fit 6, 2+ yrs, no pay listed, Built In apply; sibling 12484599)",
+  "role": "Sales Development Representative",
+  "source": "Built In",
+  "url": "https://www.builtincolorado.com/job/sales-development-representative/12485289"
+ },
  "builtin:12485771": {
   "company": "Onit",
   "first_seen": "2026-11-26T12:44:58.155417+00:00",
@@ -1668,6 +1740,14 @@
   "role": "Customer Success Manager, Enterprise",
   "source": "Built In",
   "url": "https://www.builtincolorado.com/job/customer-success-manager-enterprise/12485771"
+ },
+ "builtin:12488181": {
+  "company": "Sharp Performance",
+  "first_seen": "2026-11-27T12:45:26.667878+00:00",
+  "outcome": "Excluded (hires only NC/SC/FL/GA/TN, 20-40% travel)",
+  "role": "Customer Success Manager",
+  "source": "Built In",
+  "url": "https://www.builtincolorado.com/job/customer-success-manager/12488181"
  },
  "builtin:12489132": {
   "company": "Alteryx",
@@ -1800,6 +1880,14 @@
   "role": "Accounting Partnerships Manager",
   "source": "Feed",
   "url": "https://www.brex.com/careers/8950781002?gh_jid=8950781002"
+ },
+ "greenhouse:brex:8962367002": {
+  "company": "Brex",
+  "first_seen": "2026-11-27T12:45:26.667878+00:00",
+  "outcome": "Shown (fit 7, relocation NYC/SF, size exception, $105-161K, sibling req of 8962370002)",
+  "role": "Embedded Implementation Consultant",
+  "source": "Feed",
+  "url": "https://www.brex.com/careers/8962367002?gh_jid=8962367002"
  },
  "greenhouse:brex:8962370002": {
   "company": "Brex",
@@ -3006,6 +3094,13 @@
   "source": "LinkedIn alert",
   "url": "https://jobs.lever.co/ethena/0920de25-ca22-4349-b543-45a3c830f113"
  },
+ "url:hinge-csm-midmarket-1126": {
+  "company": "Hinge Health",
+  "first_seen": "2026-11-27T12:45:26.667878+00:00",
+  "outcome": "Excluded (size exception needed, fit 6, large co)",
+  "role": "Client Success Manager - Mid Market",
+  "source": "LinkedIn"
+ },
  "url:jobs.ashbyhq.com/ramp/ab6902bd-544e-4107-bf3b-b2157ee84aee": {
   "company": "Ramp",
   "first_seen": "2026-11-15T12:00:00+00:00",
@@ -3049,6 +3144,13 @@
   "outcome": "Excluded (posted Aug 28, stale)",
   "role": "Sales Development Representative Quantum Computing",
   "source": "Indeed"
+ },
+ "url:svg-impl-smartconnect-1126": {
+  "company": "Spring Venture Group",
+  "first_seen": "2026-11-27T12:45:26.667878+00:00",
+  "outcome": "Excluded (no posting found, KC-based, date unclear)",
+  "role": "Implementation Manager, SmartConnect",
+  "source": "LinkedIn"
  },
  "wellfound:4824733": {
   "company": "FlexPoint",
