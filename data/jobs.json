@@ -198,24 +198,6 @@
   "first_seen": "2026-11-19T19:30:00.086965+00:00"
  },
  {
-  "id": "ashby:ramp:f34619af-0475-4987-83b9-eb926b4bb07a",
-  "company": "Ramp",
-  "title": "Customer Success Manager, Strategic",
-  "location": "New York, NY (HQ) | San Francisco, CA | Remote (US) | New York City, NY, USA",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/ramp/f34619af-0475-4987-83b9-eb926b4bb07a",
-  "posted": "2026-11-16T22:38:33.564000+00:00",
-  "comp": "$211K – $338K • Offers Equity • 70/30 split on salary and variable compensation",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "fintech",
-   "linkedin-follow"
-  ],
-  "connections": 6,
-  "first_seen": "2026-11-17T19:52:47.659938+00:00"
- },
- {
   "id": "greenhouse:brex:8950778002",
   "company": "Brex",
   "title": "Accounting Partnerships Manager",
@@ -234,13 +216,13 @@
   "first_seen": "2026-11-19T19:30:00.086965+00:00"
  },
  {
-  "id": "greenhouse:brex:8962367002",
+  "id": "greenhouse:brex:8962401002",
   "company": "Brex",
   "title": "Embedded Implementation Consultant",
-  "location": "Salt Lake City, Utah, United States | New York, NY | Salt Lake City, UT | San Francisco, CA | Seattle, WA | Vancouver | Vancouver, British Columbia, Canada | New York, NY | Salt Lake City, UT | San Francisco, CA | Seattle, WA | Vancouver | San Francisco, California, United States | New York, NY | Salt Lake City, UT | San Francisco, CA | Seattle, WA | Vancouver | New York, New York, United States | New York, NY | Salt Lake City, UT | San Francisco, CA | Seattle, WA | Vancouver | Seattle, Washington, United States | New York, NY | Salt Lake City, UT | San Francisco, CA | Seattle, WA | Vancouver",
+  "location": "Vancouver, British Columbia, Canada | New York, NY | Salt Lake City, UT | San Francisco, CA | Seattle, WA | Vancouver | Seattle, Washington, United States | New York, NY | Salt Lake City, UT | San Francisco, CA | Seattle, WA | Vancouver | New York, New York, United States | New York, NY | Salt Lake City, UT | San Francisco, CA | Seattle, WA | Vancouver | San Francisco, California, United States | New York, NY | Salt Lake City, UT | San Francisco, CA | Seattle, WA | Vancouver | Salt Lake City, Utah, United States | New York, NY | Salt Lake City, UT | San Francisco, CA | Seattle, WA | Vancouver",
   "remote": null,
-  "url": "https://www.brex.com/careers/8962367002?gh_jid=8962367002",
-  "posted": "2026-11-25T16:53:33+00:00",
+  "url": "https://www.brex.com/careers/8962401002?gh_jid=8962401002",
+  "posted": "2026-11-25T16:53:36+00:00",
   "comp": "$105,600 - $161,000",
   "ats": "greenhouse",
   "location_tag": "relocation-NYC/SF",
@@ -249,7 +231,7 @@
    "linkedin-follow"
   ],
   "connections": 0,
-  "first_seen": "2026-11-26T20:12:20.435719+00:00"
+  "first_seen": "2026-11-27T20:00:09.558272+00:00"
  },
  {
   "id": "greenhouse:mercury:6268832004",
@@ -304,23 +286,6 @@
   "first_seen": "2026-11-21T17:59:55.153216+00:00"
  },
  {
-  "id": "greenhouse:billcom:6255594004",
-  "company": "Bill.com",
-  "title": "Onboarding Account Manager",
-  "location": "United States",
-  "remote": null,
-  "url": "https://www.bill.com/job?6255594004&gh_jid=6255594004",
-  "posted": "2026-11-17T17:55:26+00:00",
-  "comp": "$93,300 — $112,000",
-  "ats": "greenhouse",
-  "location_tag": "US",
-  "company_tags": [
-   "fintech"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-17T19:52:47.659938+00:00"
- },
- {
   "id": "ashby:airwallex:4acbd6ee-d26e-4810-b2e2-851e7e1d87fe",
   "company": "Airwallex",
   "title": "Sales Development Representative, Mid Market",
@@ -336,23 +301,6 @@
   ],
   "connections": 0,
   "first_seen": "2026-11-17T19:52:47.659938+00:00"
- },
- {
-  "id": "ashby:airwallex:ef0f8894-1a69-480a-a080-8e25afabd23a",
-  "company": "Airwallex",
-  "title": "Implementation Manager - Embedded Finance",
-  "location": "US - San Francisco | San Francisco, California, United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/airwallex/ef0f8894-1a69-480a-a080-8e25afabd23a",
-  "posted": "2026-11-24T04:33:04.357000+00:00",
-  "comp": "$150K – $250K • Offers Equity • Offers Bonus",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "fintech"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-24T21:16:12.145976+00:00"
  },
  {
   "id": "ashby:secureframe:f7d8854b-f23b-42a7-9ac1-6d09bd885160",
@@ -423,23 +371,6 @@
   ],
   "connections": 0,
   "first_seen": "2026-11-19T19:30:00.086965+00:00"
- },
- {
-  "id": "ashby:attio:72c41b8f-7a33-4285-8204-fff00ca4b9c8",
-  "company": "Attio",
-  "title": "Customer Success Manager",
-  "location": "New York | United States",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/attio/72c41b8f-7a33-4285-8204-fff00ca4b9c8",
-  "posted": "2026-11-17T18:14:23.208000+00:00",
-  "comp": "$125K – $165K • Offers Equity",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-17T19:52:47.659938+00:00"
  },
  {
   "id": "ashby:attio:ecb92574-646c-4cf3-8156-f2899c540eca",
@@ -647,23 +578,6 @@
   "first_seen": "2026-11-19T19:30:00.086965+00:00"
  },
  {
-  "id": "ashby:notion:f5f95c45-7a2b-4abd-9875-f64dfbc89342",
-  "company": "Notion",
-  "title": "Enterprise Solutions Consultant (New York, NY)",
-  "location": "New York, New York | New York, New York, United States",
-  "remote": false,
-  "url": "https://jobs.ashbyhq.com/notion/f5f95c45-7a2b-4abd-9875-f64dfbc89342",
-  "posted": "2026-11-17T14:24:44.488000+00:00",
-  "comp": "$360,000 - $400,000",
-  "ats": "ashby",
-  "location_tag": "relocation-NYC/SF",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 1,
-  "first_seen": "2026-11-17T19:52:47.659938+00:00"
- },
- {
   "id": "greenhouse:twilio:8350195",
   "company": "Twilio",
   "title": "Technical Account Manager",
@@ -817,23 +731,6 @@
   "first_seen": "2026-11-18T19:25:15.990736+00:00"
  },
  {
-  "id": "ashby:elevenlabs:27e92957-374f-409a-b787-166b10e0f042",
-  "company": "ElevenLabs",
-  "title": "Hyperscaler & Systems Integrator Partner Manager (North America)",
-  "location": "Remote | New York | Washington, D.C.",
-  "remote": false,
-  "url": "https://jobs.ashbyhq.com/ElevenLabs/27e92957-374f-409a-b787-166b10e0f042",
-  "posted": "2026-11-17T23:03:35.976000+00:00",
-  "comp": "",
-  "ats": "ashby",
-  "location_tag": "remote-unclear",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-18T19:25:15.990736+00:00"
- },
- {
   "id": "ashby:elevenlabs:7758cdc5-b5c9-4a5c-8c80-11678f7cba9d",
   "company": "ElevenLabs",
   "title": "Deployment Strategist, Public Sector (Federal & SLED) - North America",
@@ -920,23 +817,6 @@
   ],
   "connections": 1,
   "first_seen": "2026-11-23T22:41:34.124912+00:00"
- },
- {
-  "id": "ashby:1password:63059a05-03d1-4a4f-908c-8daa721cce90",
-  "company": "1Password",
-  "title": "Senior Implementation Project Manager",
-  "location": "Remote (United States | Canada)",
-  "remote": true,
-  "url": "https://jobs.ashbyhq.com/1password/63059a05-03d1-4a4f-908c-8daa721cce90",
-  "posted": "2026-11-18T18:34:43.039000+00:00",
-  "comp": "$106,000",
-  "ats": "ashby",
-  "location_tag": "remote-US",
-  "company_tags": [
-   "saas"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-15T20:19:26.903438+00:00"
  },
  {
   "id": "greenhouse:omadahealth:8397950",
@@ -1114,23 +994,6 @@
   "first_seen": "2026-11-25T20:29:28.190999+00:00"
  },
  {
-  "id": "ashby:merge:fe48ba75-e5aa-43e4-91fe-560733d89c89",
-  "company": "Merge",
-  "title": "Solutions Engineer",
-  "location": "New York, NY; San Francisco, CA | New York City or San Francisco",
-  "remote": false,
-  "url": "https://jobs.ashbyhq.com/merge/fe48ba75-e5aa-43e4-91fe-560733d89c89",
-  "posted": "2026-11-17T14:57:48.175000+00:00",
-  "comp": "$155,000 - $210,000",
-  "ats": "ashby",
-  "location_tag": "relocation-NYC/SF",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-17T19:52:47.659938+00:00"
- },
- {
   "id": "ashby:braintrust:2fd567c7-e7b6-411e-a9e5-0dbbb70c7bb0",
   "company": "Braintrust",
   "title": "Forward Deployed Engineer",
@@ -1180,23 +1043,6 @@
   ],
   "connections": 0,
   "first_seen": "2026-11-25T20:29:28.190999+00:00"
- },
- {
-  "id": "greenhouse:databricks:8925851002",
-  "company": "Databricks",
-  "title": "Sr. Solutions Engineer",
-  "location": "United States | San Francisco, California",
-  "remote": null,
-  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8925851002",
-  "posted": "2026-11-17T15:23:15+00:00",
-  "comp": "$152,300 — $209,450",
-  "ats": "greenhouse",
-  "location_tag": "relocation-NYC/SF",
-  "company_tags": [
-   "linkedin-follow"
-  ],
-  "connections": 0,
-  "first_seen": "2026-11-17T19:52:47.659938+00:00"
  },
  {
   "id": "ashby:zip:d212845e-9668-4a01-a30d-0d24c5a4f2b2",
